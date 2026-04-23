@@ -1,0 +1,782 @@
+{
+  "date": "2026-04-16",
+  "generated_at": "2026-04-16 11:58:10",
+  "sources": [
+    "BBC 中文",
+    "半岛电视台",
+    "Odaily 星球日报",
+    "美国之音中文",
+    "纽约时报中文",
+    "法广中文"
+  ],
+  "articles": [
+    {
+      "title": "BBC記者從土耳其出發經陸路前往德黑蘭  脆弱停火協議下的伊朗現場采訪記",
+      "link": "https://www.bbc.com/zhongwen/articles/ce8lpe2le5vo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "BBC國際事務首席記者麗斯·杜塞特穿越伊朗西北部前往德黑蘭，一路觀察採訪戰爭帶來的影響和停戰談判的前景。",
+      "published_at": "2026-04-16 11:53",
+      "timestamp": 1776311580
+    },
+    {
+      "title": "随着巴基斯坦的调停,美国-伊朗会谈的突破希望不断增长。",
+      "link": "https://www.aljazeera.com/news/2026/4/16/hopes-grow-for-a-breakthrough-in-us-iran-talks-as-pakistan-mediates?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴基斯坦人士表示,",
+      "published_at": "2026-04-16 11:37",
+      "timestamp": 1776310620
+    },
+    {
+      "title": "记忆卡价格在四个月中翻倍——拉力会持续多久?.",
+      "link": "https://www.odaily.news/en/post/5210298",
+      "source": "Odaily 星球日报",
+      "summary": "你的相机正在和世界上最大的数据中心 竞争同样的硅瓦",
+      "published_at": "2026-04-16 11:29",
+      "timestamp": 1776310140
+    },
+    {
+      "title": "昔日盟友变“有毒关系”：意大利总理试图摆脱特朗普",
+      "link": "https://cn.nytimes.com/world/20260416/trump-meloni-italy-iran-pope/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "梅洛尼曾被视为能够弥合欧洲与特朗普之间分歧的领导人，但与美国总统的友好关系让她在政治上遭遇挫折。在特朗普抨击教宗后，梅洛尼抓住机会，试图摆脱这段“有毒关系”。 Haiyun Jiang for The…",
+      "published_at": "2026-04-16 11:26",
+      "timestamp": 1776309960
+    },
+    {
+      "title": "民主党与美国能源部长就伊朗战争和天然气价格发生冲突",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/democrats-clash-with-us-energy-secretary-over-iran-war-and-gas-prices?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "当一个民主党议员告诉美国能源部长时,",
+      "published_at": "2026-04-16 11:26",
+      "timestamp": 1776309960
+    },
+    {
+      "title": "中东战争催化电网转型：能源危机中世界愈发依赖中国",
+      "link": "https://cn.nytimes.com/business/20260414/china-energy-battery-grid/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "中国企业在现代电网几乎所有组件的制造领域均占据主导地位。伊朗战争暴露了依赖中东能源的风险，各国意识到，通往可再生能源的道路似乎难以绕开中国。 Gilles Sabrié for The New Yor…",
+      "published_at": "2026-04-16 11:16",
+      "timestamp": 1776309360
+    },
+    {
+      "title": "\"历史上最大的泡泡区\"中的美国股票?. 四个主要估价指标同时闪亮红色",
+      "link": "https://www.odaily.news/en/post/5210297",
+      "source": "Odaily 星球日报",
+      "summary": "市场处于一个十字路口,\"估值说不\"和\"收入说好\".",
+      "published_at": "2026-04-16 11:09",
+      "timestamp": 1776308940
+    },
+    {
+      "title": "美国胜利已成定局？特朗普的战争叙事与现实相悖",
+      "link": "https://cn.nytimes.com/usa/20260416/trump-iran-war/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "霍尔木兹海峡通航远未恢复正常，德黑兰证明自己能够重创全球贸易、推高油价。长期将威胁与虚张声势作为核心外交工具的特朗普仍在寻找迫使伊朗屈服的筹码。 Tierney L. Cross/The New Yo…",
+      "published_at": "2026-04-16 10:27",
+      "timestamp": 1776306420
+    },
+    {
+      "title": "巴基斯坦期待与伊朗核计划挂钩的“重大突破”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/pakistan-expecting-major-breakthrough-tied-to-irans-nuclear-programme?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一名消息人士告诉半岛电视台,",
+      "published_at": "2026-04-16 10:23",
+      "timestamp": 1776306180
+    },
+    {
+      "title": "美股创历史新高，投资者对和平预期乐观",
+      "link": "https://cn.nytimes.com/business/20260416/stocks-record-iran-war/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "标普500指数创下新的历史收盘纪录，涨幅已完全抹去伊朗战争期间的全部跌幅，目前比战争爆发前的水平高出约2%。这反映出投资者乐观认为，伊朗和平协议有望达成。 The New York Times",
+      "published_at": "2026-04-16 10:22",
+      "timestamp": 1776306120
+    },
+    {
+      "title": "大众互动集 QQ 简单Chain Testnet 活动即时直播; Giggles 等待列表应用程序 (4月 16日)",
+      "link": "https://www.odaily.news/en/post/5210295",
+      "source": "Odaily 星球日报",
+      "summary": "最新Arc点互动指南,由圆形创建者确认发行Token.",
+      "published_at": "2026-04-16 10:12",
+      "timestamp": 1776305520
+    },
+    {
+      "title": "Crypto AI协议全景:从Ethereum主战场开始,如何为AI代理构建一个新的操作系统?.",
+      "link": "https://www.odaily.news/en/post/5210292",
+      "source": "Odaily 星球日报",
+      "summary": "当AI代理需要身份,需要支付, 和需要核实, 块链正在成为他们的观察者...",
+      "published_at": "2026-04-16 10:00",
+      "timestamp": 1776304800
+    },
+    {
+      "title": "预测市场平台ForeGate 官方发布 世界杯特别页面",
+      "link": "https://www.odaily.news/en/post/5210279",
+      "source": "Odaily 星球日报",
+      "summary": "许多人观看游戏,但很少有人能够交易结果——这次,ForeGate砸碎了酒吧......",
+      "published_at": "2026-04-16 10:00",
+      "timestamp": 1776304800
+    },
+    {
+      "title": "以色列部队向被占领的纳布卢斯的记者发射眩晕手榴弹",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/israeli-forces-fire-stun-grenades-at-journalists-in-occupied-nablus?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "影片显示以色列部队向报道军队的记者发射眩晕手榴弹.",
+      "published_at": "2026-04-16 09:54",
+      "timestamp": 1776304440
+    },
+    {
+      "title": "将比亚迪列入“奴役劳动”名单的巴西官员遭解雇",
+      "link": "https://cn.nytimes.com/world/20260416/brazil-lula-workers-rights-labor-abuse/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "这名劳工监察负责人此前将比亚迪列入不良雇主名单，因为一项调查指该公司在巴西东北部的一处建筑工地存在侵犯人权的行为。解职事件令卢拉领导的左翼政府陷入尴尬境地。 Victor Moriyama for T…",
+      "published_at": "2026-04-16 09:30",
+      "timestamp": 1776303000
+    },
+    {
+      "title": "24H 热加密与关键新闻 QQ特朗普说伊朗问题 May Soon达成最终解决; WLFI Releases Token Unlock Project (4月16日)",
+      "link": "https://www.odaily.news/en/post/5210296",
+      "source": "Odaily 星球日报",
+      "summary": "Justin Sun批评WLFI Unlock建议:这是\"世界暴君\",而不是\"世界自由金融\".",
+      "published_at": "2026-04-16 09:30",
+      "timestamp": 1776303000
+    },
+    {
+      "title": "巴西在逃的前间谍头目在ICE拘留后在美国获释",
+      "link": "https://www.aljazeera.com/news/2026/4/16/brazils-fugitive-ex-spy-chief-freed-in-the-us-after-ice-detention?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Alexandre Ramagem因策划政变被定罪后逃离巴西,被ICE关押在.",
+      "published_at": "2026-04-16 09:18",
+      "timestamp": 1776302280
+    },
+    {
+      "title": "俄罗斯对乌克兰的攻击造成3人死亡,其中包括一名12岁儿童。",
+      "link": "https://www.aljazeera.com/news/2026/4/16/russian-attack-on-ukraines-kyiv-kills-12-year-old-child-wounds-10?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "基辅市长说袭击波迪尔斯基区和奥博隆斯基区,",
+      "published_at": "2026-04-16 09:06",
+      "timestamp": 1776301560
+    },
+    {
+      "title": "大批民众在20年后,",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/16/huge-crowds-greet-pope-leo-in-cameroon-20-years-after-outreach-trip?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "大批民众在喀麦隆迎接教皇利奥,",
+      "published_at": "2026-04-16 08:32",
+      "timestamp": 1776299520
+    },
+    {
+      "title": "少女如何定義自我的驚人現實",
+      "link": "https://www.bbc.com/zhongwen/articles/cz677evevzwo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "儘管女性主義已有所進展，為何女孩們仍似乎透過男孩們的視角來看待自己？",
+      "published_at": "2026-04-16 08:19",
+      "timestamp": 1776298740
+    },
+    {
+      "title": "中国多年来如何对伊朗进行军事援助",
+      "link": "https://cn.nytimes.com/china/20260416/china-iran-weapons-sales/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "中国对伊朗的武器销售在1980年代曾急剧增长，并帮助后者发展军事工业基础。但由于联合国武器禁运和美国制裁，中国从出售成品武器转为提供军民两用技术和材料。 Kevin Frayer/Getty Imag…",
+      "published_at": "2026-04-16 08:12",
+      "timestamp": 1776298320
+    },
+    {
+      "title": "伊朗战争现场:巴基斯坦推动新一轮美伊和平谈判",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/16/iran-war-live-pakistan-in-push-for-new-round-of-us-iran-peace-negotiations?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在以色列对黎巴嫩罪恶的攻击中,至少有2,167人丧生,7,000多人受伤. .",
+      "published_at": "2026-04-16 08:00",
+      "timestamp": 1776297600
+    },
+    {
+      "title": "萨尔瓦多公布法律,允许对年仅12岁的未成年人判处无期徒刑",
+      "link": "https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "新的判刑措施是纳伊布·布基勒总统 监督长达四年的状态",
+      "published_at": "2026-04-16 07:45",
+      "timestamp": 1776296700
+    },
+    {
+      "title": "秘鲁的选票计票在总统大选中落空,",
+      "link": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "这场动荡的选举引起了候选人的欺诈指控,",
+      "published_at": "2026-04-16 07:06",
+      "timestamp": 1776294360
+    },
+    {
+      "title": "以色列在黎巴嫩南部轰炸房屋",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列军队轰炸了黎巴嫩南部Bint Jbeil区的建筑物。",
+      "published_at": "2026-04-16 06:53",
+      "timestamp": 1776293580
+    },
+    {
+      "title": "特朗普政府计划在华盛顿兴建超过76米高的巨型凯旋门",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260415-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E8%AE%A1%E5%88%92%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%85%B4%E5%BB%BA%E8%B6%85%E8%BF%8776%E7%B1%B3%E9%AB%98%E7%9A%84%E5%B7%A8%E5%9E%8B%E5%87%AF%E6%97%8B%E9%97%A8",
+      "source": "法广中文",
+      "summary": "4月15日，白宫新闻秘书卡罗琳·莱维特表示，美国总统特朗普与内政部将提交建设“美国凯旋拱门”的规划方案，以纪念美国建国250周年。",
+      "published_at": "2026-04-16 06:02",
+      "timestamp": 1776290520
+    },
+    {
+      "title": "美国之音中文广播 (2026年4月16日)",
+      "link": "https://www.voachinese.com/a/8133594.html",
+      "source": "美国之音中文",
+      "summary": "今天的重点新闻内容包括：1)特朗普总统：中国同意不向伊朗提供武器 2)美财长贝森特警告中国银行，若与伊朗业务往来将被制裁 3)白宫称美伊第二轮直接会谈“很可能”仍在巴基斯坦举行 4)美军中央司令部：美…",
+      "published_at": "2026-04-16 06:00",
+      "timestamp": 1776290400
+    },
+    {
+      "title": "巴西警方对总统候选人弗拉维奥·博尔索纳罗展开调查",
+      "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "调查中心是博尔索纳罗是否通过将卢拉与毒品等犯罪联系起来来进行诽谤. .",
+      "published_at": "2026-04-16 05:45",
+      "timestamp": 1776289500
+    },
+    {
+      "title": "Bayern在四分之一决赛经典比赛中击败了皇家马德里出局",
+      "link": "https://www.aljazeera.com/sports/2026/4/15/bayern-edge-real-madrid-4-3-in-classic-to-reach-champions-league-semifinals?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "路易斯·迪亚兹和迈克尔·奥利塞在慕尼黑打进较晚的进球,让拜仁获得戏剧性的6-4总决胜...",
+      "published_at": "2026-04-16 05:31",
+      "timestamp": 1776288660
+    },
+    {
+      "title": "美国陪审团发现票师和Live Nation有反竞争垄断",
+      "link": "https://www.aljazeera.com/economy/2026/4/15/us-jury-finds-ticketmaster-and-live-nation-had-anticompetitive-monopoly?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "判决可能耗资\"Live Nation\"和\"票务长\"数亿美元.",
+      "published_at": "2026-04-16 05:28",
+      "timestamp": 1776288480
+    },
+    {
+      "title": "美驻联合国代表华尔兹：美国持续加强国际组织领导权，抗衡中国影响力",
+      "link": "https://www.voachinese.com/a/un-ambassador-waltz-on-strengthen-leadership-in-international-organizations-to-counter-chinese-influence20260415/8138130.html",
+      "source": "美国之音中文",
+      "summary": "美国常驻联合国官员在国会上表示，美国必须确保在关键国际组织与志同道合的盟友一起占据一席之地才能与中国抗衡。这位高级外交官还称，美国会持续推动这一拥有80年历史的机构回归其核心使命。",
+      "published_at": "2026-04-16 05:23",
+      "timestamp": 1776288180
+    },
+    {
+      "title": "白宫发言人：正与伊朗商讨第二轮谈判",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260415-%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA-%E6%AD%A3%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%95%86%E8%AE%A8%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B0%88%E5%88%A4",
+      "source": "法广中文",
+      "summary": "白宫周三宣布，正与伊朗商讨第二轮谈判，并对达成协议的可能性表示乐观。此前，德黑兰威胁要封锁红海航运，以回应美国对其港口的海上封锁。",
+      "published_at": "2026-04-16 05:15",
+      "timestamp": 1776287700
+    },
+    {
+      "title": "一中国男子涉嫌从肯尼亚走私2000只蚂蚁被判刑",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260415-%E4%B8%80%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%90%E6%B6%89%E5%AB%8C%E4%BB%8E%E8%82%AF%E5%B0%BC%E4%BA%9A%E8%B5%B0%E7%A7%812000%E5%8F%AA%E8%9A%82%E8%9A%81%E8%A2%AB%E5%88%A4%E5%88%91",
+      "source": "法广中文",
+      "summary": "一名中国公民周三被内罗毕一家法院判处支付罚金，拒支付的话将被判处12个月的监禁，他的罪名是试图从肯尼亚走私数千只蚂蚁。",
+      "published_at": "2026-04-16 05:11",
+      "timestamp": 1776287460
+    },
+    {
+      "title": "欧盟与以色列的联盟会很快改变吗?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/15/could-the-eus-alliance-with-israel-soon-change?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一个欧盟请愿书正在轨道上启动对欧盟-以色列协会协议的正式审查.",
+      "published_at": "2026-04-16 05:09",
+      "timestamp": 1776287340
+    },
+    {
+      "title": "“不走就赶他走”！特朗普向美联储主席施压",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260415-%E4%B8%8D%E8%B5%B0%E5%B0%B1%E8%B5%B6%E4%BB%96%E8%B5%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E6%96%BD%E5%8E%8B",
+      "source": "法广中文",
+      "summary": "据路透社报道，美国总统特朗普4月15日表示，如果现任美联储主席杰罗姆·鲍威尔（Jerome Powell）在新任美联储主席上任后不主动离开，他将不得不解雇鲍威尔。",
+      "published_at": "2026-04-16 05:07",
+      "timestamp": 1776287220
+    },
+    {
+      "title": "以色列任命驻索马里兰第一大使",
+      "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在以色列成为第一个承认领土的国家后几个月,",
+      "published_at": "2026-04-16 05:05",
+      "timestamp": 1776287100
+    },
+    {
+      "title": "土耳其南部14岁初中生开枪杀人     9人死亡",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260415-%E5%9C%9F%E8%80%B3%E5%85%B6%E5%8D%97%E9%83%A814%E5%B2%81%E5%88%9D%E4%B8%AD%E7%94%9F%E5%BC%80%E6%9E%AA%E6%9D%80%E4%BA%BA-9%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+      "source": "法广中文",
+      "summary": "土耳其东南部卡赫拉曼马拉什省一名14岁男孩周三在其学校开枪，造成9人死亡（8名学生和1名教师），另有13人受伤，其中6人伤势危重。",
+      "published_at": "2026-04-16 05:04",
+      "timestamp": 1776287040
+    },
+    {
+      "title": "美国传加速规划对古巴军事行动　五角大楼已作准备",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260415-%E7%BE%8E%E5%9B%BD%E4%BC%A0%E5%8A%A0%E9%80%9F%E8%A7%84%E5%88%92%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8-%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E5%B7%B2%E4%BD%9C%E5%87%86%E5%A4%87",
+      "source": "法广中文",
+      "summary": "美国政府内部传出正悄然加强对古巴的军事规划。美国媒体《今日美国报》（USA TODAY）据多名知情人士透露，在美国总统唐纳德·特朗普（Donald Trump）可能下令干预之际，五角大楼已开始为潜在行…",
+      "published_at": "2026-04-16 05:03",
+      "timestamp": 1776286980
+    },
+    {
+      "title": "美方确认MQ-4C“海神”侦察无人机坠毁",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260415-%E7%BE%8E%E6%96%B9%E7%A1%AE%E8%AE%A4mq-4c-%E6%B5%B7%E7%A5%9E-%E4%BE%A6%E5%AF%9F%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9D%A0%E6%AF%81",
+      "source": "法广中文",
+      "summary": "15日美国海军承认，此前4月9日在波斯湾上空挂出“7700”紧急代码以后，高度骤降1万米并失联的”MQ-4C“海神”大型战略侦察无人机确实坠毁了，到现在都未找到残骸。",
+      "published_at": "2026-04-16 05:01",
+      "timestamp": 1776286860
+    },
+    {
+      "title": "汉莎航空庆祝成立100周年      罢工搅局",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260415-%E6%B1%89%E8%8E%8E%E8%88%AA%E7%A9%BA%E5%BA%86%E7%A5%9D%E6%88%90%E7%AB%8B100%E5%91%A8%E5%B9%B4-%E7%BD%A2%E5%B7%A5%E6%90%85%E5%B1%80",
+      "source": "法广中文",
+      "summary": "德国汉莎航空公司周三在紧张的气氛中庆祝其百年华诞，罢工激增，中东战争的持续影响也令局势雪上加霜。此次庆祝活动正值社会动荡之际，与航空工会（UFO工会）发起的总罢工同时举行。",
+      "published_at": "2026-04-16 04:55",
+      "timestamp": 1776286500
+    },
+    {
+      "title": "等着习近平“大拥抱” 特朗普威胁撕毁英美贸易协议",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E7%AD%89%E7%9D%80%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%A4%A7%E6%8B%A5%E6%8A%B1-%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E6%92%95%E6%AF%81%E8%8B%B1%E7%BE%8E%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE",
+      "source": "法广中文",
+      "summary": "美国总统特朗普对普京习近平从不出恶言，还刚刚表示期待习近平给他一个大大的拥抱，但近日来，罗马教宗，意大利总理，英国首相，北约组织，接连成为特朗普攻击的对象。",
+      "published_at": "2026-04-16 04:54",
+      "timestamp": 1776286440
+    },
+    {
+      "title": "教宗良十四世抵访喀麦隆",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260415-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E6%8A%B5%E8%AE%BF%E5%96%80%E9%BA%A6%E9%9A%86",
+      "source": "法广中文",
+      "summary": "教宗良十四世周三抵达喀麦隆，展开为期三天的访问。他从阿尔及利亚抵达首都雅温得。喀麦隆总统强调，“世界需要教皇带来的和平信息”。",
+      "published_at": "2026-04-16 04:47",
+      "timestamp": 1776286020
+    },
+    {
+      "title": "IMF：阿根廷将获得约10亿美元的资金",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260415-imf-%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%B0%86%E8%8E%B7%E5%BE%97%E7%BA%A610%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%B5%84%E9%87%91",
+      "source": "法广中文",
+      "summary": "国际货币基金组织（IMF）周三宣布，已与阿根廷政府就其对阿根廷援助计划的第二次审查达成协议，为拨付10亿美元铺平了道路。这笔新的贷款——根据2025年4月宣布的200亿美元援助计划，这是计划中的第三笔…",
+      "published_at": "2026-04-16 04:45",
+      "timestamp": 1776285900
+    },
+    {
+      "title": "欧洲正加速制定一项“欧洲版北约”备案？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260415-%E6%AC%A7%E6%B4%B2%E6%AD%A3%E5%8A%A0%E9%80%9F%E5%88%B6%E5%AE%9A%E4%B8%80%E9%A1%B9-%E6%AC%A7%E6%B4%B2%E7%89%88%E5%8C%97%E7%BA%A6-%E5%A4%87%E6%A1%88",
+      "source": "法广中文",
+      "summary": "美国总统多次扬言可能退出北约的情势下，欧洲正加速制定一项“欧洲版北约”备案，以维持防御体系的运作。这项构想之所以成形，主要来自德国的态度转变。",
+      "published_at": "2026-04-16 04:43",
+      "timestamp": 1776285780
+    },
+    {
+      "title": "法去年发放1655份“紧缺职业”居留许可",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260415-%E6%B3%95%E5%8E%BB%E5%B9%B4%E5%8F%91%E6%94%BE1655%E4%BB%BD-%E7%B4%A7%E7%BC%BA%E8%81%8C%E4%B8%9A-%E5%B1%85%E7%95%99%E8%AE%B8%E5%8F%AF",
+      "source": "法广中文",
+      "summary": "根据法国内政部发布的数据，2025年共向招聘困难行业的外国人发放了1655份“紧缺职业”居留许可。",
+      "published_at": "2026-04-16 04:40",
+      "timestamp": 1776285600
+    },
+    {
+      "title": "美国的石油封锁 能把古巴的雪茄灭掉吗?",
+      "link": "https://www.aljazeera.com/news/longform/2026/4/15/could-the-us-oil-blockade-snuff-out-the-cuban-cigar?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "1月起,特朗普政府封锁外国石油到古巴. 这座岛会吗?",
+      "published_at": "2026-04-16 04:08",
+      "timestamp": 1776283680
+    },
+    {
+      "title": "匈牙利的Magyar敦促总统辞职,",
+      "link": "https://www.aljazeera.com/news/2026/4/15/hungarys-magyar-urges-president-to-quit-vows-to-overhaul-state-media?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "即将到来的彼得·马吉亚尔总理说,他的政府可能在5月中旬成立.",
+      "published_at": "2026-04-16 03:56",
+      "timestamp": 1776282960
+    },
+    {
+      "title": "随着苏丹战争进入第四年,古特雷斯敦促停止武器流通",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/guterres-urges-end-to-arms-flow-as-sudan-war-enters-fourth?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "联合国秘书长安东尼奥.",
+      "published_at": "2026-04-16 03:56",
+      "timestamp": 1776282960
+    },
+    {
+      "title": "美国参议院拒绝另一项限制特朗普对伊朗的战争权力决议",
+      "link": "https://www.aljazeera.com/news/2026/4/15/us-senate-rejects-another-war-powers-resolution-to-limit-trump-on-iran?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "第四次参议院战争权力投票——自特朗普威胁要摧毁伊朗文明以来的第一次投票——失败. .",
+      "published_at": "2026-04-16 03:53",
+      "timestamp": 1776282780
+    },
+    {
+      "title": "巴基斯坦驻德黑兰陆军总司令 正在努力重启美国谈判",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/pakistani-army-chief-in-tehran-amid-bid-to-restart-us-talks?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴基斯坦陆军首长抵达伊朗,",
+      "published_at": "2026-04-16 03:29",
+      "timestamp": 1776281340
+    },
+    {
+      "title": "巴基斯坦驻德黑兰军长推进下一轮美伊会谈.",
+      "link": "https://www.aljazeera.com/news/2026/4/15/pakistan-army-chief-in-tehran-to-advance-next-round-of-us-iran-talks?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴基斯坦调停者对伊朗的突破充满希望,",
+      "published_at": "2026-04-16 03:27",
+      "timestamp": 1776281220
+    },
+    {
+      "title": "教皇利奥访问喀麦隆,",
+      "link": "https://www.aljazeera.com/news/2026/4/15/pope-leo-visits-cameroon-with-message-of-peace-amid-attacks-from-trump?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国总统唐纳德·特朗普(Donald Trump)在教皇面前抨击和平呼吁,",
+      "published_at": "2026-04-16 02:57",
+      "timestamp": 1776279420
+    },
+    {
+      "title": "阿拉伯的Barghouti说,权利团体必须为巴勒斯坦囚犯做更多的工作。",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/arab-barghouti-says-rights-groups-must-do-more-for-palestinian-prisoners?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Marwan Barghouti {039}; 儿子正在挑战人权团体,",
+      "published_at": "2026-04-16 02:44",
+      "timestamp": 1776278640
+    },
+    {
+      "title": "特朗普支持的SAVE美国法案是什么,对美国投票有什么意义?.",
+      "link": "https://www.aljazeera.com/news/2026/4/15/what-is-trump-backed-save-america-act-and-what-could-it-mean-for-us-vote?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国参议院恢复辩论有争议的法案,要求更多的公民身份证明,特朗普称此为. .",
+      "published_at": "2026-04-16 02:29",
+      "timestamp": 1776277740
+    },
+    {
+      "title": "广交会: 伊朗局势扰动市场 中国企业面临冲击",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E5%B9%BF%E4%BA%A4%E4%BC%9A-%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E6%89%B0%E5%8A%A8%E5%B8%82%E5%9C%BA-%E4%B8%AD%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%9D%A2%E4%B8%B4%E5%86%B2%E5%87%BB",
+      "source": "法广中文",
+      "summary": "中国规模最大的国际贸易展会 –– 广交会周三（4月15日）在广州开幕。在伊朗冲突持续、霍尔木兹海峡航运受阻以及美元走弱的背景下，中国外贸企业正面临更高的原材料、物流与汇率三重压力。",
+      "published_at": "2026-04-16 01:17",
+      "timestamp": 1776273420
+    },
+    {
+      "title": "好消息，你投的 WLFI 要解锁了；坏消息，得先等特朗普下班",
+      "link": "https://www.odaily.news/zh-CN/post/5210293",
+      "source": "Odaily 星球日报",
+      "summary": "这不叫提案，叫通知。",
+      "published_at": "2026-04-16 00:09",
+      "timestamp": 1776269340
+    },
+    {
+      "title": "好消息,你投资的WLFI即将解锁;坏消息,你得等到特朗普先下班.",
+      "link": "https://www.odaily.news/en/post/5210293",
+      "source": "Odaily 星球日报",
+      "summary": "这不是求婚 而是通知",
+      "published_at": "2026-04-16 00:09",
+      "timestamp": 1776269340
+    },
+    {
+      "title": "2026世界杯伊朗队参赛前景未定：坚持要求更改赛地，FIFA暂未回应",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%BB%8A%E6%97%A5%E4%BD%93%E8%82%B2/20260415-2026%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E5%8F%82%E8%B5%9B%E5%89%8D%E6%99%AF%E6%9C%AA%E5%AE%9A-%E5%9D%9A%E6%8C%81%E8%A6%81%E6%B1%82%E6%9B%B4%E6%94%B9%E8%B5%9B%E5%9C%B0%EF%BC%8Cfifa%E6%9A%82%E6%9C%AA%E5%9B%9E%E5%BA%94",
+      "source": "法广中文",
+      "summary": "距离2026年6月11日至7月19日举行的男足世界杯越来越近，伊朗国家队的参赛与比赛举办地问题持续引发关注。",
+      "published_at": "2026-04-15 23:29",
+      "timestamp": 1776266940
+    },
+    {
+      "title": "路透社获取的卫星图像显示：中国正通过部署船只和屏障的方式，加强对南海争议岛礁的控制",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260415-%E8%B7%AF%E9%80%8F%E7%A4%BE%E8%8E%B7%E5%8F%96%E7%9A%84%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F%E6%98%BE%E7%A4%BA-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E9%80%9A%E8%BF%87%E9%83%A8%E7%BD%B2%E8%88%B9%E5%8F%AA%E5%92%8C%E5%B1%8F%E9%9A%9C%E7%9A%84%E6%96%B9%E5%BC%8F%EF%BC%8C%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%8D%97%E6%B5%B7%E4%BA%89%E8%AE%AE%E5%B2%9B%E7%A4%81%E7%9A%84%E6%8E%A7%E5%88%B6",
+      "source": "法广中文",
+      "summary": "路透社周三（4月15日）消息称，从获取的卫星图像显示，中国已在南海争议水域的斯卡伯勒浅滩入口部署船只并设置屏障，以加强对该区域的控制。",
+      "published_at": "2026-04-15 22:51",
+      "timestamp": 1776264660
+    },
+    {
+      "title": "IMF：油價與戰爭或拖累全球經濟增長",
+      "link": "https://www.bbc.com/zhongwen/articles/c80mm4np5mno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "國際貨幣基金組織（IMF）警告，戰爭與能源價格飆升可能壓低全球經濟增長，BBC記者米歇爾·弗羅麗（Michelle Fleury）解說為何油價、通脹與利率是關鍵風險。",
+      "published_at": "2026-04-15 22:10",
+      "timestamp": 1776262200
+    },
+    {
+      "title": "中东海湾战争引发全球煤炭消费复苏",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260415-%E4%B8%AD%E4%B8%9C%E6%B5%B7%E6%B9%BE%E6%88%98%E4%BA%89%E5%BC%95%E5%8F%91%E5%85%A8%E7%90%83%E7%85%A4%E7%82%AD%E6%B6%88%E8%B4%B9%E5%A4%8D%E8%8B%8F",
+      "source": "法广中文",
+      "summary": "随着中东海湾战争持续，导致全球原油和天然气等能源价格飙升，让德国、意大利、日本、印度、中国等重启老旧燃煤电厂，同时开始兴建新的煤炭发电厂，转向这种高环境污染能源的国家名单还在不断增加，引发环保人士的担…",
+      "published_at": "2026-04-15 21:47",
+      "timestamp": 1776260820
+    },
+    {
+      "title": "美国封锁霍尔木兹海峡 伊朗威胁关闭红海",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E7%BE%8E%E5%9B%BD%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1-%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81%E5%85%B3%E9%97%AD%E7%BA%A2%E6%B5%B7",
+      "source": "法广中文",
+      "summary": "伊朗今天周三威胁称如果美国继续封锁霍尔木兹海峡的伊朗港口，伊朗将封锁红海海上交通，并警告说自4月8日生效的停火协议岌岌可危。",
+      "published_at": "2026-04-15 21:42",
+      "timestamp": 1776260520
+    },
+    {
+      "title": "特朗普称中国已同意不向伊朗输送武器，还表示到访中国时“习近平主席会给我一个大大的拥抱”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%90%8C%E6%84%8F%E4%B8%8D%E5%90%91%E4%BC%8A%E6%9C%97%E8%BE%93%E9%80%81%E6%AD%A6%E5%99%A8%EF%BC%8C%E5%B9%B6%E5%86%8D%E6%AC%A1%E9%87%8D%E7%94%B3%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%85%B3%E7%B3%BB%E5%BE%88%E5%A5%BD",
+      "source": "法广中文",
+      "summary": "美国总统特朗普周三（4月15日）表示，中国已同意不向伊朗提供武器，并称他已从中国国家主席习近平那里获得了保证。",
+      "published_at": "2026-04-15 21:24",
+      "timestamp": 1776259440
+    },
+    {
+      "title": "日本承诺向东南亚国家提供85亿欧元财政支持，以稳定亚洲能源供应链",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E6%97%A5%E6%9C%AC%E6%89%BF%E8%AF%BA%E5%90%91%E4%B8%9C%E5%8D%97%E4%BA%9A%E6%8F%90%E4%BE%9B85%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B4%A2%E6%94%BF%E6%94%AF%E6%8C%81%EF%BC%8C%E4%BB%A5%E7%A8%B3%E5%AE%9A%E4%BA%9A%E6%B4%B2%E8%83%BD%E6%BA%90%E4%BE%9B%E5%BA%94%E9%93%BE",
+      "source": "法广中文",
+      "summary": "由于中东战争威胁到日本关键医疗设备及石油衍生产品的供应，日本周三（4月15日）承诺向东南亚国家提供相当于85亿欧元的财政支持。在这项名为“Power Asia”的倡议中，日本计划向东南亚国家提供1.6…",
+      "published_at": "2026-04-15 21:10",
+      "timestamp": 1776258600
+    },
+    {
+      "title": "中东战乱 中国密集外交   俄罗斯能弥补资源缺口？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260415-%E4%B8%AD%E4%B8%9C%E6%88%98%E4%B9%B1-%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E5%A4%96%E4%BA%A4",
+      "source": "法广中文",
+      "summary": "在中东战争前景不明和全球紧张的地缘战略局势下，目前北京的外交活动显得异常活跃，周二与西班牙首相桑切斯和阿联酋阿布扎比王储哈立德会谈后，中国国家主席习近平周三（4月15号）会见了越南主席苏林和俄罗斯外交…",
+      "published_at": "2026-04-15 21:08",
+      "timestamp": 1776258480
+    },
+    {
+      "title": "Singularity of Madel, 公牛市场的起点: 短卖权 缺少的一块块是 Ignite 下一个 Altcoin 公牛跑",
+      "link": "https://www.odaily.news/en/post/5210289",
+      "source": "Odaily 星球日报",
+      "summary": "短出售权的民主化是下一个阿尔特币公牛市场的机会.",
+      "published_at": "2026-04-15 21:00",
+      "timestamp": 1776258000
+    },
+    {
+      "title": "预测市场热潮来袭，加密型与法币型综合对比",
+      "link": "https://www.odaily.news/en/post/5210291",
+      "source": "Odaily 星球日报",
+      "summary": "2026年预测市场平台包括MEXC、Polymarket、Kalshi和PredictIt，选择取决于地区、策略及效率或合规需求。",
+      "published_at": "2026-04-15 20:45",
+      "timestamp": 1776257100
+    },
+    {
+      "title": "设计、开发、法务、体育…… Polymarket 开启“全栈式”抢人",
+      "link": "https://www.odaily.news/en/post/5210283",
+      "source": "Odaily 星球日报",
+      "summary": "预测市场的人才军备竞赛进入地狱模式。",
+      "published_at": "2026-04-15 20:31",
+      "timestamp": 1776256260
+    },
+    {
+      "title": "AI Trading in Practice:480x in 8 Days, 15QQ地缘政治危机仲裁 — — 普通人怎么能重复?",
+      "link": "https://www.odaily.news/en/post/5210288",
+      "source": "Odaily 星球日报",
+      "summary": "四大金融市场AI应用的硬核评论.",
+      "published_at": "2026-04-15 20:30",
+      "timestamp": 1776256200
+    },
+    {
+      "title": "台湾首位中配立法委员70天国会生涯 中配在台从政涉及国安与参政权的拉扯",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260415-%E5%8F%B0%E6%B9%BE%E9%A6%96%E4%BD%8D%E4%B8%AD%E9%85%8D%E7%AB%8B%E6%B3%95%E5%A7%94%E5%91%9870%E5%A4%A9%E5%9B%BD%E4%BC%9A%E7%94%9F%E6%B6%AF-%E4%B8%AD%E9%85%8D%E5%9C%A8%E5%8F%B0%E4%BB%8E%E6%94%BF%E6%B6%89%E5%8F%8A%E5%9B%BD%E5%AE%89%E4%B8%8E%E5%8F%82%E6%94%BF%E6%9D%83%E7%9A%84%E6%8B%89%E6%89%AF",
+      "source": "法广中文",
+      "summary": "李贞秀作为首位中配立委的国会路却不顺遂，接连陷入双国籍争议与失言风波。这也引起中配参政权与国籍法争议再度浮上台面。然而，中配参政问题复杂，除了涉及国安问题外，法律上也遇到无可解的难题。究竟中配能如何在…",
+      "published_at": "2026-04-15 20:25",
+      "timestamp": 1776255900
+    },
+    {
+      "title": "NVIDIA 开始销售制鞋方法",
+      "link": "https://www.odaily.news/en/post/5210286",
+      "source": "Odaily 星球日报",
+      "summary": "你想打败的人现在要租下你打败他们所需的工具 房租是付的...",
+      "published_at": "2026-04-15 20:00",
+      "timestamp": 1776254400
+    },
+    {
+      "title": "斯大林昔问：教宗，座下有多少个师？费加罗报今问： 特朗普，麾下有多少个师？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260415-%E6%96%AF%E5%A4%A7%E6%9E%97%E6%9B%BE%E9%97%AE-%E6%95%99%E5%AE%97%EF%BC%8C%E5%BA%A7%E4%B8%8B%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%B8%88-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5%E4%BB%8A%E9%97%AE-%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%8C%E9%BA%BE%E4%B8%8B%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AA%E5%B8%88",
+      "source": "法广中文",
+      "summary": "大家好，欢迎收听法国报纸摘要，今天是4月15日星期三，法国各主要日报头版重点各有不同。在中东战争未歇之际，《解放报》关注苏丹打了三年的内战，迄今仍在交火，导致上万人死亡以及逾1300万人流离失所，目前…",
+      "published_at": "2026-04-15 19:35",
+      "timestamp": 1776252900
+    },
+    {
+      "title": "从Coinbase到OpenAI:当游说专家开始逃跑时",
+      "link": "https://www.odaily.news/en/post/5210287",
+      "source": "Odaily 星球日报",
+      "summary": "为了判断一个行业是处于顶峰还是处于基础,有一件事就足够了:是最聪明的么......",
+      "published_at": "2026-04-15 19:30",
+      "timestamp": 1776252600
+    },
+    {
+      "title": "电动卡车：一家中国start-up筹划在法国落地",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260415-%E7%94%B5%E5%8A%A8%E5%8D%A1%E8%BD%A6-%E4%B8%80%E5%AE%B6%E4%B8%AD%E5%9B%BDstart-up%E7%AD%B9%E5%88%92%E5%9C%A8%E6%B3%95%E5%9B%BD%E8%90%BD%E5%9C%B0",
+      "source": "法广中文",
+      "summary": "周三15日《回声报》报道指，中国风玫瑰科技（Windrose Technology）正在推进其在法国瓦朗谢讷（Les Valenciennes）附近建设电动卡车工厂的项目。该公司希望撼动行业巨头。这一…",
+      "published_at": "2026-04-15 19:03",
+      "timestamp": 1776250980
+    },
+    {
+      "title": "两天2.7亿美元流入:战略的STRC自动取款机机制侵略性累积比特币",
+      "link": "https://www.odaily.news/en/post/5210285",
+      "source": "Odaily 星球日报",
+      "summary": "战略的STRC首选股票 日交易量超过10亿美元",
+      "published_at": "2026-04-15 19:00",
+      "timestamp": 1776250800
+    },
+    {
+      "title": "拳王、金融大佬、反目的孙宇晨：十天后谁将现身特朗普的加密盛宴？",
+      "link": "https://www.odaily.news/en/post/5210284",
+      "source": "Odaily 星球日报",
+      "summary": "一场汇聚美国总统、拳王、金融大咖与币圈大户的加密盛宴。",
+      "published_at": "2026-04-15 18:40",
+      "timestamp": 1776249600
+    },
+    {
+      "title": "工作将死， NEET 新生：一枚 meme 币的文化起义",
+      "link": "https://www.odaily.news/en/post/5210282",
+      "source": "Odaily 星球日报",
+      "summary": "朝九晚五的人生，是一场骗局。",
+      "published_at": "2026-04-15 18:20",
+      "timestamp": 1776248400
+    },
+    {
+      "title": "莫斯科之后，印尼总统访法商讨加强防务合作",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260415-%E8%8E%AB%E6%96%AF%E7%A7%91%E4%B9%8B%E5%90%8E%EF%BC%8C%E5%8D%B0%E5%B0%BC%E6%80%BB%E7%BB%9F%E8%AE%BF%E6%B3%95%E5%95%86%E8%AE%A8%E5%8A%A0%E5%BC%BA%E9%98%B2%E5%8A%A1%E5%90%88%E4%BD%9C",
+      "source": "法广中文",
+      "summary": "雅加达周三（4月15号）表示，印度尼西亚总统普拉博沃·苏比安托与法国总统埃马纽埃尔·马克龙周二在巴黎就加强两国在国防领域的合作进行了讨论。",
+      "published_at": "2026-04-15 18:15",
+      "timestamp": 1776248100
+    },
+    {
+      "title": "中国重申：“坚定支持”古巴应对来自美国的压力和威胁",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E4%B8%AD%E5%9B%BD%E9%87%8D%E7%94%B3-%E5%9D%9A%E5%AE%9A%E6%94%AF%E6%8C%81-%E5%8F%A4%E5%B7%B4%E5%BA%94%E5%AF%B9%E6%9D%A5%E8%87%AA%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%8E%8B%E5%8A%9B%E5%92%8C%E5%A8%81%E8%83%81",
+      "source": "法广中文",
+      "summary": "中国周三（4月15日）重申，将“坚定支持”古巴应对来自美国持续的压力和威胁。",
+      "published_at": "2026-04-15 18:06",
+      "timestamp": 1776247560
+    },
+    {
+      "title": "致社区的一封信:MSX的旅程的第一腿,以及更远的前进之路",
+      "link": "https://www.odaily.news/en/post/5210276",
+      "source": "Odaily 星球日报",
+      "summary": "过去365天,我们取得了什么成就,我们学到了什么,为什么我们更加坦白......",
+      "published_at": "2026-04-15 18:00",
+      "timestamp": 1776247200
+    },
+    {
+      "title": "匈牙利候任总理马扎尔：将暂停曾作为政府“传声筒”的公共媒体新闻服务，并出台新的媒体法充分保障新闻自由",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260415-%E5%8C%88%E7%89%99%E5%88%A9%E5%80%99%E4%BB%BB%E6%80%BB%E7%90%86%E9%A9%AC%E6%89%8E%E5%B0%94-%E5%B0%86%E6%9A%82%E5%81%9C%E6%9B%BE%E4%BD%9C%E4%B8%BA%E6%94%BF%E5%BA%9C-%E4%BC%A0%E5%A3%B0%E7%AD%92-%E7%9A%84%E5%85%AC%E5%85%B1%E5%AA%92%E4%BD%93%E6%96%B0%E9%97%BB%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%B9%B6%E5%87%BA%E5%8F%B0%E6%96%B0%E7%9A%84%E5%AA%92%E4%BD%93%E6%B3%95%E5%85%85%E5%88%86%E4%BF%9D%E9%9A%9C%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1",
+      "source": "法广中文",
+      "summary": "近日，彼得·马扎尔在匈牙利选举中大获全胜，即将终结欧尔班长达16年的执政。这位候任总理周三（4月15日）表示，新政府将通过出台新的媒体法等措施，保障新闻自由。",
+      "published_at": "2026-04-15 17:57",
+      "timestamp": 1776247020
+    },
+    {
+      "title": "印钞之外， Tether 试图用钱包接管普通人的支付入口",
+      "link": "https://www.odaily.news/en/post/5210281",
+      "source": "Odaily 星球日报",
+      "summary": "Tether用一款钱包，加固它的影子美元版图。",
+      "published_at": "2026-04-15 17:48",
+      "timestamp": 1776246480
+    },
+    {
+      "title": "匈牙利政局更迭后，欧盟对俄乌政策僵局有望松动",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260415-%E5%8C%88%E7%89%99%E5%88%A9%E6%94%BF%E5%B1%80%E6%9B%B4%E8%BF%AD%E5%90%8E%EF%BC%8C%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E4%B9%8C%E6%94%BF%E7%AD%96%E5%83%B5%E5%B1%80%E6%9C%89%E6%9C%9B%E6%9D%BE%E5%8A%A8",
+      "source": "法广中文",
+      "summary": "匈牙利政局的最新变化正引发欧洲的高度关注。彼得·马扎尔在立法选举中大举获胜，可能打破此前长期存在的欧盟对乌援助和对俄政策方面的僵局。",
+      "published_at": "2026-04-15 17:37",
+      "timestamp": 1776245820
+    },
+    {
+      "title": "韩国：将从霍尔木兹海峡外的其它渠道获得2.7亿桶原油供应",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E9%9F%A9%E5%9B%BD-%E5%B0%86%E4%BB%8E%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%A4%96%E7%9A%84%E5%85%B6%E5%AE%83%E6%B8%A0%E9%81%93%E8%8E%B7%E5%BE%972-7%E4%BA%BF%E6%A1%B6%E5%8E%9F%E6%B2%B9%E4%BE%9B%E5%BA%94",
+      "source": "法广中文",
+      "summary": "韩国总统府幕僚长姜勋植周三（4月15日）表示，韩国已通过未受霍尔木兹海峡封锁影响的渠道，确保获得超过2.7亿桶原油供应。",
+      "published_at": "2026-04-15 17:30",
+      "timestamp": 1776245400
+    },
+    {
+      "title": "国际原子能机构警告：朝鲜核能力的增长\"令人担忧\"，并称发现朝鲜正在建设新的铀浓缩设施",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260415-%E5%9B%BD%E9%99%85%E5%8E%9F%E5%AD%90%E8%83%BD%E6%9C%BA%E6%9E%84%E8%AD%A6%E5%91%8A-%E6%9C%9D%E9%B2%9C%E6%A0%B8%E8%83%BD%E5%8A%9B%E7%9A%84%E5%A2%9E%E9%95%BF-%E4%BB%A4%E4%BA%BA%E6%8B%85%E5%BF%A7-%EF%BC%8C%E5%B9%B6%E7%A7%B0%E5%8F%91%E7%8E%B0%E6%9C%9D%E9%B2%9C%E6%AD%A3%E5%9C%A8%E5%BB%BA%E8%AE%BE%E6%96%B0%E7%9A%84%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD",
+      "source": "法广中文",
+      "summary": "国际原子能机构（AIEA）负责人周三警告称，朝鲜在生产核武器方面的能力出现了“非常令人担忧的增长”。",
+      "published_at": "2026-04-15 17:17",
+      "timestamp": 1776244620
+    },
+    {
+      "title": "普通人如何用 10 分钟识别一个 Token 背后有庄？",
+      "link": "https://www.odaily.news/en/post/5210278",
+      "source": "Odaily 星球日报",
+      "summary": "庄无处不在，别找「没庄的币」，关键是判断庄在哪个阶段。",
+      "published_at": "2026-04-15 16:45",
+      "timestamp": 1776242700
+    },
+    {
+      "title": "AI 时代的“ PayPal 黑帮”，从一起实习到身价亿万",
+      "link": "https://www.odaily.news/en/post/5210275",
+      "source": "Odaily 星球日报",
+      "summary": "懂了，人还是要学奥数啊。",
+      "published_at": "2026-04-15 16:24",
+      "timestamp": 1776241440
+    },
+    {
+      "title": "公牛市场回还是卖? 贸易商公牛和熊的观点摘要",
+      "link": "https://www.odaily.news/en/post/5210277",
+      "source": "Odaily 星球日报",
+      "summary": "停火扩大,谈判接近协议,石油价格退缩,收入超过预期......",
+      "published_at": "2026-04-15 16:12",
+      "timestamp": 1776240720
+    },
+    {
+      "title": "美國封鎖霍爾木茲首日：中國公司擁有的貨輪「富星號」穿越海峽後折返",
+      "link": "https://www.bbc.com/zhongwen/articles/cp8444l85yro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "美國正式封鎖所有進出伊朗港口的船隻。有貨船試圖突破封鎖，一度穿越霍爾木茲海峽，但最後被美軍攔截折返。",
+      "published_at": "2026-04-15 16:10",
+      "timestamp": 1776240600
+    },
+    {
+      "title": "香港歌手張敬軒任保安局導師並為過去言行道歉：為何引起公眾兩極反應",
+      "link": "https://www.bbc.com/zhongwen/articles/c9377jk1ly8o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "對於張敬軒擔任保安局導師並為過去言行「認錯」的舉動，引起網絡上廣泛的爭議及討論。",
+      "published_at": "2026-04-15 14:50",
+      "timestamp": 1776235800
+    },
+    {
+      "title": "18年后,X上的Cashtag终于\"可以\"了",
+      "link": "https://www.odaily.news/en/post/5210273",
+      "source": "Odaily 星球日报",
+      "summary": "一种被发明,盗用,后来变成存款网关的\"瓶子中的迷信\"产品.",
+      "published_at": "2026-04-15 14:42",
+      "timestamp": 1776235320
+    },
+    {
+      "title": "AI 基础设施在整个问题1中游历;谁能在问题2中保持\"高估值\"?.",
+      "link": "https://www.odaily.news/en/post/5210272",
+      "source": "Odaily 星球日报",
+      "summary": "在Q1中,市场解除了整个AI基础设施链. 在问题2中,它将开始仔细检查每个...",
+      "published_at": "2026-04-15 14:15",
+      "timestamp": 1776233700
+    },
+    {
+      "title": "巴黎男子花100歐元抽中價值逾百萬的畢卡索名畫",
+      "link": "https://www.bbc.com/zhongwen/articles/cy411w2p341o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "此次抽獎共售出超過12萬張票，每張售價100歐元，為阿茲海默症研究籌得約1100萬歐元。",
+      "published_at": "2026-04-15 13:40",
+      "timestamp": 1776231600
+    },
+    {
+      "title": "香港首個五年規劃：北京下達KPI還是「責無旁貸」的社會主義融合？",
+      "link": "https://www.bbc.com/zhongwen/articles/c6245evk06yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "香港首次編撰五年規劃，是否意味著要從市場經濟轉向計劃經濟？",
+      "published_at": "2026-04-15 12:40",
+      "timestamp": 1776228000
+    },
+    {
+      "title": "IMF警告中东战争将拖慢全球经济增长",
+      "link": "https://cn.nytimes.com/business/20260415/iran-war-imf-economic-growth/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "国际货币基金组织大幅下调了增长预期，预计今年全球经济增速降至3.1%；警告称石油市场遭受的破坏可能拖累经济增长、加剧通胀，并增加全球经济陷入衰退的风险。 Martin Bernetti/Agence …",
+      "published_at": "2026-04-15 12:36",
+      "timestamp": 1776227760
+    },
+    {
+      "title": "貝森特接受BBC採訪：為了免受伊朗長期安全威脅，「一點痛苦」是值得的",
+      "link": "https://www.bbc.com/zhongwen/articles/cd9vve7pjlvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "國際貨幣基金組織警告，美以與伊朗的戰爭可能使全球經濟陷入衰退。貝森特表示，這場衝突是為了消除伊朗對西方國家首都發動核打擊的威脅。",
+      "published_at": "2026-04-15 12:17",
+      "timestamp": 1776226620
+    }
+  ]
+}
