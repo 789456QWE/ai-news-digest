@@ -1,5 +1,5 @@
 // Cloudflare Worker: News Hub with auth + D1 + static asset data
-const BUILD = "v3-debug";
+const BUILD = "v4";
 // Routes:
 //   GET  /                 hub page (auth required) or redirect to /login
 //   GET  /login            login page
@@ -175,11 +175,11 @@ async function hashPassword(password, saltBytes) {
     "raw", new TextEncoder().encode(password), { name: "PBKDF2" }, false, ["deriveBits"]
   );
   const bits = await crypto.subtle.deriveBits(
-    { name: "PBKDF2", salt, iterations: 150000, hash: "SHA-256" }, km, 256
+    { name: "PBKDF2", salt, iterations: 25000, hash: "SHA-256" }, km, 256
   );
   const hashB64 = b64encode(new Uint8Array(bits));
   const saltB64 = b64encode(salt);
-  return `pbkdf2$150000$${saltB64}$${hashB64}`;
+  return `pbkdf2$25000$${saltB64}$${hashB64}`;
 }
 
 async function verifyPassword(password, stored) {
