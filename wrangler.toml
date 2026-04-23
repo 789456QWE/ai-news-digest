@@ -1,5 +1,13 @@
 name = "ai-news-digest"
+main = "worker/src/index.js"
 compatibility_date = "2025-01-01"
 
 [assets]
 directory = "./output"
+binding = "ASSETS"
+
+# D1 database — fill in database_id after running `wrangler d1 create ai-news-db`
+[[d1_databases]]
+binding = "DB"
+database_name = "ai-news-db"
+database_id = "73cd07b6-c02f-4eb1-a420-5115ea1908ef"

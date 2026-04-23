@@ -201,285 +201,28 @@ def render_json(articles: list[dict], successful_sources: set[str]) -> str:
     return json.dumps(data, ensure_ascii=False, indent=2)
 
 
-HTML_TEMPLATE = """<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 新闻日报</title>
-<style>
-  :root {
-    --bg: #0f1115;
-    --panel: #171a21;
-    --panel-2: #1f232c;
-    --border: #2a2f3a;
-    --text: #e6e8ec;
-    --text-2: #9aa3b2;
-    --accent: #6ea8fe;
-    --accent-2: #a78bfa;
-    --chip: #242833;
-    --chip-active: #2e5eaa;
-  }
-  @media (prefers-color-scheme: light) {
-    :root {
-      --bg: #f6f7f9;
-      --panel: #ffffff;
-      --panel-2: #f1f3f7;
-      --border: #e2e6ee;
-      --text: #1a1d24;
-      --text-2: #5a6474;
-      --accent: #2563eb;
-      --accent-2: #7c3aed;
-      --chip: #eef1f6;
-      --chip-active: #2563eb;
-    }
-  }
-  * { box-sizing: border-box; }
-  body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Helvetica Neue", Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    line-height: 1.6;
-  }
-  .container { max-width: 960px; margin: 0 auto; padding: 32px 20px 64px; }
-  header { margin-bottom: 28px; }
-  h1 {
-    margin: 0 0 8px;
-    font-size: 28px;
-    font-weight: 700;
-    letter-spacing: -0.5px;
-    background: linear-gradient(135deg, var(--accent), var(--accent-2));
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-  .meta { color: var(--text-2); font-size: 14px; }
-  .meta strong { color: var(--text); }
-  .controls {
-    display: flex; flex-wrap: wrap; gap: 12px;
-    margin: 20px 0 8px;
-    padding: 14px;
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-  }
-  .controls label { font-size: 13px; color: var(--text-2); display: flex; align-items: center; gap: 6px; }
-  .controls select, .controls input {
-    background: var(--panel-2);
-    color: var(--text);
-    border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 6px 10px;
-    font-size: 14px;
-    font-family: inherit;
-    outline: none;
-  }
-  .controls input:focus, .controls select:focus { border-color: var(--accent); }
-  .controls input { flex: 1; min-width: 160px; }
-  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 20px; }
-  .chip {
-    background: var(--chip);
-    color: var(--text-2);
-    border: 1px solid var(--border);
-    padding: 4px 12px;
-    border-radius: 999px;
-    cursor: pointer;
-    font-size: 13px;
-    transition: all .15s ease;
-    user-select: none;
-  }
-  .chip:hover { color: var(--text); }
-  .chip.active {
-    background: var(--chip-active);
-    border-color: var(--chip-active);
-    color: #fff;
-  }
-  .stats {
-    display: flex; gap: 18px; flex-wrap: wrap;
-    color: var(--text-2); font-size: 13px;
-    margin-bottom: 18px;
-  }
-  .stats b { color: var(--text); font-weight: 600; }
-  .article {
-    background: var(--panel);
-    border: 1px solid var(--border);
-    border-radius: 12px;
-    padding: 18px 20px;
-    margin-bottom: 12px;
-    transition: border-color .15s ease, transform .15s ease;
-  }
-  .article:hover { border-color: var(--accent); }
-  .article h2 {
-    margin: 0 0 8px;
-    font-size: 17px;
-    font-weight: 600;
-    line-height: 1.4;
-  }
-  .article h2 a { color: var(--text); text-decoration: none; }
-  .article h2 a:hover { color: var(--accent); }
-  .article-meta {
-    display: flex; flex-wrap: wrap; gap: 10px;
-    font-size: 12px; color: var(--text-2);
-    margin-bottom: 10px;
-  }
-  .source-tag {
-    background: var(--panel-2);
-    border: 1px solid var(--border);
-    padding: 2px 8px;
-    border-radius: 4px;
-    color: var(--accent);
-    font-weight: 500;
-  }
-  .summary { color: var(--text-2); font-size: 14px; margin: 0; }
-  .empty { text-align: center; padding: 60px 20px; color: var(--text-2); }
-  mark { background: rgba(110, 168, 254, 0.3); color: inherit; padding: 0 2px; border-radius: 2px; }
-</style>
-</head>
-<body>
-<div class="container">
-  <header>
-    <h1>AI 新闻日报</h1>
-    <div class="meta" id="meta"></div>
-  </header>
-
-  <div class="controls">
-    <label>日期
-      <select id="dateSel"></select>
-    </label>
-    <label>排序
-      <select id="sortSel">
-        <option value="time-desc">最新优先</option>
-        <option value="time-asc">最早优先</option>
-        <option value="source">按来源</option>
-      </select>
-    </label>
-    <input id="search" type="search" placeholder="搜索标题或摘要...">
-  </div>
-
-  <div class="chips" id="chips"></div>
-
-  <div class="stats" id="stats"></div>
-
-  <div id="list"></div>
-</div>
-
-<script id="data" type="application/json">__DATA_JSON__</script>
-<script>
-const ALL = JSON.parse(document.getElementById('data').textContent);
-const dates = Object.keys(ALL).sort().reverse();
-const dateSel = document.getElementById('dateSel');
-const sortSel = document.getElementById('sortSel');
-const search = document.getElementById('search');
-const chipsEl = document.getElementById('chips');
-const listEl = document.getElementById('list');
-const statsEl = document.getElementById('stats');
-const metaEl = document.getElementById('meta');
-
-let activeSources = new Set();
-
-dates.forEach(d => {
-  const opt = document.createElement('option');
-  opt.value = d; opt.textContent = d + ' (' + ALL[d].articles.length + ')';
-  dateSel.appendChild(opt);
-});
-
-function render() {
-  const day = ALL[dateSel.value];
-  if (!day) return;
-
-  metaEl.innerHTML = '生成于 <strong>' + day.generated_at + '</strong> · 来自 <strong>' + day.sources.length + '</strong> 个源';
-
-  // source chips
-  chipsEl.innerHTML = '';
-  const srcCounts = {};
-  day.articles.forEach(a => srcCounts[a.source] = (srcCounts[a.source] || 0) + 1);
-  const allChip = mkChip('全部 ' + day.articles.length, activeSources.size === 0);
-  allChip.onclick = () => { activeSources.clear(); render(); };
-  chipsEl.appendChild(allChip);
-  day.sources.forEach(s => {
-    const chip = mkChip(s + ' ' + (srcCounts[s] || 0), activeSources.has(s));
-    chip.onclick = () => {
-      if (activeSources.has(s)) activeSources.delete(s); else activeSources.add(s);
-      render();
-    };
-    chipsEl.appendChild(chip);
-  });
-
-  // filter + sort
-  const kw = search.value.trim().toLowerCase();
-  let items = day.articles.filter(a => {
-    if (activeSources.size && !activeSources.has(a.source)) return false;
-    if (kw && !(a.title.toLowerCase().includes(kw) || (a.summary || '').toLowerCase().includes(kw))) return false;
-    return true;
-  });
-  const sortMode = sortSel.value;
-  if (sortMode === 'time-desc') items.sort((a, b) => b.timestamp - a.timestamp);
-  else if (sortMode === 'time-asc') items.sort((a, b) => a.timestamp - b.timestamp);
-  else items.sort((a, b) => a.source.localeCompare(b.source) || b.timestamp - a.timestamp);
-
-  statsEl.innerHTML = '显示 <b>' + items.length + '</b> / ' + day.articles.length + ' 篇';
-
-  if (!items.length) {
-    listEl.innerHTML = '<div class="empty">没有匹配的文章</div>';
-    return;
-  }
-
-  listEl.innerHTML = items.map(a => `
-    <article class="article">
-      <h2><a href="${escapeHtml(a.link)}" target="_blank" rel="noopener">${highlight(a.title, kw)}</a></h2>
-      <div class="article-meta">
-        <span class="source-tag">${escapeHtml(a.source)}</span>
-        <span>${escapeHtml(a.published_at)}</span>
-      </div>
-      ${a.summary ? `<p class="summary">${highlight(a.summary, kw)}</p>` : ''}
-    </article>
-  `).join('');
-}
-
-function mkChip(text, active) {
-  const el = document.createElement('span');
-  el.className = 'chip' + (active ? ' active' : '');
-  el.textContent = text;
-  return el;
-}
-
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-
-function highlight(s, kw) {
-  const esc = escapeHtml(s);
-  if (!kw) return esc;
-  const re = new RegExp('(' + kw.replace(/[.*+?^${}()|[\\]\\\\]/g, '\\\\$&') + ')', 'gi');
-  return esc.replace(re, '<mark>$1</mark>');
-}
-
-dateSel.onchange = render;
-sortSel.onchange = render;
-search.oninput = render;
-render();
-</script>
-</body>
-</html>
-"""
-
-
 def render_index_html(output_dir: Path) -> None:
-    """Regenerate output/index.html from every *.json file in output_dir."""
-    data_by_date: dict[str, dict] = {}
+    """Regenerate output/manifest.json listing every available digest date.
+
+    The previous versions of this function built a single self-contained
+    index.html. The Worker now renders the UI server-side, so all we need is
+    a small manifest of (date, article_count) pairs for the date selector."""
+    manifest = {"dates": []}
     for p in sorted(output_dir.glob("*.json")):
+        if p.name == "manifest.json":
+            continue
         try:
-            data_by_date[p.stem] = json.loads(p.read_text(encoding="utf-8"))
+            data = json.loads(p.read_text(encoding="utf-8"))
+            manifest["dates"].append({
+                "date":  p.stem,
+                "count": len(data.get("articles", [])),
+            })
         except Exception as e:
             print(f"⚠ 跳过损坏的 JSON：{p.name} ({e})")
-    if not data_by_date:
-        return
-    payload = json.dumps(data_by_date, ensure_ascii=False)
-    # Guard against </script> injection inside the embedded JSON
-    payload = payload.replace("</", "<\\/")
-    html = HTML_TEMPLATE.replace("__DATA_JSON__", payload)
-    (output_dir / "index.html").write_text(html, encoding="utf-8")
+    manifest["dates"].sort(key=lambda x: x["date"], reverse=True)
+    (output_dir / "manifest.json").write_text(
+        json.dumps(manifest, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
 
 
 # ─── Main ────────────────────────────────────────────────────────────────────
@@ -520,12 +263,11 @@ def main() -> None:
     json_path.write_text(render_json(all_articles, successful_sources), encoding="utf-8")
 
     render_index_html(output_dir)
-    html_path = output_dir / "index.html"
 
     print(f"\n日报已生成：")
     print(f"  · Markdown：{out_path}")
     print(f"  · 数据：    {json_path}")
-    print(f"  · 网页：    {html_path}")
+    print(f"  · 索引：    {output_dir / 'manifest.json'}")
 
     auto_publish(output_dir.parent, date_str)
 

@@ -6,3 +6,11 @@ __pycache__/
 venv/
 node_modules/
 *.log
+
+# IDE
+.idea/
+
+# Leftover TypeScript experiment (project is now Python + Worker JS)
+package.json
+package-lock.json
+tsconfig.json
