@@ -1,4 +1,5 @@
 // Cloudflare Worker: News Hub with auth + D1 + static asset data
+const BUILD = "v3-debug";
 // Routes:
 //   GET  /                 hub page (auth required) or redirect to /login
 //   GET  /login            login page
@@ -311,7 +312,7 @@ function loginPage() {
   </style>
   <div class="auth-wrap">
     <div class="auth-card">
-      <div class="brand">TERMINAL v1.0<b>NEWS HUB</b></div>
+      <div class="brand">TERMINAL ${BUILD}<b>NEWS HUB</b></div>
       <h1>登录</h1>
       <div class="sub">访问每日新闻聚合终端</div>
       <div class="err" id="err"></div>
@@ -380,7 +381,7 @@ function registerPage() {
   </style>
   <div class="auth-wrap">
     <div class="auth-card">
-      <div class="brand">TERMINAL v1.0<b>NEWS HUB</b></div>
+      <div class="brand">TERMINAL ${BUILD}<b>NEWS HUB</b></div>
       <h1>注册</h1>
       <div class="sub">创建一个账号即可访问</div>
       <div class="err" id="err"></div>
@@ -391,16 +392,21 @@ function registerPage() {
         <label>密码</label>
         <input name="password" type="password" autocomplete="new-password" required minlength="6">
         <div class="hint">至少 6 位</div>
-        <button class="primary" type="submit">创建账号</button>
+        <button class="primary" type="submit" id="submitBtn">创建账号</button>
       </form>
       <div class="alt">已有账号？<a href="/login" class="amber">登录</a></div>
     </div>
   </div>
   <script>
-    document.getElementById('f').addEventListener('submit', async e => {
+    console.log('[news-hub] register page loaded, build=${BUILD}');
+    const form = document.getElementById('f');
+    const errEl = document.getElementById('err');
+    const btn = document.getElementById('submitBtn');
+    form.addEventListener('submit', async e => {
       e.preventDefault();
-      const errEl = document.getElementById('err');
+      console.log('[news-hub] submit fired');
       errEl.textContent = '';
+      btn.disabled = true; btn.textContent = '提交中...';
       const fd = new FormData(e.target);
       try {
         const res = await fetch('/api/register', {
@@ -408,12 +414,16 @@ function registerPage() {
           body: JSON.stringify(Object.fromEntries(fd))
         });
         const text = await res.text();
+        console.log('[news-hub] response', res.status, text);
         let data = null;
         try { data = JSON.parse(text); } catch {}
         if (res.ok) { location.href = '/'; return; }
-        errEl.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+text.slice(0,160));
+        errEl.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+(text||'empty body').slice(0,160));
       } catch (err) {
+        console.error('[news-hub] fetch error', err);
         errEl.textContent = '网络错误：' + err.message;
+      } finally {
+        btn.disabled = false; btn.textContent = '创建账号';
       }
     });
   </script>`);
