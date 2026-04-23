@@ -1,5 +1,5 @@
 // Cloudflare Worker: News Hub with auth + D1 + static asset data
-const BUILD = "v4";
+const BUILD = "v5";
 // Routes:
 //   GET  /                 hub page (auth required) or redirect to /login
 //   GET  /login            login page
@@ -26,6 +26,7 @@ export default {
       if (path === "/api/register" && request.method === "POST") return handleRegister(request, env);
       if (path === "/api/login"    && request.method === "POST") return handleLogin(request, env);
       if (path === "/api/logout"   && request.method === "POST") return handleLogout(request, env);
+      if (path === "/api/change-password" && request.method === "POST") return handleChangePassword(request, env);
       if (path === "/api/me")             return handleMe(request, env);
       if (path === "/api/dates")          return handleDates(request, env);
       if (path === "/api/news")           return handleNews(request, env, url);
@@ -97,6 +98,34 @@ async function handleMe(request, env) {
   const user = await currentUser(request, env);
   if (!user) return jsonErr(401, "未登录");
   return Response.json({ username: user.username });
+}
+
+async function handleChangePassword(request, env) {
+  const user = await currentUser(request, env);
+  if (!user) return jsonErr(401, "未登录");
+
+  const { current_password, new_password } = await readJson(request);
+  if (!current_password || !new_password) return jsonErr(400, "请填写当前密码和新密码");
+  if (new_password.length < 6) return jsonErr(400, "新密码至少 6 位");
+  if (current_password === new_password) return jsonErr(400, "新密码不能与当前密码相同");
+
+  const row = await env.DB.prepare("SELECT password_hash FROM users WHERE id = ?")
+    .bind(user.id).first();
+  if (!row) return jsonErr(404, "用户不存在");
+
+  const ok = await verifyPassword(current_password, row.password_hash);
+  if (!ok) return jsonErr(401, "当前密码不正确");
+
+  const newHash = await hashPassword(new_password);
+  await env.DB.prepare("UPDATE users SET password_hash = ? WHERE id = ?")
+    .bind(newHash, user.id).run();
+
+  // Revoke all other sessions for safety; keep the current one.
+  const currentToken = getSessionToken(request);
+  await env.DB.prepare("DELETE FROM sessions WHERE user_id = ? AND token != ?")
+    .bind(user.id, currentToken).run();
+
+  return Response.json({ ok: true });
 }
 
 async function handleDates(request, env) {
@@ -453,11 +482,42 @@ function hubPage(user) {
     .topbar .clock { font-family: var(--mono); color: var(--dim); font-size: 12px; letter-spacing: 1px; }
     .topbar .user { font-family: var(--mono); font-size: 12px; color: var(--dim); }
     .topbar .user b { color: var(--amber); }
-    .topbar button.logout {
+    .topbar button.bar-btn {
       background: transparent; color: var(--dim); border: 1px solid var(--line-2);
       padding: 5px 10px; font-family: var(--mono); font-size: 11px;
     }
+    .topbar button.bar-btn:hover { color: var(--amber); border-color: var(--amber); }
     .topbar button.logout:hover { color: var(--red); border-color: var(--red); }
+
+    /* Modal */
+    .modal-bg {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.7);
+      display: none; align-items: center; justify-content: center; z-index: 100;
+    }
+    .modal-bg.show { display: flex; }
+    .modal {
+      background: var(--bg-1); border: 1px solid var(--line); padding: 28px;
+      width: 360px; max-width: calc(100vw - 32px);
+    }
+    .modal h2 { margin: 0 0 4px; font-size: 18px; }
+    .modal .sub { color: var(--dim); font-size: 12px; margin-bottom: 18px; }
+    .modal label { display: block; color: var(--dim); font-size: 11px; font-family: var(--mono); letter-spacing: 1px; margin-bottom: 6px; text-transform: uppercase; }
+    .modal input {
+      width: 100%; background: var(--bg); color: var(--text);
+      border: 1px solid var(--line-2); padding: 9px 11px;
+      font-family: inherit; font-size: 14px; outline: none; margin-bottom: 14px;
+    }
+    .modal input:focus { border-color: var(--amber); }
+    .modal .actions { display: flex; gap: 8px; margin-top: 6px; }
+    .modal .actions button { flex: 1; padding: 10px; font-family: inherit; font-size: 13px; letter-spacing: 1px; border: none; font-weight: 700; }
+    .modal .actions .cancel { background: var(--bg-2); color: var(--dim); border: 1px solid var(--line-2); font-weight: 500; }
+    .modal .actions .cancel:hover { color: var(--text); }
+    .modal .actions .confirm { background: var(--amber); color: #000; }
+    .modal .actions .confirm:hover { background: var(--amber-2); }
+    .modal .actions .confirm:disabled { opacity: 0.5; cursor: not-allowed; }
+    .modal .msg { min-height: 18px; font-size: 12px; margin-bottom: 6px; }
+    .modal .msg.err { color: var(--red); }
+    .modal .msg.ok { color: var(--green); }
 
     .ticker {
       background: var(--bg-1); border-bottom: 1px solid var(--line);
@@ -531,7 +591,28 @@ function hubPage(user) {
     <div class="clock mono" id="clock"></div>
     <div class="sep"></div>
     <div class="user">USER <b id="user">${escapeHtml(user.username)}</b></div>
-    <button class="logout" id="logoutBtn">登出</button>
+    <button class="bar-btn" id="pwBtn">改密码</button>
+    <button class="bar-btn logout" id="logoutBtn">登出</button>
+  </div>
+
+  <div class="modal-bg" id="pwModal">
+    <div class="modal">
+      <h2>修改密码</h2>
+      <div class="sub">修改后，其他设备上的会话会被注销</div>
+      <div class="msg" id="pwMsg"></div>
+      <form id="pwForm">
+        <label>当前密码</label>
+        <input name="current_password" type="password" autocomplete="current-password" required>
+        <label>新密码</label>
+        <input name="new_password" type="password" autocomplete="new-password" minlength="6" required>
+        <label>确认新密码</label>
+        <input name="confirm_password" type="password" minlength="6" required>
+        <div class="actions">
+          <button type="button" class="cancel" id="pwCancel">取消</button>
+          <button type="submit" class="confirm" id="pwSubmit">保存</button>
+        </div>
+      </form>
+    </div>
   </div>
 
   <div class="ticker" id="ticker"></div>
@@ -572,6 +653,47 @@ function hubPage(user) {
       await fetch('/api/logout', { method: 'POST' });
       location.href = '/login';
     };
+
+    // Change-password modal
+    const pwModal = document.getElementById('pwModal');
+    const pwForm  = document.getElementById('pwForm');
+    const pwMsg   = document.getElementById('pwMsg');
+    const pwSubmit = document.getElementById('pwSubmit');
+    const openModal  = () => { pwMsg.textContent = ''; pwMsg.className = 'msg'; pwForm.reset(); pwModal.classList.add('show'); };
+    const closeModal = () => pwModal.classList.remove('show');
+    document.getElementById('pwBtn').onclick = openModal;
+    document.getElementById('pwCancel').onclick = closeModal;
+    pwModal.addEventListener('click', e => { if (e.target === pwModal) closeModal(); });
+    pwForm.addEventListener('submit', async e => {
+      e.preventDefault();
+      pwMsg.className = 'msg'; pwMsg.textContent = '';
+      const fd = new FormData(pwForm);
+      const obj = Object.fromEntries(fd);
+      if (obj.new_password !== obj.confirm_password) {
+        pwMsg.className = 'msg err'; pwMsg.textContent = '两次输入的新密码不一致';
+        return;
+      }
+      pwSubmit.disabled = true; pwSubmit.textContent = '保存中...';
+      try {
+        const res = await fetch('/api/change-password', {
+          method: 'POST', headers: { 'content-type': 'application/json' },
+          body: JSON.stringify({ current_password: obj.current_password, new_password: obj.new_password })
+        });
+        const text = await res.text();
+        let data = null; try { data = JSON.parse(text); } catch {}
+        if (res.ok) {
+          pwMsg.className = 'msg ok'; pwMsg.textContent = '✓ 密码已更新';
+          setTimeout(closeModal, 1200);
+        } else {
+          pwMsg.className = 'msg err';
+          pwMsg.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+text.slice(0,120));
+        }
+      } catch (err) {
+        pwMsg.className = 'msg err'; pwMsg.textContent = '网络错误：' + err.message;
+      } finally {
+        pwSubmit.disabled = false; pwSubmit.textContent = '保存';
+      }
+    });
 
     // Keyboard: "/" focuses search
     document.addEventListener('keydown', e => {
