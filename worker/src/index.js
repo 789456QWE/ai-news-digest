@@ -331,14 +331,22 @@ function loginPage() {
     clock(); setInterval(clock, 1000);
     document.getElementById('f').addEventListener('submit', async e => {
       e.preventDefault();
+      const errEl = document.getElementById('err');
+      errEl.textContent = '';
       const fd = new FormData(e.target);
-      const res = await fetch('/api/login', {
-        method: 'POST', headers: { 'content-type': 'application/json' },
-        body: JSON.stringify(Object.fromEntries(fd))
-      });
-      const data = await res.json();
-      if (res.ok) location.href = '/';
-      else document.getElementById('err').textContent = data.error || '登录失败';
+      try {
+        const res = await fetch('/api/login', {
+          method: 'POST', headers: { 'content-type': 'application/json' },
+          body: JSON.stringify(Object.fromEntries(fd))
+        });
+        const text = await res.text();
+        let data = null;
+        try { data = JSON.parse(text); } catch {}
+        if (res.ok) { location.href = '/'; return; }
+        errEl.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+text.slice(0,160));
+      } catch (err) {
+        errEl.textContent = '网络错误：' + err.message;
+      }
     });
   </script>`);
 }
@@ -391,14 +399,22 @@ function registerPage() {
   <script>
     document.getElementById('f').addEventListener('submit', async e => {
       e.preventDefault();
+      const errEl = document.getElementById('err');
+      errEl.textContent = '';
       const fd = new FormData(e.target);
-      const res = await fetch('/api/register', {
-        method: 'POST', headers: { 'content-type': 'application/json' },
-        body: JSON.stringify(Object.fromEntries(fd))
-      });
-      const data = await res.json();
-      if (res.ok) location.href = '/';
-      else document.getElementById('err').textContent = data.error || '注册失败';
+      try {
+        const res = await fetch('/api/register', {
+          method: 'POST', headers: { 'content-type': 'application/json' },
+          body: JSON.stringify(Object.fromEntries(fd))
+        });
+        const text = await res.text();
+        let data = null;
+        try { data = JSON.parse(text); } catch {}
+        if (res.ok) { location.href = '/'; return; }
+        errEl.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+text.slice(0,160));
+      } catch (err) {
+        errEl.textContent = '网络错误：' + err.message;
+      }
     });
   </script>`);
 }
