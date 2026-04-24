@@ -5,8 +5,8 @@ compatibility_date = "2025-01-01"
 # Custom domain — auto-bound on deploy. Requires fncymc.com to already
 # be a Cloudflare zone in this account.
 [[routes]]
-pattern = "ainews.fncymc.com"
-zone_name = "fncymc.com"
+pattern = "ainews.fntymc.com"
+zone_name = "fntymc.com"
 custom_domain = true
 
 [assets]
