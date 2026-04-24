@@ -6,6 +6,7 @@ compatibility_date = "2025-01-01"
 # be a Cloudflare zone in this account.
 [[routes]]
 pattern = "ainews.fncymc.com"
+zone_name = "fncymc.com"
 custom_domain = true
 
 [assets]
