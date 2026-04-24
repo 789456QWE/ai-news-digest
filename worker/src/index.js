@@ -735,6 +735,7 @@ function hubPage(user) {
         display: flex; align-items: center; justify-content: center;
         z-index: 100;
       }
+      .modal[hidden] { display: none; }
       .modal-card {
         background: var(--bg-1); border: 1px solid var(--line-2);
         padding: 24px; width: 360px; max-width: 90vw;
