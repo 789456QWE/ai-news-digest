@@ -5,8 +5,11 @@ import sys
 import time
 import warnings
 warnings.filterwarnings("ignore")
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.parse import urljoin
+from urllib.request import Request, urlopen
 
 import argostranslate.package
 import argostranslate.translate
@@ -99,6 +102,72 @@ def _extract_image(entry, raw_html: str) -> str:
         if m:
             return m.group(1)
     return ""
+
+
+# Matches <meta property="og:image" content="…"> (and twitter:image), tolerant to
+# attribute order and quoting. Only used as a network-fallback when the RSS entry
+# itself has no image.
+_OG_RE = re.compile(
+    r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::url)?|twitter:image)["\']'
+    r'[^>]*content=["\']([^"\']+)["\']',
+    re.IGNORECASE,
+)
+_OG_RE_REV = re.compile(
+    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*'
+    r'(?:property|name)=["\'](?:og:image(?::url)?|twitter:image)["\']',
+    re.IGNORECASE,
+)
+
+
+def fetch_og_image(page_url: str, timeout: float = FETCH_TIMEOUT) -> str:
+    """Download a page and return its og:image / twitter:image URL, or ''."""
+    try:
+        req = Request(page_url, headers={
+            "User-Agent": "Mozilla/5.0 (compatible; ai-news-digest/1.0)",
+            "Accept":     "text/html,application/xhtml+xml",
+        })
+        with urlopen(req, timeout=timeout) as resp:
+            # Only read the <head> portion — og tags are always near the top.
+            raw = resp.read(65536)
+        try:
+            html = raw.decode("utf-8", errors="ignore")
+        except Exception:
+            return ""
+        # Cut at </head> to avoid matching inline content further down
+        head_end = html.lower().find("</head>")
+        if head_end > 0:
+            html = html[:head_end]
+        m = _OG_RE.search(html) or _OG_RE_REV.search(html)
+        if not m:
+            return ""
+        return urljoin(page_url, m.group(1).strip())
+    except Exception:
+        return ""
+
+
+def backfill_images(articles: list[dict], max_workers: int = 10) -> None:
+    """For articles without an image, fetch the page and extract og:image.
+
+    Runs in parallel threads. Any failure just leaves the image empty.
+    """
+    targets = [a for a in articles if not a.get("image")]
+    if not targets:
+        return
+    print(f"\n正在为 {len(targets)} 篇无图文章抓取 og:image...")
+    done = 0
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        future_to_art = {pool.submit(fetch_og_image, a["link"]): a for a in targets}
+        for fut in as_completed(future_to_art):
+            a = future_to_art[fut]
+            try:
+                url = fut.result()
+            except Exception:
+                url = ""
+            if url:
+                a["image"] = url
+            done += 1
+    filled = sum(1 for a in targets if a.get("image"))
+    print(f"✓ og:image 补齐 {filled}/{len(targets)} 篇")
 
 
 def _clean_text(html: str) -> str:
@@ -276,6 +345,7 @@ def main() -> None:
         print("没有符合条件的文章，日报未生成。")
         return
 
+    backfill_images(all_articles)
     translate_english_articles(all_articles)
 
     output_dir = Path(__file__).parent.parent / "output"
