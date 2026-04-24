@@ -63,6 +63,7 @@ def fetch_feed(source: dict) -> list[dict]:
         )
         text = _clean_text(raw_desc)
         summary = text[:SUMMARY_MAX_LEN] + "…" if len(text) > SUMMARY_MAX_LEN else text
+        image = _extract_image(entry, raw_desc)
 
         articles.append({
             "title":        title,
@@ -70,9 +71,34 @@ def fetch_feed(source: dict) -> list[dict]:
             "published_at": published_at,
             "source":       source["name"],
             "summary":      summary,
+            "image":        image,
         })
 
     return articles
+
+
+def _extract_image(entry, raw_html: str) -> str:
+    """Pull a cover image URL from an RSS entry, trying common fields."""
+    # 1) media_thumbnail / media_content (MRSS)
+    for key in ("media_thumbnail", "media_content"):
+        items = entry.get(key) or []
+        if isinstance(items, list):
+            for it in items:
+                url = (it or {}).get("url")
+                if url:
+                    return url
+    # 2) enclosures
+    for enc in entry.get("enclosures", []) or []:
+        if (enc.get("type") or "").startswith("image/"):
+            href = enc.get("href") or enc.get("url")
+            if href:
+                return href
+    # 3) embedded <img> inside description/summary/content
+    if raw_html:
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', raw_html)
+        if m:
+            return m.group(1)
+    return ""
 
 
 def _clean_text(html: str) -> str:
@@ -192,6 +218,7 @@ def render_json(articles: list[dict], successful_sources: set[str]) -> str:
                 "link":         a["link"],
                 "source":       a["source"],
                 "summary":      a["summary"],
+                "image":        a.get("image", ""),
                 "published_at": a["published_at"].astimezone(CST).strftime("%Y-%m-%d %H:%M"),
                 "timestamp":    int(a["published_at"].timestamp()),
             }

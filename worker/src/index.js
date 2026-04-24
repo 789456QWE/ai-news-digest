@@ -1,5 +1,5 @@
 // Cloudflare Worker: News Hub with auth + D1 + static asset data
-const BUILD = "v5";
+const BUILD = "v6";
 // Routes:
 //   GET  /                 hub page (auth required) or redirect to /login
 //   GET  /login            login page
@@ -461,342 +461,506 @@ function registerPage() {
 // ─── Hub page ────────────────────────────────────────────────────────────────
 function hubPage(user) {
   return layout("NEWS HUB", `
-  <style>
-    .topbar {
-      display: flex; align-items: center; gap: 14px;
-      background: var(--bg-1); border-bottom: 1px solid var(--line);
-      padding: 10px 18px; position: sticky; top: 0; z-index: 10;
-    }
-    .topbar .logo {
-      font-family: var(--mono); letter-spacing: 2px; color: var(--amber);
-      font-weight: 700; font-size: 13px;
-    }
-    .topbar .logo b { color: var(--text); letter-spacing: 3px; }
-    .topbar .sep { width: 1px; height: 20px; background: var(--line-2); }
-    .topbar select, .topbar input {
-      background: var(--bg); color: var(--text); border: 1px solid var(--line-2);
-      padding: 6px 10px; font-family: var(--mono); font-size: 12px; outline: none;
-    }
-    .topbar select:focus, .topbar input:focus { border-color: var(--amber); }
-    .topbar .grow { flex: 1; }
-    .topbar .clock { font-family: var(--mono); color: var(--dim); font-size: 12px; letter-spacing: 1px; }
-    .topbar .user { font-family: var(--mono); font-size: 12px; color: var(--dim); }
-    .topbar .user b { color: var(--amber); }
-    .topbar button.bar-btn {
-      background: transparent; color: var(--dim); border: 1px solid var(--line-2);
-      padding: 5px 10px; font-family: var(--mono); font-size: 11px;
-    }
-    .topbar button.bar-btn:hover { color: var(--amber); border-color: var(--amber); }
-    .topbar button.logout:hover { color: var(--red); border-color: var(--red); }
-
-    /* Modal */
-    .modal-bg {
-      position: fixed; inset: 0; background: rgba(0,0,0,0.7);
-      display: none; align-items: center; justify-content: center; z-index: 100;
-    }
-    .modal-bg.show { display: flex; }
-    .modal {
-      background: var(--bg-1); border: 1px solid var(--line); padding: 28px;
-      width: 360px; max-width: calc(100vw - 32px);
-    }
-    .modal h2 { margin: 0 0 4px; font-size: 18px; }
-    .modal .sub { color: var(--dim); font-size: 12px; margin-bottom: 18px; }
-    .modal label { display: block; color: var(--dim); font-size: 11px; font-family: var(--mono); letter-spacing: 1px; margin-bottom: 6px; text-transform: uppercase; }
-    .modal input {
-      width: 100%; background: var(--bg); color: var(--text);
-      border: 1px solid var(--line-2); padding: 9px 11px;
-      font-family: inherit; font-size: 14px; outline: none; margin-bottom: 14px;
-    }
-    .modal input:focus { border-color: var(--amber); }
-    .modal .actions { display: flex; gap: 8px; margin-top: 6px; }
-    .modal .actions button { flex: 1; padding: 10px; font-family: inherit; font-size: 13px; letter-spacing: 1px; border: none; font-weight: 700; }
-    .modal .actions .cancel { background: var(--bg-2); color: var(--dim); border: 1px solid var(--line-2); font-weight: 500; }
-    .modal .actions .cancel:hover { color: var(--text); }
-    .modal .actions .confirm { background: var(--amber); color: #000; }
-    .modal .actions .confirm:hover { background: var(--amber-2); }
-    .modal .actions .confirm:disabled { opacity: 0.5; cursor: not-allowed; }
-    .modal .msg { min-height: 18px; font-size: 12px; margin-bottom: 6px; }
-    .modal .msg.err { color: var(--red); }
-    .modal .msg.ok { color: var(--green); }
-
-    .ticker {
-      background: var(--bg-1); border-bottom: 1px solid var(--line);
-      padding: 6px 18px; font-family: var(--mono); font-size: 11px;
-      color: var(--dim); display: flex; gap: 28px; overflow: hidden; white-space: nowrap;
-    }
-    .ticker b { color: var(--amber); }
-    .ticker .sep { color: var(--dim-2); }
-
-    .layout { display: grid; grid-template-columns: 220px 1fr; min-height: calc(100vh - 82px); }
-    @media (max-width: 720px) { .layout { grid-template-columns: 1fr; } .rail { display: none; } }
-
-    .rail {
-      border-right: 1px solid var(--line); padding: 18px 0; background: var(--bg-1);
-    }
-    .rail h3 {
-      font-family: var(--mono); font-size: 10px; color: var(--dim-2);
-      letter-spacing: 2px; margin: 0 18px 10px; text-transform: uppercase;
-    }
-    .rail .src {
-      display: flex; align-items: center; justify-content: space-between;
-      padding: 7px 18px; cursor: pointer; border-left: 2px solid transparent;
-      font-size: 13px; user-select: none;
-    }
-    .rail .src:hover { background: var(--bg-2); color: var(--amber); }
-    .rail .src.active { background: var(--bg-2); color: var(--amber); border-left-color: var(--amber); }
-    .rail .src .cnt { font-family: var(--mono); font-size: 11px; color: var(--dim); }
-    .rail .src.active .cnt { color: var(--amber); }
-    .rail .divider { height: 1px; background: var(--line); margin: 14px 0; }
-
-    .main { padding: 18px 24px 60px; }
-    .stats {
-      display: flex; gap: 24px; margin-bottom: 16px; font-family: var(--mono); font-size: 11px;
-      color: var(--dim); letter-spacing: 1px; text-transform: uppercase;
-    }
-    .stats b { color: var(--amber); font-size: 14px; font-weight: 700; }
-
-    .grid { display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); }
-    .card {
-      background: var(--bg-1); border: 1px solid var(--line);
-      padding: 14px 16px 14px; transition: border-color .1s, background .1s;
-      display: flex; flex-direction: column; gap: 8px;
-    }
-    .card:hover { border-color: var(--amber); background: var(--bg-2); }
-    .card .meta {
-      display: flex; gap: 10px; align-items: center;
-      font-family: var(--mono); font-size: 10px; letter-spacing: 1px; color: var(--dim);
-      text-transform: uppercase;
-    }
-    .card .src-tag { color: var(--amber); font-weight: 700; }
-    .card h2 { margin: 0; font-size: 15px; line-height: 1.35; font-weight: 600; }
-    .card h2 a { color: var(--text); }
-    .card h2 a:hover { color: var(--amber); }
-    .card p { margin: 0; color: var(--dim); font-size: 13px; line-height: 1.5; }
-
-    .empty { padding: 60px; text-align: center; color: var(--dim); font-family: var(--mono); }
-    .kbd { font-family: var(--mono); background: var(--bg-2); border: 1px solid var(--line-2); padding: 1px 5px; border-radius: 2px; font-size: 10px; color: var(--amber); }
-  </style>
-
-  <div class="topbar">
-    <div class="logo">▲<b> NEWS HUB</b></div>
-    <div class="sep"></div>
-    <select id="dateSel"></select>
-    <select id="sortSel">
-      <option value="time-desc">最新</option>
-      <option value="time-asc">最早</option>
-      <option value="source">按来源</option>
-    </select>
-    <input id="search" type="search" placeholder="搜索 (/) ..." />
-    <div class="grow"></div>
-    <div class="clock mono" id="clock"></div>
-    <div class="sep"></div>
-    <div class="user">USER <b id="user">${escapeHtml(user.username)}</b></div>
-    <button class="bar-btn" id="pwBtn">改密码</button>
-    <button class="bar-btn logout" id="logoutBtn">登出</button>
-  </div>
-
-  <div class="modal-bg" id="pwModal">
-    <div class="modal">
-      <h2>修改密码</h2>
-      <div class="sub">修改后，其他设备上的会话会被注销</div>
-      <div class="msg" id="pwMsg"></div>
-      <form id="pwForm">
-        <label>当前密码</label>
-        <input name="current_password" type="password" autocomplete="current-password" required>
-        <label>新密码</label>
-        <input name="new_password" type="password" autocomplete="new-password" minlength="6" required>
-        <label>确认新密码</label>
-        <input name="confirm_password" type="password" minlength="6" required>
-        <div class="actions">
-          <button type="button" class="cancel" id="pwCancel">取消</button>
-          <button type="submit" class="confirm" id="pwSubmit">保存</button>
+    <header class="hub-top">
+      <div class="hub-top-inner">
+        <div class="hub-brand">
+          <span class="hub-brand-mark">◆</span>
+          <span class="hub-brand-name">NEWS&nbsp;HUB</span>
+          <span class="hub-brand-ver mono">${BUILD}</span>
         </div>
-      </form>
-    </div>
-  </div>
+        <nav class="hub-nav">
+          <a href="#all" data-src="">全部</a>
+          <span class="hub-nav-dyn" id="srcNav"></span>
+        </nav>
+        <div class="hub-user">
+          <span class="hub-user-name">👤 ${escapeHtml(user.username)}</span>
+          <button class="hub-btn-ghost" id="btnChangePw">改密码</button>
+          <button class="hub-btn-ghost" id="btnLogout">退出</button>
+        </div>
+      </div>
+      <div class="hub-subbar">
+        <select id="dateSel" class="hub-select"></select>
+        <input id="search" class="hub-input" placeholder="搜索标题 / 摘要…">
+        <select id="sortSel" class="hub-select">
+          <option value="newest">最新优先</option>
+          <option value="oldest">最早优先</option>
+        </select>
+        <span id="countInfo" class="hub-count mono dim"></span>
+      </div>
+    </header>
 
-  <div class="ticker" id="ticker"></div>
-
-  <div class="layout">
-    <aside class="rail">
-      <h3>来源</h3>
-      <div id="rail"></div>
-    </aside>
-    <main class="main">
-      <div class="stats" id="stats"></div>
-      <div id="list"></div>
+    <main class="hub-main">
+      <section class="hub-hero" id="hero"></section>
+      <section class="hub-layout">
+        <div class="hub-grid" id="grid"></div>
+        <aside class="hub-aside">
+          <div class="hub-aside-title">最新动态</div>
+          <ol class="hub-ticker" id="ticker"></ol>
+        </aside>
+      </section>
+      <div class="hub-empty" id="emptyMsg" hidden>没有匹配的新闻。</div>
     </main>
-  </div>
 
-  <script>
-    const dateSel = document.getElementById('dateSel');
-    const sortSel = document.getElementById('sortSel');
-    const search = document.getElementById('search');
-    const rail = document.getElementById('rail');
-    const list = document.getElementById('list');
-    const stats = document.getElementById('stats');
-    const tickerEl = document.getElementById('ticker');
+    <div id="pwModal" class="modal" hidden>
+      <div class="modal-card">
+        <div class="modal-title">修改密码</div>
+        <label>当前密码<input id="pwOld" type="password" autocomplete="current-password"></label>
+        <label>新密码（≥6 位）<input id="pwNew" type="password" autocomplete="new-password"></label>
+        <label>确认新密码<input id="pwNew2" type="password" autocomplete="new-password"></label>
+        <div class="modal-err" id="pwErr"></div>
+        <div class="modal-actions">
+          <button class="hub-btn-ghost" id="pwCancel">取消</button>
+          <button class="hub-btn-primary" id="pwSubmit">确认</button>
+        </div>
+      </div>
+    </div>
 
-    let activeSources = new Set();
-    let currentData = null;
-
-    // Live clock (UTC HH:MM:SS)
-    function tickClock() {
-      const d = new Date();
-      const pad = n => String(n).padStart(2,'0');
-      document.getElementById('clock').textContent =
-        pad(d.getUTCHours())+':'+pad(d.getUTCMinutes())+':'+pad(d.getUTCSeconds())+' UTC';
-    }
-    tickClock(); setInterval(tickClock, 1000);
-
-    document.getElementById('logoutBtn').onclick = async () => {
-      await fetch('/api/logout', { method: 'POST' });
-      location.href = '/login';
-    };
-
-    // Change-password modal
-    const pwModal = document.getElementById('pwModal');
-    const pwForm  = document.getElementById('pwForm');
-    const pwMsg   = document.getElementById('pwMsg');
-    const pwSubmit = document.getElementById('pwSubmit');
-    const openModal  = () => { pwMsg.textContent = ''; pwMsg.className = 'msg'; pwForm.reset(); pwModal.classList.add('show'); };
-    const closeModal = () => pwModal.classList.remove('show');
-    document.getElementById('pwBtn').onclick = openModal;
-    document.getElementById('pwCancel').onclick = closeModal;
-    pwModal.addEventListener('click', e => { if (e.target === pwModal) closeModal(); });
-    pwForm.addEventListener('submit', async e => {
-      e.preventDefault();
-      pwMsg.className = 'msg'; pwMsg.textContent = '';
-      const fd = new FormData(pwForm);
-      const obj = Object.fromEntries(fd);
-      if (obj.new_password !== obj.confirm_password) {
-        pwMsg.className = 'msg err'; pwMsg.textContent = '两次输入的新密码不一致';
-        return;
+    <style>
+      .hub-top {
+        position: sticky; top: 0; z-index: 10;
+        background: rgba(5,5,5,0.92);
+        backdrop-filter: blur(8px);
+        border-bottom: 1px solid var(--line);
       }
-      pwSubmit.disabled = true; pwSubmit.textContent = '保存中...';
-      try {
-        const res = await fetch('/api/change-password', {
-          method: 'POST', headers: { 'content-type': 'application/json' },
-          body: JSON.stringify({ current_password: obj.current_password, new_password: obj.new_password })
-        });
-        const text = await res.text();
-        let data = null; try { data = JSON.parse(text); } catch {}
-        if (res.ok) {
-          pwMsg.className = 'msg ok'; pwMsg.textContent = '✓ 密码已更新';
-          setTimeout(closeModal, 1200);
-        } else {
-          pwMsg.className = 'msg err';
-          pwMsg.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+text.slice(0,120));
+      .hub-top-inner {
+        display: flex; align-items: center; gap: 24px;
+        padding: 12px 24px;
+        max-width: 1400px; margin: 0 auto;
+      }
+      .hub-brand { display: flex; align-items: center; gap: 8px; }
+      .hub-brand-mark { color: var(--amber); font-size: 14px; }
+      .hub-brand-name { font-weight: 700; letter-spacing: 1px; font-size: 15px; }
+      .hub-brand-ver { color: var(--dim-2); font-size: 11px; }
+      .hub-nav {
+        flex: 1; display: flex; gap: 4px; overflow-x: auto;
+        scrollbar-width: none;
+      }
+      .hub-nav::-webkit-scrollbar { display: none; }
+      .hub-nav a, .hub-nav button {
+        padding: 6px 12px; border-radius: 999px;
+        font-size: 12px; color: var(--dim);
+        border: 1px solid transparent;
+        background: transparent; white-space: nowrap;
+      }
+      .hub-nav a:hover, .hub-nav button:hover {
+        color: var(--text); border-color: var(--line-2);
+      }
+      .hub-nav a.active, .hub-nav button.active {
+        color: var(--amber); border-color: var(--amber);
+      }
+      .hub-user { display: flex; align-items: center; gap: 10px; }
+      .hub-user-name { color: var(--dim); font-size: 12px; }
+      .hub-btn-ghost {
+        background: transparent; color: var(--text);
+        border: 1px solid var(--line-2); border-radius: 4px;
+        padding: 5px 10px; font-size: 12px;
+      }
+      .hub-btn-ghost:hover { border-color: var(--amber); color: var(--amber); }
+      .hub-btn-primary {
+        background: var(--amber); color: #000; border: 0;
+        border-radius: 4px; padding: 6px 14px; font-weight: 600; font-size: 12px;
+      }
+      .hub-btn-primary:hover { background: var(--amber-2); }
+
+      .hub-subbar {
+        display: flex; align-items: center; gap: 12px;
+        padding: 10px 24px;
+        max-width: 1400px; margin: 0 auto;
+        border-top: 1px solid var(--line);
+      }
+      .hub-select, .hub-input {
+        background: var(--bg-1); color: var(--text);
+        border: 1px solid var(--line-2); border-radius: 4px;
+        padding: 6px 10px; font-size: 12px; font-family: inherit;
+      }
+      .hub-input { flex: 1; min-width: 160px; }
+      .hub-select:focus, .hub-input:focus {
+        outline: none; border-color: var(--amber);
+      }
+      .hub-count { font-size: 11px; white-space: nowrap; }
+
+      .hub-main {
+        max-width: 1400px; margin: 0 auto;
+        padding: 24px;
+      }
+      .hub-hero {
+        display: grid; grid-template-columns: 2fr 1fr; gap: 16px;
+        margin-bottom: 32px;
+      }
+      @media (max-width: 900px) {
+        .hub-hero { grid-template-columns: 1fr; }
+      }
+      .hero-main, .hero-side {
+        display: block; position: relative; overflow: hidden;
+        border: 1px solid var(--line); background: var(--bg-1);
+        transition: border-color .15s;
+      }
+      .hero-main:hover, .hero-side:hover { border-color: var(--amber); }
+      .hero-main {
+        aspect-ratio: 16/9;
+      }
+      .hero-main .img, .hero-side .img {
+        position: absolute; inset: 0;
+        background-size: cover; background-position: center;
+        transition: transform .4s;
+      }
+      .hero-main:hover .img, .hero-side:hover .img { transform: scale(1.03); }
+      .hero-main .img::after, .hero-side .img::after {
+        content: ""; position: absolute; inset: 0;
+        background: linear-gradient(to top, rgba(0,0,0,0.95) 0%, rgba(0,0,0,0.3) 60%, transparent 100%);
+      }
+      .hero-main .no-img, .hero-side .no-img {
+        position: absolute; inset: 0;
+        background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
+        display: flex; align-items: center; justify-content: center;
+        color: var(--dim-2); font-size: 48px;
+      }
+      .hero-main .meta, .hero-side .meta {
+        position: absolute; left: 0; right: 0; bottom: 0;
+        padding: 20px; z-index: 1;
+      }
+      .hero-side .meta { padding: 14px; }
+      .hero-tag {
+        display: inline-block; background: var(--amber); color: #000;
+        font-size: 10px; font-weight: 700; letter-spacing: 1px;
+        padding: 2px 8px; margin-bottom: 8px;
+      }
+      .hero-main h2 {
+        font-size: 24px; margin: 0 0 6px; line-height: 1.25;
+        font-weight: 700;
+      }
+      .hero-side h3 {
+        font-size: 15px; margin: 0 0 4px; line-height: 1.3;
+        font-weight: 600;
+      }
+      .hero-main .sub { color: #d0d0d0; font-size: 13px; margin: 0 0 6px; }
+      .hero-main .time, .hero-side .time {
+        color: var(--dim); font-size: 11px;
+      }
+      .hero-aside-stack {
+        display: flex; flex-direction: column; gap: 16px;
+      }
+      .hero-side { aspect-ratio: 16/10; }
+
+      .hub-layout {
+        display: grid; grid-template-columns: 1fr 320px; gap: 32px;
+      }
+      @media (max-width: 1000px) {
+        .hub-layout { grid-template-columns: 1fr; }
+        .hub-aside { order: -1; }
+      }
+      .hub-grid {
+        display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 20px;
+      }
+      .card {
+        display: block; border: 1px solid var(--line);
+        background: var(--bg-1);
+        transition: border-color .15s, transform .15s;
+      }
+      .card:hover { border-color: var(--amber); transform: translateY(-2px); }
+      .card-img {
+        aspect-ratio: 16/9;
+        background-size: cover; background-position: center;
+        background-color: #0a0a0a;
+        border-bottom: 1px solid var(--line);
+        position: relative;
+      }
+      .card-img.no-img {
+        background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
+        display: flex; align-items: center; justify-content: center;
+        color: var(--dim-2); font-size: 32px;
+      }
+      .card-body { padding: 14px 16px 16px; }
+      .card-src {
+        display: inline-block; font-size: 10px; letter-spacing: 1px;
+        color: var(--amber); font-weight: 600; margin-bottom: 6px;
+      }
+      .card-title {
+        font-size: 15px; font-weight: 600; line-height: 1.35;
+        margin: 0 0 6px; color: var(--text);
+      }
+      .card-sum {
+        font-size: 12px; color: var(--dim); line-height: 1.5;
+        margin: 0 0 8px;
+        display: -webkit-box; -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical; overflow: hidden;
+      }
+      .card-time { font-size: 11px; color: var(--dim-2); }
+
+      .hub-aside {
+        border-left: 1px solid var(--line);
+        padding-left: 24px;
+      }
+      @media (max-width: 1000px) {
+        .hub-aside { border-left: 0; padding-left: 0;
+          border-top: 1px solid var(--line); padding-top: 16px; }
+      }
+      .hub-aside-title {
+        font-size: 11px; letter-spacing: 2px; color: var(--amber);
+        font-weight: 700; margin-bottom: 14px;
+        padding-bottom: 8px; border-bottom: 1px solid var(--line);
+      }
+      .hub-ticker { list-style: none; margin: 0; padding: 0; }
+      .hub-ticker li {
+        padding: 10px 0; border-bottom: 1px solid var(--line);
+        display: flex; gap: 10px; align-items: flex-start;
+      }
+      .hub-ticker li:last-child { border-bottom: 0; }
+      .hub-ticker .num {
+        color: var(--amber); font-family: var(--mono);
+        font-size: 11px; font-weight: 700;
+        min-width: 20px;
+      }
+      .hub-ticker .t-body { flex: 1; min-width: 0; }
+      .hub-ticker .t-title {
+        font-size: 13px; line-height: 1.35; font-weight: 500;
+        margin-bottom: 3px;
+        display: -webkit-box; -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical; overflow: hidden;
+      }
+      .hub-ticker .t-meta {
+        font-size: 10px; color: var(--dim-2);
+      }
+      .hub-ticker a { color: var(--text); }
+      .hub-ticker a:hover .t-title { color: var(--amber); }
+
+      .hub-empty {
+        text-align: center; padding: 60px; color: var(--dim);
+        border: 1px dashed var(--line-2);
+      }
+
+      .modal {
+        position: fixed; inset: 0; background: rgba(0,0,0,0.8);
+        display: flex; align-items: center; justify-content: center;
+        z-index: 100;
+      }
+      .modal-card {
+        background: var(--bg-1); border: 1px solid var(--line-2);
+        padding: 24px; width: 360px; max-width: 90vw;
+      }
+      .modal-title {
+        font-size: 16px; font-weight: 700; margin-bottom: 16px;
+        color: var(--amber);
+      }
+      .modal-card label {
+        display: block; font-size: 12px; color: var(--dim);
+        margin-bottom: 12px;
+      }
+      .modal-card input {
+        display: block; width: 100%; margin-top: 4px;
+        background: var(--bg-2); color: var(--text);
+        border: 1px solid var(--line-2); border-radius: 3px;
+        padding: 8px 10px; font-size: 13px; font-family: inherit;
+      }
+      .modal-card input:focus { outline: none; border-color: var(--amber); }
+      .modal-err { color: var(--red); font-size: 12px; min-height: 16px; margin: 4px 0 8px; }
+      .modal-actions {
+        display: flex; gap: 8px; justify-content: flex-end;
+      }
+
+      mark { background: rgba(255,159,10,0.25); color: var(--amber-2); padding: 0 2px; }
+    </style>
+
+    <script>
+      const grid = document.getElementById('grid');
+      const hero = document.getElementById('hero');
+      const ticker = document.getElementById('ticker');
+      const srcNav = document.getElementById('srcNav');
+      const dateSel = document.getElementById('dateSel');
+      const sortSel = document.getElementById('sortSel');
+      const search = document.getElementById('search');
+      const countInfo = document.getElementById('countInfo');
+      const emptyMsg = document.getElementById('emptyMsg');
+
+      let state = { articles: [], source: '', q: '', sort: 'newest' };
+
+      async function loadDates() {
+        try {
+          const r = await fetch('/api/dates');
+          const { dates } = await r.json();
+          if (!dates || !dates.length) {
+            dateSel.innerHTML = '<option>暂无数据</option>';
+            return;
+          }
+          dateSel.innerHTML = dates.map(d =>
+            '<option value="'+d.date+'">'+d.date+' · '+d.count+' 篇</option>'
+          ).join('');
+          dateSel.onchange = () => loadDate(dateSel.value);
+          loadDate(dates[0].date);
+        } catch (e) {
+          dateSel.innerHTML = '<option>加载失败</option>';
         }
-      } catch (err) {
-        pwMsg.className = 'msg err'; pwMsg.textContent = '网络错误：' + err.message;
-      } finally {
-        pwSubmit.disabled = false; pwSubmit.textContent = '保存';
       }
-    });
 
-    // Keyboard: "/" focuses search
-    document.addEventListener('keydown', e => {
-      if (e.key === '/' && document.activeElement !== search) { e.preventDefault(); search.focus(); }
-      if (e.key === 'Escape') search.blur();
-    });
-
-    async function loadDates() {
-      const res = await fetch('/api/dates');
-      if (!res.ok) return;
-      const data = await res.json();
-      const dates = (data.dates || []).sort().reverse();
-      dateSel.innerHTML = dates.map(d => '<option value="'+d.date+'">'+d.date+' ('+d.count+')</option>').join('');
-      if (dates.length) loadDay(dates[0].date);
-      else list.innerHTML = '<div class="empty">暂无数据</div>';
-    }
-
-    async function loadDay(date) {
-      const res = await fetch('/api/news?date=' + date);
-      if (!res.ok) { list.innerHTML = '<div class="empty">加载失败</div>'; return; }
-      currentData = await res.json();
-      activeSources.clear();
-      render();
-    }
-
-    function render() {
-      if (!currentData) return;
-      const { articles = [], sources = [], generated_at } = currentData;
-
-      // Rail
-      const counts = {};
-      articles.forEach(a => counts[a.source] = (counts[a.source]||0) + 1);
-      rail.innerHTML = ['<div class="src '+(activeSources.size===0?'active':'')+'" data-src="__all__">'+
-          '<span>全部</span><span class="cnt">'+articles.length+'</span></div>']
-        .concat(sources.map(s => {
-          const on = activeSources.has(s);
-          return '<div class="src '+(on?'active':'')+'" data-src="'+escapeAttr(s)+'">'+
-            '<span>'+escapeHtml(s)+'</span><span class="cnt">'+(counts[s]||0)+'</span></div>';
-        })).join('') +
-        '<div class="divider"></div>'+
-        '<h3 style="padding: 0 18px">快捷键</h3>'+
-        '<div style="padding: 0 18px; font-family: var(--mono); font-size: 11px; color: var(--dim); line-height: 1.9">'+
-          '<span class="kbd">/</span> 搜索<br>'+
-          '<span class="kbd">Esc</span> 取消'+
-        '</div>';
-      rail.querySelectorAll('.src').forEach(el => {
-        el.onclick = () => {
-          const s = el.dataset.src;
-          if (s === '__all__') activeSources.clear();
-          else if (activeSources.has(s)) activeSources.delete(s);
-          else activeSources.add(s);
+      async function loadDate(date) {
+        try {
+          const r = await fetch('/api/news?date='+encodeURIComponent(date));
+          const data = await r.json();
+          state.articles = data.articles || [];
+          buildSourceNav();
           render();
-        };
-      });
+        } catch (e) {
+          state.articles = []; render();
+        }
+      }
 
-      // Filter
-      const kw = search.value.trim().toLowerCase();
-      let items = articles.filter(a => {
-        if (activeSources.size && !activeSources.has(a.source)) return false;
-        if (kw && !(a.title.toLowerCase().includes(kw) || (a.summary||'').toLowerCase().includes(kw))) return false;
-        return true;
-      });
-      const mode = sortSel.value;
-      if (mode === 'time-desc') items.sort((a,b)=>b.timestamp-a.timestamp);
-      else if (mode === 'time-asc') items.sort((a,b)=>a.timestamp-b.timestamp);
-      else items.sort((a,b)=>a.source.localeCompare(b.source) || b.timestamp-a.timestamp);
+      function buildSourceNav() {
+        const sources = Array.from(new Set(state.articles.map(a => a.source))).sort();
+        srcNav.innerHTML = sources.map(s =>
+          '<button data-src="'+escAttr(s)+'">'+escHtml(s)+'</button>'
+        ).join('');
+        srcNav.querySelectorAll('button').forEach(b => {
+          b.onclick = () => {
+            state.source = b.dataset.src === state.source ? '' : b.dataset.src;
+            render();
+          };
+        });
+      }
 
-      // Ticker (top 6 headlines scrolling-style, static for now)
-      const headlines = articles.slice(0, 6);
-      tickerEl.innerHTML = headlines.map(h =>
-        '<span><b>'+escapeHtml(h.source)+'</b> <span class="sep">·</span> '+escapeHtml(h.title.slice(0,40))+(h.title.length>40?'...':'')+'</span>'
-      ).join('<span class="sep">│</span>');
+      function render() {
+        const q = state.q.trim().toLowerCase();
+        let list = state.articles.filter(a => {
+          if (state.source && a.source !== state.source) return false;
+          if (q && !(a.title.toLowerCase().includes(q) ||
+                     (a.summary||'').toLowerCase().includes(q))) return false;
+          return true;
+        });
+        list.sort((x,y) => state.sort === 'oldest' ? x.timestamp - y.timestamp : y.timestamp - x.timestamp);
 
-      // Stats
-      stats.innerHTML =
-        '<span>显示 <b>'+items.length+'</b> / '+articles.length+'</span>' +
-        '<span>来源 <b>'+sources.length+'</b></span>' +
-        '<span>生成于 <b>'+escapeHtml(generated_at||'')+'</b></span>';
+        // update source nav active state
+        srcNav.querySelectorAll('button').forEach(b => {
+          b.classList.toggle('active', b.dataset.src === state.source);
+        });
 
-      if (!items.length) { list.innerHTML = '<div class="empty">没有匹配的文章</div>'; return; }
+        countInfo.textContent = list.length + ' 篇';
 
-      list.innerHTML = '<div class="grid">' + items.map(a => (
-        '<article class="card">'+
-          '<div class="meta">'+
-            '<span class="src-tag">'+escapeHtml(a.source)+'</span>'+
-            '<span>'+escapeHtml(a.published_at||'')+'</span>'+
-          '</div>'+
-          '<h2><a href="'+escapeAttr(a.link)+'" target="_blank" rel="noopener">'+hl(a.title,kw)+'</a></h2>'+
-          (a.summary ? '<p>'+hl(a.summary,kw)+'</p>' : '')+
-        '</article>'
-      )).join('') + '</div>';
-    }
+        if (!list.length) {
+          hero.innerHTML = ''; grid.innerHTML = ''; ticker.innerHTML = '';
+          emptyMsg.hidden = false;
+          return;
+        }
+        emptyMsg.hidden = true;
 
-    function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
-    function escapeAttr(s){return escapeHtml(s);}
-    function hl(s,kw){const e=escapeHtml(s); if(!kw) return e; const re=new RegExp('('+kw.replace(/[.*+?^\${}()|[\\]\\\\]/g,'\\\\$&')+')','gi'); return e.replace(re,'<mark>$1</mark>');}
+        // Hero: first with image if available, else first
+        const heroMain = list.find(a => a.image) || list[0];
+        const heroSides = list.filter(a => a !== heroMain).slice(0, 2);
+        hero.innerHTML = renderHero(heroMain, heroSides, q);
 
-    dateSel.onchange = () => loadDay(dateSel.value);
-    sortSel.onchange = render;
-    search.oninput = render;
+        // Grid: remaining
+        const gridItems = list.filter(a => a !== heroMain && !heroSides.includes(a)).slice(0, 24);
+        grid.innerHTML = gridItems.map(a => renderCard(a, q)).join('');
 
-    loadDates();
-  </script>`);
+        // Ticker: latest 10 (by time, newest)
+        const tickList = [...state.articles]
+          .filter(a => !state.source || a.source === state.source)
+          .sort((x,y) => y.timestamp - x.timestamp)
+          .slice(0, 10);
+        ticker.innerHTML = tickList.map((a, i) =>
+          '<li><span class="num">'+String(i+1).padStart(2,'0')+'</span>'+
+          '<div class="t-body"><a href="'+escAttr(a.link)+'" target="_blank" rel="noopener">'+
+          '<div class="t-title">'+hl(escHtml(a.title), q)+'</div>'+
+          '<div class="t-meta">'+escHtml(a.source)+' · '+escHtml(a.published_at)+'</div>'+
+          '</a></div></li>'
+        ).join('');
+      }
+
+      function renderHero(main, sides, q) {
+        return (
+          '<a class="hero-main" href="'+escAttr(main.link)+'" target="_blank" rel="noopener">'+
+            imgBg(main.image, 'img', '头条') +
+            '<div class="meta">'+
+              '<span class="hero-tag">'+escHtml(main.source)+'</span>'+
+              '<h2>'+hl(escHtml(main.title), q)+'</h2>'+
+              (main.summary ? '<p class="sub">'+hl(escHtml(main.summary), q)+'</p>' : '') +
+              '<div class="time mono">'+escHtml(main.published_at)+'</div>'+
+            '</div>'+
+          '</a>'+
+          '<div class="hero-aside-stack">'+
+            sides.map(s =>
+              '<a class="hero-side" href="'+escAttr(s.link)+'" target="_blank" rel="noopener">'+
+                imgBg(s.image, 'img', '') +
+                '<div class="meta">'+
+                  '<span class="hero-tag">'+escHtml(s.source)+'</span>'+
+                  '<h3>'+hl(escHtml(s.title), q)+'</h3>'+
+                  '<div class="time mono">'+escHtml(s.published_at)+'</div>'+
+                '</div>'+
+              '</a>'
+            ).join('')+
+          '</div>'
+        );
+      }
+
+      function renderCard(a, q) {
+        return (
+          '<a class="card" href="'+escAttr(a.link)+'" target="_blank" rel="noopener">'+
+            (a.image
+              ? '<div class="card-img" style="background-image:url(\\''+escAttr(a.image)+'\\')"></div>'
+              : '<div class="card-img no-img">◆</div>') +
+            '<div class="card-body">'+
+              '<div class="card-src">'+escHtml(a.source)+'</div>'+
+              '<div class="card-title">'+hl(escHtml(a.title), q)+'</div>'+
+              (a.summary ? '<div class="card-sum">'+hl(escHtml(a.summary), q)+'</div>' : '') +
+              '<div class="card-time mono">'+escHtml(a.published_at)+'</div>'+
+            '</div>'+
+          '</a>'
+        );
+      }
+
+      function imgBg(url, cls, placeholder) {
+        if (url) return '<div class="'+cls+'" style="background-image:url(\\''+escAttr(url)+'\\')"></div>';
+        return '<div class="no-img">◆</div>';
+      }
+
+      function escHtml(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
+      function escAttr(s){return escHtml(s);}
+      function hl(html, q){
+        if (!q) return html;
+        try {
+          const re = new RegExp('('+q.replace(/[.*+?^\${}()|[\\]\\\\]/g,'\\\\$&')+')','gi');
+          return html.replace(re, '<mark>$1</mark>');
+        } catch(e){ return html; }
+      }
+
+      sortSel.onchange = () => { state.sort = sortSel.value; render(); };
+      search.oninput  = () => { state.q = search.value; render(); };
+
+      // logout
+      document.getElementById('btnLogout').onclick = async () => {
+        await fetch('/api/logout', { method: 'POST' });
+        location.href = '/login';
+      };
+
+      // change password modal
+      const pwModal = document.getElementById('pwModal');
+      const pwOld = document.getElementById('pwOld');
+      const pwNew = document.getElementById('pwNew');
+      const pwNew2 = document.getElementById('pwNew2');
+      const pwErr = document.getElementById('pwErr');
+      document.getElementById('btnChangePw').onclick = () => {
+        pwOld.value = pwNew.value = pwNew2.value = ''; pwErr.textContent = '';
+        pwModal.hidden = false; pwOld.focus();
+      };
+      document.getElementById('pwCancel').onclick = () => { pwModal.hidden = true; };
+      document.getElementById('pwSubmit').onclick = async () => {
+        pwErr.textContent = '';
+        if (pwNew.value.length < 6) { pwErr.textContent = '新密码至少 6 位'; return; }
+        if (pwNew.value !== pwNew2.value) { pwErr.textContent = '两次新密码不一致'; return; }
+        try {
+          const r = await fetch('/api/change-password', {
+            method: 'POST', headers: {'Content-Type':'application/json'},
+            body: JSON.stringify({ old_password: pwOld.value, new_password: pwNew.value })
+          });
+          const data = await r.json();
+          if (!r.ok) { pwErr.textContent = data.error || '修改失败'; return; }
+          pwModal.hidden = true;
+          alert('密码已修改，其他设备已自动下线');
+        } catch (e) { pwErr.textContent = '网络错误'; }
+      };
+
+      loadDates();
+    </script>
+  `);
 }
 
 function escapeHtml(s) {
