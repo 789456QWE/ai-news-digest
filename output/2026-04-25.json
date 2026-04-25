@@ -1,0 +1,625 @@
+{
+  "date": "2026-04-25",
+  "generated_at": "2026-04-25 08:02:09",
+  "sources": [
+    "BBC 中文",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "警方对秘鲁选举当局进行搜捕,",
+      "link": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "反腐败警察从前选举办公室负责人皮耶罗·科维托的家中收集了材料,并.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26112600379031-1777066420.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 07:22",
+      "timestamp": 1777072952
+    },
+    {
+      "title": "法国学者：教宗访非洲展现延续性",
+      "link": "https://www.rfi.fr/cn/%E8%A7%86%E9%A2%91/20260424-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E8%A7%86%E9%A2%91-%E6%A2%B5%E8%92%82%E5%86%88%E6%95%99%E5%AE%97%E8%AE%BF%E9%97%AE%E9%9D%9E%E6%B4%B2%E5%B1%95%E7%8E%B0%E5%BB%B6%E7%BB%AD%E6%80%A7-1",
+      "source": "法广中文",
+      "summary": "梵蒂冈教宗Léon XIV在2026年04月23日周四全满结束非洲四国的使徒之旅。法国一位天主教神学家在接受本台法广非洲组（RFI Afrique）法语记者采访时表示，这一访问行程是在展现罗马教廷的延…",
+      "image": "https://s.rfi.fr/media/display/28173e94-4033-11f1-ba30-005056a90284/w:1024/p:16x9/capture-84720629469ebf9041a35d3-31264596.jpg",
+      "published_at": "2026-04-25 07:13",
+      "timestamp": 1777072412
+    },
+    {
+      "title": "美国之音中文广播 (2026年4月25日)",
+      "link": "https://www.voachinese.com/a/8136706.html",
+      "source": "美国之音中文",
+      "summary": "今天的重点新闻内容包括：1)美国中央司令部证实美军三艘航母齐聚中东 2)白宫：美方代表团将于周六启程前往巴基斯坦与伊朗进行新一轮谈判 3)战争部长海格塞斯：美对伊朗港口封锁将持续“所需的一切时间” 4…",
+      "image": "https://gdb.voanews.com/7b78d9ca-f811-4b5f-311c-08de3c9a2615_w800_h450.jpg",
+      "published_at": "2026-04-25 06:00",
+      "timestamp": 1777068004
+    },
+    {
+      "title": "以色列在“停火”期间在加沙至少杀害12名巴勒斯坦人",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "哈马斯说,以色列的升级代表了国际社会未能坚持......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-23T090332Z_650461050_RC2TUKAURP6Z_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1777064124.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 05:42",
+      "timestamp": 1777066942
+    },
+    {
+      "title": "英美十国警告：与中国有关的网络恶意行为",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E8%8B%B1%E7%BE%8E%E5%8D%81%E5%9B%BD%E8%AD%A6%E5%91%8A-%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E7%9A%84%E7%BD%91%E7%BB%9C%E6%81%B6%E6%84%8F%E8%A1%8C%E4%B8%BA",
+      "source": "法广中文",
+      "summary": "英国、美国、日本等总计10个国家联合示警，与中国有关的恶意行为者常利用相对容易入侵的网路设备，例如手机等智慧型装置，隐藏网路攻击的实际来源，以提高究责的难度，而且恶意行为者包含一些位于中国或与中国有关…",
+      "image": "https://s.rfi.fr/media/display/cce9dc5a-0d78-11ea-ab40-005056bfe576/w:1024/p:16x9/hacker%20attack%20GOOD%2044.jpg",
+      "published_at": "2026-04-25 05:42",
+      "timestamp": 1777066924
+    },
+    {
+      "title": "真正的马德里在贝蒂斯惊呆了 因为巴塞隆纳有机会移动11个晴天",
+      "link": "https://www.aljazeera.com/sports/2026/4/24/real-madrid-stunned-at-betis-as-barcelona-have-chance-to-move-11-clear?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "前巴塞洛纳明星赫克托·贝勒林(Hector Bellerin)##039;为贝蒂斯特技\"真实的马德里\"(Real Madrid ##039)的受伤时间平分器;以及李...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T211339Z_743027835_UP1EM4O1IJ0CV_RTRMADP_3_SOCCER-SPAIN-BET-RMA-1777065264.jpg?resize=1831%2C1080",
+      "published_at": "2026-04-25 05:29",
+      "timestamp": 1777066199
+    },
+    {
+      "title": "伊朗官媒证实美伊将进行第二轮谈判",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260424-%E4%BC%8A%E6%9C%97%E5%AE%98%E5%AA%92%E8%AF%81%E5%AE%9E%E7%BE%8E%E4%BC%8A%E5%B0%86%E8%BF%9B%E8%A1%8C%E7%AC%AC%E4%BA%8C%E8%BD%AE%E8%B0%88%E5%88%A4",
+      "source": "法广中文",
+      "summary": "白宫发言人周五表示，美国总统特朗普的特使史蒂夫·维特科夫和贾里德·库什纳将于周六前往巴基斯坦，与伊朗举行进一步会谈，旨在结束中东战争。据巴基斯坦方面的消息，伊朗外交部长已经抵达伊斯兰堡。另外伊朗高级谈…",
+      "image": "https://s.rfi.fr/media/display/3db52a24-4022-11f1-b3d0-005056a97e36/w:1024/p:16x9/75890144.jpeg",
+      "published_at": "2026-04-25 05:14",
+      "timestamp": 1777065266
+    },
+    {
+      "title": "中商务部管控     7家欧企上管控名单",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E4%B8%AD%E5%95%86%E5%8A%A1%E9%83%A8%E7%AE%A1%E6%8E%A7-7%E5%AE%B6%E6%AC%A7%E4%BC%81%E4%B8%8A%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
+      "source": "法广中文",
+      "summary": "中国商务部24日发布公告，公布将7家欧盟实体列入出口管制管控名单，中方决定将比利时武器制造商赫斯塔尔公司（Herstal）等7家欧盟实体列入出口管制管控名单。",
+      "image": "https://s.rfi.fr/media/display/77cd8a72-4021-11f1-b485-005056bf30b7/w:1024/p:16x9/relations-commerciales-UE-Chine-922x516.jpg",
+      "published_at": "2026-04-25 05:06",
+      "timestamp": 1777064806
+    },
+    {
+      "title": "马克龙：美、俄、中齐声反对欧洲     绝无仅有",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260424-%E9%A9%AC%E5%85%8B%E9%BE%99-%E7%BE%8E-%E4%BF%84-%E4%B8%AD%E9%BD%90%E5%A3%B0%E5%8F%8D%E5%AF%B9%E6%AC%A7%E6%B4%B2-%E7%BB%9D%E6%97%A0%E4%BB%85%E6%9C%89",
+      "source": "法广中文",
+      "summary": "马克龙于4月24日至25日访问希腊。到访第一天马克龙在雅典表示，欧洲正经历一个“罕见的一刻”，此时“一位美国总统、一位俄罗斯总统和一位中国国家主席”都“强烈反对欧洲”。",
+      "image": "https://s.rfi.fr/media/display/d0f5cfa0-3ff0-11f1-b220-005056a90284/w:1024/p:16x9/2026-04-24T110605Z-1927327736-RC2NVKA246VP-RTRMADP-3-IRAN-CRISIS-EU.jpg",
+      "published_at": "2026-04-25 04:57",
+      "timestamp": 1777064261
+    },
+    {
+      "title": "美国派遣特使前往巴基斯坦,为与伊朗阿拉格奇会谈带来希望。",
+      "link": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "伊朗外长阿巴斯·阿拉格奇抵达伊斯兰堡,但德黑兰尚未承诺进行更多的会谈. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26108447326306-1777058208.jpg?resize=1200%2C675",
+      "published_at": "2026-04-25 04:54",
+      "timestamp": 1777064068
+    },
+    {
+      "title": "在加沙中部为300名新娘和新郎举行大规模婚礼",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/mass-wedding-for-300-brides-and-grooms-in-central-gaza?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "作为慈善赞助的群众婚礼,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26114659922295-1777063855.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 04:53",
+      "timestamp": 1777063982
+    },
+    {
+      "title": "G7：对俄中核武库的增强表示关切",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-g7-%E5%AF%B9%E4%BF%84%E4%B8%AD%E6%A0%B8%E6%AD%A6%E5%BA%93%E7%9A%84%E5%A2%9E%E5%BC%BA%E8%A1%A8%E7%A4%BA%E5%85%B3%E5%88%87",
+      "source": "法广中文",
+      "summary": "七国集团（G7）周五强调了《不扩散核武器条约》（NPT）的关键作用，此时距离审议大会仅剩几天。七国集团对俄罗斯和中国核武库的增强表示关切，并呼吁美国发挥稳定作用。",
+      "image": "https://s.rfi.fr/media/display/56401ff2-401f-11f1-8f48-005056bfb2b6/w:1024/p:16x9/2023-04-18t020313z-629155627-rc2pg0ayfuys-rtrmadp-3-g7-japan-fm-taille1200-643e761474302-0.jpg",
+      "published_at": "2026-04-25 04:51",
+      "timestamp": 1777063884
+    },
+    {
+      "title": "由谁控制AI?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/24/whos-in-control-of-ai?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国科技巨头的拥有者 揭露了对世界之一的突破 – 039;是最强大的AI模型。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777062680.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-04-25 04:48",
+      "timestamp": 1777063686
+    },
+    {
+      "title": "尽管延长了停火,以色列继续袭击黎巴嫩",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列部队在南部Bint Jbeil地区的交火中杀害了6名真主党战士. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T111903Z_422113136_RC2NVKAROS8D_RTRMADP_3_IRAN-CRISIS-ISRAEL-LEBANON-1777061432.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 04:46",
+      "timestamp": 1777063598
+    },
+    {
+      "title": "法一中学杀老师的凶手被判15年徒刑",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260424-%E6%B3%95%E4%B8%80%E4%B8%AD%E5%AD%A6%E6%9D%80%E8%80%81%E5%B8%88%E7%9A%84%E5%87%B6%E6%89%8B%E8%A2%AB%E5%88%A415%E5%B9%B4%E5%BE%92%E5%88%91",
+      "source": "法广中文",
+      "summary": "法国西南部城市圣让德吕兹（ Saint-Jean-de-Luz）教师在课堂遇刺案庭审4天后，判决结果是凶手被判15年徒刑，比此前量刑的16年少了一年。遇害的女教师是52岁的西班牙语教师，名为拉萨勒（A…",
+      "image": "https://s.rfi.fr/media/display/f9edb486-401d-11f1-85eb-005056bf30b7/w:1024/p:16x9/0agneslassalle-taille1200-64479c5779d84-0.jpg",
+      "published_at": "2026-04-25 04:41",
+      "timestamp": 1777063300
+    },
+    {
+      "title": "特朗普让步，对美联储主席杰罗姆·鲍威尔的指控被撤销",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260424-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E6%AD%A5%EF%BC%8C%E5%AF%B9%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD%E6%9D%B0%E7%BD%97%E5%A7%86%C2%B7%E9%B2%8D%E5%A8%81%E5%B0%94%E7%9A%84%E6%8C%87%E6%8E%A7%E8%A2%AB%E6%92%A4%E9%94%80",
+      "source": "法广中文",
+      "summary": "特朗普让步，对美联储主席杰罗姆·鲍威尔的指控被撤销 ， 这是今天法国世界报关于美国国内政治的一个重点标题。文章说，特朗普之前还是怒不可遏，可到头来却再次退让。美国司法部于4月24日（周五）宣布，对美联…",
+      "image": "https://s.rfi.fr/media/display/78520942-1160-11ea-ba64-005056a99247/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
+      "published_at": "2026-04-25 04:33",
+      "timestamp": 1777062823
+    },
+    {
+      "title": "国际劳工组织任命新任副总干事",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E5%9B%BD%E9%99%85%E5%8A%B3%E5%B7%A5%E7%BB%84%E7%BB%87%E4%BB%BB%E5%91%BD%E6%96%B0%E4%BB%BB%E5%89%AF%E6%80%BB%E5%B9%B2%E4%BA%8B",
+      "source": "法广中文",
+      "summary": "经过数月的等待，国际劳工组织（ILO）终于任命美国人李胜为副总干事，尽管美国已连续两年未缴纳会费。国际劳工组织本周在其网站上表示：“李盛（音译 Sheng Li）将负责战略政策，确保规范职能和政策制定…",
+      "image": "https://s.rfi.fr/media/display/8a91fef4-401c-11f1-8b42-005056a97e36/w:1024/p:16x9/oit-345635.jpg",
+      "published_at": "2026-04-25 04:31",
+      "timestamp": 1777062681
+    },
+    {
+      "title": "英国议会下院否决协助自杀合法化",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260424-%E8%8B%B1%E5%9B%BD%E8%AE%AE%E4%BC%9A%E4%B8%8B%E9%99%A2%E5%90%A6%E5%86%B3%E5%8D%8F%E5%8A%A9%E8%87%AA%E6%9D%80%E5%90%88%E6%B3%95%E5%8C%96",
+      "source": "法广中文",
+      "summary": "安乐死法案在周五于英国议会下院被否决，此前该法案在英国上议院陷入长期僵局。这项旨在使某些绝症患者安乐死合法化的法案，已于2025年6月在下议院以“历史性”但势均力敌的投票获得通过。然而，该法案在未经选…",
+      "image": "https://s.rfi.fr/media/display/ea8be2e4-401b-11f1-8fce-005056bfb2b6/w:1024/p:16x9/9e528b2d8eee19d57c98be55c7d0191aeae73bac.jpg",
+      "published_at": "2026-04-25 04:26",
+      "timestamp": 1777062413
+    },
+    {
+      "title": "华盛顿冻结与伊朗有关的3.44亿美元加密货币",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260424-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%86%BB%E7%BB%93%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%9C%89%E5%85%B3%E7%9A%843-44%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81",
+      "source": "法广中文",
+      "summary": "美国财政部长斯科特·贝森特周五在X频道宣布，美国政府将冻结“与伊朗有关联的多项资金”中价值3.44亿美元的加密货币，此举旨在加大对德黑兰的施压力度。",
+      "image": "https://s.rfi.fr/media/display/3259682c-401b-11f1-9986-005056a90284/w:1024/p:16x9/le-marche-des-cryptomonnaies-atteint-2000-milliards-de-dollars-661989.jpg",
+      "published_at": "2026-04-25 04:22",
+      "timestamp": 1777062123
+    },
+    {
+      "title": "美欧签署关键矿产合作备忘录　强化供应链抗衡中国主导地位",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260424-%E7%BE%8E%E6%AC%A7%E7%AD%BE%E7%BD%B2%E5%85%B3%E9%94%AE%E7%9F%BF%E4%BA%A7%E5%90%88%E4%BD%9C%E5%A4%87%E5%BF%98%E5%BD%95-%E5%BC%BA%E5%8C%96%E4%BE%9B%E5%BA%94%E9%93%BE%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9B%BD%E4%B8%BB%E5%AF%BC%E5%9C%B0%E4%BD%8D",
+      "source": "法广中文",
+      "summary": "美国与欧盟24日正式签署一项关键矿产合作备忘录，双方并同步推出行动计划，将协调贸易政策、价格机制与供应链策略，以降低对中国在稀土与关键矿产领域的高度依赖。",
+      "image": "https://s.rfi.fr/media/display/9bf527e0-1204-11ea-80ac-005056a99247/w:1024/p:16x9/terres_rares_rfi_0.jpg",
+      "published_at": "2026-04-25 04:21",
+      "timestamp": 1777062109
+    },
+    {
+      "title": "特朗普再次终止使用CBP Oneapp进入美国的人的法律地位",
+      "link": "https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "法官先前阻止了结束那些通过拜登-e进入美国的人的临时法律地位的行动...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP25140549081410-1777058436.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 04:18",
+      "timestamp": 1777061887
+    },
+    {
+      "title": "伊朗没确定要和美国谈判：伊朗外长抵达伊斯兰堡， 特朗普特使将启程去伊斯兰堡",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E4%BC%8A%E6%9C%97%E6%B2%A1%E7%A1%AE%E5%AE%9A%E8%A6%81%E5%92%8C%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E6%8A%B5%E8%BE%BE%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1%EF%BC%8C-%E7%89%B9%E6%9C%97%E6%99%AE%E7%89%B9%E4%BD%BF%E5%B0%86%E5%90%AF%E7%A8%8B%E5%8E%BB%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1",
+      "source": "法广中文",
+      "summary": "据伊朗塔斯尼姆通讯社和英国路透社报道，伊朗外交部长阿拉格奇已抵达巴基斯坦首都伊斯兰堡。此前，阿拉格奇曾表示，他将访问伊斯兰堡、马斯喀特和莫斯科，以便与合作伙伴就双边问题密切协调，并讨论地区局势发展议题…",
+      "image": "https://s.rfi.fr/media/display/704796da-2901-11f1-b06d-005056bfb2b6/w:1024/p:16x9/AP26018556059989.jpg",
+      "published_at": "2026-04-25 04:12",
+      "timestamp": 1777061577
+    },
+    {
+      "title": "自马杜罗被绑架以来,彼得罗成为首任访问委内瑞拉的总统.",
+      "link": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "边境安全将变得像哥伦比亚一样庞大;",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69ebb5b90762-1777055161.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 04:00",
+      "timestamp": 1777060808
+    },
+    {
+      "title": "美参院通过法案，禁止高级别前政府雇员为“受关注国家”进行游说",
+      "link": "https://www.voachinese.com/a/senate-approves-legislation-to-ban-former-government-officials-from-lobbying-for-countries-of-concern-20260424/8142173.html",
+      "source": "美国之音中文",
+      "summary": "美国国会参议院本星期通过一项法案，将禁止高级别政府雇员在离开岗位后代表特定的“受关注国家”进行游说，进而降低包括中国在内等外国政府对美国决策的影响力度。",
+      "image": "https://gdb.voanews.com/f34010d3-30f9-4279-fd0c-08de3bf95a74_cx0_cy7_cw0_w800_h450.jpeg",
+      "published_at": "2026-04-25 03:58",
+      "timestamp": 1777060736
+    },
+    {
+      "title": "特朗普的“骚操作”团结了欧洲",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260424-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84-%E9%AA%9A%E6%93%8D%E4%BD%9C-%E5%9B%A2%E7%BB%93%E4%BA%86%E6%AC%A7%E6%B4%B2",
+      "source": "法广中文",
+      "summary": "最新发表在纽约时报一篇文章的题目是：“反特朗普主义团结了欧洲”，但如果将这个题目改为：“特朗普的骚操作团结了欧洲”，可能更紧扣最新的时局发展。",
+      "image": "https://s.rfi.fr/media/display/8baf34f8-3d67-11f1-907f-005056a90284/w:1024/p:16x9/Designer-1.png",
+      "published_at": "2026-04-25 03:56",
+      "timestamp": 1777060602
+    },
+    {
+      "title": "美国上诉法院驳回特朗普对寻求庇护者的禁令,",
+      "link": "https://www.aljazeera.com/news/2026/4/24/us-appeals-court-rejects-trumps-ban-on-asylum-seekers-teeing-up-appeal?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "法官说特朗普####039; 命令快速清除边境#####039; 抛弃联邦法律 负担...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-01-23T222739Z_2055902583_RC2MN5ANUTOS_RTRMADP_3_MIGRATION-USA-MEXICO-1707831195.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 03:25",
+      "timestamp": 1777058755
+    },
+    {
+      "title": "欧洲能帮助中东解决对伊朗的战争吗?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "半岛电视台的Rory Challands报道来自塞浦路斯欧盟峰会.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/wide-1777057419.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 03:05",
+      "timestamp": 1777057510
+    },
+    {
+      "title": "特朗普政府将琼斯法案豁免延长90天以抑制油价",
+      "link": "https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在11月前遏制政治上敏感的燃料价格飙升,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69e85d6f-1776835951.jpg?resize=1200%2C675",
+      "published_at": "2026-04-25 02:47",
+      "timestamp": 1777056462
+    },
+    {
+      "title": "英国援助的死亡法案在拖延后失败,但主张再次尝试",
+      "link": "https://www.aljazeera.com/news/2026/4/24/uk-bill-allowing-terminally-ill-to-end-their-own-lives-obstructed?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "支持法案的人 合法化 援助死亡 临终病人 说他们会再次尝试...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26114335682430-1777050376.jpg?resize=1200%2C675",
+      "published_at": "2026-04-25 02:46",
+      "timestamp": 1777056409
+    },
+    {
+      "title": "以色列攻击黎巴嫩可能违反国际法,",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "联合国报道称真主党对以色列的火箭袭击可能违反了国际人道主义法.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-20T110032Z_387400273_RC2VSKA0HZC0_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777050873.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 02:24",
+      "timestamp": 1777055067
+    },
+    {
+      "title": "现实检查:以色列野心与美国在伊朗和黎巴嫩的野心对抗",
+      "link": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "与伊朗和黎巴嫩的停火似乎是美国强加的,而不是以色列谈判的,这在很大程度上是......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/2025-12-29T223347Z_1840689475_RC2KQIAV30GG_RTRMADP_3_ISRAEL-PALESTINIANS-TRUMP-NETANYAHU-1772474025_5aa2b1-1772474048.jpg?resize=1200%2C630&amp;quality=80",
+      "published_at": "2026-04-25 02:21",
+      "timestamp": 1777054893
+    },
+    {
+      "title": "梵蒂冈教宗非洲之行利宗教对话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C/20260424-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E8%AF%AD%E4%B8%96%E7%95%8C-%E7%AC%AC153%E9%9B%86-%E6%A2%B5%E8%92%82%E5%86%88%E6%95%99%E5%AE%97%E9%9D%9E%E6%B4%B2%E4%B9%8B%E8%A1%8C%E5%88%A9%E5%AE%97%E6%95%99%E5%AF%B9%E8%AF%9D",
+      "source": "法广中文",
+      "summary": "法国国际广播电台（Radio France Internationale）中文节目[法语世界]（Chronique francophonie）专栏2026年04月24日星期五第153集。这次节目围绕教…",
+      "image": "https://s.rfi.fr/media/display/06d92654-36bd-11f1-8361-005056bfb2b6/w:1024/p:16x9/2026-04-11-s-FMM-archive-Vatican-Pape-L%C3%A9on-XIV-AP-Data-RFI.jpg",
+      "published_at": "2026-04-25 02:08",
+      "timestamp": 1777054138
+    },
+    {
+      "title": "2023年Banjska袭击事件中三名塞族分离主义分子被科索沃法院监禁",
+      "link": "https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "袭击Banjska村导致与警察发生冲突,留下一名警官和三名...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26114484063786-1777045041.jpg?resize=1200%2C675",
+      "published_at": "2026-04-25 01:49",
+      "timestamp": 1777052991
+    },
+    {
+      "title": "川普政府优先寻求死刑,",
+      "link": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "死刑在美国仍然有争议,批评者警告说无辜者是pu...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69eba968-1777052008.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 01:39",
+      "timestamp": 1777052360
+    },
+    {
+      "title": "阿尔卡拉兹的法国开放三PEAT梦以手腕受伤结束",
+      "link": "https://www.aljazeera.com/sports/2026/4/24/alcaraz-to-miss-french-open-defence-with-wrist-injury?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "卡洛斯·阿尔卡拉兹在蒙特卡洛决赛后 输给了詹尼克·辛纳 世界第一",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T160012Z_44013757_RC2QNKARIQ5H_RTRMADP_3_TENNIS-ALCARAZ-1777051197.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 01:35",
+      "timestamp": 1777052105
+    },
+    {
+      "title": "以色列如何袭击和杀害黎巴嫩记者Amal Khalil",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/4/24/how-israel-targeted-and-killed-lebanese-journalist-amal-khalil?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "阿迈勒·哈利勒在报道以色列10天期间对黎巴嫩南部的空袭时丧生.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/image-1777050793.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-04-25 01:14",
+      "timestamp": 1777050843
+    },
+    {
+      "title": "俄罗斯石油出口随着乌克兰的锤子港口和炼油厂而下降",
+      "link": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "尽管美国免除了制裁,但俄罗斯的石油出口可能下降到2023年以来的最低水平,来源说.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-21T184038Z_724474390_RC2MTKASMQ96_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-OIL-DRONES-1777047509.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 00:52",
+      "timestamp": 1777049568
+    },
+    {
+      "title": "美国司法部对联邦主席杰罗姆·鲍威尔的刑事侦查",
+      "link": "https://www.aljazeera.com/economy/2026/4/24/us-justice-department-drops-criminal-probe-of-fed-chair-jerome-powell?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "周五的公告有望为他的继任者凯维的确认扫清道路......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69d00dab-1775242667.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 00:05",
+      "timestamp": 1777046709
+    },
+    {
+      "title": "美国自2003年以来首次在中东拥有三艘航空母舰",
+      "link": "https://www.aljazeera.com/news/2026/4/24/us-has-three-aircraft-carriers-in-the-middle-east-for-first-time-since-2003?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "随着紧张局势在脆弱的休战中加剧,美国军方说它===039;调整===039;34艘船只为等值.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-08T172614Z_79253224_RC2PWJA4W5Y5_RTRMADP_3_IRAN-CRISIS-USA-CONGRESS-1777040844.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-25 00:04",
+      "timestamp": 1777046654
+    },
+    {
+      "title": "桑切斯总理反驳了美国关于西班牙退出北约的想法",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/pm-sanchez-rebuffs-us-idea-of-suspending-spain-from-nato?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "桑切斯总理回应报道称,美国可能会因反对.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-24T062708Z_968072671_RC2IVKA0NDH6_RTRMADP_3_IRAN-CRISIS-EU-1777046284.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-24 23:58",
+      "timestamp": 1777046326
+    },
+    {
+      "title": "切尔诺贝利40:定居者和马在俄罗斯无人驾驶飞机中幸存,污染",
+      "link": "https://www.aljazeera.com/features/longform/2026/4/24/chornobyl-at-40-settlers-and-horses-survive-russian-drones-contamination?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一个辐射幸存者和专家 一个老年回归者 一个野生生物研究员画了一幅我...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap-bbff8dc304f2da11af9f0014c2589dfb-1776684027.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-24 23:47",
+      "timestamp": 1777045647
+    },
+    {
+      "title": "还有五场比赛:总理联赛的不可预测的赛季又转了",
+      "link": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "从阿森纳的崩溃到切尔西的混乱,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/afp_69eb8e28b71c-1777045032.jpg?resize=1920%2C1440",
+      "published_at": "2026-04-24 23:38",
+      "timestamp": 1777045089
+    },
+    {
+      "title": "中国否认特朗普所说被扣伊朗货船上有“来自中国的礼物”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E4%B8%AD%E5%9B%BD%E5%90%A6%E8%AE%A4%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%8C%87%E8%A2%AB%E6%89%A3%E4%BC%8A%E6%9C%97%E8%B4%A7%E8%88%B9%E4%B8%8A%E6%9C%89-%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%A4%BC%E7%89%A9",
+      "source": "法广中文",
+      "summary": "中国外交部周五（4月24日）就美国总统特朗普有关一艘挂伊朗旗帜的货船被美军拦截时装有“来自中国的礼物”作出回应。外交部发言人郭嘉昆在记者会上说，“中方反对任何缺乏事实依据的指责和关联。国家之间正常的国…",
+      "image": "https://s.rfi.fr/media/display/06218f78-a74b-11f0-b8e7-005056bf30b7/w:1024/p:16x9/AFP-TV-20251010-POL-CHN-PolitiqueDefense-78CJ6KE-fr.jpg",
+      "published_at": "2026-04-24 23:33",
+      "timestamp": 1777044814
+    },
+    {
+      "title": "俄防长会见董军：当今，俄中军事合作变得尤为重要",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E4%BF%84%E9%98%B2%E9%95%BF%E4%BC%9A%E8%A7%81%E8%91%A3%E5%86%9B-%E5%BD%93%E4%BB%8A%EF%BC%8C%E4%BF%84%E4%B8%AD%E5%86%9B%E4%BA%8B%E5%90%88%E4%BD%9C%E5%B0%A4%E4%B8%BA%E9%87%8D%E8%A6%81",
+      "source": "法广中文",
+      "summary": "周五，俄罗斯国防部长别洛乌索夫会见了到访的中国国防部长董军。别洛乌索夫表示，在不断变化的军事和政治背景下，俄中军事合作变得尤为重要。",
+      "image": "https://s.rfi.fr/media/display/0be8bba0-3ff0-11f1-957c-005056a97e36/w:1024/p:16x9/Capture-3433.jpg",
+      "published_at": "2026-04-24 23:16",
+      "timestamp": 1777043762
+    },
+    {
+      "title": "美战争部长：我们对伊朗的封锁正在扩大，并走向全球",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E7%BE%8E%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF-%E6%88%91%E4%BB%AC%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E5%B0%81%E9%94%81%E6%AD%A3%E5%9C%A8%E6%89%A9%E5%A4%A7%EF%BC%8C%E5%B9%B6%E8%B5%B0%E5%90%91%E5%85%A8%E7%90%83",
+      "source": "法广中文",
+      "summary": "美国战争部长赫格塞思（Pete Hegseth）周五在新闻发布会上表示，美国对伊朗的封锁正在扩大至全球范围。他还称，德黑兰有机会与华盛顿达成一项“好协议”。",
+      "image": "https://s.rfi.fr/media/display/ac813144-39b2-11f1-a149-005056a97e36/w:1024/p:16x9/2026-04-16T135314Z-895765682-RC2DQKABJNFP-RTRMADP-3-IRAN-CRISIS-USA-MILITARY.jpg",
+      "published_at": "2026-04-24 22:39",
+      "timestamp": 1777041541
+    },
+    {
+      "title": "特朗普称普京出席G20峰会“可能很有帮助” 克宫：普京可能去，也可能不去",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260424-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%99%AE%E4%BA%AC%E5%87%BA%E5%B8%ADg20%E5%B3%B0%E4%BC%9A-%E5%8F%AF%E8%83%BD%E5%BE%88%E6%9C%89%E5%B8%AE%E5%8A%A9-%E5%85%8B%E5%AE%AB-%E6%99%AE%E4%BA%AC%E5%8F%AF%E8%83%BD%E5%8E%BB%EF%BC%8C%E4%B9%9F%E5%8F%AF%E8%83%BD%E4%B8%8D%E5%8E%BB",
+      "source": "法广中文",
+      "summary": "美国总统特朗普表示，预计俄总统普京不会出席今年晚些时候在他位于佛罗里达州多勒尔的度假村举行的二十国集团（G20）峰会，但他同时声称，普京的出席可能会是有用的。周四早些时候，《华盛顿邮报》报导称，俄罗斯…",
+      "image": "https://s.rfi.fr/media/display/cf6d935e-7a64-11f0-906d-005056bf30b7/w:1024/p:16x9/000-69NM4EY.jpg",
+      "published_at": "2026-04-24 21:35",
+      "timestamp": 1777037739
+    },
+    {
+      "title": "美国威胁暂停西班牙北约成员资格后 意大利总理呼吁北约“保持团结”",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260424-%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E6%9A%82%E5%81%9C%E8%A5%BF%E7%8F%AD%E7%89%99%E5%8C%97%E7%BA%A6%E6%88%90%E5%91%98%E8%B5%84%E6%A0%BC%E5%90%8E-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%80%BB%E7%90%86%E5%91%BC%E5%90%81%E5%8C%97%E7%BA%A6-%E4%BF%9D%E6%8C%81%E5%9B%A2%E7%BB%93",
+      "source": "法广中文",
+      "summary": "意大利总理梅洛尼今天在塞浦路斯举行的欧盟领导人峰会上重申，北约必须“保持团结”。此前有媒体报道称，美国威胁可能暂停西班牙北约成员国资格。梅洛尼表示：“我认为北约必须保持团结，这是我们拥有的优势。”",
+      "image": "https://s.rfi.fr/media/display/148c1aae-2524-11f1-98bf-005056bf30b7/w:1024/p:16x9/2026-03-17T155857Z-459381671-RC2STJANV9J1-RTRMADP-3-ITALY-REFERENDUM-MELONI-PODCAST.jpg",
+      "published_at": "2026-04-24 21:33",
+      "timestamp": 1777037626
+    },
+    {
+      "title": "伊朗外长出访伊斯兰堡、马斯喀特和莫斯科 美海军三航母20逾年来首次齐聚中东",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260424-%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E5%87%BA%E8%AE%BF%E4%BC%8A%E6%96%AF%E5%85%B0%E5%A0%A1-%E9%A9%AC%E6%96%AF%E5%96%80%E7%89%B9%E5%92%8C%E8%8E%AB%E6%96%AF%E7%A7%91-%E7%BE%8E%E5%86%9B%E6%96%B9%E5%88%B6%E5%AE%9A%E9%92%88%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E8%A1%8C%E5%8A%A8",
+      "source": "法广中文",
+      "summary": "据伊通社报导，伊朗外交部长阿拉格齐周五将出访，行程包括巴基斯坦首都伊斯兰堡、阿曼首都马斯喀特和俄罗斯首都莫斯科。伊通社称，“此次访问的目的是举行双边磋商，讨论地区当前局势，以及美国和以色列政权对伊朗发…",
+      "image": "https://s.rfi.fr/media/display/54c610a6-3fdd-11f1-9243-005056a90284/w:1024/p:16x9/Capture-3430.jpg",
+      "published_at": "2026-04-24 21:11",
+      "timestamp": 1777036306
+    },
+    {
+      "title": "【视频】切尔诺贝利40年后 清理人员讲述亲历见证",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E8%A7%86%E9%A2%91-%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A940%E5%B9%B4%E5%90%8E-%E6%B8%85%E7%90%86%E4%BA%BA%E5%91%98%E8%AE%B2%E8%BF%B0%E4%BA%B2%E5%8E%86%E8%A7%81%E8%AF%81",
+      "source": "法广中文",
+      "summary": "1986年4月26日凌晨1点23分，位于乌克兰北部前苏联切尔诺贝利核电站4号反应堆发生爆炸。首批抵达事故现场的人员中，有该机组的操作员叶夫根尼·亚努什凯维奇和亚历山大·泽连佐夫，他们不顾危险，参加了最…",
+      "image": "https://s.rfi.fr/media/display/6a8d443e-3fda-11f1-9bf6-005056bfb2b6/w:1024/p:16x9/Capture-3429.jpg",
+      "published_at": "2026-04-24 20:40",
+      "timestamp": 1777034459
+    },
+    {
+      "title": "菲防长：始终愿重置对华关系但取决诚意 解放军编队吕宋岛海域实弹射击演练",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260424-%E8%8F%B2%E9%98%B2%E9%95%BF-%E5%A7%8B%E7%BB%88%E6%84%BF%E9%87%8D%E7%BD%AE%E5%AF%B9%E5%8D%8E%E5%85%B3%E7%B3%BB%E4%BD%86%E5%8F%96%E5%86%B3%E8%AF%9A%E6%84%8F-%E8%A7%A3%E6%94%BE%E5%86%9B%E7%BC%96%E9%98%9F%E5%90%95%E5%AE%8B%E5%B2%9B%E6%B5%B7%E5%9F%9F%E5%AE%9E%E5%BC%B9%E5%B0%84%E5%87%BB%E6%BC%94%E7%BB%83",
+      "source": "法广中文",
+      "summary": "解放军“南部战区”微信公众号周五发文称，“近期，中国人民解放军南部战区组织107编队位菲律宾吕宋岛以东海域开展演训活动，重点进行实弹射击、海空协同、快速机动、航行补给等演练，检验一体化联合作战能力”。…",
+      "image": "https://s.rfi.fr/media/display/d2ee4a2a-3fd8-11f1-9e73-005056a90284/w:1024/p:16x9/Capture-3428.jpg",
+      "published_at": "2026-04-24 20:29",
+      "timestamp": 1777033797
+    },
+    {
+      "title": "费加罗报：白宫公开指责中国秘密且大规模地抄袭美国人工智能",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260424-%E7%99%BD%E5%AE%AB%E5%85%AC%E5%BC%80%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E7%A7%98%E5%AF%86%E4%B8%94%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9C%B0%E6%8A%84%E8%A2%AD%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "source": "法广中文",
+      "summary": "大家好，欢迎收听法国报纸摘要，4月24日星期五上市的法国全国性日报头版各有侧重。《费加罗报》关注伊朗战争动摇了特朗普的总统地位，因为“史诗怒火”行动已演变为“经济怒火”。对特朗普而言，伊朗战争如今纯粹…",
+      "image": "https://s.rfi.fr/media/display/19d0978a-3b16-11f1-acbd-005056bf30b7/w:1024/p:16x9/000-33PE2ZU.jpg",
+      "published_at": "2026-04-24 19:28",
+      "timestamp": 1777030103
+    },
+    {
+      "title": "「漏洞末日」风险：若中国已有强大如Mythos的大语言模型，它会告诉你吗？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260424-%E6%BC%8F%E6%B4%9E%E6%9C%AB%E6%97%A5-%E9%A3%8E%E9%99%A9-%E8%8B%A5%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%9C%89%E5%BC%BA%E5%A4%A7%E5%A6%82mythos%E7%9A%84%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B%EF%BC%8C%E5%AE%83%E4%BC%9A%E5%91%8A%E8%AF%89%E4%BD%A0%E5%90%97",
+      "source": "法广中文",
+      "summary": "Anthropic最新大语言模型Mythos能够识别并利用未知漏洞。因此面对相互毁灭的风险，美国与中国应当携手合作，防止该工具落入不法之手。前Orange硅谷总经理Georges Nahon4月23日…",
+      "image": "https://s.rfi.fr/media/display/be5241ee-12e6-11f1-8d59-005056bfb2b6/w:1024/p:16x9/000-97F66EZ.jpg",
+      "published_at": "2026-04-24 19:20",
+      "timestamp": 1777029645
+    },
+    {
+      "title": "印尼财长：不计划对途经马六甲海峡的船只征收通行费",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260424-%E5%8D%B0%E5%B0%BC%E8%B4%A2%E9%95%BF-%E4%B8%8D%E8%AE%A1%E5%88%92%E5%AF%B9%E9%80%94%E7%BB%8F%E9%A9%AC%E5%85%AD%E7%94%B2%E6%B5%B7%E5%B3%A1%E7%9A%84%E8%88%B9%E5%8F%AA%E5%BE%81%E6%94%B6%E9%80%9A%E8%A1%8C%E8%B4%B9",
+      "source": "法广中文",
+      "summary": "印度尼西亚财政部长普尔巴亚（Purbaya Yudhi Sadewa）周五表示，印尼没有计划对途经马六甲海峡的船只征收通行费。此前，他曾就将这条战略航道转换为收入来源发表言论，引发本周早些时候的争议。",
+      "image": "https://s.rfi.fr/media/display/d0edb662-3fc8-11f1-90d3-005056a90284/w:1024/p:16x9/Capture-3427.jpg",
+      "published_at": "2026-04-24 18:38",
+      "timestamp": 1777027108
+    },
+    {
+      "title": "中国是否踩过伊朗战争“红线” 美国施压下的深度角力",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260424-%E4%B8%AD%E5%9B%BD%E6%98%AF%E5%90%A6%E8%B8%A9%E8%BF%87%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89-%E7%BA%A2%E7%BA%BF-%E7%BE%8E%E5%9B%BD%E6%96%BD%E5%8E%8B%E4%B8%8B%E7%9A%84%E6%B7%B1%E5%BA%A6%E8%A7%92%E5%8A%9B",
+      "source": "法广中文",
+      "summary": "在美国与伊朗冲突持续升温之际，美国总统特朗普公开指控中国可能向伊朗提供军事相关支援，并威胁若相关行为属实，将对中国商品课征高达50%的关税。这一强硬表态不仅加剧美中紧张，也使中国在中东冲突中的角色受到…",
+      "image": "https://s.rfi.fr/media/display/8762d4a2-3dff-11f1-b564-005056bfb2b6/w:1024/p:16x9/2026-04-21T114741Z-1520777565-RC2LTKAQ1R7Y-RTRMADP-3-IRAN-CRISIS-DAILY-LIFE.jpg",
+      "published_at": "2026-04-24 18:29",
+      "timestamp": 1777026571
+    },
+    {
+      "title": "Manus收购案余波继续 中国加强监管美国资本对科技公司投资",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260424-manus%E6%94%B6%E8%B4%AD%E6%A1%88%E4%BD%99%E6%B3%A2%E7%BB%A7%E7%BB%AD-%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BC%BA%E7%9B%91%E7%AE%A1%E7%BE%8E%E5%9B%BD%E8%B5%84%E6%9C%AC%E5%AF%B9ai%E5%85%AC%E5%8F%B8%E6%8A%95%E8%B5%84",
+      "source": "法广中文",
+      "summary": "中国监管机构计划限制包括一些国内最知名的人工智能先驱企业在内的科技公司，在未经政府批准的情况下接受美国资本，这是北京方面对脸书母公司Meta收购人工智能初创公司Manus一事作出的更广泛回应的一部分。",
+      "image": "https://s.rfi.fr/media/display/954b3864-3fc3-11f1-bd5b-005056a97e36/w:1024/p:16x9/Capture-3426.jpg",
+      "published_at": "2026-04-24 18:16",
+      "timestamp": 1777025798
+    },
+    {
+      "title": "韩前总统尹锡悦或因用军用无人机向朝鲜散发传单而再获刑30年",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260424-%E9%9F%A9%E5%89%8D%E6%80%BB%E7%BB%9F%E5%B0%B9%E9%94%A1%E6%82%A6%E6%88%96%E5%9B%A0%E7%94%A8%E5%86%9B%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%90%91%E6%9C%9D%E9%B2%9C%E6%95%A3%E5%8F%91%E4%BC%A0%E5%8D%95%E8%80%8C%E5%86%8D%E8%8E%B7%E5%88%9130%E5%B9%B4",
+      "source": "法广中文",
+      "summary": "已经因为未遂戒严令而被以“叛乱罪”判处终身监禁的韩国前总统尹锡悦可能面对新的刑罚。24日，韩国检察院以“对敌人有利的行为”的罪名，要求判处他30年徒刑，理由是他任下曾下令军用无人机向朝鲜散发传单，制造…",
+      "image": "https://s.rfi.fr/media/display/f1708046-3fbd-11f1-aa53-005056a97e36/w:1024/p:16x9/2026-04-24T031856Z-1488962172-RC2TIFADXB9D-RTRMADP-3-SOUTHKOREA-POLITICS-YOON.jpg",
+      "published_at": "2026-04-24 17:17",
+      "timestamp": 1777022225
+    },
+    {
+      "title": "欧盟对俄制裁多家中企被列入名单 中方将7欧盟实体列入出口管制名单",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260424-%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%816%E5%AE%B6%E4%B8%AD%E4%BC%81%E8%A2%AB%E5%88%97%E5%85%A5%E5%90%8D%E5%8D%95-%E4%B8%AD%E6%96%B9%E5%B0%867%E6%AC%A7%E7%9B%9F%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95",
+      "source": "法广中文",
+      "summary": "欧洲理事会主席科斯塔周四表示，欧盟已批准向乌克兰提供900亿欧元贷款，并通过第20轮对俄罗斯制裁方案。第20轮制裁方案是两年来规模最大的方案，包括制裁名单新增120个个人和实体，新增36项涉及俄石油勘…",
+      "image": "https://s.rfi.fr/media/display/76d22bb8-7800-11ef-bef3-005056a97e36/w:1024/p:16x9/AP24192353358803.jpg",
+      "published_at": "2026-04-24 16:54",
+      "timestamp": 1777020852
+    },
+    {
+      "title": "登頂旺季到來，通往珠穆朗瑪峰的路線卻被巨大冰川碎塊阻擋",
+      "link": "https://www.bbc.com/zhongwen/articles/cly60ed1jpvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "春季攀登旺季將至，珠穆朗瑪峰通往一號營地的路線遭冰川碎塊阻斷，繩索固定延誤數週；「冰瀑醫師」只能等待其融化。即使路線開通，恐因天氣窗口變窄、登山人潮等因素，出現峰頂塞車。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ab0/live/9770ac90-3f0b-11f1-ac78-2112837ce2aa.jpg",
+      "published_at": "2026-04-24 16:13",
+      "timestamp": 1777018436
+    },
+    {
+      "title": "切爾諾貝利、朝韓邊境，這些無人區如何成為野生動物天堂？",
+      "link": "https://www.bbc.com/zhongwen/articles/c62jy4yz9lpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "過去數十年來，地球上的某些地區出現了所謂的「意外野化」現象，因為那裡幾乎沒有人類活動。這能為自然保育帶來什麼啟示？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16c4/live/168e39e0-3f96-11f1-bf82-87935e85974d.jpg",
+      "published_at": "2026-04-24 12:30",
+      "timestamp": 1777005025
+    },
+    {
+      "title": "白宮備忘錄指中國公司通過「蒸餾」活動大規模竊取美國AI技術",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgk9yw5x7yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "所謂的「蒸餾」活動通常來自一些公司。這些公司往往會針對特定的AI聊天機器人或工具，運作數以千計的個人帳號，使其看起來就像一般使用者。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a85/live/6b1b6930-3f53-11f1-b55d-0f258dce1735.jpg",
+      "published_at": "2026-04-24 12:17",
+      "timestamp": 1777004272
+    },
+    {
+      "title": "美国司法部计划撤销数百名归化公民身份",
+      "link": "https://cn.nytimes.com/world/20260424/justice-dept-citizens-denaturalization/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "司法部已锁定384名归化美国公民，计划撤销他们的公民身份，具体原因尚不清楚。特朗普政府旨在落实其加速撤销归化公民身份的计划，以此作为打击非法移民的一部分。 Kent J. Edwards/Reuter…",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22dc-denaturalization-mwgp/22dc-denaturalization-mwgp-articleLarge.jpg",
+      "published_at": "2026-04-24 11:48",
+      "timestamp": 1777002515
+    },
+    {
+      "title": "特朗普接受BBC訪問：英國國王訪美「絕對」有助修復英美關係",
+      "link": "https://www.bbc.com/zhongwen/articles/cd7jq9grqqyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "在接受BBC北美編輯的電話專訪時，這位總統談及英國國王下週的訪問行程，以及他與英國首相之間的關係。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0c8c/live/8608aac0-3f29-11f1-b55d-0f258dce1735.jpg",
+      "published_at": "2026-04-24 11:25",
+      "timestamp": 1777001130
+    },
+    {
+      "title": "库克带苹果走向辉煌，也给习近平帮了大忙",
+      "link": "https://cn.nytimes.com/opinion/20260424/apple-tim-cook-outsourcing-china/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "库克任内将苹果几乎所有制造业务都整合到了中国。在中国转变为美国最激烈的对手之际，他的选择显著提升了中国的经济地位和技术实力， Manuel Orbegozo/Reuters",
+      "image": "https://static01.nyt.com/images/2026/04/23/multimedia/23mcgee-tbzl/23mcgee-tbzl-articleLarge-v2.jpg",
+      "published_at": "2026-04-24 10:18",
+      "timestamp": 1776997107
+    },
+    {
+      "title": "伊朗战争是如何从全面轰炸转向美伊意志较量的",
+      "link": "https://cn.nytimes.com/world/20260424/strait-iran-willpower/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "随着停火协议无限期延长，这场战争已从全面轰炸转变为一场不稳定且代价高昂的对峙。伊朗决心将控制霍尔木兹海峡作为筹码，而特朗普也陷入了战略困境。 Arash Khamooshi for The New Y…",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/23dc-prexy/21JPhormuz-choke-print-hwzb-articleLarge.jpg",
+      "published_at": "2026-04-24 09:40",
+      "timestamp": 1776994856
+    },
+    {
+      "title": "从一人决策到集体领导：揭秘伊朗新政权权力结构",
+      "link": "https://cn.nytimes.com/world/20260423/iran-new-leadership-generals/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "老哈梅内伊担任最高领袖期间对伊朗所有事务拥有绝对决策权。他的儿子则与革命卫队指挥官及其盟友组成了一个治理集体。如今，权力掌握在强硬派军方手中。 Arash Khamooshi for The New …",
+      "image": "https://static01.nyt.com/images/2026/04/23/multimedia/23int-iran-leaders-1-bmth/23int-iran-leaders-1-bmth-articleLarge.jpg",
+      "published_at": "2026-04-24 09:14",
+      "timestamp": 1776993256
+    },
+    {
+      "title": "中国发布深海矿产地图集，凸显海底资源开发雄心",
+      "link": "https://cn.nytimes.com/climate/20260424/china-seabed-mining-maps-rare-earths/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "专家表示，这些地图能让中国军方在具有重要战略意义的海域全面了解海底的情况，一旦发生潜艇战，将为其带来优势。图集涵盖的海域也包括与邻国存在领土主张冲突的区域。 Liu Shiping/Xinhua, v…",
+      "image": "https://static01.nyt.com/images/2026/04/22/climate/00cli-CHINA-MAPS/00cli-CHINA-MAPS-articleLarge.jpg",
+      "published_at": "2026-04-24 09:05",
+      "timestamp": 1776992749
+    },
+    {
+      "title": "Labubu服装被检测出新疆棉，泡泡玛特在美国或面临处罚",
+      "link": "https://cn.nytimes.com/business/20260424/labubu-cotton-banned-forced-labor-law-xinjiang-china/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "美国政府认定新疆与强迫劳动存在关联，已禁止进口新疆棉。若泡泡玛特被认定违反《维吾尔强迫劳动预防法》，可能会被列入黑名单，导致其所有产品被禁止进口。 Jared Soares for The New Y…",
+      "image": "https://static01.nyt.com/images/2026/04/22/multimedia/22dc-labubu-cotton-mgjk/22dc-labubu-cotton-mgjk-articleLarge.jpg",
+      "published_at": "2026-04-24 08:35",
+      "timestamp": 1776990950
+    },
+    {
+      "title": "GDP增長超預期，消費冷感揮之不去，中國經濟「溫差」何來？",
+      "link": "https://www.bbc.com/zhongwen/articles/c2ev9nzp99yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "疫情以來，中國經濟一直困於一個公認的結構性困境：供給強於需求，外需好於內需，出口一直被視為拉動增長的最重要引擎。如今內需貢獻率驟然躍至近85%，這個結論，與近年來經濟學家的分析、外界的普遍評價，乃至普…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/aa80/live/74f8f0d0-3ef4-11f1-95e9-c9f2031e3375.jpg",
+      "published_at": "2026-04-24 08:26",
+      "timestamp": 1776990399
+    }
+  ]
+}
