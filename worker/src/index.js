@@ -268,12 +268,24 @@ function layout(title, body, extraHead = "") {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${title}</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,${FAVICON}">
 <style>${BASE_CSS}</style>
 ${extraHead}
 </head>
 <body>${body}</body>
 </html>`;
 }
+
+// Inline SVG favicon: dark rounded square + amber diamond. Single quotes
+// inside the SVG so the whole thing fits in an HTML href attribute, and
+// `#` chars are %23-escaped because data: URIs treat `#` as a fragment.
+const FAVICON =
+  "%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2032%2032'%3E" +
+  "%3Crect%20width='32'%20height='32'%20rx='7'%20fill='%230a0a0a'/%3E" +
+  "%3Crect%20x='0.75'%20y='0.75'%20width='30.5'%20height='30.5'%20rx='6.25'%20fill='none'%20stroke='%23ff9f0a'%20stroke-width='1.5'/%3E" +
+  "%3Cpath%20d='M16%207L25%2016L16%2025L7%2016Z'%20fill='%23ff9f0a'/%3E" +
+  "%3Cpath%20d='M16%2012L20%2016L16%2020L12%2016Z'%20fill='%230a0a0a'/%3E" +
+  "%3C/svg%3E";
 
 const BASE_CSS = `
   :root {
