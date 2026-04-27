@@ -788,6 +788,14 @@ function hubPage(user) {
       const countInfo = document.getElementById('countInfo');
       const emptyMsg = document.getElementById('emptyMsg');
 
+      // Defeat Chrome/Safari autofill: they ignore autocomplete=off and stuff
+      // the saved username into any text input on this domain. Clear the
+      // search box immediately and again after the autofill pass (~50–200ms).
+      search.value = '';
+      setTimeout(() => { search.value = ''; }, 50);
+      setTimeout(() => { search.value = ''; }, 250);
+      setTimeout(() => { search.value = ''; }, 600);
+
       let state = { articles: [], source: '', q: '', sort: 'newest' };
 
       async function loadDates() {
