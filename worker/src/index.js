@@ -938,6 +938,18 @@ function hubPage(user) {
       sortSel.onchange = () => { state.sort = sortSel.value; render(); };
       search.oninput  = () => { state.q = search.value; render(); };
 
+      // Card / hero click → open article. Defensive delegate: works even if
+      // some browser config blocks <a target="_blank">. Honors modifier keys
+      // (Cmd/Ctrl/middle-click → background tab), default click → new tab.
+      document.addEventListener('click', e => {
+        const link = e.target.closest('.card, .hero-main, .hero-side, .hub-ticker a');
+        if (!link || !link.href) return;
+        // Let modifier-key clicks fall through to native browser behaviour.
+        if (e.metaKey || e.ctrlKey || e.shiftKey || e.button === 1) return;
+        e.preventDefault();
+        window.open(link.href, '_blank', 'noopener,noreferrer');
+      });
+
       // logout
       document.getElementById('btnLogout').onclick = async () => {
         await fetch('/api/logout', { method: 'POST' });
