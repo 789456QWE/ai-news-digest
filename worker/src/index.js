@@ -492,7 +492,9 @@ function hubPage(user) {
       </div>
       <div class="hub-subbar">
         <select id="dateSel" class="hub-select"></select>
-        <input id="search" class="hub-input" placeholder="搜索标题 / 摘要…">
+        <input id="search" class="hub-input" placeholder="搜索标题 / 摘要…"
+               type="search" name="news-query" autocomplete="off"
+               autocorrect="off" autocapitalize="off" spellcheck="false">
         <select id="sortSel" class="hub-select">
           <option value="newest">最新优先</option>
           <option value="oldest">最早优先</option>
