@@ -13,6 +13,7 @@ const BUILD = "v6";
 
 const SESSION_COOKIE = "hub_session";
 const SESSION_TTL_SEC = 60 * 60 * 24 * 30; // 30 days
+const PASSWORD_PBKDF2_ITERATIONS = 25000;
 
 // ─── Entry ───────────────────────────────────────────────────────────────────
 export default {
@@ -197,18 +198,17 @@ function randomToken() {
   return Array.from(bytes, b => b.toString(16).padStart(2, "0")).join("");
 }
 
-// PBKDF2-SHA256 password hashing, 150k iterations
 async function hashPassword(password, saltBytes) {
   const salt = saltBytes || crypto.getRandomValues(new Uint8Array(16));
   const km = await crypto.subtle.importKey(
     "raw", new TextEncoder().encode(password), { name: "PBKDF2" }, false, ["deriveBits"]
   );
   const bits = await crypto.subtle.deriveBits(
-    { name: "PBKDF2", salt, iterations: 25000, hash: "SHA-256" }, km, 256
+    { name: "PBKDF2", salt, iterations: PASSWORD_PBKDF2_ITERATIONS, hash: "SHA-256" }, km, 256
   );
   const hashB64 = b64encode(new Uint8Array(bits));
   const saltB64 = b64encode(salt);
-  return `pbkdf2$25000$${saltB64}$${hashB64}`;
+  return `pbkdf2$${PASSWORD_PBKDF2_ITERATIONS}$${saltB64}$${hashB64}`;
 }
 
 async function verifyPassword(password, stored) {
@@ -439,13 +439,11 @@ function registerPage() {
     </div>
   </div>
   <script>
-    console.log('[news-hub] register page loaded, build=${BUILD}');
     const form = document.getElementById('f');
     const errEl = document.getElementById('err');
     const btn = document.getElementById('submitBtn');
     form.addEventListener('submit', async e => {
       e.preventDefault();
-      console.log('[news-hub] submit fired');
       errEl.textContent = '';
       btn.disabled = true; btn.textContent = '提交中...';
       const fd = new FormData(e.target);
@@ -455,13 +453,11 @@ function registerPage() {
           body: JSON.stringify(Object.fromEntries(fd))
         });
         const text = await res.text();
-        console.log('[news-hub] response', res.status, text);
         let data = null;
         try { data = JSON.parse(text); } catch {}
         if (res.ok) { location.href = '/'; return; }
         errEl.textContent = (data && data.error) ? data.error : ('['+res.status+'] '+(text||'empty body').slice(0,160));
       } catch (err) {
-        console.error('[news-hub] fetch error', err);
         errEl.textContent = '网络错误：' + err.message;
       } finally {
         btn.disabled = false; btn.textContent = '创建账号';
@@ -481,7 +477,7 @@ function hubPage(user) {
           <span class="hub-brand-ver mono">${BUILD}</span>
         </div>
         <nav class="hub-nav">
-          <a href="#all" data-src="">全部</a>
+          <a href="#all" data-src="" id="allNav">全部</a>
           <span class="hub-nav-dyn" id="srcNav"></span>
         </nav>
         <div class="hub-user">
@@ -781,6 +777,7 @@ function hubPage(user) {
       const grid = document.getElementById('grid');
       const hero = document.getElementById('hero');
       const ticker = document.getElementById('ticker');
+      const allNav = document.getElementById('allNav');
       const srcNav = document.getElementById('srcNav');
       const dateSel = document.getElementById('dateSel');
       const sortSel = document.getElementById('sortSel');
@@ -830,6 +827,7 @@ function hubPage(user) {
 
       function buildSourceNav() {
         const sources = Array.from(new Set(state.articles.map(a => a.source))).sort();
+        if (state.source && !sources.includes(state.source)) state.source = '';
         srcNav.innerHTML = sources.map(s =>
           '<button data-src="'+escAttr(s)+'">'+escHtml(s)+'</button>'
         ).join('');
@@ -852,6 +850,7 @@ function hubPage(user) {
         list.sort((x,y) => state.sort === 'oldest' ? x.timestamp - y.timestamp : y.timestamp - x.timestamp);
 
         // update source nav active state
+        allNav.classList.toggle('active', !state.source);
         srcNav.querySelectorAll('button').forEach(b => {
           b.classList.toggle('active', b.dataset.src === state.source);
         });
@@ -947,6 +946,11 @@ function hubPage(user) {
 
       sortSel.onchange = () => { state.sort = sortSel.value; render(); };
       search.oninput  = () => { state.q = search.value; render(); };
+      allNav.onclick = e => {
+        e.preventDefault();
+        state.source = '';
+        render();
+      };
 
       // Card / hero click → open article. Defensive delegate: works even if
       // some browser config blocks <a target="_blank">. Honors modifier keys
@@ -984,7 +988,7 @@ function hubPage(user) {
         try {
           const r = await fetch('/api/change-password', {
             method: 'POST', headers: {'Content-Type':'application/json'},
-            body: JSON.stringify({ old_password: pwOld.value, new_password: pwNew.value })
+            body: JSON.stringify({ current_password: pwOld.value, new_password: pwNew.value })
           });
           const data = await r.json();
           if (!r.ok) { pwErr.textContent = data.error || '修改失败'; return; }

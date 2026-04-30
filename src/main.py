@@ -384,21 +384,23 @@ def auto_publish(repo_root: Path, date_str: str) -> None:
         if not has_remote:
             return
 
-        # Only stage output artifacts we care about
+        # Only stage and commit generated output artifacts.
         subprocess.run(
             ["git", "-C", str(repo_root), "add", "output/"],
             check=True,
         )
-        status = subprocess.run(
-            ["git", "-C", str(repo_root), "status", "--porcelain"],
-            capture_output=True, text=True, check=True,
-        ).stdout.strip()
-        if not status:
+        diff = subprocess.run(
+            ["git", "-C", str(repo_root), "diff", "--cached", "--quiet", "--", "output/"],
+            capture_output=True, text=True,
+        )
+        if diff.returncode == 0:
             print("（无内容变化，跳过推送）")
             return
+        if diff.returncode != 1:
+            raise RuntimeError(diff.stderr.strip() or "git diff failed")
 
         subprocess.run(
-            ["git", "-C", str(repo_root), "commit", "-m", f"update digest {date_str}"],
+            ["git", "-C", str(repo_root), "commit", "-m", f"update digest {date_str}", "--", "output/"],
             check=True, capture_output=True,
         )
         push = subprocess.run(

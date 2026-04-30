@@ -2,7 +2,7 @@ name = "ai-news-digest"
 main = "worker/src/index.js"
 compatibility_date = "2025-01-01"
 
-# Custom domain — auto-bound on deploy. Requires fncymc.com to already
+# Custom domain — auto-bound on deploy. Requires fntymc.com to already
 # be a Cloudflare zone in this account.
 [[routes]]
 pattern = "ainews.fntymc.com"
