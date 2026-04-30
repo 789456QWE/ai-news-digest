@@ -1,99 +1,63 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30 10:32:32",
+  "generated_at": "2026-04-30 10:35:15",
   "sources": [
-    "Odaily 星球日报"
+    "纽约时报中文"
   ],
   "articles": [
     {
-      "title": "Upbit将上线MEGA韩元对",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478936",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据官方公告，Upbit 将上线 MEGA 韩元对。",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:31",
-      "timestamp": 1777516304
+      "title": "白宫国宴宾客名单的秘密：受邀对象映射出怎样的美国？",
+      "link": "https://cn.nytimes.com/usa/20260430/trump-white-house-state-dinner/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "特朗普设国宴招待英国国王和王后，宾客中包括多位美国亿万富翁、六名保守派最高法院大法官，以及总统的朋友。名单中没有民主党政界人士，也没有英国文化界人士。 Kenny Holston/The New Yo…",
+      "image": "https://static01.nyt.com/images/2026/04/29/multimedia/29dc-guestlist-fvkz/29dc-guestlist-fvkz-articleLarge.jpg",
+      "published_at": "2026-04-30 10:28",
+      "timestamp": 1777516098
     },
     {
-      "title": "蚂蚁数科于以太坊全球基准评测EthProofs位列第一",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478935",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 近日，在以太坊发起的全球基准评测 EthProofs 中，蚂蚁数科自主研发的零知识证明虚拟机 zkDTVM 在统一硬件与测试规则下，将区块证明速度压缩至 3.7 秒，打破此前业…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:15",
-      "timestamp": 1777515339
+      "title": "“美国人显然没有战略”：德国总理言论激怒特朗普",
+      "link": "https://cn.nytimes.com/world/20260430/trump-merz-iran/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "上任以来，默茨一直小心经营与特朗普的友谊，但伊朗战争让他在政治上付出了代价。如今，越来越多外国领导人发现，自己必须在安抚美国总统和本国选民之间做出选择。 Annegret Hilse/Reuters …",
+      "image": "https://static01.nyt.com/images/2026/04/29/multimedia/29int-Germany-Trump-jmwg/29int-Germany-Trump-jmwg-articleLarge.jpg",
+      "published_at": "2026-04-30 10:04",
+      "timestamp": 1777514664
     },
     {
-      "title": "FalconX相关巨鲸20倍杠杆做多约2160万美元CL",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478934",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 Onchain Lens 监测，一与 FalconX 相关地址向 HyperLiquid 存入 1194 万美元 USDC，并将其 CL 多单（20 倍杠杆）增至 2020…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:08",
-      "timestamp": 1777514891
+      "title": "Manus交易受阻：中国初创公司与硅谷渐行渐远",
+      "link": "https://cn.nytimes.com/technology/20260430/china-silicon-valley-manus/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "十年前，硅谷投资者竞相押注中国的初创公司。如今，这样的情况已不复存在。中国科技行业已逐渐疏远美国资本，而北京当局的介入则进一步加深了这种分裂。 Ian C. Bates for The New Yor…",
+      "image": "https://static01.nyt.com/images/2026/04/29/multimedia/29biz-china-tech-split-01-jgqf/29biz-china-tech-split-01-jgqf-articleLarge.jpg",
+      "published_at": "2026-04-30 09:23",
+      "timestamp": 1777512194
     },
     {
-      "title": "WLFI跌破0.0615美元，24H跌幅超13%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478933",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 OKX 行情显示，WLFI 跌破 0.0615 美元，现报 0.0637 美元，24H 跌幅超 13%。 此前消息： WLFI代币解锁治理提案开启7天限时投票",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:03",
-      "timestamp": 1777514595
+      "title": "中国压力下，巴拉圭和台湾的友情还能维持多久？",
+      "link": "https://cn.nytimes.com/world/20260430/paraguay-taiwan-china-pena/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "巴拉圭是当今南美洲唯一一个与台湾保持邦交的国家，并已成为拉丁美洲最为反华的国家之一。但在中国的压力下，越来越多的巴拉圭人出于经济利益考量呼吁政府改变立场。",
+      "image": "https://static01.nyt.com/images/2026/04/24/24visualUploader-65815-cover/24visualUploader-65815-cover-videoLarge.jpg",
+      "published_at": "2026-04-30 07:52",
+      "timestamp": 1777506769
     },
     {
-      "title": "Polymarket TVL突破5.3亿美元，创历史新高",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478932",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 DefiLlama 数据显示，Polymarket TVL 突破 5.3 亿美元，达 5.37 美元，创历史新高。此外，平台近 7 日手续费收入超 800 万美元",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:48",
-      "timestamp": 1777513695
+      "title": "习近平和普京们真的能实现“永生”吗？",
+      "link": "https://cn.nytimes.com/world/20260429/eternal-life-longevity-world-leaders/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "从威权主义领导人到硅谷富豪，世界上一些最有权势的人现在想要的不仅仅是永生。但就目前而言，没有人能逃避死亡的必然性，这种伟大又可怕的民主谁也没能改变。 Illustration by Tim Entho…",
+      "image": "https://static01.nyt.com/images/2026/05/10/magazine/10Mag-health-eternal-01/10Mag-health-eternal-01-articleLarge-v2.jpg",
+      "published_at": "2026-04-29 12:57",
+      "timestamp": 1777438660
     },
     {
-      "title": "巨鲸加仓约80000枚ETH多单，仓位规模达1.82亿美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478931",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据加密分析师 Ai 姨@ai_9684xtpa 监测，一名此前曾做多约 12 万枚 ETH 的交易者近期再度加仓，目前持有约 80000 枚 ETH 多单，仓位规模约 1.82…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:46",
-      "timestamp": 1777513610
-    },
-    {
-      "title": "WLFI关联地址出售8500枚ETH，均价约2268美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478930",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 Lookonchain 监测，一与 World Liberty Financial（WLFI）相关地址于 8 小时前以约 2268 美元价格出售 8500 枚 ETH，换得…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:37",
-      "timestamp": 1777513062
-    },
-    {
-      "title": "麻吉大哥多单再遭部分强平，周内亏损近400万美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478929",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据链上数据，巨鲸麻吉在市场回调中多单再遭部分强平，周内由盈转亏。其在凌晨行情下跌期间减仓部分 ETH 与 BTC 多单，但仍有部分仓位遭强制平仓。 数据显示，其当前整体持仓规模…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:36",
-      "timestamp": 1777512986
-    },
-    {
-      "title": "星球早讯",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478926",
-      "source": "Odaily 星球日报",
-      "summary": "1. 美联储如期维持利率不变； 2. 美联储利率决策和政策声明自 1992 年 10 月以来获得最多反对票； 3. 美联储主席鲍威尔：在司法部调查彻底结束之前不会离开，将在 5 月 15 日后继续留任…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:30",
-      "timestamp": 1777512600
-    },
-    {
-      "title": "Polymarket“鲍威尔5月30日前卸任美联储理事”概率降至9%，24小时下跌25%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478928",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily Seer 先知频道 监测显示， Polymarket“鲍威尔 5 月 30 日前卸任美联储理事”概率暴跌，现已降至 9%，24 小时下跌 25%；“鲍威尔 12 月 31 日前卸任美联储…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 09:11",
-      "timestamp": 1777511503
+      "title": "暗杀未遂如何改变美国总统的命运",
+      "link": "https://cn.nytimes.com/opinion/20260429/president-assassination-politics/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "针对在任总统的暗杀企图往往会加剧其政治困境，使他们与公众更加疏远。负面评价往往会变得更加根深蒂固，总统的颓势难以得到挽救。 Tom Brenner/Associated Press",
+      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28dallek-dallek-fvbk/28dallek-dallek-fvbk-articleLarge.jpg",
+      "published_at": "2026-04-29 12:08",
+      "timestamp": 1777435712
     }
   ]
 }
