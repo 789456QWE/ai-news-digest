@@ -1,6 +1,6 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30 12:02:21",
+  "generated_at": "2026-04-30 16:23:18",
   "sources": [
     "Odaily 星球日报",
     "法广中文",
@@ -8,94 +8,121 @@
   ],
   "articles": [
     {
-      "title": "摩根士丹利：预计美联储将在2026年维持利率不变",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478952",
+      "title": "Hyperliquid某地址持有1358万美元原油空单，已浮亏180万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478982",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 4 月 30 日，摩根士丹利：预计美联储将在 2026 年维持利率不变，此前预测为九月和十二月将会降息。目前预计美联储将在 2027 年 1 月和 3 月各降息 25 个基点。…",
+      "summary": "Odaily星球日报讯 据链上分析师 Ai 姨监测，地址 (0x60a...685f6) 十分钟前向 Hyperliquid 追加 120 万枚 USDC 保证金，以提高原油空单的爆仓价。目前该地址持…",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:58",
-      "timestamp": 1777521526
+      "published_at": "2026-04-30 16:22",
+      "timestamp": 1777537378
     },
     {
-      "title": "以太坊现货ETF昨日总净流出2180.19万美元，贝莱德ETHA净流出1316.97万美元居首",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478951",
+      "title": "Tether在Tron网络增发10亿枚USDT",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478981",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 根据 SoSoValue 数据，昨日（美东时间 4 月 28 日）以太坊现货 ETF 总净流出 2180.19 万美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Bl…",
+      "summary": "Odaily星球日报讯 据 Lookonchain 监测，Tether 在波场网络增发 10 亿枚 USDT。",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:58",
-      "timestamp": 1777521501
+      "published_at": "2026-04-30 16:05",
+      "timestamp": 1777536355
     },
     {
-      "title": "比特币现货ETF昨日总净流出1.38亿美元，持续3日净流出",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478950",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 根据 SoSoValue 数据，昨日（美东时间 4 月 29 日）比特币现货 ETF 总净流出 1.38 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ET…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:58",
-      "timestamp": 1777521483
+      "title": "全球新闻自由25年来最差 中港排「黑榜」名次不变 但得分均下降",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260430-%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B125%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%B7%AE-%E4%B8%AD%E6%B8%AF%E6%8E%92-%E9%BB%91%E6%A6%9C-%E5%90%8D%E6%AC%A1%E4%B8%8D%E5%8F%98-%E4%BD%86%E5%BE%97%E5%88%86%E5%9D%87%E4%B8%8B%E9%99%8D",
+      "source": "法广中文",
+      "summary": "在全球新闻自由恶化以至无国界记者组织的自由指数首次出现过半国家的新闻自由程度落入「状况艰难」或「状况恶劣」类别之际，香港和中国的最新排名均分别维持在140位和178位，但得分均告轻微下跌；而两岸三地中…",
+      "image": "https://s.rfi.fr/media/display/6d97c79a-446b-11f1-8014-005056bfb2b6/w:1024/p:16x9/30-4-%E4%BB%8A%E5%B9%B4%E7%9A%84%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B1%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%BE-%E6%BB%A1%E5%9C%B0%E7%BA%A2-%E6%97%A0%E5%9B%BD%E7%95%8C%E8%AE%B0%E8%80%85%E7%BB%84%E7%BB%87%E6%8C%87%E6%98%AF%E5%85%A8%E7%90%83%E6%96%B0%E9%97%BB%E8%87%AA%E7%94%B125%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%B7%AE%E7%9A%84%E4%B8%80%E5%B9%B4-RSF%E5%9B%BE%E7%89%87.jpg",
+      "published_at": "2026-04-30 16:03",
+      "timestamp": 1777536220
     },
     {
-      "title": "Bitget已上线U本位AIGENSYN、PROS永续合约，最高支持20倍杠杆",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478948",
+      "title": "Polymarket“Printr公开销售总募集资金超300万美元”的概率跌至15%，日内跌超80%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478980",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据官方公告，Bitget 宣布已上线 U 本位 AIGENSYN、PROS 永续合约，最高杠杆倍数均为 20 倍。合约交易 BOT 将同步开放。",
+      "summary": "Odaily Seer 先知频道 监测显示，Polymarket 上“Printr 公开销售总募集资金超 300 万美元”的概率跌至 15%，日内跌超 80%，交易量近 440 万美元。 该市场将依据…",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:18",
-      "timestamp": 1777519128
+      "published_at": "2026-04-30 16:01",
+      "timestamp": 1777536101
     },
     {
-      "title": "国际原油价格走高WTI原油站上111美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478946",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据Gate数据，美、布两油短线走高，WTI 原油一度向上触及 111 美元/桶，日内涨 0.74%。布伦特原油站上 112 美元/桶，日内一度涨超 1%。",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:16",
-      "timestamp": 1777518990
+      "title": "港国安法致工会碎片化 近三成工会人数仅「个位」 工人受压诉无门",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260430-%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E8%87%B4%E5%B7%A5%E4%BC%9A%E7%A2%8E%E7%89%87%E5%8C%96-%E8%BF%91%E4%B8%89%E6%88%90%E5%B7%A5%E4%BC%9A%E4%BA%BA%E6%95%B0%E4%BB%85-%E4%B8%AA%E4%BD%8D-%E5%B7%A5%E4%BA%BA%E5%8F%97%E5%8E%8B%E8%AF%89%E6%97%A0%E9%97%A8",
+      "source": "法广中文",
+      "summary": "一份报告显示，香港实施国安法五年来，香港工会数目虽有增加，但实情是工会被迫解散後大幅缩少会员人数「个位化」所致，以致工会总人数已大幅减少一成七。在工会碎片化的情况下，劳工权利大受压榨，以致工资增长放缓…",
+      "image": "https://s.rfi.fr/media/display/f84610a6-4469-11f1-8c28-005056a97e36/w:1024/p:16x9/30-4-%E5%B7%A5%E4%B8%9A%E4%BC%A4%E4%BA%A1%E6%9D%83%E7%9B%8A%E4%BC%9A%E5%91%A8%E4%BA%8C-28%E6%97%A5-%E8%8E%B7%E5%87%86%E5%88%B0%E9%A6%99%E6%B8%AF%E6%94%BF%E5%BA%9C%E6%80%BB%E9%83%A8%E5%89%8D%E8%AF%B7%E6%84%BF-%E8%A6%81%E6%B1%82%E5%B0%86%E8%AF%A5%E6%97%A5%E8%AE%A2%E4%B8%BA%E5%B7%A5%E6%AE%87%E6%97%A5-%E6%98%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E5%BE%8C%E7%BD%95%E8%A7%81%E8%8E%B7%E6%89%B9%E7%9A%84%E5%85%AC%E5%BC%80%E8%AF%B7%E6%84%BF-%E4%BD%86%E4%BA%BA%E6%95%B0%E4%BA%A6%E5%8F%AA%E6%9C%8913%E4%BA%BA-%E9%A6%99%E6%B8%AF%E5%B7%A5%E6%9D%83%E4%BC%9A%E8%84%B8%E4%B9%A6%E5%9B%BE%E7%89%87.jpg",
+      "published_at": "2026-04-30 15:56",
+      "timestamp": 1777535764
     },
     {
-      "title": "BIO上涨突破0.041美元，日内涨超23%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478945",
+      "title": "Gate US将于Consensus Miami期间举办高端闭门酒会，聚焦机构级加密基础设施",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478979",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 OKX 数据，BIO 上涨突破 0.041 美元，现报 0.0409 美元，日内涨超 23%。",
+      "summary": "Odaily星球日报讯 Gate US 将于 5 月 5 日联合业内领先的区块链安全机构 Halborn，于 Consensus Miami 期间举办 VIP Institutional Soirée…",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:11",
-      "timestamp": 1777518674
+      "published_at": "2026-04-30 15:55",
+      "timestamp": 1777535755
     },
     {
-      "title": "Altman称对UBI信心减弱，WLD较高点跌超98%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478944",
+      "title": "现货黄金向上触及4600美元/盎司，日内涨1.25%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478978",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 OpenAI 首席执行官 Sam Altman 在播客中表示，其对全民基本收入（UBI）的信念较以往有所减弱，更倾向于通过“集体所有权”等方式分配 AI 带来的收益。 与此同时…",
+      "summary": "Odaily星球日报讯 Gate 数据显示，现货黄金向上触及 4600 美元/盎司，日内涨 1.25%。",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 11:05",
-      "timestamp": 1777518359
+      "published_at": "2026-04-30 15:55",
+      "timestamp": 1777535712
     },
     {
-      "title": "BITHUMB将上线MEGA韩元对",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478943",
+      "title": "Printr创始人宣布全额退还社区募资",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478977",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据官方公告，BITHUMB 将上线 MEGA 韩元对。",
+      "summary": "Odaily星球日报讯 Printr 创始人发文宣布辞去 CEO 职务，COO 兼 GTM 负责人 Lennon 将即刻接任 CEO，联合创始人 Lea 继续担任 CTO。其本人将转任顾问角色。 同时…",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:58",
-      "timestamp": 1777517932
+      "published_at": "2026-04-30 15:49",
+      "timestamp": 1777535397
     },
     {
-      "title": "美媒：特朗普周四将听取对伊行动新方案简报 包括强力打击和部分控制霍尔木兹海峡",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478940",
+      "title": "MGBX将上线AIGENSYNUSDT、CHIPUSDT永续合约交易对",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478976",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 两名知情人士表示，特朗普计划于周四听取美国中央司令部司令布拉德·库珀的简报，内容涉及针对伊朗潜在军事行动的新计划。此次简报表明，特朗普正认真考虑恢复大规模作战行动，以打破谈判僵…",
+      "summary": "Odaily星球日报讯 据官方消息，MGBX 将于 2026 年 4 月 30 日 18：00（SGT） 上线 AIGENSYNUSDT、CHIPUSDT 永续合约交易对。 交易开放时间：2026 年…",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:46",
-      "timestamp": 1777517168
+      "published_at": "2026-04-30 15:41",
+      "timestamp": 1777534871
     },
     {
-      "title": "巨鲸近两月持续增持HYPE，累计买入47.27万枚",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478939",
+      "title": "BitMartQMegaETH( MEGA) 主题",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478975",
       "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 Lookonchain 监测，一名巨鲸在过去两个月持续买入 HYPE。自 3 月 1 日以来，该地址已从 Bybit 与 Kraken 提取 47.27 万枚 HYPE，累…",
+      "summary": "Odaily QQ, BitMart QQ 4 月 30 日 19:00 (东八区时间) 上线 MegaETH(MEGA), 此次上线开通MEGA/USDT 交易对。 MegaETH 是首.",
       "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:44",
-      "timestamp": 1777517043
+      "published_at": "2026-04-30 15:35",
+      "timestamp": 1777534533
+    },
+    {
+      "title": "CryptoQuant：BTC当前回撤幅度仍高于此前恐慌抛售低位",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478974",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 CryptoQuant 在 X 平台发文表示，BTC 当前回撤幅度仍高于此前恐慌抛售低位。这并不能保证进一步下跌，但当前状况与过去的周期性低点仍存在实质性差异。",
+      "image": "https://oss.odaily.top/share-icon-150.png",
+      "published_at": "2026-04-30 15:32",
+      "timestamp": 1777534349
+    },
+    {
+      "title": "Strive旗下SATA预计已筹集足够资金购买184枚BTC",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478973",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Strive 旗下 SATA 昨日预计已筹集足够资金购买 184 枚 BTC。Strive 为首家完全遵循 Saylor 比特币财库策略的公司。（BitcoinTreasuri…",
+      "image": "https://oss.odaily.top/share-icon-150.png",
+      "published_at": "2026-04-30 15:23",
+      "timestamp": 1777533837
+    },
+    {
+      "title": "李连杰谈人生中意义重大的10件事",
+      "link": "https://cn.nytimes.com/culture/20260430/jet-li-beyond-life-death/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "土豆丝、李时珍、速溶咖啡……李连杰分享了对他意义重大的10件事。他新近出版了回忆录《超越生死》，不仅回顾了自己的演艺生涯，也探讨了修习藏传佛教的自我发现之旅。 Jesse Grant/Getty Im…",
+      "image": "https://static01.nyt.com/images/2026/05/03/arts/03Myten-Li/03Myten-Li-articleLarge.jpg",
+      "published_at": "2026-04-30 12:52",
+      "timestamp": 1777524728
     },
     {
       "title": "白宫国宴宾客名单的秘密：受邀对象映射出怎样的美国？",
@@ -128,7 +155,7 @@
       "title": "中国压力下，巴拉圭和台湾的友情还能维持多久？",
       "link": "https://cn.nytimes.com/world/20260430/paraguay-taiwan-china-pena/?utm_source=RSS",
       "source": "纽约时报中文",
-      "summary": "巴拉圭是当今南美洲唯一一个与台湾保持邦交的国家，并已成为拉丁美洲最为反华的国家之一。但在中国的压力下，越来越多的巴拉圭人出于经济利益考量呼吁政府改变立场。",
+      "summary": "巴拉圭是南美唯一与台湾保持邦交的国家，并已成为拉丁美洲最反华的国家之一。但面临北京压力，越来越多的巴拉圭人出于经济利益考量呼吁政府改变立场。",
       "image": "https://static01.nyt.com/images/2026/04/24/24visualUploader-65815-cover/24visualUploader-65815-cover-videoLarge.jpg",
       "published_at": "2026-04-30 07:52",
       "timestamp": 1777506769
@@ -215,6 +242,15 @@
       "timestamp": 1777492027
     },
     {
+      "title": "是时候认真清洗你的保温杯了",
+      "link": "https://cn.nytimes.com/health/20260430/water-bottle-clean-mold/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "保温杯等可重复使用的水瓶能帮助你随时补充水分，环保且日渐成为一种时尚。但如果忘记清洗它们，它们也会变成霉菌滋生的温床。如何防止霉菌在你的保温杯中滋生？ Photo Illustration by Ju…",
+      "image": "https://static01.nyt.com/images/2024/01/12/multimedia/12WELL-WATER-BOTTLE1-ltpm/12WELL-WATER-BOTTLE1-ltpm-articleLarge.jpg",
+      "published_at": "2026-04-30 01:56",
+      "timestamp": 1777485399
+    },
+    {
       "title": "台湾中华民国总统出访友邦国计划受挫失败 史来第一次",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20260429-%E5%8F%B0%E6%B9%BE%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%87%BA%E8%AE%BF%E5%8F%8B%E9%82%A6%E5%9B%BD%E8%AE%A1%E5%88%92%E5%8F%97%E6%8C%AB%E5%A4%B1%E8%B4%A5-%E5%8F%B2%E6%9D%A5%E7%AC%AC%E4%B8%80%E6%AC%A1",
       "source": "法广中文",
@@ -222,6 +258,15 @@
       "image": "https://s.rfi.fr/media/display/17c56e40-409b-11f1-ae35-005056bfb2b6/w:1024/p:16x9/Capture-3434.jpg",
       "published_at": "2026-04-30 01:35",
       "timestamp": 1777484102
+    },
+    {
+      "title": "豆腐有多健康？",
+      "link": "https://cn.nytimes.com/health/20260430/tofu-health-benefits/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "豆腐富含蛋白质、氨基酸、B族维生素和矿物质。虽然大豆中的异黄酮会产生微弱的类雌激素作用，但也被认为有抗癌、抗炎等特性。如何将更多豆制品融入你的饮食？ Suzanne Saroff for The Ne…",
+      "image": "https://static01.nyt.com/images/2025/02/04/well/WELL-HEALTHY-TOFU1/WELL-HEALTHY-TOFU1-videoLarge.jpg",
+      "published_at": "2026-04-30 01:19",
+      "timestamp": 1777483183
     },
     {
       "title": "韩国前总统尹锡悦妨碍司法案上诉加刑至七年",
@@ -348,42 +393,6 @@
       "image": "https://s.rfi.fr/media/display/8460b44e-1544-11ea-a0ee-005056a99247/w:1024/p:16x9/eight_col_041_aa409881-.jpg",
       "published_at": "2026-04-29 16:30",
       "timestamp": 1777451421
-    },
-    {
-      "title": "日本相关油轮首次通过霍尔木兹海峡前往日本",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260429-%E6%97%A5%E6%9C%AC%E7%9B%B8%E5%85%B3%E6%B2%B9%E8%BD%AE%E9%A6%96%E6%AC%A1%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-      "source": "法广中文",
-      "summary": "在伊朗与美国围绕结束战斗进行的谈判陷入停滞之际，伊朗媒体报道称，日本相关船舶通过了事实上已被封锁的霍尔木兹海峡。这将成为霍尔木兹海峡事实上被封锁以来，日本企业管理的船舶首次通过该海峡直接前往日本。",
-      "image": "https://s.rfi.fr/media/display/1547bb64-4262-11f1-b0d8-005056bfb2b6/w:1024/p:16x9/2026-04-27T102808Z-1604457388-RC2KXKA75J8X-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
-      "published_at": "2026-04-29 16:18",
-      "timestamp": 1777450701
-    },
-    {
-      "title": "粤「十五五」首提对接香港北都 评论指將以粤为主 难重视保港国际化",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260429-%E7%B2%A4-%E5%8D%81%E4%BA%94%E4%BA%94-%E9%A6%96%E6%8F%90%E5%AF%B9%E6%8E%A5%E9%A6%99%E6%B8%AF%E5%8C%97%E9%83%BD-%E8%AF%84%E8%AE%BA%E6%8C%87%E5%B0%87%E4%BB%A5%E7%B2%A4%E4%B8%BA%E4%B8%BB-%E9%9A%BE%E9%87%8D%E8%A7%86%E4%BF%9D%E6%B8%AF%E5%9B%BD%E9%99%85%E5%8C%96",
-      "source": "法广中文",
-      "summary": "实施社会主义的中国广东省，昨(28日)午正式发布《广东省国民经济和社会发展第十五个五年规划纲要》(下称「十五五」规划纲要)，重点之一是建设粤港澳大湾区，内容除大量增加涉港合作之外，还首次提出积极对接实…",
-      "image": "https://s.rfi.fr/media/display/86d2f55a-4398-11f1-836b-005056bf30b7/w:1024/p:16x9/29-4-%E5%B9%BF%E4%B8%9C%E7%9C%81%E6%8A%8A%E9%A6%99%E6%B8%AF%E7%9A%84%E5%8C%97%E9%83%A8%E9%83%BD%E4%BC%9A%E5%8C%BA%E7%BA%B3%E5%85%A5%E5%85%B6-%E5%8D%81%E4%BA%94%E4%BA%94-%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81-%E9%A6%99%E6%B8%AF%E5%8A%BF%E5%B0%86%E5%8F%AA%E8%83%BD%E9%85%8D%E5%90%88-%E4%BC%9A%E5%90%A6%E5%BD%B1%E5%93%8D%E9%A6%99%E6%B8%AF%E5%9B%BD%E9%99%85%E5%8C%96%E4%B8%8D%E4%BC%9A%E6%98%AF%E5%A4%A7%E9%99%86%E7%9A%84%E5%85%B3%E6%B3%A8%E7%82%B9-%E7%BD%91%E4%B8%8A%E8%B5%84%E6%96%99%E5%9B%BE%E7%89%87.jpg",
-      "published_at": "2026-04-29 14:56",
-      "timestamp": 1777445795
-    },
-    {
-      "title": "习近平和普京们真的能实现“永生”吗？",
-      "link": "https://cn.nytimes.com/world/20260429/eternal-life-longevity-world-leaders/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "summary": "从威权主义领导人到硅谷富豪，世界上一些最有权势的人现在想要的不仅仅是永生。但就目前而言，没有人能逃避死亡的必然性，这种伟大又可怕的民主谁也没能改变。 Illustration by Tim Entho…",
-      "image": "https://static01.nyt.com/images/2026/05/10/magazine/10Mag-health-eternal-01/10Mag-health-eternal-01-articleLarge-v2.jpg",
-      "published_at": "2026-04-29 12:57",
-      "timestamp": 1777438660
-    },
-    {
-      "title": "暗杀未遂如何改变美国总统的命运",
-      "link": "https://cn.nytimes.com/opinion/20260429/president-assassination-politics/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "summary": "针对在任总统的暗杀企图往往会加剧其政治困境，使他们与公众更加疏远。负面评价往往会变得更加根深蒂固，总统的颓势难以得到挽救。 Tom Brenner/Associated Press",
-      "image": "https://static01.nyt.com/images/2026/04/28/multimedia/28dallek-dallek-fvbk/28dallek-dallek-fvbk-articleLarge.jpg",
-      "published_at": "2026-04-29 12:08",
-      "timestamp": 1777435712
     }
   ]
 }
