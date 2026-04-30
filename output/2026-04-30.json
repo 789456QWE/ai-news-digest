@@ -1,12 +1,39 @@
 {
   "date": "2026-04-30",
-  "generated_at": "2026-04-30 11:29:06",
+  "generated_at": "2026-04-30 12:02:21",
   "sources": [
     "Odaily 星球日报",
     "法广中文",
     "纽约时报中文"
   ],
   "articles": [
+    {
+      "title": "摩根士丹利：预计美联储将在2026年维持利率不变",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478952",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 4 月 30 日，摩根士丹利：预计美联储将在 2026 年维持利率不变，此前预测为九月和十二月将会降息。目前预计美联储将在 2027 年 1 月和 3 月各降息 25 个基点。…",
+      "image": "https://oss.odaily.top/share-icon-150.png",
+      "published_at": "2026-04-30 11:58",
+      "timestamp": 1777521526
+    },
+    {
+      "title": "以太坊现货ETF昨日总净流出2180.19万美元，贝莱德ETHA净流出1316.97万美元居首",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478951",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 根据 SoSoValue 数据，昨日（美东时间 4 月 28 日）以太坊现货 ETF 总净流出 2180.19 万美元。 昨日单日净流出最多的以太坊现货 ETF 为贝莱德（Bl…",
+      "image": "https://oss.odaily.top/share-icon-150.png",
+      "published_at": "2026-04-30 11:58",
+      "timestamp": 1777521501
+    },
+    {
+      "title": "比特币现货ETF昨日总净流出1.38亿美元，持续3日净流出",
+      "link": "https://www.odaily.news/zh-CN/newsflash/478950",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 根据 SoSoValue 数据，昨日（美东时间 4 月 29 日）比特币现货 ETF 总净流出 1.38 亿美元。 昨日单日净流入最多的比特币现货 ETF 为 摩根士丹利 ET…",
+      "image": "https://oss.odaily.top/share-icon-150.png",
+      "published_at": "2026-04-30 11:58",
+      "timestamp": 1777521483
+    },
     {
       "title": "Bitget已上线U本位AIGENSYN、PROS永续合约，最高支持20倍杠杆",
       "link": "https://www.odaily.news/zh-CN/newsflash/478948",
@@ -69,33 +96,6 @@
       "image": "https://oss.odaily.top/share-icon-150.png",
       "published_at": "2026-04-30 10:44",
       "timestamp": 1777517043
-    },
-    {
-      "title": "寒武纪股价创新高 市值突破6700亿元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478938",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 寒武纪盘中涨近 13%，股价突破 1595.88 元/股，创历史新高，市值突破 6700 亿元人民币；此前，寒武纪股价超越源杰科技，再度成为 A 股新晋股王。(金十)",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:42",
-      "timestamp": 1777516965
-    },
-    {
-      "title": "加密市场涨跌互现，Meme板块涨近4%，BTC跌至7.6万美元",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478937",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 4 月 30 日，根据 SoSoValue 数据，加密市场板块涨跌互现，Meme 板块表现相对突出，24 小时上涨 3.89%，其中，Dogecoin（DOGE）上涨 7.40…",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:41",
-      "timestamp": 1777516888
-    },
-    {
-      "title": "Upbit将上线MEGA韩元对",
-      "link": "https://www.odaily.news/zh-CN/newsflash/478936",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据官方公告，Upbit 将上线 MEGA 韩元对。",
-      "image": "https://oss.odaily.top/share-icon-150.png",
-      "published_at": "2026-04-30 10:31",
-      "timestamp": 1777516304
     },
     {
       "title": "白宫国宴宾客名单的秘密：受邀对象映射出怎样的美国？",
