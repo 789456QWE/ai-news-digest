@@ -1,0 +1,61 @@
+# Runs the news scraper daily on GitHub-hosted runners (US/EU egress, so
+# GFW-blocked feeds like BBC / VOA / Al Jazeera are reachable). Generated
+# files are committed back to main; Cloudflare Workers redeploys on push.
+name: Daily News Digest
+
+on:
+  schedule:
+    # 23:00 UTC = 07:00 Beijing — picks up "yesterday" feeds before users
+    # are awake. GitHub cron drifts 5–15 min, that's fine for a daily job.
+    - cron: '0 23 * * *'
+  workflow_dispatch:   # allow manual trigger from the Actions tab
+
+# Required so the auto-commit at the end of main.py can push back.
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+        with:
+          # Need a real history so git commit/push works
+          fetch-depth: 1
+          # Use the default GITHUB_TOKEN; permissions: contents: write above
+          # makes it allowed to push to this branch.
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # The Argos en→zh model is ~100 MB. Caching the install dir cuts the
+      # second-and-onward runs from ~3 min → ~30 s.
+      - name: Cache Argos translation model
+        uses: actions/cache@v4
+        with:
+          path: ~/.local/share/argos-translate
+          key: argos-en-zh-v1
+
+      - name: Configure git identity for auto-commit
+        run: |
+          git config user.name  'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+      - name: Run scraper (auto-commits + pushes if output changed)
+        run: python src/main.py
