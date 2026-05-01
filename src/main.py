@@ -1,5 +1,6 @@
 import json
 import re
+import socket
 import subprocess
 import sys
 import time
@@ -8,8 +9,20 @@ warnings.filterwarnings("ignore")
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
+from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin
 from urllib.request import Request, urlopen
+
+# Force IPv4 globally. Several feeds (BBC, VOA, Al Jazeera) resolve to IPv6
+# addresses that aren't reachable from GitHub Actions runners or networks
+# without working v6, causing immediate "Network is unreachable [Errno 51]".
+# Filtering out AF_INET6 results from getaddrinfo makes urllib pick v4.
+_ORIG_GETADDRINFO = socket.getaddrinfo
+def _ipv4_getaddrinfo(host, *args, **kwargs):
+    results = _ORIG_GETADDRINFO(host, *args, **kwargs)
+    v4 = [r for r in results if r[0] == socket.AF_INET]
+    return v4 or results  # fall back to original if no v4 (rare)
+socket.getaddrinfo = _ipv4_getaddrinfo
 
 import argostranslate.package
 import argostranslate.translate
@@ -24,7 +37,7 @@ FEEDS = [
     {"name": "美国之音中文",    "url": "https://www.voachinese.com/api/"},
     {"name": "法广中文",        "url": "https://www.rfi.fr/cn/rss"},
     {"name": "半岛电视台",      "url": "https://www.aljazeera.com/xml/rss/all.xml"},
-    {"name": "Odaily 星球日报", "url": "https://rss.app/feeds/w0bs1AROlovDfGdJ.xml"},
+    {"name": "Odaily 星球日报", "url": "https://rss.odaily.news/rss/newsflash"},
 ]
 
 TWENTY_FOUR_HOURS = timedelta(hours=24)
@@ -35,7 +48,8 @@ FETCH_TIMEOUT = 8       # seconds
 
 def fetch_feed(source: dict) -> list[dict]:
     """Fetch and parse a single RSS/Atom feed, return articles from last 24 h."""
-    feed = feedparser.parse(source["url"], request_headers={"User-Agent": "ai-news-digest/1.0"})
+    raw_xml = _download_feed(source["url"])
+    feed = feedparser.parse(raw_xml)
 
     if feed.bozo and not feed.entries:
         raise ValueError(f"解析失败: {feed.bozo_exception}")
@@ -78,6 +92,50 @@ def fetch_feed(source: dict) -> list[dict]:
         })
 
     return articles
+
+
+def _download_feed(url: str, retries: int = 2) -> bytes:
+    """Fetch a feed and fail early on HTTP/error pages before XML parsing.
+
+    Retries on transient network/timeout errors (NOT on HTTP error codes —
+    a 402/403/404 means the URL is structurally broken and won't recover).
+    """
+    req = Request(url, headers={
+        "User-Agent": "Mozilla/5.0 (compatible; ai-news-digest/1.0)",
+        "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*;q=0.8",
+    })
+    last_err: Exception | None = None
+    for attempt in range(retries + 1):
+        try:
+            with urlopen(req, timeout=FETCH_TIMEOUT) as resp:
+                raw = resp.read()
+            break
+        except HTTPError as e:
+            # Don't retry HTTP errors — the server gave a definitive answer.
+            detail = ""
+            try:
+                detail = e.read(160).decode("utf-8", errors="ignore").strip()
+            except Exception:
+                pass
+            msg = f"HTTP {e.code}"
+            if detail:
+                msg += f"：{detail}"
+            raise ValueError(msg) from e
+        except (URLError, TimeoutError) as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(1.5 * (attempt + 1))  # 1.5s, then 3s
+                continue
+            reason = getattr(e, "reason", None) or e
+            raise ValueError(f"网络错误（重试 {retries} 次后仍失败）：{reason}") from e
+
+    head = raw.lstrip()
+    if head.startswith(b"\xef\xbb\xbf"):
+        head = head[3:].lstrip()
+    if not head.startswith((b"<?xml", b"<rss", b"<feed")):
+        preview = head[:160].decode("utf-8", errors="ignore").strip()
+        raise ValueError(f"返回内容不是 RSS/XML：{preview}")
+    return raw
 
 
 def _extract_image(entry, raw_html: str) -> str:
