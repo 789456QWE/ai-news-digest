@@ -228,6 +228,38 @@ def backfill_images(articles: list[dict], max_workers: int = 10) -> None:
     print(f"✓ og:image 补齐 {filled}/{len(targets)} 篇")
 
 
+def strip_duplicate_images(articles: list[dict], min_repeat: int = 3) -> None:
+    """Clear `image` URLs that repeat across the same source — these are
+    almost always the site's default share-card / logo banner (e.g. Odaily
+    serves the same `share-icon-150.png` for every article). Showing the
+    diamond placeholder is better than wallpapering the page with a logo.
+    """
+    from collections import Counter
+    by_source: dict[str, Counter] = {}
+    for a in articles:
+        url = a.get("image")
+        if not url:
+            continue
+        by_source.setdefault(a["source"], Counter())[url] += 1
+
+    # URL is "boilerplate" if it appears on >= min_repeat articles from
+    # the same source.
+    boilerplate: set[tuple[str, str]] = set()
+    for source, counter in by_source.items():
+        for url, n in counter.items():
+            if n >= min_repeat:
+                boilerplate.add((source, url))
+
+    if not boilerplate:
+        return
+    cleared = 0
+    for a in articles:
+        if (a["source"], a.get("image")) in boilerplate:
+            a["image"] = ""
+            cleared += 1
+    print(f"✓ 清除 {cleared} 张重复封面（默认 banner）")
+
+
 def _clean_text(html: str) -> str:
     """Strip residual HTML tags and collapse whitespace."""
     text = re.sub(r"<[^>]+>", " ", html)
@@ -404,6 +436,7 @@ def main() -> None:
         return
 
     backfill_images(all_articles)
+    strip_duplicate_images(all_articles)
     translate_english_articles(all_articles)
 
     output_dir = Path(__file__).parent.parent / "output"
