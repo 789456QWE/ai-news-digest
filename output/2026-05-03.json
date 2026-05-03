@@ -1,31 +1,101 @@
 {
   "date": "2026-05-03",
-  "generated_at": "2026-05-03 07:39:45",
+  "generated_at": "2026-05-03 10:50:50",
   "sources": [
-    "BBC 中文",
-    "半岛电视台",
+    "Odaily 星球日报",
     "法广中文",
-    "纽约时报中文",
-    "美国之音中文"
+    "纽约时报中文"
   ],
   "articles": [
     {
-      "title": "菲律宾火山喷发 覆盖了天空的灰烬",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/philippines-volcano-erupts-blanketing-ash-across-the-sky?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Mayon火山爆发, 喷出一团火山灰和碎片, 横穿菲律宾比科尔。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777763800.jpg?resize=1909%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 07:16",
-      "timestamp": 1777763810
+      "title": "LAB跌破1美元，4小时跌超50%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479219",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 GMGN 数据，LAB 在 4 小时内跌幅超 50%，跌破 1 美元，现报 0.98 美元。",
+      "image": "",
+      "published_at": "2026-05-03 10:48",
+      "timestamp": 1777776531
     },
     {
-      "title": "特朗普统治下政治暴力的兴起",
-      "link": "https://www.aljazeera.com/video/upfront/2026/5/2/the-rise-of-political-violence-under-trump?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Redi Tlhabi向罗伯特·帕佩教授讲述了美国政治暴力的兴起.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777757127.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 05:25",
-      "timestamp": 1777757134
+      "title": "星球早讯",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479218",
+      "source": "Odaily 星球日报",
+      "summary": "1. 伯克希尔哈撒韦现金储备激增至创纪录的 3970 亿美元； 2. Dragonfly 合伙人：散户已大幅退出市场，机构正构成比特币价格底部； 3. 美参议员就稳定币收益条款达成妥协，《Clarit…",
+      "image": "",
+      "published_at": "2026-05-03 10:46",
+      "timestamp": 1777776391
+    },
+    {
+      "title": "OpenAI CFO建议将IPO推迟至2027年，因增长放缓与财务标准未达标",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479217",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OpenAICFO Sarah Friar 私下建议将公司 IPO 推迟至 2027 年，理由是当前尚未达到上市公司的财务报告标准，而 CEO Sam Altman 则希望在 …",
+      "image": "",
+      "published_at": "2026-05-03 10:36",
+      "timestamp": 1777775795
+    },
+    {
+      "title": "巨鲸2倍杠杆做多约150万美元MEGA，浮亏已超过84万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479216",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Onchain Lens 监测，一巨鲸在过去 3 天内平掉 ETH 空单后，转而以 2 倍杠杆做多 MEGA，当前入场价格为 0.197 美元，清算价为 0.0011 美元…",
+      "image": "",
+      "published_at": "2026-05-03 10:21",
+      "timestamp": 1777774912
+    },
+    {
+      "title": "伊朗军方官员：已为美方军事冒险做好充分准备",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479215",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据伊朗法尔斯通讯社 2 日报道，伊朗武装部队哈塔姆安比亚中央总部高级官员萨达尔·阿萨迪表示，伊朗与美国再次爆发冲突的可能性很大，但伊朗方面已做好充分准备。阿萨迪说，有证据表明，…",
+      "image": "",
+      "published_at": "2026-05-03 10:19",
+      "timestamp": 1777774789
+    },
+    {
+      "title": "特朗普说有可能重启对伊朗空袭",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479214",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美东时间 2 日傍晚，美国总统特朗普在佛罗里达州一座机场接受采访时称，存在美国重启对伊朗空袭的可能性。特朗普在社交媒体发文，说他很快会研究伊朗最新提交的方案，但“无法想象”该方…",
+      "image": "",
+      "published_at": "2026-05-03 10:19",
+      "timestamp": 1777774763
+    },
+    {
+      "title": "美媒称伊朗不要求直接谈判前解除霍尔木兹海峡封锁",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479213",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据美国媒体 2 日消息，根据伊朗提出的最新谈判方案，伊朗不再要求美方在两国代表举行面对面谈判前解除对霍尔木兹海峡的封锁。（新华社）",
+      "image": "",
+      "published_at": "2026-05-03 10:18",
+      "timestamp": 1777774737
+    },
+    {
+      "title": "美参议员就稳定币收益条款达成妥协，《Clarity Act》推进障碍或解除",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479212",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美国立法者已就稳定币收益率条款达成协议，此前该条款分歧曾使《Clarity Act》在参议院搁置数月。参议员 Tom Tillis 与 Angela Alsobrooks 已敲…",
+      "image": "",
+      "published_at": "2026-05-03 10:18",
+      "timestamp": 1777774689
+    },
+    {
+      "title": "Dragonfly合伙人：散户已大幅退出市场，机构正构成比特币价格底部",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479211",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Dragonfly 合伙人 Haseeb Qureshi 表示，当前加密市场中散户已大幅退出，机构正成为市场底部并支撑比特币价格。他指出，比特币正被视为未来 15 至 20 年…",
+      "image": "",
+      "published_at": "2026-05-03 10:17",
+      "timestamp": 1777774629
+    },
+    {
+      "title": "BIO团队地址向交易所转入约503万美元代币",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479210",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据加密分析师 Ai 姨@ai_9684xtpa 监测，BIO 在过去一周上涨 118%。约 11 小时前，项目团队多签地址向 3 个地址转移 1.2 亿枚 BIO，其中约 80…",
+      "image": "",
+      "published_at": "2026-05-03 10:14",
+      "timestamp": 1777774469
     },
     {
       "title": "伊朗：不谈就打  反正球在美国那一边",
@@ -35,15 +105,6 @@
       "image": "https://s.rfi.fr/media/display/f89cb110-466a-11f1-89e7-005056bfb2b6/w:1024/p:16x9/068-aa-06042026-2726657-1-69f5b941124a5.jpg",
       "published_at": "2026-05-03 05:07",
       "timestamp": 1777756073
-    },
-    {
-      "title": "海洋法为何未能保障海洋安全?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/2/why-are-maritime-laws-failing-to-secure-the-seas?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "战争和领土争端正在改写全球航运规则。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777755346.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 05:04",
-      "timestamp": 1777755841
     },
     {
       "title": "古巴总统谴责特朗普的威胁已达“前所未有的程度”",
@@ -71,15 +132,6 @@
       "image": "https://s.rfi.fr/media/display/dcbbffde-4668-11f1-9185-005056bf30b7/w:1024/p:16x9/Spirit-Airlines-2279618.jpg",
       "published_at": "2026-05-03 04:52",
       "timestamp": 1777755170
-    },
-    {
-      "title": "Timmy 座头鲸逃到北海",
-      "link": "https://www.aljazeera.com/news/2026/5/2/timmy-the-humpback-whale-escapes-to-the-north-sea?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "鲸鱼幼崽-039;在德国海岸一连串的搁浅引发了广泛的关注并...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f64da2a0a0-1777749410.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 04:50",
-      "timestamp": 1777755039
     },
     {
       "title": "大众汽车2026年在华推出多款新能源车型   却是一笔单向支出",
@@ -118,15 +170,6 @@
       "timestamp": 1777754152
     },
     {
-      "title": "精神航空公司在对伊朗的战争导致燃料成本上升的情况下崩溃",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "美国预算航空母舰\"精神\"航空公司在政府救助谈判失败后倒闭.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T173555Z_1118871797_RC2V0LAV9GW5_RTRMADP_3_SPIRIT-AVIATION-BANKRUPTCY-BUDGET-1777753418.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 04:28",
-      "timestamp": 1777753692
-    },
-    {
       "title": "北欧-波罗的海8国外长会 续挺乌克兰",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260502-%E5%8C%97%E6%AC%A7-%E6%B3%A2%E7%BD%97%E7%9A%84%E6%B5%B78%E5%9B%BD%E5%A4%96%E9%95%BF%E4%BC%9A%E7%BB%AD%E6%8C%BA%E4%B9%8C%E5%85%8B%E5%85%B0",
       "source": "法广中文",
@@ -134,42 +177,6 @@
       "image": "https://s.rfi.fr/media/display/1fd4cc36-44a9-11f1-8423-005056a97e36/w:1024/p:16x9/Screenshot-2026-04-30-182722.png",
       "published_at": "2026-05-03 04:27",
       "timestamp": 1777753638
-    },
-    {
-      "title": "在巴西东北部的暴雨中至少有六人死亡,数千人流离失所",
-      "link": "https://www.aljazeera.com/news/2026/5/2/at-least-six-dead-in-heavy-rains-in-northeast-brazil-thousands-displaced?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "研究显示,由于伯南布哥州和帕拉伊巴州,乡村地区降下极端多雨的现象越来越频繁. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260226__98YQ3CR__v1__HighRes__BrazilWeatherClimateLandslide-1777749807.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 03:59",
-      "timestamp": 1777751965
-    },
-    {
-      "title": "喀土穆无人驾驶飞机袭击杀害了5起苏丹非政府组织报告",
-      "link": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "这次袭击是一周来第二次,是继政府武力之后,该市几个月相对平静后发生的. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/05/2025-05-05T172345Z_346222532_RC2RBEANVTVW_RTRMADP_3_SUDAN-DRONES-PORT-SUDAN-1746520568.jpg?resize=1200%2C630",
-      "published_at": "2026-05-03 03:59",
-      "timestamp": 1777751956
-    },
-    {
-      "title": "俄军不断出击,",
-      "link": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "白俄罗斯在俄罗斯的角色-###039;对乌克兰的战争激起基辅的制裁,基辅说.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69d906dad1b04-1775830746.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 03:54",
-      "timestamp": 1777751670
-    },
-    {
-      "title": "叙利亚成为石油替代能源走廊,",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "叙利亚正在接收数百辆伊拉克油车,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777751103.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 03:45",
-      "timestamp": 1777751120
     },
     {
       "title": "最新民调显示乌克兰人对美国和欧洲的信任期望值有不同程度降低",
@@ -181,15 +188,6 @@
       "timestamp": 1777749736
     },
     {
-      "title": "以色列扩张\"橙线\"收紧了加沙致命禁区.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/israels-expanding-orange-line-tightens-deadly-no-go-zones-in-gaza?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "以色列不断扩大的\"橙线\"正在加深对加沙各地的出行限制,增加了致命的风险. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-27T120202Z_644447080_RC2JPKA52JFJ_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-RUBBLE-1777749067.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 03:11",
-      "timestamp": 1777749093
-    },
-    {
       "title": "专家看美国计划从德国撤兵5000：“这不是针对弗里德里希·默茨的惩罚行动”",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260502-%E4%B8%93%E5%AE%B6%E7%9C%8B%E7%BE%8E%E5%9B%BD%E8%AE%A1%E5%88%92%E4%BB%8E%E5%BE%B7%E5%9B%BD%E6%92%A4%E5%85%B55000-%E8%BF%99%E4%B8%8D%E6%98%AF%E9%92%88%E5%AF%B9%E5%BC%97%E9%87%8C%E5%BE%B7%E9%87%8C%E5%B8%8C%C2%B7%E9%BB%98%E8%8C%A8%E7%9A%84%E6%83%A9%E7%BD%9A%E8%A1%8C%E5%8A%A8",
       "source": "法广中文",
@@ -197,69 +195,6 @@
       "image": "https://s.rfi.fr/media/display/3244b380-463a-11f1-b520-005056a90284/w:1024/p:16x9/2026-05-01T203004Z-74987678-RC24XJA1HHB0-RTRMADP-3-USA-TRUMP-EUROPE.jpg",
       "published_at": "2026-05-03 03:09",
       "timestamp": 1777748974
-    },
-    {
-      "title": "阿森纳让富勒姆在曼彻斯特城取出六分",
-      "link": "https://www.aljazeera.com/sports/2026/5/2/arsenal-thrash-fulham-to-pull-6-points-clear-of-manchester-city?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Viktor Gyokeres在Arsenal {039}中两次得分;以3比0战胜Fulham来提升结束22-ye的希望. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T171636Z_1492008248_UP1EM521BZMSY_RTRMADP_3_SOCCER-ENGLAND-ARS-FUL-1777746621.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 03:00",
-      "timestamp": 1777748436
-    },
-    {
-      "title": "西班牙要求以色列释放被捕的加沙船队船员",
-      "link": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Saif Abukeshek在部队袭击了Gr海岸外的全球苏米德船队后被带往以色列. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69f605101225e-1777730832.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 02:12",
-      "timestamp": 1777745555
-    },
-    {
-      "title": "在 \" 停火 \" 下继续破坏黎巴嫩南部",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "在24小时内,以色列向黎巴嫩南部发动了50起空袭,造成至少41人死亡。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-02-at-9.02.18-PM-1777745057.png?resize=1920%2C1440",
-      "published_at": "2026-05-03 02:05",
-      "timestamp": 1777745105
-    },
-    {
-      "title": "也门报告称被劫持去索马里的油轮",
-      "link": "https://www.aljazeera.com/news/2026/5/2/yemen-reports-hijacked-oil-tanker-headed-for-somalia?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "这一事件至少标志着最近几周在索马里附近发生的第四起劫持船只事件。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_69f61d8bcb23e-1777737099.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 01:10",
-      "timestamp": 1777741829
-    },
-    {
-      "title": "西班牙的桑切斯要求内塔尼亚胡解放西班牙,",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spains-sanchez-demands-netanyahu-free-spaniard-seized-on-aid-flotilla?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "西班牙总理佩德罗·桑切斯要求以色列释放###039;绑架##039;西班牙...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777741559.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 01:06",
-      "timestamp": 1777741582
-    },
-    {
-      "title": "价格暴涨,工作机会随着战争而消失,使伊朗经济紧张",
-      "link": "https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "新最高领袖莫伊塔巴·哈梅内伊(Mojtaba Khamenei)表示,国家必须在经济和邪教中打败敌人.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/2026-04-15T112736Z_842916116_RC2KPKAUSKSB_RTRMADP_3_IRAN-CRISIS-DAILYLIFE-1776691957.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 00:58",
-      "timestamp": 1777741110
-    },
-    {
-      "title": "墨西哥锡那罗亚州州长在美国贩毒指控下辞职",
-      "link": "https://www.aljazeera.com/news/2026/5/2/mexicos-sinaloa-state-governor-resigns-amid-us-drug-trafficking-charges?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Ruben Rocha Moya再次否认他庇护卡特尔的指控,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f6166aa8d2-1777735274.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 23:52",
-      "timestamp": 1777737151
     },
     {
       "title": "“自由开放的印度-太平洋”愿景十周年 高市在河内发表外交政策演讲",
@@ -271,15 +206,6 @@
       "timestamp": 1777733955
     },
     {
-      "title": "以色列的 \" 二层 \" 治安和巴勒斯坦城镇的犯罪流行",
-      "link": "https://www.aljazeera.com/news/2026/5/2/israels-two-tier-policing-and-the-crime-epidemic-in-palestinian-towns?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "以色列的谋杀率***039;巴勒斯坦地区飙升,助长了国家共谋的指控和......",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69f39750bd8f9-1777571664.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 22:23",
-      "timestamp": 1777731825
-    },
-    {
       "title": "祭出新全面制裁 特朗普称美军将从伊朗返回路上去接管古巴",
       "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260502-%E7%A5%AD%E5%87%BA%E6%96%B0%E5%85%A8%E9%9D%A2%E5%88%B6%E8%A3%81-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B0%86%E4%BB%8E%E4%BC%8A%E6%9C%97%E8%BF%94%E5%9B%9E%E8%B7%AF%E4%B8%8A%E5%8E%BB%E6%8E%A5%E7%AE%A1%E5%8F%A4%E5%B7%B4",
       "source": "法广中文",
@@ -289,51 +215,6 @@
       "timestamp": 1777729892
     },
     {
-      "title": "阿森纳3-0 富勒姆:总理联赛-一如其事",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/5/2/live-arsenal-vs-fulham-premier-league?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "所有更新,有 比赛后的反应和采访, 跟着我们的文本评论流。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T172218Z_1285737643_UP1EM521C94TB_RTRMADP_3_SOCCER-ENGLAND-ARS-FUL-1777745752.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 21:32",
-      "timestamp": 1777728729
-    },
-    {
-      "title": "阴谋美国",
-      "link": "https://www.aljazeera.com/video/the-listening-post/2026/5/2/the-united-states-of-conspiracy?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "另一起针对唐纳德·特朗普的暗杀企图暴露出媒体和阴谋论中的不信任. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777728531.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-02 21:29",
-      "timestamp": 1777728575
-    },
-    {
-      "title": "加沙新高档咖啡馆和餐馆的黑暗面",
-      "link": "https://www.aljazeera.com/opinions/2026/5/2/the-dark-side-of-gazas-new-fancy-cafes-and-restaurants?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "在被摧毁的加沙地带兴起的新机构揭示出新的种族灭绝现实。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/cafe-1777727065.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 21:12",
-      "timestamp": 1777727552
-    },
-    {
-      "title": "马里调查涉嫌参与军事基地袭击的士兵",
-      "link": "https://www.aljazeera.com/news/2026/5/2/mali-probes-soldiers-suspected-of-involvement-in-military-base-attacks?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "5名军人,包括3名现役士兵,在上星期的QQ039中被认定为嫌疑人;.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T104522Z_866791386_RC2MXKA2HPE1_RTRMADP_3_MALI-SECURITY-1777723491.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 21:03",
-      "timestamp": 1777727008
-    },
-    {
-      "title": "以色列空袭黎巴嫩24小时造成41人死亡",
-      "link": "https://www.aljazeera.com/news/2026/5/2/israeli-air-strikes-kill-10-people-in-southern-lebanon?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "自3月2日以来,以色列袭击黎巴嫩造成的死亡人数已增至2 659 8 183人受伤。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T144931Z_1337836316_RC2E0LAD9H6E_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777678447.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-02 20:55",
-      "timestamp": 1777726534
-    },
-    {
       "title": "美制裁五涉伊朗石油交易中企 中国商务部发布阻断禁令：不得承认执行遵守",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260502-%E7%BE%8E%E5%88%B6%E8%A3%81%E4%BA%94%E6%B6%89%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E4%BA%A4%E6%98%93%E4%B8%AD%E4%BC%81-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%98%BB%E6%96%AD%E7%A6%81%E4%BB%A4-%E4%B8%8D%E5%BE%97%E6%89%BF%E8%AE%A4%E6%89%A7%E8%A1%8C%E9%81%B5%E5%AE%88",
       "source": "法广中文",
@@ -341,24 +222,6 @@
       "image": "https://s.rfi.fr/media/display/f496ea8a-bf5f-11ed-b414-005056bfb2b6/w:1024/p:16x9/2023-02-14T071554Z_910572135_RC2PAZ9BKMLM_RTRMADP_3_CHINA-IRAN.JPG",
       "published_at": "2026-05-02 20:50",
       "timestamp": 1777726201
-    },
-    {
-      "title": "船队活动分子在被以色列扣留后返回伊斯坦布尔",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "全球萨穆德船队活动家在以色列拦截了他们行经加沙后抵达伊斯坦布尔,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777725913.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-02 20:46",
-      "timestamp": 1777725961
-    },
-    {
-      "title": "工人们正在参加国际劳工日活动",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/rallies-under-way-as-workers-gather-for-international-labour-day-2?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "世界各地的工人、活动家和工会在星期五举行集会,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777725539.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-02 20:39",
-      "timestamp": 1777725555
     },
     {
       "title": "赖清德突访斯威士兰 强调面对打压坚持公义理性应对",
@@ -422,33 +285,6 @@
       "image": "https://s.rfi.fr/media/display/0f5aefe0-4600-11f1-852e-005056bfb2b6/w:1024/p:16x9/AP26122170915551.jpg",
       "published_at": "2026-05-02 16:23",
       "timestamp": 1777710226
-    },
-    {
-      "title": "美國決定從德國撤軍5000人，特朗普與默茨爭拗升溫",
-      "link": "https://www.bbc.com/zhongwen/articles/c052z9d4q8ro/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "美國決定削減駐德兵力之際，這兩個盟國的領袖正因為伊朗問題發生爭拗。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0164/live/dc716660-45c1-11f1-bc8a-0f0673df4e2f.jpg",
-      "published_at": "2026-05-02 09:30",
-      "timestamp": 1777685413
-    },
-    {
-      "title": "紅光療法熱潮：LED光療真的能改善皮膚嗎？",
-      "link": "https://www.bbc.com/zhongwen/articles/cpvpz4080r0o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "無論你想看起來更年輕，還是希望身體恢復得更快，都有人聲稱紅光療法能幫上忙。但科學證據怎麼說？",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4202/live/9db7fb20-44ac-11f1-ac78-2112837ce2aa.jpg",
-      "published_at": "2026-05-02 08:42",
-      "timestamp": 1777682558
-    },
-    {
-      "title": "昂山素季「居家軟禁」：中國與緬甸政府的盤算是什麼？",
-      "link": "https://www.bbc.com/zhongwen/articles/cp3pnj247neo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "緬甸政府公布了昂山素季與外界隔絕並被拘押超過1900天、長達逾五年以來的第二張照片，同時發布消息稱，將她剩餘的刑期改為在指定住所服刑。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4dfb/live/a98d1f40-4559-11f1-ac78-2112837ce2aa.png",
-      "published_at": "2026-05-02 08:31",
-      "timestamp": 1777681881
     }
   ]
 }
