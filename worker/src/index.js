@@ -946,6 +946,10 @@ function hubPage(user) {
         const glyph  = glyphs[(seed >>> 7) % glyphs.length];
         const src    = String((a && a.source) || '').slice(0, 14);
         const title  = String((a && a.title)  || '').slice(0, 32);
+        // IMPORTANT: this JS lives inside the worker's outer backtick
+        // template literal, which expands \" -> " before the browser ever
+        // sees the source. So we must NOT use \" anywhere here. Every
+        // SVG attribute is single-quoted; no double quotes appear at all.
         const svg =
           "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 300' preserveAspectRatio='xMidYMid slice'>" +
             "<defs>" +
@@ -956,9 +960,9 @@ function hubPage(user) {
             "</defs>" +
             "<rect width='480' height='300' fill='url(%23g)'/>" +
             "<rect x='0' y='0' width='4' height='300' fill='%23ff9f0a'/>" +
-            "<text x='340' y='200' font-family=\"ui-monospace,Menlo,monospace\" font-size='220' font-weight='800' fill='hsl("+hue1+",85%,70%)' fill-opacity='0.16' text-anchor='middle' dominant-baseline='middle'>"+glyph+"</text>" +
-            "<text x='28' y='44' font-family=\"ui-monospace,Menlo,monospace\" font-size='15' font-weight='700' fill='%23ff9f0a' letter-spacing='2.5'>"+escXml(src.toUpperCase())+"</text>" +
-            "<text x='28' y='268' font-family=\"system-ui,'PingFang SC','Microsoft YaHei',sans-serif\" font-size='14' font-weight='500' fill='%23eaeaea' fill-opacity='0.88'>"+escXml(title)+"</text>" +
+            "<text x='340' y='200' font-family='ui-monospace,Menlo,monospace' font-size='220' font-weight='800' fill='hsl("+hue1+",85%,70%)' fill-opacity='0.16' text-anchor='middle' dominant-baseline='middle'>"+glyph+"</text>" +
+            "<text x='28' y='44' font-family='ui-monospace,Menlo,monospace' font-size='15' font-weight='700' fill='%23ff9f0a' letter-spacing='2.5'>"+escXml(src.toUpperCase())+"</text>" +
+            "<text x='28' y='268' font-family='system-ui,sans-serif' font-size='14' font-weight='500' fill='%23eaeaea' fill-opacity='0.88'>"+escXml(title)+"</text>" +
           "</svg>";
         // encodeURIComponent leaves ' alone, but our SVG uses ' as the
         // attribute delimiter. When the URI ends up inside CSS url('…'),
