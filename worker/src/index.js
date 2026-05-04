@@ -129,14 +129,23 @@ async function handleChangePassword(request, env) {
   return Response.json({ ok: true });
 }
 
+// Headers used on every JSON API response so browsers re-fetch instead of
+// serving stale data from heuristic cache. Cron updates the underlying
+// asset 1×/day, but we'd rather pay a few extra bytes than show users
+// yesterday's digest because Chrome decided to cache aggressively.
+const NO_CACHE_JSON = {
+  "content-type":  "application/json",
+  "cache-control": "no-store, no-cache, must-revalidate, max-age=0",
+};
+
 async function handleDates(request, env) {
   const user = await currentUser(request, env);
   if (!user) return jsonErr(401, "未登录");
 
   // Load a generated manifest from ASSETS; if absent, scan via a fallback list.
   const manifest = await fetchAsset(env, "/manifest.json");
-  if (manifest) return new Response(manifest, { headers: { "content-type": "application/json" } });
-  return Response.json({ dates: [] });
+  if (manifest) return new Response(manifest, { headers: NO_CACHE_JSON });
+  return new Response(JSON.stringify({ dates: [] }), { headers: NO_CACHE_JSON });
 }
 
 async function handleNews(request, env, url) {
@@ -148,7 +157,7 @@ async function handleNews(request, env, url) {
 
   const data = await fetchAsset(env, `/${date}.json`);
   if (!data) return jsonErr(404, "当日无数据");
-  return new Response(data, { headers: { "content-type": "application/json" } });
+  return new Response(data, { headers: NO_CACHE_JSON });
 }
 
 // ─── Auth helpers ────────────────────────────────────────────────────────────
