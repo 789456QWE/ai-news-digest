@@ -890,7 +890,7 @@ function hubPage(user) {
       function renderHero(main, sides, q) {
         return (
           '<a class="hero-main" href="'+escAttr(main.link)+'" target="_blank" rel="noopener">'+
-            imgBg(main.image, 'img', '头条') +
+            imgBg(main.image, 'img', '头条', main) +
             '<div class="meta">'+
               '<span class="hero-tag">'+escHtml(main.source)+'</span>'+
               '<h2>'+hl(escHtml(main.title), q)+'</h2>'+
@@ -901,7 +901,7 @@ function hubPage(user) {
           '<div class="hero-aside-stack">'+
             sides.map(s =>
               '<a class="hero-side" href="'+escAttr(s.link)+'" target="_blank" rel="noopener">'+
-                imgBg(s.image, 'img', '') +
+                imgBg(s.image, 'img', '', s) +
                 '<div class="meta">'+
                   '<span class="hero-tag">'+escHtml(s.source)+'</span>'+
                   '<h3>'+hl(escHtml(s.title), q)+'</h3>'+
@@ -914,11 +914,10 @@ function hubPage(user) {
       }
 
       function renderCard(a, q) {
+        const img = a.image || genCover(a);
         return (
           '<a class="card" href="'+escAttr(a.link)+'" target="_blank" rel="noopener">'+
-            (a.image
-              ? '<div class="card-img" style="background-image:url(\\''+escAttr(a.image)+'\\')"></div>'
-              : '<div class="card-img no-img">◆</div>') +
+            '<div class="card-img" style="background-image:url(\\''+escAttr(img)+'\\')"></div>'+
             '<div class="card-body">'+
               '<div class="card-src">'+escHtml(a.source)+'</div>'+
               '<div class="card-title">'+hl(escHtml(a.title), q)+'</div>'+
@@ -929,10 +928,53 @@ function hubPage(user) {
         );
       }
 
-      function imgBg(url, cls, placeholder) {
-        if (url) return '<div class="'+cls+'" style="background-image:url(\\''+escAttr(url)+'\\')"></div>';
+      function imgBg(url, cls, placeholder, article) {
+        const finalUrl = url || (article ? genCover(article) : '');
+        if (finalUrl) return '<div class="'+cls+'" style="background-image:url(\\''+escAttr(finalUrl)+'\\')"></div>';
         return '<div class="no-img">◆</div>';
       }
+
+      // Build a unique procedural cover for an article that lacks one.
+      // Deterministic: same article always gets the same look. The hue,
+      // glyph and accent colour are derived from a hash of the link, so a
+      // grid of generated covers feels varied rather than templated.
+      function genCover(a) {
+        const seed = hash32((a && a.link) || (a && a.title) || '');
+        const hue1   = seed % 360;
+        const hue2   = (hue1 + 28) % 360;
+        const glyphs = ['◆','▲','●','◼','◐','◇','■','▼'];
+        const glyph  = glyphs[(seed >>> 7) % glyphs.length];
+        const src    = String((a && a.source) || '').slice(0, 14);
+        const title  = String((a && a.title)  || '').slice(0, 32);
+        const svg =
+          "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 480 300' preserveAspectRatio='xMidYMid slice'>" +
+            "<defs>" +
+              "<linearGradient id='g' x1='0' y1='0' x2='1' y2='1'>" +
+                "<stop offset='0' stop-color='hsl("+hue1+",55%,22%)'/>" +
+                "<stop offset='1' stop-color='hsl("+hue2+",65%,7%)'/>" +
+              "</linearGradient>" +
+            "</defs>" +
+            "<rect width='480' height='300' fill='url(%23g)'/>" +
+            "<rect x='0' y='0' width='4' height='300' fill='%23ff9f0a'/>" +
+            "<text x='340' y='200' font-family=\"ui-monospace,Menlo,monospace\" font-size='220' font-weight='800' fill='hsl("+hue1+",85%,70%)' fill-opacity='0.16' text-anchor='middle' dominant-baseline='middle'>"+glyph+"</text>" +
+            "<text x='28' y='44' font-family=\"ui-monospace,Menlo,monospace\" font-size='15' font-weight='700' fill='%23ff9f0a' letter-spacing='2.5'>"+escXml(src.toUpperCase())+"</text>" +
+            "<text x='28' y='268' font-family=\"system-ui,'PingFang SC','Microsoft YaHei',sans-serif\" font-size='14' font-weight='500' fill='%23eaeaea' fill-opacity='0.88'>"+escXml(title)+"</text>" +
+          "</svg>";
+        return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+      }
+
+      // Cheap, stable 32-bit string hash (FNV-1a-ish). Doesn't need to be
+      // cryptographic — only used to spread covers across the colour wheel.
+      function hash32(s) {
+        let h = 2166136261 >>> 0;
+        for (let i = 0; i < s.length; i++) {
+          h ^= s.charCodeAt(i);
+          h = Math.imul(h, 16777619) >>> 0;
+        }
+        return h;
+      }
+
+      function escXml(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&apos;'}[c]));}
 
       function escHtml(s){return String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));}
       function escAttr(s){return escHtml(s);}
