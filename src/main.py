@@ -464,7 +464,17 @@ def main() -> None:
 
 def auto_publish(repo_root: Path, date_str: str) -> None:
     """Commit output/ and push to origin. Silent no-op if not a git repo or
-    no remote is configured. Failures are logged but do not abort the run."""
+    no remote is configured. Failures are logged but do not abort the run.
+
+    Only runs in CI (GITHUB_ACTIONS=true) or when --push is explicitly
+    passed. A local manual run can otherwise scrape a partial set of
+    feeds (e.g. China-blocked BBC/VOA/Al Jazeera with no proxy) and
+    silently overwrite the cron's complete output on remote.
+    """
+    import os
+    if os.environ.get("GITHUB_ACTIONS") != "true" and "--push" not in sys.argv:
+        print("（本地运行，跳过自动推送；要推送请加 --push 或在 CI 中跑）")
+        return
     if not (repo_root / ".git").exists():
         return
     try:
