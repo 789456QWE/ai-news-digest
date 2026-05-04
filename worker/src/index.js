@@ -960,7 +960,12 @@ function hubPage(user) {
             "<text x='28' y='44' font-family=\"ui-monospace,Menlo,monospace\" font-size='15' font-weight='700' fill='%23ff9f0a' letter-spacing='2.5'>"+escXml(src.toUpperCase())+"</text>" +
             "<text x='28' y='268' font-family=\"system-ui,'PingFang SC','Microsoft YaHei',sans-serif\" font-size='14' font-weight='500' fill='%23eaeaea' fill-opacity='0.88'>"+escXml(title)+"</text>" +
           "</svg>";
-        return "data:image/svg+xml;utf8," + encodeURIComponent(svg);
+        // encodeURIComponent leaves ' alone, but our SVG uses ' as the
+        // attribute delimiter. When the URI ends up inside CSS url('…'),
+        // those raw quotes terminate the CSS string early and break the
+        // entire stylesheet. Manually escape them.
+        return "data:image/svg+xml;utf8," +
+               encodeURIComponent(svg).replace(/'/g, "%27");
       }
 
       // Cheap, stable 32-bit string hash (FNV-1a-ish). Doesn't need to be
