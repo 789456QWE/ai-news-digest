@@ -1,23 +1,101 @@
 {
   "date": "2026-05-04",
-  "generated_at": "2026-05-04 07:40:52",
+  "generated_at": "2026-05-04 11:42:06",
   "sources": [
-    "BBC 中文",
     "Odaily 星球日报",
-    "半岛电视台",
     "法广中文",
-    "纽约时报中文",
-    "美国之音中文"
+    "纽约时报中文"
   ],
   "articles": [
     {
-      "title": "印度曼尼普尔的数千个种族冲突爆发后三年",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/thousands-in-indias-manipur-mark-three-years-since-ethnic-clashes-began?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "数千名抗议者聚集在印度曼尼普尔邦,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-Manipur-1777849361.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 07:04",
-      "timestamp": 1777849492
+      "title": "分析：拉美汇款市场现存1120亿美元增量空间，稳定币成关键突破口",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479288",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 业内人士分析指出，稳定币与金融科技公司在拉美汇款市场仍存在约 1120 亿美元的增长空间，行业当前过度集中于 618 亿美元的美墨走廊，而忽视了增长更快的美国至中美洲及拉美区域…",
+      "image": "",
+      "published_at": "2026-05-04 11:33",
+      "timestamp": 1777865627
+    },
+    {
+      "title": "某巨鲸过去24小时累计向币安充值6200枚ETH，价值1454万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479287",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据链上分析师 Ai 姨监测，地址 0x55e…3DF26 过去 24 小时累计向币安值 6200 枚 ETH，价值 1454 万美元，充值均价 2346 美元，目前该地址在 S…",
+      "image": "",
+      "published_at": "2026-05-04 11:31",
+      "timestamp": 1777865466
+    },
+    {
+      "title": "伊媒：伊朗方案中未含开放霍尔木兹海峡的内容",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479286",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据伊朗法尔斯通讯社报道，伊朗提出的 14 点方案是对美国 9 点方案的回应。与半岛电视台的报道所述不同，该方案中并不包含伊朗冻结铀浓缩活动 15 年或开放霍尔木兹海峡的内容。(…",
+      "image": "",
+      "published_at": "2026-05-04 11:23",
+      "timestamp": 1777864991
+    },
+    {
+      "title": "Strategy持仓BTC市值重返650亿美元上方，预计本周公布一季度业绩",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479285",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Strategy 创始人 Michael Saylor 昨日在 X 平台发文表示，该公司将暂停本周例行比特币购买计划，这是其今年第二次暂停周度增持。 截至目前，Strategy…",
+      "image": "",
+      "published_at": "2026-05-04 11:20",
+      "timestamp": 1777864848
+    },
+    {
+      "title": "伊朗：霍尔木兹不会回到战前状态",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479284",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 伊朗伊斯兰议会副议长阿里·尼克扎德在霍尔木兹海峡沿岸接受采访时强调，“霍尔木兹海峡不会回到战前状态，伊朗绝对不会从霍尔木兹海峡后退一步”。尼克扎德表示，议会将批准一项“霍尔木兹…",
+      "image": "",
+      "published_at": "2026-05-04 11:04",
+      "timestamp": 1777863881
+    },
+    {
+      "title": "SK海力士市值首次突破1000万亿韩元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479283",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 数据， SK 海力士股价上涨 9.8%，创盘中新高，报 1,412,000 韩元，市值首次突破 1,000 万亿韩元。",
+      "image": "",
+      "published_at": "2026-05-04 10:40",
+      "timestamp": 1777862444
+    },
+    {
+      "title": "特朗普承诺护航霍尔木兹海峡，亚洲科技股引领股市创纪录上涨",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479282",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 得益于美国大型科技公司稳健的财报以及特朗普表示美国将开始引导被困在波斯湾的一些中立船只通过霍尔木兹海峡，周一亚洲股市大幅上涨，科技股随之反弹。除日本外的摩根士丹利资本国际亚太指…",
+      "image": "",
+      "published_at": "2026-05-04 10:38",
+      "timestamp": 1777862313
+    },
+    {
+      "title": "韩国央行高官：通胀风险加大，是时候考虑加息",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479281",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 韩国央行高级副行长 RyooSangdai 表示，由于经济增长似乎不太可能大幅低于央行早先的预测，而通胀可能超过此前的预期，是时候考虑加息了。Ryoo 同时也是韩国央行货币政策…",
+      "image": "",
+      "published_at": "2026-05-04 10:26",
+      "timestamp": 1777861614
+    },
+    {
+      "title": "“美联储传声筒”：鲍威尔卸任后拟留任理事或为延续政策稳定与机构独立性",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479280",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 “美联储传声筒”Nick Timiraos 援引知情人士报道，鲍威尔计划在 2026 年 5 月卸任美联储主席后继续留任理事，这一做法在历史上较为罕见，其决定被认为与近期一系列…",
+      "image": "",
+      "published_at": "2026-05-04 10:25",
+      "timestamp": 1777861540
+    },
+    {
+      "title": "麻吉大哥比特币、以太坊及HYPE多单浮盈已超160万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/479279",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Hyperbot 数据显示，随着加密市场反弹，麻吉大哥黄立成持有的比特币、以太坊及 HYPE 多单现已浮盈超 164 万美元，投资回报率现报 70.91%。",
+      "image": "",
+      "published_at": "2026-05-04 10:21",
+      "timestamp": 1777861287
     },
     {
       "title": "“美国和中国可能因过度自信而走向战争”",
@@ -27,33 +105,6 @@
       "image": "https://s.rfi.fr/media/display/32a01bf2-4039-11ea-936a-005056a917b9/w:1024/p:16x9/guo_ji_zong_heng_wb15499-rfi-cn-20100309_cartouche.jpg",
       "published_at": "2026-05-04 07:00",
       "timestamp": 1777849210
-    },
-    {
-      "title": "在大西洋邮轮上,有3人死亡",
-      "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "6名因疑似啮齿类传播病毒而患病的乘客中有3人已死亡,1人已入...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2017-07-06T234315Z_70732478_RC1D8FFAFA10_RTRMADP_3_WASHINGTON-HANTAVIRUS-1777842121.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 05:59",
-      "timestamp": 1777845560
-    },
-    {
-      "title": "法国左翼的梅伦乔说,他将在2027年竞选总统.",
-      "link": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "梅伦生说,他将第四次与马克龙总统竞选总统,任期有限,勒庞. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26066592407143-1777834906.jpg?resize=1200%2C675",
-      "published_at": "2026-05-04 05:25",
-      "timestamp": 1777843548
-    },
-    {
-      "title": "真正的马德里仍然活在拉里加的冠军赛中 在埃斯潘尼奥尔获胜",
-      "link": "https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "小维尼修斯的两个入球让马德里在埃尔克拉前与巴塞罗那保持爵位争论. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260503__A9P72TR__v1__HighRes__FblEspLigaEspanyolRealMadrid-1777841702_fd53ef-1777843244.jpg?resize=1200%2C630&amp;quality=80",
-      "published_at": "2026-05-04 05:22",
-      "timestamp": 1777843335
     },
     {
       "title": "特朗普：美开启霍尔木兹海峡船只通行自由行动将于周一启动",
@@ -119,24 +170,6 @@
       "timestamp": 1777841701
     },
     {
-      "title": "伊朗立法者说霍尔木兹海峡不会回到战前状态",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/iran-lawmaker-says-strait-of-hormuz-will-not-return-to-pre%e2%80%91war-state?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "伊朗说霍尔木兹海峡永远不会恢复到美以美之前的现状. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777841505.jpg?resize=1636%2C1080&amp;quality=80",
-      "published_at": "2026-05-04 04:51",
-      "timestamp": 1777841517
-    },
-    {
-      "title": "特朗普说,美国将“帮助解放”困在霍尔木兹海峡的船只。",
-      "link": "https://www.aljazeera.com/news/2026/5/3/trump-says-us-will-help-free-up-ships-stuck-in-hormuz-strait?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "美国总统说,任何干扰行动的行动,星期一开始,将...039;必须......",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-29T101443Z_1590853353_RC2WYKA64NW1_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1777841456.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 04:47",
-      "timestamp": 1777841234
-    },
-    {
       "title": "美国国会军委会主席：裁减北约在德国驻军恐向普京传递错误信号",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260503-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E5%86%9B%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD-%E8%A3%81%E5%87%8F%E5%8C%97%E7%BA%A6%E5%9C%A8%E5%BE%B7%E5%9B%BD%E9%A9%BB%E5%86%9B%E6%81%90%E5%90%91%E6%99%AE%E4%BA%AC%E4%BC%A0%E9%80%92%E9%94%99%E8%AF%AF%E4%BF%A1%E5%8F%B7",
       "source": "法广中文",
@@ -164,15 +197,6 @@
       "timestamp": 1777841014
     },
     {
-      "title": "BTC突破79000 USDT，24H涨幅0.7%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479264",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 OKX 行情显示，BTC 突破 79000 USDT，现报 79000.5 USDT，24H 涨幅 0.7%。",
-      "image": "",
-      "published_at": "2026-05-04 04:35",
-      "timestamp": 1777840503
-    },
-    {
       "title": "法牙胶婴儿玩具苏菲小鹿（Sophie la girafe）陷商业欺骗",
       "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260503-%E6%B3%95%E7%89%99%E8%83%B6%E5%A9%B4%E5%84%BF%E7%8E%A9%E5%85%B7%E8%8B%8F%E8%8F%B2%E5%B0%8F%E9%B9%BF-sophie-la-girafe-%E9%99%B7%E5%95%86%E4%B8%9A%E6%AC%BA%E9%AA%97",
       "source": "法广中文",
@@ -180,132 +204,6 @@
       "image": "https://s.rfi.fr/media/display/75f40edc-472f-11f1-b609-005056bfb2b6/w:1024/p:16x9/photo-d-illustration-sipa-kennel-krista-1777831351.jpg",
       "published_at": "2026-05-04 04:34",
       "timestamp": 1777840465
-    },
-    {
-      "title": "马里军政府是否失去控制?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/3/is-malis-military-government-losing-control?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "武装团体和反叛分子联盟向军事政府挑战;权力。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777836867.jpg?resize=1920%2C1061&amp;quality=80",
-      "published_at": "2026-05-04 04:30",
-      "timestamp": 1777840259
-    },
-    {
-      "title": "Kimi Antonelli 赢得迈阿密 GP 延长 F1 头衔领先",
-      "link": "https://www.aljazeera.com/sports/2026/5/3/kimi-antonelli-wins-miami-grand-prix-to-extend-f1-title-lead?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "十九岁成为了F1历史上第一位将自己前三个杆位转换为i. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260503__A9P32HA__v4__HighRes__AutoFormulaOneMiamiGrandPrixGrandPrix-1777838471_42ac23-1777838777.jpg?resize=1200%2C630&amp;quality=80",
-      "published_at": "2026-05-04 04:28",
-      "timestamp": 1777840131
-    },
-    {
-      "title": "世界新闻自由日加沙记者死亡人数上升",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/world-press-freedom-day-marked-in-gaza-as-journalist-death-toll-rises?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "加沙的巴勒斯坦记者纪念世界新闻自由日,",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777838808.jpg?resize=1619%2C1080&amp;quality=80",
-      "published_at": "2026-05-04 04:07",
-      "timestamp": 1777838820
-    },
-    {
-      "title": "以色列是否不顾停火而向加沙扩张?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/5/3/is-israel-expanding-into-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Redi Tlhabi与Ray Adams Row Farr从法医建筑讲以色列扩张入迦......",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777838094.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-04 03:55",
-      "timestamp": 1777838102
-    },
-    {
-      "title": "德国默兹低调地与华盛顿决裂,",
-      "link": "https://www.aljazeera.com/economy/2026/5/3/germanys-merz-downplays-rift-with-washington-despite-us-troop-drawdown?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "德国总理表示批评唐纳德·特朗普(英语:Donald Trump * *039;而伊朗的策略与部队撤出无关. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69a71ca3af79-1772559523.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 03:42",
-      "timestamp": 1777837375
-    },
-    {
-      "title": "以色列的 \" 永久战争 \" 战略:与时间相争?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/5/3/israels-strategy-of-permanent-war-a-race-against-time?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "政治分析家丹尼尔·利维(Daniel Levy)说,美国的政策在以色列叙事中是如此的\"有名\",两者在.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777837005.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-04 03:36",
-      "timestamp": 1777837014
-    },
-    {
-      "title": "以色列部队在袭击被占领的西班纳布卢斯时杀害了巴勒斯坦人",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/israeli-forces-kill-palestinian-man-in-raid-on-nablus-in-occupied-west-ban?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "以色列部队袭击了被占领西岸的纳布卢斯市,打死了一名26岁男子。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777830714.jpg?resize=1620%2C1080&amp;quality=80",
-      "published_at": "2026-05-04 01:52",
-      "timestamp": 1777830720
-    },
-    {
-      "title": "调查人员说特朗普暗杀嫌疑人在记者会中被枪杀",
-      "link": "https://www.aljazeera.com/news/2026/5/3/investigators-say-trump-assassination-suspect-shot-officer-at-press-gala?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "白宫记者的特勤局特工\\ 039;晚餐是\\ 039;确定\\ 039;被...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-03T151812Z_1136407293_RC2VXKAEPGVF_RTRMADP_3_USA-TRUMP-DINNER-PIRRO-1777826443.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 01:25",
-      "timestamp": 1777829150
-    },
-    {
-      "title": "肯尼亚至少有18起水灾和滑坡死亡",
-      "link": "https://www.aljazeera.com/news/2026/5/3/floods-and-landslides-kill-at-least-18-in-kenya?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "持续的降雨正在东非国家造成洪水和滑坡。",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-28T131852Z_1077487670_RC27YKAC38SA_RTRMADP_3_KENYA-WEATHER-1777825497.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 01:04",
-      "timestamp": 1777827873
-    },
-    {
-      "title": "曼彻斯特曼联击败利物浦获得冠军联赛资格",
-      "link": "https://www.aljazeera.com/sports/2026/5/3/man-united-beat-liverpool-3-2-to-secure-champions-league-qualification?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Kobbie Mainoo-##039; 后期罢工在苦战对手利物浦出战后赢得了令人振奋的胜利. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_69f7750c-1777825036_fb7f02-1777826506.jpg?resize=1200%2C630&amp;quality=80",
-      "published_at": "2026-05-04 00:54",
-      "timestamp": 1777827248
-    },
-    {
-      "title": "UKMTO说,",
-      "link": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "船员安全,事故后11海里(20k.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26108447326306-1776607828.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-04 00:47",
-      "timestamp": 1777826844
-    },
-    {
-      "title": "美国对拉丁美洲:Varsha Gandikota和Susana Muhamad",
-      "link": "https://www.aljazeera.com/video/reframe/2026/5/3/the-us-v-latin-america-varsha-gandikota-susana-muhamad?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "Gandikota问Muhamad:军事工业机器对Gl的主权意味着什么...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777802923.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 23:58",
-      "timestamp": 1777823900
-    },
-    {
-      "title": "以色列威胁加沙战争的恢复,迫使裁军成为 \" 真理 \" 之火。",
-      "link": "https://www.aljazeera.com/news/2026/5/3/israel-threatens-gaza-war-resumption-to-force-disarmament-as-truce-frays?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "巴勒斯坦各派拒绝美国支持的将援助与武器上缴挂钩的计划,要求明确的波利蒂......",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/12007817-1755673294.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 23:40",
-      "timestamp": 1777822846
-    },
-    {
-      "title": "泽连斯基对俄国和西方没有好牌",
-      "link": "https://www.aljazeera.com/opinions/2026/5/3/zelenskyy-has-no-cards-to-play-against-russia-or-the-west?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "总统似乎无法为乌克兰人民争取到可以弥补痛苦的收益...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AP26104323005438-1776174433.jpg?resize=1200%2C675",
-      "published_at": "2026-05-03 23:09",
-      "timestamp": 1777820941
     },
     {
       "title": "地中海航运推出新航线绕过霍尔木兹海峡 德外长：作为美国亲密盟友，我们拥有共同目标",
@@ -326,69 +224,6 @@
       "timestamp": 1777818695
     },
     {
-      "title": "BSC链Meme币共建市值短时突破800万美元，日内涨超420%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479263",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 GMGN 数据，BSC 链 Meme 币共建市值短时上涨突破 800 万美元，现报约 790 万美元，日内涨幅超过 420%。 Odaily 提醒用户，Meme 币价格波动…",
-      "image": "",
-      "published_at": "2026-05-03 22:08",
-      "timestamp": 1777817280
-    },
-    {
-      "title": "在世界新闻自由日,教宗向战区遇害的记者致敬",
-      "link": "https://www.aljazeera.com/news/2026/5/3/pope-honors-journalists-killed-in-war-zones-on-world-press-freedom-day?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "教宗利奥十四世要求忠实地缅怀那些为追求真理而牺牲了生命的记者.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_69f742314a69-1777812017.jpg?resize=1200%2C675",
-      "published_at": "2026-05-03 22:06",
-      "timestamp": 1777817180
-    },
-    {
-      "title": "Figure创始人预测区块链重塑华尔街信贷基础设施",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479262",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 Figure Technology Solutions（FIGR）创始人 Mike Cagney 表示，公司正推动通过区块链重构传统信贷市场底层设施，将贷款、现实世界资产（RW…",
-      "image": "",
-      "published_at": "2026-05-03 22:00",
-      "timestamp": 1777816853
-    },
-    {
-      "title": "被以色列绑架的两名加沙船队积极分子是谁?",
-      "link": "https://www.aljazeera.com/news/2026/5/3/who-are-the-two-gaza-flotilla-activists-abducted-by-israel?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "西班牙国民赛义夫·阿布·克谢克和巴西人蒂亚戈·阿维拉是175名加沙船队活动家d.",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-02T190918Z_1845009783_RC261LA550XW_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-FLOTILLA-SPAIN-1777817114.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 22:00",
-      "timestamp": 1777816803
-    },
-    {
-      "title": "随着伊朗战争的加深,美国削减驻德部队",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "由于特朗普总统和默兹总理之间的一阵激化,美德关系紧张. .",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1777815488.jpg?resize=1920%2C1080&amp;quality=80",
-      "published_at": "2026-05-03 21:38",
-      "timestamp": 1777815536
-    },
-    {
-      "title": "美国对巴拉圭的世界杯比赛中,",
-      "link": "https://www.aljazeera.com/sports/2026/5/3/usa-vs-paraguay-among-world-cup-games-with-unsold-exorbitant-tickets?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "联合主办方的入场券 洛杉矶的开场比赛价格在$...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26087809821539-1777812878.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 21:31",
-      "timestamp": 1777815110
-    },
-    {
-      "title": "将更多的阿拉伯资源投入美国的联盟是没有道理的。",
-      "link": "https://www.aljazeera.com/opinions/2026/5/3/it-does-not-make-sense-to-invest-more-arab-resources-in-a-us-alliance?traffic_source=rss",
-      "source": "半岛电视台",
-      "summary": "美国将永远把以色列置于阿拉伯世界的优先地位。 阿拉伯团结是建立自己的唯一办法...",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2025-05-14T081156Z_1001977478_RC2KHEAMGQU0_RTRMADP_3_USA-TRUMP-GULF-1777815003.jpg?resize=1920%2C1440",
-      "published_at": "2026-05-03 21:31",
-      "timestamp": 1777815094
-    },
-    {
       "title": "中方指5名菲人员登上铁线礁活动遭处置 菲海警称监测驱离中国科考船",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260503-%E4%B8%AD%E6%96%B9%E6%8C%875%E5%90%8D%E8%8F%B2%E4%BA%BA%E5%91%98%E7%99%BB%E4%B8%8A%E9%93%81%E7%BA%BF%E7%A4%81%E6%B4%BB%E5%8A%A8%E9%81%AD%E5%A4%84%E7%BD%AE-%E8%8F%B2%E6%B5%B7%E8%AD%A6%E7%A7%B0%E7%9B%91%E6%B5%8B%E9%A9%B1%E7%A6%BB%E4%B8%AD%E5%9B%BD%E7%A7%91%E8%80%83%E8%88%B9",
       "source": "法广中文",
@@ -396,24 +231,6 @@
       "image": "https://s.rfi.fr/media/display/b5018fa6-46f7-11f1-8db3-005056bf30b7/w:1024/p:16x9/Capture-3450.jpg",
       "published_at": "2026-05-03 21:17",
       "timestamp": 1777814279
-    },
-    {
-      "title": "Michael Saylor：本周没有买入，下周恢复工作",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479261",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 比特币财库公司 Strategy 创始人 Michael Saylor 在 X 平台发文表示：本周没有买入，下周恢复工作。",
-      "image": "",
-      "published_at": "2026-05-03 21:17",
-      "timestamp": 1777814265
-    },
-    {
-      "title": "Jack Dorsey旗下加密金融应用Cash App拟上线比特币储备证明",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479260",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据市场消息：亿万富翁 Jack Dorsey 旗下加密金融应用平台 Cash App 本周正式上线比特币储备证明功能，向超过 6000 万用户验证其平台上的比特币持仓均实现 1…",
-      "image": "",
-      "published_at": "2026-05-03 20:45",
-      "timestamp": 1777812309
     },
     {
       "title": "台湾学者张文扬谈“赖清德突访非洲”：台湾需要一些创意的方式应对目前的外交困境，但恐难成常态",
@@ -425,24 +242,6 @@
       "timestamp": 1777809635
     },
     {
-      "title": "汉学家林培瑞：台湾证明中国文化可与民主理念成功融合",
-      "link": "https://www.voachinese.com/a/voa-interview-perry-link-taiwan-shows-that-democracy-can-be-successfully-practiced-within-chinese-culture-20260503/8145774.html",
-      "source": "美国之音中文",
-      "summary": "前美国副国家安全顾问博明(Matt Pottinger)曾在白宫发表的\"五四中文演讲\"中说：“中国人不适合民主是一派胡言！” 他的老师--汉学家林培瑞(Perry Link)教授在接受美国之音专访时说…",
-      "image": "https://gdb.voanews.com/1a1122b7-5e3e-4d09-4da3-08de3cb97958_tv_b1_w800_h450.jpg",
-      "published_at": "2026-05-03 20:00",
-      "timestamp": 1777809604
-    },
-    {
-      "title": "a16z Crypto高管：稳定币一词或将逐渐过时",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479259",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 a16z Crypto 特别项目负责人 Robert Hackett 撰文指出，“稳定币”这一术语正在逐渐失去其时代适配性，稳定币最初诞生于加密市场高波动阶段，因此强调“稳定”…",
-      "image": "",
-      "published_at": "2026-05-03 19:57",
-      "timestamp": 1777809460
-    },
-    {
       "title": "赖清德：任何国家没权利也不应阻挡台湾为世界做贡献",
       "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260503-%E8%B5%96%E6%B8%85%E5%BE%B7-%E4%BB%BB%E4%BD%95%E5%9B%BD%E5%AE%B6%E6%B2%A1%E6%9D%83%E5%88%A9%E4%B9%9F%E4%B8%8D%E5%BA%94%E9%98%BB%E6%8C%A1%E5%8F%B0%E6%B9%BE%E4%B8%BA%E4%B8%96%E7%95%8C%E5%81%9A%E8%B4%A1%E7%8C%AE",
       "source": "法广中文",
@@ -450,42 +249,6 @@
       "image": "https://s.rfi.fr/media/display/b9d2acf4-46e3-11f1-b891-005056a97e36/w:1024/p:16x9/AP26123087253074.jpg",
       "published_at": "2026-05-03 19:57",
       "timestamp": 1777809440
-    },
-    {
-      "title": "特朗普不支持率升至62%，创两任期最高纪录",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479258",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 最新 ABC/华盛顿邮报/Ipsos 民调：特朗普的不支持率达到 62%，创下他两个任期内的最高纪录。（金十）",
-      "image": "",
-      "published_at": "2026-05-03 19:45",
-      "timestamp": 1777808723
-    },
-    {
-      "title": "星球晚讯",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479244",
-      "source": "Odaily 星球日报",
-      "summary": "1. CZ回应币安超20万枚BTC地址安全性质疑：3开头地址大概率为多签； 2. dYdX基金会：社区已批准下线AKT-USD、GNO-USD等4个交易对； 3. 韩国KB金融集团与Pantera C…",
-      "image": "",
-      "published_at": "2026-05-03 19:30",
-      "timestamp": 1777807800
-    },
-    {
-      "title": "Zcash基金会：发布Zebra 4.4.0版本，修复多项共识级安全漏洞并建议节点立即升级",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479257",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 Zcash 基金会官方宣布发布 Zebra 4.4.0 版本，此次更新修复了多项共识级关键安全漏洞并强烈建议所有节点运营者立即升级，包括可导致新区块永久停止发现的拒绝服务漏洞、…",
-      "image": "",
-      "published_at": "2026-05-03 19:29",
-      "timestamp": 1777807771
-    },
-    {
-      "title": "CryptoQuant分析师：模型显示本轮BTC跌至5.9万美元才算中长期筑底开启",
-      "link": "https://www.odaily.news/zh-CN/newsflash/479256",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 CryptoQuant 分析师 Axel Adler Jr 在 X 平台发文表示，基于比特币当前流通供应量校准的调整后实现价格区间（Adjusted Realized Pric…",
-      "image": "",
-      "published_at": "2026-05-03 18:58",
-      "timestamp": 1777805901
     },
     {
       "title": "东盟峰会将登场 缅甸局势仍混乱",
@@ -515,15 +278,6 @@
       "timestamp": 1777800580
     },
     {
-      "title": "根除子宮頸癌成為全球目標  澳洲科學家如何領先？",
-      "link": "https://www.bbc.com/zhongwen/articles/c2025563qq1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "澳洲首次實現了25歲以下女性子宮頸癌新增病例零增長。為了實現這一目標，它們為年輕男性接種了疫苗。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a8f/live/00a03cc0-3d2d-11f1-9d5c-8ba507d7dbde.jpg",
-      "published_at": "2026-05-03 17:20",
-      "timestamp": 1777800041
-    },
-    {
       "title": "王毅据报在访问缅甸期间会见了被软禁的昂山素季",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260503-%E7%8E%8B%E6%AF%85%E6%8D%AE%E6%8A%A5%E5%9C%A8%E8%AE%BF%E9%97%AE%E7%BC%85%E7%94%B8%E6%9C%9F%E9%97%B4%E4%BC%9A%E8%A7%81%E4%BA%86%E8%A2%AB%E8%BD%AF%E7%A6%81%E7%9A%84%E6%98%82%E5%B1%B1%E7%B4%A0%E5%AD%A3",
       "source": "法广中文",
@@ -549,33 +303,6 @@
       "image": "https://s.rfi.fr/media/display/ee88bbda-3f56-11f1-82d0-005056bfb2b6/w:1024/p:16x9/1200x680-6.jpg",
       "published_at": "2026-05-03 16:29",
       "timestamp": 1777796969
-    },
-    {
-      "title": "分析：伊朗戰爭意外增強了烏克蘭的實力，俄烏距離停火協議是否更進一步",
-      "link": "https://www.bbc.com/zhongwen/articles/clypx20zdgpo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "澤連斯基總統一直在訪問海灣地區，以展示其國家的軍事實力。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e40e/live/8c9eb970-4626-11f1-ac78-2112837ce2aa.jpg",
-      "published_at": "2026-05-03 14:44",
-      "timestamp": 1777790652
-    },
-    {
-      "title": "台灣總統賴清德指責中國導致行程取消數日後，宣佈抵達史瓦帝尼進行國是訪問",
-      "link": "https://www.bbc.com/zhongwen/articles/c5y78xd84pno/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "目前尚不清楚賴清德如何抵達史瓦帝尼。中國則將他的訪問形容為一場「偷渡式」外竄。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/323e/live/c03cec40-4642-11f1-ac78-2112837ce2aa.jpg",
-      "published_at": "2026-05-03 12:00",
-      "timestamp": 1777780859
-    },
-    {
-      "title": "「地球上最嚴酷的地方之一」：1960年代試圖重塑世界的綠色「烏托邦」",
-      "link": "https://www.bbc.com/zhongwen/articles/c809rkm54d5o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC 中文",
-      "summary": "該村莊依靠本土發明生存：從低成本的太陽能熱水器和兼作水泵的兒童蹺蹺板，到可食用森林花園和生物燃料。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acba/live/a39da660-37f1-11f1-9d5c-8ba507d7dbde.jpg",
-      "published_at": "2026-05-03 10:20",
-      "timestamp": 1777774814
     }
   ]
 }
