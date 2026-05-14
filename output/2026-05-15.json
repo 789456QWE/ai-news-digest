@@ -1,0 +1,905 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15 07:55:18",
+  "sources": [
+    "BBC 中文",
+    "Odaily 星球日报",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "在玻利维亚,矿业集团发动反政府抗议时听到爆炸声",
+      "link": "https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "抗议者要求罗德里戈·帕兹总统辞职,他在一个...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0650e5b424-1778798821.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 07:28",
+      "timestamp": 1778801280
+    },
+    {
+      "title": "乌克兰赫尔森遭到无人机袭击的联合国援助车队",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一个向赫尔森市运送援助物资的联合国人道主义车队两次被无人机击中.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-15-at-2.21.54-AM-1778800926.png?resize=1920%2C1440",
+      "published_at": "2026-05-15 07:22",
+      "timestamp": 1778800958
+    },
+    {
+      "title": "美国宣布，2026年将给联合国追加18亿美元的人道援助资金",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260514-%E7%BE%8E%E5%9B%BD%E5%AE%A3%E5%B8%83%EF%BC%8C2026%E5%B9%B4%E5%B0%86%E7%BB%99%E8%81%94%E5%90%88%E5%9B%BD%E8%BF%BD%E5%8A%A018%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9%E8%B5%84%E9%87%91",
+      "source": "法广中文",
+      "summary": "美国政府周四宣布，将在2026年给联合国追加18亿美元的人道援助资金，使美国的援助总额达到38亿美元。不过，这一数字仍低于特朗普重返白宫之前的水平。",
+      "image": "https://s.rfi.fr/media/display/91b52050-272e-11f1-8706-005056a97e36/w:1024/p:16x9/AP26070739836329.jpg",
+      "published_at": "2026-05-15 07:17",
+      "timestamp": 1778800632
+    },
+    {
+      "title": "北京盛大接待特朗普的同时，也对其发出严厉警告",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260514-%E5%8C%97%E4%BA%AC%E7%9B%9B%E5%A4%A7%E6%8E%A5%E5%BE%85%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%90%8C%E6%97%B6%EF%BC%8C%E4%B9%9F%E5%AF%B9%E5%85%B6%E5%8F%91%E5%87%BA%E4%B8%A5%E5%8E%89%E8%AD%A6%E5%91%8A",
+      "source": "法广中文",
+      "summary": "就美国总统特朗普访问中国，法国世界报写道，北京在盛大接待特朗普的同时，也向特朗普发出了严厉的警告。",
+      "image": "https://s.rfi.fr/media/display/bddd2032-0bde-11ea-9862-005056bff430/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
+      "published_at": "2026-05-15 07:13",
+      "timestamp": 1778800419
+    },
+    {
+      "title": "Gemini一季度收入增长42%，盘后股价一度大涨30%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481484",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 加密交易所 Gemini 发布一季度财报，营收达 5030 万美元，较去年同期的 3530 万美元增长 42%，带动其股价在盘后交易中一度上涨 30%。 公司表示，增长主要来自…",
+      "image": "",
+      "published_at": "2026-05-15 06:51",
+      "timestamp": 1778799078
+    },
+    {
+      "title": "Bitwise Hyperliquid ETF将于本周五在纽交所上市",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481483",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Bitwise Hyperliquid ETF 将于本周五在纽约证券交易所开始交易，代码为 BHYP。此前，21Shares 的 Hyperliquid ETF（THYP）已于…",
+      "image": "",
+      "published_at": "2026-05-15 06:50",
+      "timestamp": 1778799014
+    },
+    {
+      "title": "Strive推出“每日分红”策略，股价一度上涨7%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481482",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 由 Vivek Ramaswamy 创立的比特币储备公司 Strive Inc. 股价周四一度上涨 7%。公司宣布，其优先股 SATA 将自 6 月 16 日起在每个交易日支付…",
+      "image": "",
+      "published_at": "2026-05-15 06:42",
+      "timestamp": 1778798542
+    },
+    {
+      "title": "摩根大通：若链上活动不足，ETH与山寨币或继续跑输比特币",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481481",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 摩根大通分析师表示，尽管伊朗冲突后加密市场整体回暖，以太坊及其他山寨币仍持续跑输比特币。这一自 2023 年以来形成的趋势，除非网络活动、DeFi 和现实应用出现明显改善，否则…",
+      "image": "",
+      "published_at": "2026-05-15 06:41",
+      "timestamp": 1778798493
+    },
+    {
+      "title": "Bullish一季度净亏损6.05亿美元，调整后指标仍实现增长",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481480",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 加密交易所 Bullish 发布 2026 年一季度财报，录得净亏损 6.049 亿美元，亏损规模较去年同期进一步扩大。公司表示，亏损主要来自数字资产持仓公允价值变动等非现金项…",
+      "image": "",
+      "published_at": "2026-05-15 06:40",
+      "timestamp": 1778798456
+    },
+    {
+      "title": "CertiK CEO：AI正在让DeFi攻防变成“不公平游戏”",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481479",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 CertiK 联合创始人兼 CEO Ronghui Gu 表示，AI 工具正在加剧 DeFi 安全攻防失衡，使攻击者更容易发现漏洞并在不同协议间复制攻击路径。 他指出，今年 4…",
+      "image": "",
+      "published_at": "2026-05-15 06:38",
+      "timestamp": 1778798317
+    },
+    {
+      "title": "特习会首日，特朗普表现低调但未有实质成果，周五午餐后将启程返美",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E7%89%B9%E4%B9%A0%E4%BC%9A%E9%A6%96%E6%97%A5%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E8%A1%A8%E7%8E%B0%E4%BD%8E%E8%B0%83%E4%BD%86%E6%9C%AA%E6%9C%89%E5%AE%9E%E8%B4%A8%E6%88%90%E6%9E%9C%EF%BC%8C%E5%91%A8%E4%BA%94%E5%8D%88%E9%A4%90%E5%90%8E%E5%B0%86%E5%90%AF%E7%A8%8B%E8%BF%94%E7%BE%8E",
+      "source": "法广中文",
+      "summary": "法新社的消息称，美国总统特朗普与中国国家主席习近平周五（5月15日）将举行最后一天的会谈，预计在与习近平共进工作午餐后，特朗普将在当天下午早些时候启程返回美国。",
+      "image": "https://s.rfi.fr/media/display/3d9d9076-4f4f-11f1-9b21-005056a97e36/w:1024/p:16x9/2026-05-14T042226Z-747817230-RC2Q8LAWH49V-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-15 06:38",
+      "timestamp": 1778798300
+    },
+    {
+      "title": "古巴的Diaz-Canel在日益恶化的燃料危机和停电中向美国开放援助",
+      "link": "https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "这些评论是中情局局长约翰·拉特克利夫率领的美国代表团在哈凡会见古巴官员时发表的. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-16T171629Z_1977979487_RC2BQKAXFNI6_RTRMADP_3_CUBA-ANNIVERSARY-1778789548.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 06:30",
+      "timestamp": 1778797806
+    },
+    {
+      "title": "共和党议员推出法案，拟实行全政府范围禁令，防止中国利用联邦资助的科研成果",
+      "link": "https://www.voachinese.com/a/moolenaar-and-banks-unveiled-legislation-to-protect-taxpayer-funded-research-from-china-20260514/8150093.html",
+      "source": "美国之音中文",
+      "summary": "美国国会众议院两名共和党议员星期四(5月14日)推出《保护创新与研究免受敌手侵害法案》(Securing Innovation and Research from Adversaries Act)，旨…",
+      "image": "https://gdb.voanews.com/bb7a70fb-2707-4eff-8249-0d3a1433fc0c_w800_h450.jpeg",
+      "published_at": "2026-05-15 06:28",
+      "timestamp": 1778797725
+    },
+    {
+      "title": "Elon Musk针对OpenAI的划时代诉讼,",
+      "link": "https://www.aljazeera.com/economy/2026/5/14/closing-arguments-begin-in-elon-musks-landmark-lawsuit-against-openai?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "埃隆·穆斯克指责OpenAI破坏慈善信托,将利润放在AI安全之上,并且没有.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-14T154319Z_2126414271_RC239LA56L34_RTRMADP_3_MUSK-OPENAI-COURT-1778788838.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 06:12",
+      "timestamp": 1778796767
+    },
+    {
+      "title": "美国之音中文广播 (2026年5月15日)",
+      "link": "https://www.voachinese.com/a/8148897.html",
+      "source": "美国之音中文",
+      "summary": "今天的重点新闻内容包括：1)特朗普总统与习近平在北京举行会谈，特朗普说自己与习近平“保持着极好的关系，相处得非常融洽。每当遇到困难时，总能妥善解决。” 2)美中双方发布的特习会官方纪要都表现出乐观基调…",
+      "image": "https://gdb.voanews.com/cf880440-1313-4785-328e-08de3c9a2615_w800_h450.jpg",
+      "published_at": "2026-05-15 06:00",
+      "timestamp": 1778796004
+    },
+    {
+      "title": "特朗普：中国同意购买200架波音飞机",
+      "link": "https://www.voachinese.com/a/china-to-buy-200-boeing-jets-trump-says-20260514/8150087.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普(Donald Trump)星期四(5月14日)说，中国同意向美国飞机制造商波音(Boeing)购买200架飞机。这是中国在时隔将近10年后，第一次购买美国制造的飞机。",
+      "image": "https://gdb.voanews.com/de3b02bf-308e-49a3-8d4a-d40e44194eb5_cx3_cy1_cw96_w800_h450.jpg",
+      "published_at": "2026-05-15 05:54",
+      "timestamp": 1778795669
+    },
+    {
+      "title": "埃及政策基石含与非洲国家关系",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260514-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%9F%83%E5%8F%8A%E6%94%BF%E7%AD%96%E5%9F%BA%E7%9F%B3%E5%90%AB%E4%B8%8E%E9%9D%9E%E6%B4%B2%E5%9B%BD%E5%AE%B6%E5%85%B3%E7%B3%BB",
+      "source": "法广中文",
+      "summary": "埃及是法语国家及地区国际组织（OIF）的正式成员国。塞西总统（président égyptien Fattah al-Sissi ）于上周六在亚历山大（Alexandrie）与法国总统马克龙（pré…",
+      "image": "https://s.rfi.fr/media/display/20b01944-4fda-11f1-8181-005056a97e36/w:1024/p:16x9/2026-05-14-j-FMM-archive-Afrique-Egypte-Alexandrie-wikimedia-Data-RFI.jpg",
+      "published_at": "2026-05-15 05:29",
+      "timestamp": 1778794179
+    },
+    {
+      "title": "VOA今日焦点 (2026年5月15日)",
+      "link": "https://www.voachinese.com/a/voatoday-20260514/8150086.html",
+      "source": "美国之音中文",
+      "summary": "2026年5月15日《VOA今日焦点》重点新闻内容包括：北京“特习会”首日，双方互致友好言辞；美中两国官方纪要显示差异；卢比奥国务卿表示美中峰会谈及台湾议题；戴博：\"特习会\"后美中竞争可能更加激烈。",
+      "image": "https://gdb.voanews.com/bb9bcb64-a642-43da-af29-db0e147962ba_tv_b1_w800_h450.jpg",
+      "published_at": "2026-05-15 05:20",
+      "timestamp": 1778793626
+    },
+    {
+      "title": "特朗普访中：时间紧张气氛严肃也有花边趣事",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260514-%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E4%B8%AD-%E6%97%B6%E9%97%B4%E7%B4%A7%E5%BC%A0%E6%B0%94%E6%B0%9B%E4%B8%A5%E8%82%83%E4%B9%9F%E6%9C%89%E8%8A%B1%E8%BE%B9%E8%B6%A3%E4%BA%8B",
+      "source": "法广中文",
+      "summary": "，美国总统特朗普13日抵达北京，不到两天的一系列访问行程紧张，议题严肃，尤其是难得看到特朗普的轻松一笑，但仍有一些相关的花边趣事。",
+      "image": "https://s.rfi.fr/media/display/69ad1f40-4f6f-11f1-b311-005056bf30b7/w:1024/p:16x9/2026-05-14T054319Z-126792240-RC2T8LAV4XKV-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-15 05:17",
+      "timestamp": 1778793471
+    },
+    {
+      "title": "德国《墨丘利报》：特习会双方地位不对等",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%BE%B7%E5%9B%BD-%E5%A2%A8%E4%B8%98%E5%88%A9%E6%8A%A5-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%8F%8C%E6%96%B9%E5%9C%B0%E4%BD%8D%E4%B8%8D%E5%AF%B9%E7%AD%89",
+      "source": "法广中文",
+      "summary": "德国媒体对北京特习会表示了密切关注。",
+      "image": "https://s.rfi.fr/media/display/904b6cc6-4fae-11f1-9e83-005056bfb2b6/w:1024/p:16x9/2026-05-14T140929Z-1726734120-RC2Y8LA56VYP-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-15 05:01",
+      "timestamp": 1778792500
+    },
+    {
+      "title": "《VOA今日焦点》音频",
+      "link": "https://www.voachinese.com/a/8148896.html",
+      "source": "美国之音中文",
+      "summary": "2026年5月15日《VOA今日焦点》重点新闻内容包括：北京“特习会”首日，双方互致友好言辞；美中两国官方纪要显示差异；卢比奥国务卿表示美中峰会谈及台湾议题；戴博：\"特习会\"后美中竞争可能更加激烈。",
+      "image": "https://gdb.voanews.com/6e961cf8-168f-4c67-328c-08de3c9a2615_w800_h450.jpg",
+      "published_at": "2026-05-15 05:00",
+      "timestamp": 1778792400
+    },
+    {
+      "title": "伊朗战争是否会引发饥饿危机?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/5/14/could-iran-war-trigger-a-hunger-crisis?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "联合国警告霍尔木兹海峡的混乱 可能会增加食物和肥料成本 更糟的是...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778792153.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 05:00",
+      "timestamp": 1778792400
+    },
+    {
+      "title": "中国正在从美国在伊朗的所作所为中获利。",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/china-is-gaining-from-what-the-us-is-doing-in?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "地缘政治分析家史蒂夫·奥昆(Steve Okun)说,中国正在受益于对伊朗的战争.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Screenshot-2026-05-14-at-21.47.52-1778792070.png?resize=1770%2C1080",
+      "published_at": "2026-05-15 04:56",
+      "timestamp": 1778792182
+    },
+    {
+      "title": "重要的事说三遍：习近平让“修昔底德陷阱”爆红",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E9%87%8D%E8%A6%81%E7%9A%84%E4%BA%8B%E8%AF%B4%E4%B8%89%E9%81%8D-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%A9-%E4%BF%AE%E6%98%94%E5%BA%95%E5%BE%B7%E9%99%B7%E9%98%B1-%E7%88%86%E7%BA%A2",
+      "source": "法广中文",
+      "summary": "美中元首“特习会”登场，中国国家主席习近平在致词时对美国总统提出三个问题，围绕中美能不能跨越“修昔底德陷阱”、开创大国关係典范？究竟甚么是“修昔底德陷阱”？",
+      "image": "https://s.rfi.fr/media/display/2030ddcc-4f63-11f1-bc32-005056a90284/w:1024/p:16x9/14-5-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E5%8F%B3%E4%B8%8A%E5%B0%8F%E5%9B%BE-%E5%9C%A8%E5%BC%80%E4%BC%9A%E6%97%B6%E9%80%8F%E9%9C%B2-%E4%B8%AD%E7%BE%8E%E7%BB%8F%E8%B4%B8%E5%9B%A2%E9%98%9F%E5%B7%B2%E8%BE%BE%E6%88%90%E5%B9%B3%E8%A1%A1%E7%9A%84%E7%A7%AF%E6%9E%81%E6%88%90%E6%9E%9C-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%B7%A6%E4%B8%8A%E5%B0%8F%E5%9B%BE-%E4%BA%A6%E6%9C%9B%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%B1%95%E5%BC%80%E8%B4%B8%E6%98%93%E5%90%88%E4%BD%9C-%E9%BA%A6%E7%87%95%E7%A4%BE%E6%8F%90%E4%BE%9B-1.png",
+      "published_at": "2026-05-15 04:55",
+      "timestamp": 1778792138
+    },
+    {
+      "title": "边境巡逻队长迈克·班克斯(Mike Banks)在最近特朗普移民潮中辞职",
+      "link": "https://www.aljazeera.com/news/2026/5/14/border-patrol-chief-mike-banks-resigns-in-latest-trump-immigration-shakeup?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国国土安全部已经看到包括托德·里昂在内的多起引人注目的出走事件. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a062c88dcb0-1778789512.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 04:55",
+      "timestamp": 1778792116
+    },
+    {
+      "title": "随着同以色列的直接会谈取得进展,黎巴嫩的谨慎乐观态度",
+      "link": "https://www.aljazeera.com/news/2026/5/14/cautious-optimism-in-lebanon-as-direct-talks-with-israel-progress?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "黎巴嫩官员希望美国为期两天的大使级谈判能产生新的结果.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0625d9bb58-1778787801.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 04:25",
+      "timestamp": 1778790319
+    },
+    {
+      "title": "伊朗调频敦促金砖国家谴责美以美侵略",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/irans-fm-urges-brics-states-to-condemn-us-israeli-aggression?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "伊朗外交部长阿巴斯·阿拉赫奇在新德里的一次外交部长集会上就T.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ARaghchi-in-Delhi-clean-thumb-1778790073.png?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 04:20",
+      "timestamp": 1778790048
+    },
+    {
+      "title": "巴勒斯坦总统阿巴斯保证选举,在法塔赫会议上进行改革",
+      "link": "https://www.aljazeera.com/news/2026/5/14/palestinian-president-abbas-pledges-elections-reform-at-fatah-conference?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴勒斯坦权力机构主席马哈茂德·阿巴斯被一致重新选举为法塔赫领导人。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260514__B2UM8Q6__v1__HighRes__PalestinianIsraelConflictPolitics-1778786580.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 04:07",
+      "timestamp": 1778789241
+    },
+    {
+      "title": "古巴电网崩溃，东部省份陷入大规模停电",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%8F%A4%E5%B7%B4%E7%94%B5%E7%BD%91%E5%B4%A9%E6%BA%83%EF%BC%8C%E4%B8%9C%E9%83%A8%E7%9C%81%E4%BB%BD%E9%99%B7%E5%85%A5%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%81%9C%E7%94%B5",
+      "source": "法广中文",
+      "summary": "古巴当局表示，周四（5月14日）凌晨，古巴国家能源电网发生重大故障，导致该岛东部多个省份电力中断，与此同时，首都哈瓦那也持续面临轮流停电。",
+      "image": "https://s.rfi.fr/media/display/1828afaa-4f78-11f1-8439-005056a97e36/w:1024/p:16x9/2026-05-14T050943Z-239504732-RC2R8LARKE0B-RTRMADP-3-CUBA-CRISIS-FUEL.jpg",
+      "published_at": "2026-05-15 03:48",
+      "timestamp": 1778788131
+    },
+    {
+      "title": "Mbappe和Dembele 领先明星法国世界杯队",
+      "link": "https://www.aljazeera.com/sports/2026/5/14/mbappe-and-dembele-head-up-star-studded-france-world-cup-squad?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "凯利安·姆巴佩将在世界杯上以国家队主教练迪迪埃·德施坎普斯出道. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-03-25T204908Z_2013982320_UP1EM3P1LTVP0_RTRMADP_3_SOCCER-FRIENDLY-BRA-FRA-PREVIEW-1-1778785417.jpg?resize=1200%2C630",
+      "published_at": "2026-05-15 03:40",
+      "timestamp": 1778787640
+    },
+    {
+      "title": "伊朗、台湾、贸易:特朗普的高点 返回北京",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "由于特朗普九年来第一次在北京与习近平相会,可以进行战争贸易,台湾和伊朗的拉尼奥. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778787153.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 03:34",
+      "timestamp": 1778787265
+    },
+    {
+      "title": "余茂春谈“特习会”：中共的四条红线，每一条都是怕美国的价值观影响中国人民",
+      "link": "https://www.voachinese.com/a/voa-interview-miles-yu-chinas-4-red-lines-show-their-fear-of-us-values-president-trump-should-directly-voice-out-to-chinese-people-20260508/8150073.html",
+      "source": "美国之音中文",
+      "summary": "美国智库哈德逊研究所中国中心主任余茂春接受美国之音专访时表示，中共对美国提出的四条红线，每一条都是怕美国的价值观和他所代表的普世价值影响到中国人民。美国一定要和中国人民有直接的接触，美国的总统必须通过…",
+      "image": "https://gdb.voanews.com/084e5d18-b7fb-4768-4e7f-08de3cb97958_tv_b1_w800_h450.jpg",
+      "published_at": "2026-05-15 03:31",
+      "timestamp": 1778787108
+    },
+    {
+      "title": "国际货币基金组织：美中建设性对话与关系缓和对全球经济有利",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E5%9F%BA%E9%87%91%E7%BB%84%E7%BB%87-%E7%BE%8E%E4%B8%AD%E5%BB%BA%E8%AE%BE%E6%80%A7%E5%AF%B9%E8%AF%9D%E4%B8%8E%E5%85%B3%E7%B3%BB%E7%BC%93%E5%92%8C%E5%AF%B9%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E%E6%9C%89%E5%88%A9",
+      "source": "法广中文",
+      "summary": "国际货币基金组织（IMF）周四（5月14日）表示，欢迎美国总统特朗普与中国国家主席习近平之间初步展开的积极对话，并指出，降低这两大世界经济体之间的紧张关系与不确定性，对全球经济有利。",
+      "image": "https://s.rfi.fr/media/display/3139c93a-4f8b-11f1-97ca-005056bf30b7/w:1024/p:16x9/AP26134100338912.jpg",
+      "published_at": "2026-05-15 03:30",
+      "timestamp": 1778787023
+    },
+    {
+      "title": "美国空军在飞机坠入佛罗里达沿岸海域后救援了11起",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/us-air-force-rescues-11-after-plane-crashes-into-waters-off-florida-coast?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国空军的镜头显示,一架私人飞机坠入大西洋后有11人获救. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778786149.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 03:16",
+      "timestamp": 1778786219
+    },
+    {
+      "title": "美国希望黎巴嫩-以色列会谈取得什么成果?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/14/what-does-the-us-hope-to-achieve-from-lebanese-israeli-talks?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "随着以色列对黎巴嫩的持续袭击,真主党反对华盛顿停火会谈.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778784246.jpg?resize=1920%2C1061&amp;quality=80",
+      "published_at": "2026-05-15 03:00",
+      "timestamp": 1778785250
+    },
+    {
+      "title": "在网络持续停电的情况下,",
+      "link": "https://www.aljazeera.com/editorial/2026/5/14/iran-expands-tiered-internet-access-amid-continued-online-blackout?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "伊朗人在战争期间的互联网访问有限,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/02/AP120213018241-1-1708692200.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 03:00",
+      "timestamp": 1778785234
+    },
+    {
+      "title": "将ChatGPT引入苹果设备后收益未达预期，OpenAI正研究对苹果采取法律行动",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260514-%E5%B0%86chatgpt%E5%BC%95%E5%85%A5%E8%8B%B9%E6%9E%9C%E8%AE%BE%E5%A4%87%E5%90%8E%E6%94%B6%E7%9B%8A%E6%9C%AA%E8%BE%BE%E9%A2%84%E6%9C%9F%EF%BC%8Copenai%E6%AD%A3%E7%A0%94%E7%A9%B6%E5%AF%B9%E8%8B%B9%E6%9E%9C%E9%87%87%E5%8F%96%E6%B3%95%E5%BE%8B%E8%A1%8C%E5%8A%A8",
+      "source": "法广中文",
+      "summary": "据彭博新闻社周四（5月14日）报道，苹果公司与OpenAI两年前达成的合作关系已出现紧张的迹象。由于未能从合作中获得预期收益，OpenAI目前正准备研究可能的法律行动。",
+      "image": "https://s.rfi.fr/media/display/bfa7a18a-4f7f-11f1-9774-005056bfb2b6/w:1024/p:16x9/chatgpt.jpg",
+      "published_at": "2026-05-15 02:59",
+      "timestamp": 1778785146
+    },
+    {
+      "title": "以色列极端民族主义者在耶路撒冷日游行期间高呼种族主义口号",
+      "link": "https://www.aljazeera.com/gallery/2026/5/14/israeli-ultranationalists-chant-racist-slogans-during-jerusalem-day-march?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "耶路撒冷年度 日出游行激起紧张局势,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-14T153056Z_1307912828_RC239LAHBUL2_RTRMADP_3_ISRAEL-PALESTINIANS-JERUSALEM-MARCH-1778774593.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:41",
+      "timestamp": 1778784110
+    },
+    {
+      "title": "国际足联警告说,“可怕的热量”可能会影响四分之一的世界杯比赛。",
+      "link": "https://www.aljazeera.com/sports/2026/5/14/fifa-warned-gruelling-heat-could-impact-quarter-of-world-cup-games?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "科学家警告Football QQ039; 理事机构认为全球变暖增加了极端高温风险...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-12T075433Z_1686138240_MT1USATODAY28933351_RTRMADP_3_SOCCER-2026-WORLD-CUP-HOUSTON-STADIUM-PITCH-INSTALLATION-1778781948.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:39",
+      "timestamp": 1778783973
+    },
+    {
+      "title": "以色列的本·格维尔(Ben Gvir)在耶路撒冷日游行期间的阿克萨风暴",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/israels-ben-gvir-storms-al-aqsa-during-jerusalem-day-march?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在耶路撒冷日,伊塔马尔·本·格维尔在军事保护下猛攻阿克萨大院。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778788201.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 02:39",
+      "timestamp": 1778783953
+    },
+    {
+      "title": "英国政治危机：卫生大臣请辞，暗示斯塔默“主动让位”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E8%8B%B1%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA-%E5%8D%AB%E7%94%9F%E5%A4%A7%E8%87%A3%E8%AF%B7%E8%BE%9E%EF%BC%8C%E6%9A%97%E7%A4%BA%E6%96%AF%E5%A1%94%E9%BB%98-%E4%B8%BB%E5%8A%A8%E8%AE%A9%E4%BD%8D",
+      "source": "法广中文",
+      "summary": "英国卫生大臣韦斯·斯特里廷（Wes Streeting）周四成为首位辞职的高级内阁成员。外界普遍认为，这一步是在为逼迫斯塔默“退位”作铺垫。斯特里廷表示，他已经对斯塔默失去信心，并认为后者不应继续完成…",
+      "image": "https://s.rfi.fr/media/display/627e7156-4d35-11f1-9961-005056a97e36/w:1024/p:16x9/000-B2C98WE.jpg",
+      "published_at": "2026-05-15 02:36",
+      "timestamp": 1778783795
+    },
+    {
+      "title": "美中各自公布会谈纪要：白宫强调经贸、能源与伊朗问题，北京突出台湾问题和美中关系长期定位",
+      "link": "https://www.voachinese.com/a/us-and-chinese-accounts-of-trump-xi-summit-reveal-starkly-different-priorities-20260514/8150047.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普(Donald Trump)总统星期四(5月14日)在北京与中国国家主席习近平举行备受关注的美中元首峰会。美中双方会后发布的会谈纪要都称，两国领导人讨论了经贸合作和国际地区问题，但两份官…",
+      "image": "https://gdb.voanews.com/ebd2c67e-3c92-4e98-d225-08de3bf6f1ff_cx0_cy7_cw0_w800_h450.jpg",
+      "published_at": "2026-05-15 02:33",
+      "timestamp": 1778783600
+    },
+    {
+      "title": "杰罗姆·鲍威尔:通过COVID-19和政治压力指导美联储.",
+      "link": "https://www.aljazeera.com/economy/2026/5/14/jerome-powell-steering-the-us-fed-through-covid-19-and-political-pressures?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "特朗普积极推动削减利率,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a06115f-1778782559.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:25",
+      "timestamp": 1778783117
+    },
+    {
+      "title": "特朗普政府承诺向联合国提供更多人道主义援助1.8bn",
+      "link": "https://www.aljazeera.com/news/2026/5/14/trump-administration-pledges-1-8bn-in-additional-humanitarian-aid-to-un?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "额外资金在12月宣布的2bn之外,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a060a51-1778780753.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:24",
+      "timestamp": 1778783040
+    },
+    {
+      "title": "苏丹近2000万人遭受战争蹂躏,",
+      "link": "https://www.aljazeera.com/news/2026/5/14/acute-hunger-grips-nearly-20-million-people-in-war-battered-sudan-says-ipc?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "缺乏食物和卫生设施会导致许多人死亡,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a05efe8a4cf5-1778773992.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:23",
+      "timestamp": 1778782989
+    },
+    {
+      "title": "22小时停电,古巴陷入了更深的燃料危机",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "古巴面临全国范围的混乱,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/WIDE-THUMB-HAVANA-crisis-1778782343.png?resize=1920%2C1440",
+      "published_at": "2026-05-15 02:13",
+      "timestamp": 1778782428
+    },
+    {
+      "title": "特朗普称中国已同意购买200架波音飞机，数量远低于此前媒体透露的规模",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%B7%B2%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0200%E6%9E%B6%E6%B3%A2%E9%9F%B3%E9%A3%9E%E6%9C%BA%EF%BC%8C%E4%BD%86%E6%95%B0%E9%87%8F%E8%BF%9C%E4%BD%8E%E4%BA%8E%E6%AD%A4%E5%89%8D%E5%AA%92%E4%BD%93%E9%80%8F%E9%9C%B2%E7%9A%84%E8%A7%84%E6%A8%A1",
+      "source": "法广中文",
+      "summary": "美国总统特朗普周四（5月14日）在福克斯新闻（Fox News）播出的一段采访中表示，中国已同意订购200架波音飞机。",
+      "image": "https://s.rfi.fr/media/display/2e896042-4fa4-11f1-869c-005056bfb2b6/w:1024/p:16x9/AP26134388885077.jpg",
+      "published_at": "2026-05-15 01:50",
+      "timestamp": 1778781057
+    },
+    {
+      "title": "`愿你的村庄被烧':以色列国旗游行返回东耶路撒冷",
+      "link": "https://www.aljazeera.com/news/2026/5/14/may-your-village-burn-israeli-flag-march-returns-to-east-jerusalem?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "极右翼的以色列人在\"旗下行军\"期间袭击了巴勒斯坦人,加剧了杰的暴力和种族主义. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0602a326d1-1778778787.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 01:50",
+      "timestamp": 1778781031
+    },
+    {
+      "title": "巴勒斯坦的游戏争相存在",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/14/the-palestinian-game-fighting-to-exist?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一个来自被占领西岸的开发商正在把一个75年的巴勒斯坦民间故事变成一个视频.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1778780451.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-15 01:41",
+      "timestamp": 1778780484
+    },
+    {
+      "title": "特朗普与习近平北京峰会首日气氛热络，双方提及伊朗与台湾等分歧议题",
+      "link": "https://www.voachinese.com/a/warm-words-mark-first-day-of-trump-xi-summit-in-beijing-20260514/8150021.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普总统在北京与中国国家主席习近平星期四(5月14日)举行了两人峰会的首日会谈。此次峰会在盛大欢迎仪式和两位领导人的友好言辞中展开，但在伊朗和台湾等争议议题上并未取得突破。",
+      "image": "https://gdb.voanews.com/ff5d9f12-12ac-4ed9-af1d-d97c7334c4e4_cx0_cy2_cw0_w800_h450.jpg",
+      "published_at": "2026-05-15 01:36",
+      "timestamp": 1778780205
+    },
+    {
+      "title": "伊朗敦促金砖国家谴责美以战争侵略",
+      "link": "https://www.aljazeera.com/news/2026/5/14/iran-urges-brics-nations-to-condemn-us-israeli-war-aggression?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "外交部长阿巴斯·阿拉格奇也指责阿联酋直接参与了军事行动. g.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-14T084435Z_724442967_RC2T8LAF2DZO_RTRMADP_3_INDIA-BRICS-1778777177.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-15 01:29",
+      "timestamp": 1778779793
+    },
+    {
+      "title": "特习会进行之际，伊朗宣布已允许若干中国船只通过霍尔木兹海峡",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E7%89%B9%E4%B9%A0%E4%BC%9A%E8%BF%9B%E8%A1%8C%E4%B9%8B%E9%99%85%EF%BC%8C%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%B7%B2%E5%85%81%E8%AE%B8%E8%8B%A5%E5%B9%B2%E4%B8%AD%E5%9B%BD%E8%88%B9%E5%8F%AA%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+      "source": "法广中文",
+      "summary": "法新社消息称，伊朗周四（5月14日）宣布，自周三起，伊朗海军已允许多艘中国船只通过霍尔木兹海峡。",
+      "image": "https://s.rfi.fr/media/display/379978cc-4f61-11f1-92a1-005056bf30b7/w:1024/p:16x9/AP26134233022878.jpg",
+      "published_at": "2026-05-15 01:29",
+      "timestamp": 1778779787
+    },
+    {
+      "title": "特朗普面对的是一个如今将自己视为与美国平起平坐的中国 法媒评",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E7%89%B9%E6%9C%97%E6%99%AE%E9%9D%A2%E5%AF%B9%E7%9A%84%E6%98%AF%E4%B8%80%E4%B8%AA%E5%A6%82%E4%BB%8A%E5%B0%86%E8%87%AA%E5%B7%B1%E8%A7%86%E4%B8%BA%E4%B8%8E%E7%BE%8E%E5%9B%BD%E5%B9%B3%E8%B5%B7%E5%B9%B3%E5%9D%90%E7%9A%84%E4%B8%AD%E5%9B%BD-%E6%B3%95%E5%AA%92%E8%AF%84",
+      "source": "法广中文",
+      "summary": "美国总统唐纳德·特朗普13日抵达北京，法媒指出，此时的中国已然不同：北京如今自诩为与美国平起平坐的超级大国，并认为美国正在衰落。在这次中美峰会上，美国总统并不处于强势地位。而且中国人了解美国人的程度甚…",
+      "image": "https://s.rfi.fr/media/display/48b86e50-4fa3-11f1-b2de-005056a90284/w:1024/p:16x9/AP26134088616418.jpg",
+      "published_at": "2026-05-15 01:13",
+      "timestamp": 1778778811
+    },
+    {
+      "title": "币安上线 Gensyn (AIGENSYN) 理财、买币、杠杆及借贷服务",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481472",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据官方公告，币安将于 2026 年 5 月 14 日 17：00（UTC）上线 Gensyn（AIGENSYN）至 SimpleEarn（灵活产品）、买币、闪兑、杠杆交易及 V…",
+      "image": "",
+      "published_at": "2026-05-15 01:05",
+      "timestamp": 1778778311
+    },
+    {
+      "title": "Cerebras Systems (CBRS) 在纳斯达克首日开盘价为350美元，高于185美元的IPO发行价",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481471",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 msx 数据，Cerebras Systems (股票代码：CBRS) 股票在纳斯达克首日开盘价为 350 美元，高于 185 美元的 IPO 发行价。",
+      "image": "",
+      "published_at": "2026-05-15 01:04",
+      "timestamp": 1778778278
+    },
+    {
+      "title": "BTC突破82000 USDT，24H涨幅3.51%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481470",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情显示，BTC 突破 82000 USDT，现报 82016 USDT，24H 涨幅 3.51%。",
+      "image": "",
+      "published_at": "2026-05-15 01:04",
+      "timestamp": 1778778242
+    },
+    {
+      "title": "美参议院银行业委员会通过CLARITY法案，投票结果15:9",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481469",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美国参议院银行业委员会于周四以 15 比 9 的投票结果通过了 Clarity Act，这是首个针对加密行业的大规模监管立法。该法案获得委员会所有共和党人及民主党参议员 Rub…",
+      "image": "",
+      "published_at": "2026-05-15 00:52",
+      "timestamp": 1778777563
+    },
+    {
+      "title": "法国总统马克龙访非洲联盟总部",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260514-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%9D%9E%E6%B4%B2%E8%81%94%E7%9B%9F%E6%80%BB%E9%83%A8",
+      "source": "法广中文",
+      "summary": "在非洲联盟总部所在地、埃塞俄比亚首都亚的斯亚贝巴（Addis-Abeba），法国总统马克龙(président Emmanuel Macron)于2026年05月13日周三在与非盟（UA）委员会主席马…",
+      "image": "https://s.rfi.fr/media/display/30634162-4fe0-11f1-a489-005056a90284/w:1024/p:16x9/Vid%C3%A9o-2026-05-14-235507-Pr%C3%A9sident-Macron-au-si%C3%A8ge-de-l-UA-2026-05-13-onde.jpg",
+      "published_at": "2026-05-15 00:51",
+      "timestamp": 1778777465
+    },
+    {
+      "title": "俄军接连两日大举空袭乌克兰，欧委会主席称莫斯科公开嘲笑和平努力",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260514-%E4%BF%84%E5%86%9B%E6%8E%A5%E8%BF%9E%E4%B8%A4%E6%97%A5%E5%A4%A7%E4%B8%BE%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%EF%BC%8C%E6%AC%A7%E5%A7%94%E4%BC%9A%E4%B8%BB%E5%B8%AD%E7%A7%B0%E8%8E%AB%E6%96%AF%E7%A7%91%E5%85%AC%E5%BC%80%E5%98%B2%E7%AC%91%E5%92%8C%E5%B9%B3%E5%8A%AA%E5%8A%9B",
+      "source": "法广中文",
+      "summary": "刚刚借助美国总统的休战提议安然度过了卫国战争胜利纪念阅兵的俄罗斯正以更猛烈的方式空袭乌克兰。自13日清晨起，已经有超过1500架无人机对乌克兰境内目标发动攻击。欧盟委员会主席冯德莱恩14日表示，俄罗斯…",
+      "image": "https://s.rfi.fr/media/display/064c495a-4f68-11f1-8f22-005056a90284/w:1024/p:16x9/2026-05-14T052956Z-1867316571-RC2R8LA44N2L-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "published_at": "2026-05-15 00:10",
+      "timestamp": 1778775005
+    },
+    {
+      "title": "美国财长贝森特：美中正就人工智能护栏机制展开讨论",
+      "link": "https://www.voachinese.com/a/bessent-says-us-china-discussing-ai-guardrails-05142026/8149988.html",
+      "source": "美国之音中文",
+      "summary": "美国财政部长斯科特·贝森特(Scott Bessent)星期四(5月14日)表示，鉴于科技公司预计将在技术进步方面迎来飞跃，美中两国目前正就人工智能(AI)护栏机制进行讨论，旨在保护那些最强大的AI模…",
+      "image": "https://gdb.voanews.com/c78ce4ef-c404-4a93-43fe-08de54e55770_cx0_cy4_cw0_w800_h450.jpg",
+      "published_at": "2026-05-15 00:03",
+      "timestamp": 1778774599
+    },
+    {
+      "title": "特朗普訪華獲奉承與盛大歡迎，但棘手問題依然未解決",
+      "link": "https://www.bbc.com/zhongwen/articles/c0m2l74ylvxo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "在美國總統訪問北京期間，這兩個世界超級大國的領導人在鏡頭前笑容滿面。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7a5/live/6d400d10-4f9d-11f1-907d-0d4a929425a2.jpg",
+      "published_at": "2026-05-14 23:56",
+      "timestamp": 1778774216
+    },
+    {
+      "title": "特朗普总统与习近平北京会晤之际，全球市场涨跌互现，美股大幅上扬，油价保持稳定",
+      "link": "https://www.voachinese.com/a/global-markets-are-mixed-us-stocks-jump-oil-prices-remain-steady-as-president-trump-china-s-xi-meet-in-beijing-20260514/8149987.html",
+      "source": "美国之音中文",
+      "summary": "欧洲股市星期四(5月14日)上涨，亚洲股市涨跌互现，美国股指期货飙升，一度波动剧烈的油价保持稳定。与此同时，唐纳德·特朗普(Donald Trump)总统在北京与中国领导人举行了习近平会晤。",
+      "image": "https://gdb.voanews.com/acdc0cdf-c0dd-48ae-af64-41a9210919cf_w800_h450.jpg",
+      "published_at": "2026-05-14 23:55",
+      "timestamp": 1778774139
+    },
+    {
+      "title": "谁在谈判中更有优势，更占上风，贝森特怎么说？",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260514-%E8%B0%81%E5%9C%A8%E8%B0%88%E5%88%A4%E4%B8%AD%E6%9B%B4%E6%9C%89%E4%BC%98%E5%8A%BF%EF%BC%8C%E6%9B%B4%E5%8D%A0%E4%B8%8A%E9%A3%8E%EF%BC%8C%E8%B4%9D%E6%A3%AE%E7%89%B9%E6%80%8E%E4%B9%88%E8%AF%B4",
+      "source": "法广中文",
+      "summary": "美国财政部长贝森特（Scott Bessent）周四表示，预计在特朗普总统访问北京期间，将宣布中国向波音公司订购大量飞机的消息，并称美方希望扩大对中国的出口。",
+      "image": "https://s.rfi.fr/media/display/3558945a-4fa5-11f1-847a-005056bf30b7/w:1024/p:16x9/AP26134400225364.jpg",
+      "published_at": "2026-05-14 23:32",
+      "timestamp": 1778772731
+    },
+    {
+      "title": "金砖国家新德里外长会：成员国难寻统一立场",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%BA%B5%E8%A7%88/20260514-%E9%87%91%E7%A0%96%E5%9B%BD%E5%AE%B6%E6%96%B0%E5%BE%B7%E9%87%8C%E5%A4%96%E9%95%BF%E4%BC%9A-%E6%88%90%E5%91%98%E5%9B%BD%E9%9A%BE%E5%AF%BB%E7%BB%9F%E4%B8%80%E7%AB%8B%E5%9C%BA",
+      "source": "法广中文",
+      "summary": "来自巴西、俄罗斯、印度、中国、南非等国的金砖国家外长会议于5月14日星期四在印度首都新德里正式召开。此次会议为期两天，召开背景正值国际局势持续紧张，包括伊朗战争持续、全球能源供应波动、包括中美在内的主…",
+      "image": "https://s.rfi.fr/media/display/d126b6ba-4fa9-11f1-9502-005056bf30b7/w:1024/p:16x9/AP26134375979615.jpg",
+      "published_at": "2026-05-14 23:30",
+      "timestamp": 1778772654
+    },
+    {
+      "title": "你知道吗？被看作人类健康杀手的蚊子也有花粉传播作用",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20260514-%E4%BD%A0%E7%9F%A5%E9%81%93%E5%90%97-%E8%A2%AB%E7%9C%8B%E4%BD%9C%E4%BA%BA%E7%B1%BB%E5%81%A5%E5%BA%B7%E6%9D%80%E6%89%8B%E7%9A%84%E8%9A%8A%E5%AD%90%E4%B9%9F%E6%9C%89%E8%8A%B1%E7%B2%89%E4%BC%A0%E6%92%AD%E4%BD%9C%E7%94%A8",
+      "source": "法广中文",
+      "summary": "随着夏季来临，人类尤其是生活在湿热环境中的人类会更多面对蚊子的困扰。但这些看似微小轻盈的动物不仅困扰人类的夜间清梦，更是人类健康一个意想不到的杀手。根据卫生部门的数据，全球每年有近76万人死于蚊子叮咬…",
+      "image": "https://s.rfi.fr/media/display/c0fbee26-16a9-11ea-9b0c-005056bf7c53/w:1024/p:16x9/2016-03-09T121021Z_620284685_GF10000338697_RTRMADP_3_HEALTH-ZIKA-FRIEDEN.JPG",
+      "published_at": "2026-05-14 22:35",
+      "timestamp": 1778769327
+    },
+    {
+      "title": "鲁比奥：未就伊朗问题寻求中方帮助，美对台政策没有改变，黎智英案被提及",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E9%B2%81%E6%AF%94%E5%A5%A5-%E6%9C%AA%E5%B0%B1%E4%BC%8A%E6%9C%97%E9%97%AE%E9%A2%98%E5%AF%BB%E6%B1%82%E4%B8%AD%E6%96%B9%E5%B8%AE%E5%8A%A9%EF%BC%8C%E7%BE%8E%E5%AF%B9%E5%8F%B0%E6%94%BF%E7%AD%96%E6%B2%A1%E6%9C%89%E6%94%B9%E5%8F%98%EF%BC%8C%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%A1%88%E8%A2%AB%E6%8F%90%E5%8F%8A",
+      "source": "法广中文",
+      "summary": "美国国务卿鲁比奥（Marco Rubio）周四在接受全国广播公司（NBC）专访时表示，特朗普总统在与习近平主席的峰会上讨论了伊朗战争和霍尔木兹海峡问题，并称美方没有寻求中国在伊朗问题上的帮助。鲁比奥在…",
+      "image": "https://s.rfi.fr/media/display/c7e1f520-4f99-11f1-aea6-005056a90284/w:1024/p:16x9/2026-05-14T124212Z-79009800-RC209LASLS23-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-14 21:57",
+      "timestamp": 1778767057
+    },
+    {
+      "title": "特朗普总统北京国宴致辞：美中关系“非常特殊”，邀请习近平9月访白宫",
+      "link": "https://www.voachinese.com/a/president-trump-delivered-speech-at-state-banquet-in-beijing-great-hall-of-people-20260514/8149950.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普总统星期四(5月14日)在北京人民大会堂出席中国国家主席习近平为他举行的国宴上发表讲话，感谢中国国家主席习近平“盛大欢迎”，称双方当天举行了“极其积极且富有成果”的会谈。特朗普总统强调，…",
+      "image": "https://gdb.voanews.com/8b71709b-4880-4b32-84f3-08de3bec8ac7_cx0_cy2_cw0_w800_h450.jpg",
+      "published_at": "2026-05-14 21:21",
+      "timestamp": 1778764913
+    },
+    {
+      "title": "特朗普总统和习近平双边会谈前致辞: “美中关系必将比以往任何时候都更加美好”",
+      "link": "https://www.voachinese.com/a/president-trump-remarks-ahead-of-talks-with-xi-20260514/8149941.html",
+      "source": "美国之音中文",
+      "summary": "美国总统唐纳德·特朗普(Donald Trump)星期四(5月14日)在和中国国家主席习近平举行会谈前发表开场致辞。特朗普总统表示: “美中关系必将比以往任何时候都更加美好。”以下是特朗普致辞的全文翻…",
+      "image": "https://gdb.voanews.com/26c67040-e670-4b36-fecb-08de3bf95a74_cx0_cy1_cw0_w800_h450.jpg",
+      "published_at": "2026-05-14 21:10",
+      "timestamp": 1778764218
+    },
+    {
+      "title": "克宫：普京访华很快就会进行，与特朗普访华无关",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%85%8B%E5%AE%AB-%E6%99%AE%E4%BA%AC%E8%AE%BF%E5%8D%8E%E5%BE%88%E5%BF%AB%E5%B0%B1%E4%BC%9A%E8%BF%9B%E8%A1%8C%EF%BC%8C%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A0%E5%85%B3",
+      "source": "法广中文",
+      "summary": "俄罗斯总统新闻秘书佩斯科夫周四表示，克里姆林宫将很快宣布俄总统普京访问中国的日期。",
+      "image": "https://s.rfi.fr/media/display/6e5b68e2-144a-11ef-87ca-005056a90284/w:1024/p:16x9/2024-05-16T065046Z_714487703_RC2IR7A8RH26_RTRMADP_3_CHINA-RUSSIA-PUTIN.JPG",
+      "published_at": "2026-05-14 20:36",
+      "timestamp": 1778762201
+    },
+    {
+      "title": "鲁比奥制裁是否已解除、习近平是否视特朗普为朋友， 中国外交部怎么说？",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E9%B2%81%E6%AF%94%E5%A5%A5%E5%88%B6%E8%A3%81%E6%98%AF%E5%90%A6%E5%B7%B2%E8%A7%A3%E9%99%A4-%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%AF%E5%90%A6%E8%A7%86%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E6%9C%8B%E5%8F%8B%EF%BC%8C-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E6%80%8E%E4%B9%88%E8%AF%B4",
+      "source": "法广中文",
+      "summary": "中国外交部发言人郭嘉昆在周四的例行记者会上，没有直接回答有关中国国家主席习近平是否视美国总统特朗普（Donald Trump）为朋友的问题。",
+      "image": "https://s.rfi.fr/media/display/6f0b2772-4f8b-11f1-b2d3-005056a90284/w:1024/p:16x9/2026-05-14T053113Z-1575668100-RC2T8LALR444-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-14 20:14",
+      "timestamp": 1778760878
+    },
+    {
+      "title": "紅毯、國宴、會談、台灣、黃仁勳：特朗普重返北京後的幾大關鍵時刻",
+      "link": "https://www.bbc.com/zhongwen/articles/ckgpdl5038ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "特朗普重返北京，與習近平展開備受矚目的元首峰會。紅毯、國宴與高規格歡迎儀式背後，真正的焦點落在AI晶片、關稅、台灣與伊朗局勢等敏感議題。馬斯克與黃仁勳罕見現身人民大會堂，也讓這場峰會充滿濃厚的科技博弈…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/74b0/live/982558d0-4f6d-11f1-bd52-e755d604ece4.jpg",
+      "published_at": "2026-05-14 19:48",
+      "timestamp": 1778759328
+    },
+    {
+      "title": "习近平向随特朗普访华的美国企业高管表示：中国将进一步开放",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260514-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E7%9A%84%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E9%AB%98%E7%AE%A1%E8%A1%A8%E7%A4%BA-%E4%B8%AD%E5%9B%BD%E5%B0%86%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%BC%80%E6%94%BE",
+      "source": "法广中文",
+      "summary": "在中美两国领导人举行主要围绕贸易和台湾等争议性议题的会谈期间，习近平会见了随特朗普访美的美国商界领袖，并释放出中国正朝着更大开放的方向迈进的信号。",
+      "image": "https://s.rfi.fr/media/display/93aa6e50-4f57-11f1-96e5-005056bfb2b6/w:1024/p:16x9/000-B2TH8RL.jpg",
+      "published_at": "2026-05-14 19:15",
+      "timestamp": 1778757300
+    },
+    {
+      "title": "快讯：特朗普总统宣布邀请习近平9月访问白宫",
+      "link": "https://www.voachinese.com/a/trump-invited-xi-to-visit-white-house-in-september-20260514/8149929.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普总统星期四(5月14日)在北京人民大会堂出席中国国家主席习近平为他举行的国宴上宣布，已邀请习近平于今年9月24日访问白宫。",
+      "image": "https://gdb.voanews.com/41b62944-5243-4b28-d22c-08de3bf6f1ff_cx0_cy4_cw0_w800_h450.jpg",
+      "published_at": "2026-05-14 19:05",
+      "timestamp": 1778756732
+    },
+    {
+      "title": "费加罗报社论：“特朗普站在习近平墙脚下”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260514-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5%E7%A4%BE%E8%AE%BA-%E7%89%B9%E6%9C%97%E6%99%AE%E7%AB%99%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A2%99%E8%84%9A%E4%B8%8B",
+      "source": "法广中文",
+      "summary": "大家好，欢迎收听法国报纸摘要，举世瞩目的「特习会」在周四5月14日当地时间上午10点于北京举行，成为法国今天各大日报头版头条。《费加罗报》表示，在激烈对峙之后，特朗普如今在北京寻求与习近平缓和关系。对…",
+      "image": "https://s.rfi.fr/media/display/8ebb1002-4f66-11f1-81b4-005056a90284/w:1024/p:16x9/Le-pr%C3%A9sident-Donald-Trump-%C3%A0-gauche-marche-aux-c%C3%B4t%C3%A9s-du-pr%C3%A9sident-chinois-Xi-Jinping-au-Temple-du-Ciel-le-jeudi-14-mai-2026-%C3%A0-P%C3%A9kin.jpg",
+      "published_at": "2026-05-14 19:03",
+      "timestamp": 1778756594
+    },
+    {
+      "title": "白宫发布特朗普总统与中国国家主席习近平的双边会谈纪要",
+      "link": "https://www.voachinese.com/a/readout-from-president-trump-s-bilateral-meeting-with-president-xi-20260514/8149920.html",
+      "source": "美国之音中文",
+      "summary": "白宫星期四(5月14日)发布了特朗普总统与中国习近平主席双边会谈纪要。",
+      "image": "https://gdb.voanews.com/e24b3f9d-023d-424b-4e67-08de3cb97958_cx0_cy2_cw98_w800_h450.jpg",
+      "published_at": "2026-05-14 18:41",
+      "timestamp": 1778755264
+    },
+    {
+      "title": "习近平就台湾问题发出警告，特朗普希望中美关系“比以往任何时候都更好”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260514-%E4%B8%AD%E7%BE%8E%E5%8C%97%E4%BA%AC%E4%BC%9A%E8%B0%88-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%B0%B1%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%8F%91%E5%87%BA%E8%AD%A6%E5%91%8A%EF%BC%8C%E5%8F%8C%E6%96%B9%E8%81%9A%E7%84%A6%E8%B4%B8%E6%98%93%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+      "source": "法广中文",
+      "summary": "当地时间周四，中国国家主席习近平与美国总统特朗普在北京举行会谈。这是近十年来美国总统首次正式访华，也是双方围绕中美关系、贸易、台湾、伊朗局势等议题展开的一次高规格峰会。整场会谈持续约两个小时，地点设在…",
+      "image": "https://s.rfi.fr/media/display/9d238204-4f80-11f1-8310-005056a97e36/w:1024/p:16x9/AP26134209248175.jpg",
+      "published_at": "2026-05-14 18:36",
+      "timestamp": 1778754978
+    },
+    {
+      "title": "习特会登场 聚焦战略再平",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260514-%E4%B9%A0%E7%89%B9%E4%BC%9A%E7%99%BB%E5%9C%BA-%E8%81%9A%E7%84%A6%E6%88%98%E7%95%A5%E5%86%8D%E5%B9%B3",
+      "source": "法广中文",
+      "summary": "美国总统开启访华之旅，中美元首会晤正式登场。外界认为在高度不稳定的全球局势和超级大国激烈战略竞争的动荡环境下，中美寻求在各方面保持谨慎的共存与竞争关系，既非完全脱钩，也难以恢复全面合作。无论习特会结果…",
+      "image": "https://s.rfi.fr/media/display/e90088be-4f73-11f1-9c90-005056bf30b7/w:1024/p:16x9/AP26134075529988.jpg",
+      "published_at": "2026-05-14 18:35",
+      "timestamp": 1778754950
+    },
+    {
+      "title": "白宫新闻稿：双方一致认为海峡须保持开放，伊朗不能拥有核武器，未提台湾",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E7%99%BD%E5%AE%AB%E6%96%B0%E9%97%BB%E7%A8%BF-%E5%8F%8C%E6%96%B9%E4%B8%80%E8%87%B4%E8%AE%A4%E4%B8%BA%E6%B5%B7%E5%B3%A1%E9%A1%BB%E4%BF%9D%E6%8C%81%E5%BC%80%E6%94%BE%EF%BC%8C%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%83%BD%E6%8B%A5%E6%9C%89%E6%A0%B8%E6%AD%A6%E5%99%A8%EF%BC%8C%E6%9C%AA%E6%8F%90%E5%8F%B0%E6%B9%BE",
+      "source": "法广中文",
+      "summary": "中国国家主席习近平周四在北京人民大会堂同在华进行国事访问的美国总统特朗普（Donald Trump）举行了会谈。今次特朗普和习近平的会晤持续了约2小时15分钟，比两位领导人去年10月在韩国釜山的上次会…",
+      "image": "https://s.rfi.fr/media/display/1d401168-4f7d-11f1-9d2a-005056bfb2b6/w:1024/p:16x9/2026-05-14T055339Z-1241814886-RC2T8LAXB7FG-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-14 18:20",
+      "timestamp": 1778754014
+    },
+    {
+      "title": "特朗普訪華：中美元首會談逾2小時 結束後同遊天壇",
+      "link": "https://www.bbc.com/zhongwen/articles/c362jr2085yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "美國總統特朗普抵達北京展開為期三天的國事訪問，並於周四（5月14日）在人民大會堂與中國國家主席習近平舉行會談。會談歷時逾兩小時，結束後，習近平陪同特朗普前往北京天壇參觀。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5961/live/e6a3af00-4f79-11f1-b682-cf91850925ea.jpg",
+      "published_at": "2026-05-14 17:51",
+      "timestamp": 1778752285
+    },
+    {
+      "title": "在曼哈顿唐人街开办中国海外警务站 美籍华裔男子卢建旺被陪审团定罪",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E5%9C%A8%E6%9B%BC%E5%93%88%E9%A1%BF%E5%94%90%E4%BA%BA%E8%A1%97%E5%BC%80%E5%8A%9E%E4%B8%AD%E5%9B%BD%E6%B5%B7%E5%A4%96%E8%AD%A6%E5%8A%A1%E7%AB%99-%E7%BE%8E%E7%B1%8D%E5%8D%8E%E8%A3%94%E7%94%B7%E5%AD%90%E5%8D%A2%E5%BB%BA%E6%97%BA%E8%A2%AB%E9%99%AA%E5%AE%A1%E5%9B%A2%E5%AE%9A%E7%BD%AA",
+      "source": "法广中文",
+      "summary": "一名男子被控在曼哈顿唐人街一栋不起眼的办公楼内秘密运营中国间谍机构，周三被判犯有非法从事外国代理活动的罪行。现年64岁的卢建旺、又名“哈里·卢”（Harry Lu）还被判犯有妨碍司法公正罪，原因是他删…",
+      "image": "https://s.rfi.fr/media/display/ae35ea8e-4f74-11f1-990f-005056a90284/w:1024/p:16x9/Capture-3479.jpg",
+      "published_at": "2026-05-14 17:39",
+      "timestamp": 1778751546
+    },
+    {
+      "title": "以黎新一轮直接谈判今日在华盛顿开启，边境冲突持续升级",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260514-%E4%BB%A5%E9%BB%8E%E6%96%B0%E4%B8%80%E8%BD%AE%E7%9B%B4%E6%8E%A5%E8%B0%88%E5%88%A4%E4%BB%8A%E6%97%A5%E5%9C%A8%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%BC%80%E5%90%AF%EF%BC%8C%E8%BE%B9%E5%A2%83%E5%86%B2%E7%AA%81%E6%8C%81%E7%BB%AD%E5%8D%87%E7%BA%A7",
+      "source": "法广中文",
+      "summary": "5月14日星期四，以色列与黎巴嫩代表在美国首都华盛顿开启新一轮直接谈判。这场为期两天的会谈，正值以色列与黎巴嫩真主党武装持续交火。美国政府希望借此推动双方在停火及双边关系问题上取得突破。自1948年以…",
+      "image": "https://s.rfi.fr/media/display/6720a720-4f78-11f1-a389-005056bfb2b6/w:1024/p:16x9/AP26133312256613.jpg",
+      "published_at": "2026-05-14 17:36",
+      "timestamp": 1778751415
+    },
+    {
+      "title": "林志玲擔任台灣「文策院」董事為何引發激辯？",
+      "link": "https://www.bbc.com/zhongwen/articles/cn8p5z4v409o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "台灣文化部麾下的「文策院」近期任命林志玲擔任董事，進軍國際文化市場，卻在台灣引發激烈，原因是林志玲過去轉發中華人民共和國國慶貼文等言行，引發批評者不滿。也有支持者稱林志玲能助台灣文化產業開拓海外市場。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac1d/live/4b8ca2d0-4f72-11f1-9dd1-9b55cd8ee275.jpg",
+      "published_at": "2026-05-14 16:53",
+      "timestamp": 1778748809
+    },
+    {
+      "title": "中方安保拒绝美特勤局特工携武器进入天坛 白宫记者团被延误近30分钟",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260514-%E4%B8%AD%E6%96%B9%E5%AE%89%E4%BF%9D%E6%8B%92%E7%BB%9D%E7%BE%8E%E7%89%B9%E5%8B%A4%E5%B1%80%E7%89%B9%E5%B7%A5%E6%90%BA%E5%B8%A6%E6%AD%A6%E5%99%A8%E8%BF%9B%E5%85%A5%E5%A4%A9%E5%9D%9B-%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E5%9B%A2%E8%A2%AB%E5%BB%B6%E8%AF%AF%E8%BF%9130%E5%88%86%E9%92%9F",
+      "source": "法广中文",
+      "summary": "据白宫随行记者报导，由于中国安全官员拒绝一名陪同记者的美国特勤局特工携带武器进入天坛，特朗普的记者团行程被耽搁了近30分钟。经过美中官员的激烈磋商，双方最终达成妥协，之后白宫记者团进入了天坛。",
+      "image": "https://s.rfi.fr/media/display/1cbcebdc-4f71-11f1-9d2d-005056bfb2b6/w:1024/p:16x9/2026-05-14T054641Z-526617696-RC2T8LAL0X3T-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-14 16:50",
+      "timestamp": 1778748637
+    },
+    {
+      "title": "卢比奥：我们并非要束缚中国，但他们的崛起不能以牺牲我们为代价",
+      "link": "https://www.voachinese.com/a/rubio-we-re-not-trying-to-constrain-china-but-their-rise-cannot-come-at-our-expense-20260514/8149912.html",
+      "source": "美国之音中文",
+      "summary": "美国国务卿马尔科·卢比奥(Marco Rubio)星期三(5月13日)表示，中国既是美国面临的最大地缘政治挑战，也是美国必须妥善处理的最重要关系。他说：美国并非要限制中国，但他们的崛起不能以牺牲美国为…",
+      "image": "https://gdb.voanews.com/6fbd619e-6e61-4a3c-43ea-08de54e55770_cx0_cy6_cw0_w800_h450.jpg",
+      "published_at": "2026-05-14 13:11",
+      "timestamp": 1778735473
+    },
+    {
+      "title": "印度孟買「西瓜命案」？一家四口死亡原因仍令人困惑",
+      "link": "https://www.bbc.com/zhongwen/articles/c0j29ee9xx0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "印度媒體將案件稱為「西瓜命案」，因為西瓜是這家人在死亡前最後食用的食物。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cbca/live/26f6c740-4e85-11f1-bd52-e755d604ece4.jpg",
+      "published_at": "2026-05-14 12:51",
+      "timestamp": 1778734261
+    },
+    {
+      "title": "习近平正在谋划对美国的最终胜利",
+      "link": "https://cn.nytimes.com/opinion/20260514/xi-trump-summit-china-us/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "相比关注表面形象和速胜的特朗普，习近平将毛泽东的“论持久战”理论作为应对经济和战略挑战的指导原则，从长期斗争视角看待中美竞争。 Illustration by The New York Times",
+      "image": "https://static01.nyt.com/images/2026/05/13/opinion/13gewirtz/13gewirtz-articleLarge.jpg",
+      "published_at": "2026-05-14 12:32",
+      "timestamp": 1778733128
+    },
+    {
+      "title": "“习特会”前瞻：中美各有难题，会谈预期降低",
+      "link": "https://cn.nytimes.com/world/20260513/trump-xi-summit/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "伊朗战争对特朗普和习近平来说同样棘手。中美都急于展示主导地位，却同时陷入困境。两国除经济问题外几乎没为峰会做更多准备，外界对会谈期望大幅降低。 Haiyun Jiang/The New York Ti…",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/12dc-prexy-kvqg/12dc-prexy-kvqg-articleLarge.jpg",
+      "published_at": "2026-05-14 11:53",
+      "timestamp": 1778730830
+    },
+    {
+      "title": "一名美國公民在紐約運作中國海外「秘密警察站」而被定罪",
+      "link": "https://www.bbc.com/zhongwen/articles/c1e2j36epgqo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "秘密警察站位於紐約市拉麵攤樓上，據報是在53個國家發現的至少100個類似設施之一。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2104/live/6053f8e0-4f2b-11f1-81a4-0f0d6e797863.jpg",
+      "published_at": "2026-05-14 11:38",
+      "timestamp": 1778729895
+    },
+    {
+      "title": "热情表象下，习近平与特朗普之间的对抗与博弈",
+      "link": "https://cn.nytimes.com/world/20260514/trump-xi-rivalry/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "习近平以盛大仪式款待特朗普，但在公开的热情表象之下，两人正处于21世纪最重大的地缘政治竞争中心。他们的关系既充满客套，也同样充斥着不信任与对抗。 Haiyun Jiang/The New York T…",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/13dc-trump-xi-gwbf/13dc-trump-xi-gwbf-articleLarge.jpg",
+      "published_at": "2026-05-14 11:15",
+      "timestamp": 1778728545
+    },
+    {
+      "title": "特朗普時隔九年再度訪華，中國年輕一代的「美國夢」在褪色嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/c362j4npz5xo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "特朗普再度訪華，引起社交媒體上的熱議，中國的年輕人如何看待？關注的焦點又是什麼？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2462/live/1fe55320-4f40-11f1-b010-590460292038.jpg",
+      "published_at": "2026-05-14 11:09",
+      "timestamp": 1778728198
+    },
+    {
+      "title": "特习面对面，特朗普强调美中一起“会拥有美好的未来”",
+      "link": "https://www.voachinese.com/a/trump-began-summit-talk-with-xi-20260513/8149898.html",
+      "source": "美国之音中文",
+      "summary": "美国总统唐纳德·特朗普(Donald Trump)总统北京时间星期四(5月14日)在北京人民大会堂与中国国家主席习近平举行会谈。闭门会谈前，特朗普强调美中“在一起会拥有美好的未来”。",
+      "image": "https://gdb.voanews.com/95d930fe-0293-49aa-43eb-08de54e55770_tv_b1_w800_h450.jpg",
+      "published_at": "2026-05-14 10:50",
+      "timestamp": 1778727055
+    },
+    {
+      "title": "首脑峰会之际，中美文化交流陷入冰河期",
+      "link": "https://cn.nytimes.com/china/20260514/trump-xi-summit-people-culture/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "随着地缘政治和经济紧张局势加剧，中美之间的软性纽带已经削弱。学生交流规模减缩、科学合作日趋冷淡、文化艺术演出也变得困难。中美民众对彼此的看法也变得更加复杂。 Doug Mills/The New Yo…",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-china-us-people-qzhp/14int-china-us-people-qzhp-articleLarge.jpg",
+      "published_at": "2026-05-14 10:48",
+      "timestamp": 1778726922
+    },
+    {
+      "title": "为什么说习近平手握王牌、不需要与特朗普达成协议",
+      "link": "https://cn.nytimes.com/world/20260514/xi-trump-china-us-taiwan-iran/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "北京对伊朗的影响力给习近平带来额外信心，他可能会利用这一点在台湾问题上对特朗普施压。习近平希望证明，中美旗鼓相当，而他可以与特朗普平起平坐。 Pool photo by Maxim Shemetov …",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/14int-china-us-xi01-photo-qplm/14int-china-us-xi01-photo-qplm-articleLarge.jpg",
+      "published_at": "2026-05-14 10:34",
+      "timestamp": 1778726051
+    },
+    {
+      "title": "两党议员谈美中峰会期望，盼中国在伊朗与乌克兰问题上采取更积极角色",
+      "link": "https://www.voachinese.com/a/bipartisan-lawmakers-urge-china-to-play-more-active-role-on-iran-and-ukraine-ahead-of-u-s--china-summit-20260513/8149888.html",
+      "source": "美国之音中文",
+      "summary": "唐纳德·特朗普(Donald Trump)总统星期三(5月13日)抵达北京，准备展开他自第二任期开始以来与中国国家主席习近平举行的第二次峰会。国会两党议员纷纷表示，希望特朗普总统能在两国元首会谈中敦促…",
+      "image": "https://gdb.voanews.com/ff6fbb12-27e5-4e21-83a3-08de3bec8ac7_cx0_cy8_cw0_w800_h450.jpg",
+      "published_at": "2026-05-14 10:10",
+      "timestamp": 1778724623
+    },
+    {
+      "title": "2026美中峰会特别报道",
+      "link": "https://www.voachinese.com/a/8149889.html",
+      "source": "美国之音中文",
+      "summary": "美国总统特朗普即将在北京会晤中国领导人习近平。这是他第二届任期内首次访华，也是近九年来美国总统首访中国。美国之音派出记者在北京实地报道峰会。美东时间星期三(5月13日)晚上9点半到12点，北京时间14…",
+      "image": "https://gdb.voanews.com/1f894ab0-162f-4943-3263-08de3c9a2615_w800_h450.jpg",
+      "published_at": "2026-05-14 09:30",
+      "timestamp": 1778722200
+    },
+    {
+      "title": "卢比奥：希望说服中国在促使伊朗放弃在波斯湾的行动方面发挥更积极作用",
+      "link": "https://www.voachinese.com/a/rubio-hopes-to-convince-china-to-play-a-more-active-role-in-reining-in-iran-in-persian-gulf/8149671.html",
+      "source": "美国之音中文",
+      "summary": "美国国务卿马尔科·卢比奥(Marco Rubio)星期三(5月13日)表示，美国希望在此次峰会上能够说服中国在促使伊朗放弃目前在波斯湾的所作所为方面发挥更大的作用。",
+      "image": "https://gdb.voanews.com/bffbd090-7374-4e5a-a5e4-c9e001c0cb4f_w800_h450.jpg",
+      "published_at": "2026-05-14 08:46",
+      "timestamp": 1778719618
+    },
+    {
+      "title": "习近平派韩正迎接特朗普，这传递了什么信号？",
+      "link": "https://cn.nytimes.com/china/20260514/trump-china-arrival-airport-presidents/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "韩正是国家副主席，但这一职位更多带有礼仪性质，对政策制定几乎没有影响力。分析认为，此次迎接特朗普的规格比他2017年访华时略有下降，这或许折射出北京的态度。 The New York Times",
+      "image": "https://static01.nyt.com/images/2026/05/13/multimedia/2026-05-12-trump-beijing-arrival-index/2026-05-12-trump-beijing-arrival-index-articleLarge-v2.jpg",
+      "published_at": "2026-05-14 08:37",
+      "timestamp": 1778719057
+    },
+    {
+      "title": "網路犯罪從線上延伸到線下，涉及人身威脅的案例暴增",
+      "link": "https://www.bbc.com/zhongwen/articles/clypgkrze6jo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "過去，黑客多以潛入電腦系統為主要手段，如今對受害者進行恐嚇威脅的情況則越發常見。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d5d0/live/0fa188f0-3eea-11f1-a821-9161fbfb806d.jpg",
+      "published_at": "2026-05-14 08:30",
+      "timestamp": 1778718601
+    },
+    {
+      "title": "「文化大革命」60週年：從幾大關鍵詞看這場十年文化浩劫",
+      "link": "https://www.bbc.com/zhongwen/articles/c1j2pl97p1zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "今年是文革發動60週年、結束50週年，BBC中文梳理過去歷史，整理出十個關鍵點，從人物組織的崛起與沒落、形勢演變，回顧這場文化浩劫。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d278/live/1ec66db0-49f2-11f1-a9e7-0f8f590f205b.jpg",
+      "published_at": "2026-05-14 08:28",
+      "timestamp": 1778718515
+    }
+  ]
+}
