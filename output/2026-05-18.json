@@ -1,0 +1,635 @@
+{
+  "date": "2026-05-18",
+  "generated_at": "2026-05-18 07:55:54",
+  "sources": [
+    "BBC 中文",
+    "Odaily 星球日报",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "麻吉大哥ETH多单再遭清算后迅速开新仓，累计亏损超3240万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482025",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Onchain Lens 监测，今晨市场突然下跌后，麻吉大哥黄立成的 25 倍杠杆 ETH 多单再次被完全清算，随后迅速重新开设新的 25 倍 ETH 多单，其累计亏损已超…",
+      "image": "",
+      "published_at": "2026-05-18 07:52",
+      "timestamp": 1779061935
+    },
+    {
+      "title": "特朗普将对台军售用作与习近平谈判筹码",
+      "link": "https://cn.nytimes.com/world/20260518/trump-taiwan-arms-bargaining-chip-china/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "特朗普称对台军售是美国“非常好的谈判筹码”，他的言论令外界对美国向台湾提供军事支持的速度和规模产生新的疑虑。这可能被视为对台湾总统赖清德的打击。 Kenny Holston/The New York …",
+      "image": "https://static01.nyt.com/images/2026/05/16/multimedia/16int-taiwan-us-analysis-02-tfhg/16int-taiwan-us-analysis-02-tfhg-articleLarge.jpg",
+      "published_at": "2026-05-18 07:43",
+      "timestamp": 1779061438
+    },
+    {
+      "title": "ETH跌破2100 USDT，24H跌幅3.73%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482022",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情数据显示，ETH 跌破 2100 USDT，现报 2099.99 USDT，24H 跌幅 3.73%。",
+      "image": "",
+      "published_at": "2026-05-18 07:41",
+      "timestamp": 1779061317
+    },
+    {
+      "title": "BTC跌破77000 USDT，24H跌幅1.55%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482021",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情数据显示，BTC 跌破 77000 USDT，现报 76989.2 USDT，24H 跌幅 1.55%。",
+      "image": "",
+      "published_at": "2026-05-18 07:41",
+      "timestamp": 1779061300
+    },
+    {
+      "title": "巴基斯坦内政部长在德黑兰与伊朗总统举行会谈",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴基斯坦内政部长莫赫辛·纳奇维在德黑兰会见了伊朗总统马苏德·佩泽什基安。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/Sequence-13.00_00_06_22.Still001-1779060408.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-18 07:28",
+      "timestamp": 1779060505
+    },
+    {
+      "title": "特朗普举行祈祷集会,",
+      "link": "https://www.aljazeera.com/gallery/2026/5/17/trump-holds-prayer-rally-to-rededicate-us-as-one-nation-under-god?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "批评者谴责此事是模糊了教会和国家被...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0a1f48a4ecf-1779048264.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 06:54",
+      "timestamp": 1779058489
+    },
+    {
+      "title": "“台独”成陷阱？ 赖清德回应特朗普",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E5%8F%B0%E7%8B%AC-%E6%88%90%E9%99%B7%E9%98%B1-%E8%B5%96%E6%B8%85%E5%BE%B7%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE",
+      "source": "法广中文",
+      "summary": "台湾总统赖清德周日晚间透过脸书发表文章，台湾致力于捍卫中华民国现状，没有“台独”问题。台海和平稳定绝不会被牺牲或交易。此前，美国总统特朗普曾暗示，可能利用对台军售作为与中方谈判的筹码。",
+      "image": "https://s.rfi.fr/media/display/89fe12d4-523c-11f1-a0a3-005056a97e36/w:1024/p:16x9/2026-05-16T050602Z-1754651194-RC2Q8LA7UTX3-RTRMADP-3-USA-CHINA-TRUMP-XI.jpg",
+      "published_at": "2026-05-18 06:06",
+      "timestamp": 1779055573
+    },
+    {
+      "title": "“中美两国体制正在逐渐趋同并相互混合”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%9B%BD%E9%99%85%E7%BA%B5%E6%A8%AA/20260517-%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E7%9A%84%E4%BD%93%E5%88%B6%E6%AD%A3%E5%9C%A8%E9%80%90%E6%B8%90%E8%B6%8B%E5%90%8C%E5%B9%B6%E7%9B%B8%E4%BA%92%E6%B7%B7%E5%90%88",
+      "source": "法广中文",
+      "summary": "美国总统特朗普访问北京，在欧洲（包括法国）引发了一波评论潮。法国政治学家、中国问题专家斯蒂芬妮·巴尔默（Stéphanie Balme）在发表于法国《世界报》的一篇评论文章中指出，对欧洲来说，真正的风…",
+      "image": "https://s.rfi.fr/media/display/32a01bf2-4039-11ea-936a-005056a917b9/w:1024/p:16x9/guo_ji_zong_heng_wb15499-rfi-cn-20100309_cartouche.jpg",
+      "published_at": "2026-05-18 05:49",
+      "timestamp": 1779054563
+    },
+    {
+      "title": "韩美领导人通话 特朗普向李在明通报美中峰会结果",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E9%9F%A9%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D-%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E6%9D%8E%E5%9C%A8%E6%98%8E%E9%80%9A%E6%8A%A5%E7%BE%8E%E4%B8%AD%E5%B3%B0%E4%BC%9A%E7%BB%93%E6%9E%9C",
+      "source": "法广中文",
+      "summary": "韩国总统李在明周日(5月17日）与美国总统特朗普通电话，韩国总统府称，双方讨论了近期美中峰会成果。",
+      "image": "https://s.rfi.fr/media/display/0efde1a8-5238-11f1-9a68-005056a90284/w:1024/p:16x9/175627048143-20250827.jpg",
+      "published_at": "2026-05-18 05:33",
+      "timestamp": 1779053621
+    },
+    {
+      "title": "白宫：中国承诺未来三年每年至少采购170亿美元美国农产品",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E7%99%BD%E5%AE%AB-%E4%B8%AD%E5%9B%BD%E6%89%BF%E8%AF%BA%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%B9%B4%E6%AF%8F%E5%B9%B4%E8%87%B3%E5%B0%91%E9%87%87%E8%B4%AD170%E4%BA%BF%E7%BE%8E%E5%85%83%E7%BE%8E%E5%9B%BD%E5%86%9C%E4%BA%A7%E5%93%81",
+      "source": "法广中文",
+      "summary": "美国白宫周日(5月17日）公布的一份文件显示，中国承诺将在2026年至2028年期间，每年至少采购170亿美元美国农产品。",
+      "image": "https://s.rfi.fr/media/display/ab5be340-50a5-11f1-86f2-005056bfb2b6/w:1024/p:16x9/2026-05-14T070930Z-93378140-RC2Q8LAORGYB-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-18 05:30",
+      "timestamp": 1779053443
+    },
+    {
+      "title": "刚果(金)爆发第17轮埃博拉疫情",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260517-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E7%88%86%E5%8F%91%E7%AC%AC17%E8%BD%AE%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85",
+      "source": "法广中文",
+      "summary": "世界卫生组织（OMS）总干事谭德塞博士（Dr. Tedros Adhanom Ghebreyesus）于2026年05月17日星期天宣布，刚果民主共和国(RD Congo)爆发的最新一轮埃博拉疫情（E…",
+      "image": "https://s.rfi.fr/media/display/2101e9b4-5236-11f1-88d8-005056bfb2b6/w:1024/p:16x9/2026-05-17-j-FMM-archive-Afrique-RD-Congo-Ebola-AP-Data-RFI.jpg",
+      "published_at": "2026-05-18 05:28",
+      "timestamp": 1779053338
+    },
+    {
+      "title": "挪威：一名中国人因间谍罪被捕",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E6%8C%AA%E5%A8%81-%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%9B%A0%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%A2%AB%E6%8D%95",
+      "source": "法广中文",
+      "summary": "挪威国内安全局周日宣布，在该国北部逮捕了一名涉嫌从事间谍活动的中国公民，此前仅数周，一名涉嫌窃取卫星数据的中国女子已被捕。",
+      "image": "https://s.rfi.fr/media/display/0e8c63ee-5237-11f1-b486-005056a90284/w:1024/p:16x9/t%C3%A9l%C3%A9chargement-3-4.jpg",
+      "published_at": "2026-05-18 05:27",
+      "timestamp": 1779053223
+    },
+    {
+      "title": "美贸易代表格里尔：特朗普权衡对台军售 美中关系成关键因素",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8%E6%A0%BC%E9%87%8C%E5%B0%94-%E7%89%B9%E6%9C%97%E6%99%AE%E6%9D%83%E8%A1%A1%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE-%E7%BE%8E%E4%B8%AD%E5%85%B3%E7%B3%BB%E6%88%90%E5%85%B3%E9%94%AE%E5%9B%A0%E7%B4%A0",
+      "source": "法广中文",
+      "summary": "美国贸易代表格里尔周日（5月17日）在一档政论节目中表示，美国总统特朗普正在权衡如何推进对台军售，同时强调维持美中关系稳定“至关重要”。他指出，美国去年对华贸易逆差减少约30%，而美国维持对华关税与中…",
+      "image": "https://s.rfi.fr/media/display/091fa114-5237-11f1-95e2-005056bfb2b6/w:1024/p:16x9/2026-05-14T043310Z-1008016213-RC2Q8LAQJI27-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-18 05:26",
+      "timestamp": 1779053184
+    },
+    {
+      "title": "阿联酋核电站附近遭无人机袭击 阿布扎比谴责“危险升级”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E9%98%BF%E8%81%94%E9%85%8B%E6%A0%B8%E7%94%B5%E7%AB%99%E9%99%84%E8%BF%91%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB-%E9%98%BF%E5%B8%83%E6%89%8E%E6%AF%94%E8%B0%B4%E8%B4%A3-%E5%8D%B1%E9%99%A9%E5%8D%87%E7%BA%A7",
+      "source": "法广中文",
+      "summary": "阿联酋当局周日(5月17日）表示，位于该国西部的巴拉卡（Barakah）核电站附近当天遭无人机袭击并引发火灾，事件未造成人员伤亡，也没有导致辐射水平上升。阿布扎比谴责此次事件是“危险升级”，总统外交顾…",
+      "image": "https://s.rfi.fr/media/display/64a55e80-5236-11f1-bf34-005056bf30b7/w:1024/p:16x9/2026-05-17T130109Z-44806770-RC20BLAMPDU0-RTRMADP-3-IRAN-CRISIS-PRESENTER-GUN-MOMENT.jpg",
+      "published_at": "2026-05-18 05:21",
+      "timestamp": 1779052909
+    },
+    {
+      "title": "特朗普再次向伊朗发警告 Axios：白宫将讨论对伊军事选项",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E5%90%91%E4%BC%8A%E6%9C%97%E5%8F%91%E8%AD%A6%E5%91%8A-axios-%E7%99%BD%E5%AE%AB%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%AF%B9%E4%BC%8A%E5%86%9B%E4%BA%8B%E9%80%89%E9%A1%B9",
+      "source": "法广中文",
+      "summary": "美伊之间的谈判持续陷入僵局。美国总统特朗普周日(5月17日）在其真实社交平台(Truth Social）上警告称，如果德黑兰拒绝与华盛顿达成协议，“伊朗将荡然无存”。美国新闻网Axios称：特朗普将召…",
+      "image": "https://s.rfi.fr/media/display/63ff84b8-5238-11f1-b254-005056a90284/w:1024/p:16x9/2026-05-15T230123Z-2073226214-RC2Y9LAO9IWC-RTRMADP-3-USA-TRUMP.jpg",
+      "published_at": "2026-05-18 05:16",
+      "timestamp": 1779052604
+    },
+    {
+      "title": "《奥格斯堡汇报》：美国正在枯萎",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E5%A5%A5%E6%A0%BC%E6%96%AF%E5%A0%A1%E6%B1%87%E6%8A%A5-%E7%BE%8E%E5%9B%BD%E6%AD%A3%E5%9C%A8%E6%9E%AF%E8%90%8E",
+      "source": "法广中文",
+      "summary": "德国媒体对美国总统特朗普访华表示了多方关注。",
+      "image": "https://s.rfi.fr/media/display/6df0b85a-516d-11f1-970f-005056bf30b7/w:1024/p:16x9/2026-05-16T152941Z-95064313-RC2H9LAGUQDK-RTRMADP-3-CHINA-USA-TRADE-AGRICULTURE.jpg",
+      "published_at": "2026-05-18 05:15",
+      "timestamp": 1779052557
+    },
+    {
+      "title": "美贸易代表：中国同意不对伊朗提供实质支持",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260517-%E7%BE%8E%E8%B4%B8%E6%98%93%E4%BB%A3%E8%A1%A8-%E4%B8%AD%E5%9B%BD%E5%90%8C%E6%84%8F%E4%B8%8D%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BE%9B%E5%AE%9E%E8%B4%A8%E6%94%AF%E6%8C%81",
+      "source": "法广中文",
+      "summary": "美国贸易代表格里尔（Jamieson Greer）17日接受美国广播公司（ABC News）政论节目“本周”（This Week）访问时表示，美国总统特朗普（Donald Trump）日前在北京与中国…",
+      "image": "https://s.rfi.fr/media/display/be6df01e-5234-11f1-a88e-005056bf30b7/w:1024/p:16x9/2026-05-14T071503Z-1089868507-RC2P8LA6UHB9-RTRMADP-3-CHINA-USA.jpg",
+      "published_at": "2026-05-18 05:10",
+      "timestamp": 1779052207
+    },
+    {
+      "title": "\" 什么都不是 \" : 特朗普在谈判停滞期间对伊朗发出威胁",
+      "link": "https://www.aljazeera.com/news/2026/5/17/wont-be-anything-left-trump-issues-threat-to-iran-amid-stalled-talks?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国总统向伊朗施压,迫使伊朗同意包括拆除核方案在内的要求。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0a1baf1016-1779047343.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 04:16",
+      "timestamp": 1779048995
+    },
+    {
+      "title": "在停火延长后,以色列在黎巴嫩至少杀害了5人。",
+      "link": "https://www.aljazeera.com/news/2026/5/17/israel-kills-five-in-lebanon-after-ceasefire-with-hezbollah-extended?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在以色列空袭南部和Ea的几个地点时,至少有5人丧生. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a0a1c1a3f65-1779047450.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 04:16",
+      "timestamp": 1779048974
+    },
+    {
+      "title": "刚果民主共和国努力遏制埃博拉疫情蔓延",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "刚果民主共和国一再面临埃博拉疫情。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/IG-Ebola-1779052497.jpg?resize=1200%2C675",
+      "published_at": "2026-05-18 04:09",
+      "timestamp": 1779048569
+    },
+    {
+      "title": "刚果和乌干达最近的埃博拉疫情是否会进一步蔓延?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/5/17/will-the-latest-ebola-outbreak-in-dr-congo-and-uganda-spread-further?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "世界卫生组织宣布该流行病为全球卫生紧急情况。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/getty_6a0a15b2e6-1779045810.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 03:52",
+      "timestamp": 1779047529
+    },
+    {
+      "title": "墨西哥官员宣布十人死亡 在凌晨的枪击 在Tehuitzingo",
+      "link": "https://www.aljazeera.com/news/2026/5/17/mexican-officials-announce-10-dead-in-early-morning-shooting-in-tehuitzingo?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "官方将枪击事件归咎于###039;武装人员##039;尽管没有提供详细信息...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/epa_6a0a00cc12b8-1779040460.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 03:22",
+      "timestamp": 1779045748
+    },
+    {
+      "title": "以色列在袭击加沙的一个援助厨房时打死3名巴勒斯坦人",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列轰炸了为加沙流离失所者提供膳食的厨房,造成3人死亡,11人受伤. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779045264.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-18 03:15",
+      "timestamp": 1779045321
+    },
+    {
+      "title": "非洲大陆LGBTQ+刑律松紧各异",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260517-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A4%A7%E9%99%86lgbtq-%E5%88%91%E5%BE%8B%E6%9D%BE%E7%B4%A7%E5%90%84%E5%BC%82",
+      "source": "法广中文",
+      "summary": "每年的5月17日为国际不再恐惧同性恋、跨性别与双性恋日，即世界不再恐同日（Journée mondiale contre l'homophobie, la transphobie et la biph…",
+      "image": "https://s.rfi.fr/media/display/7ff7c964-521f-11f1-8c21-005056bfb2b6/w:1024/p:16x9/2026-05-17-j-FMM-archive-Afrique-LGBTQ-AP-Data-RFI.jpg",
+      "published_at": "2026-05-18 02:47",
+      "timestamp": 1779043678
+    },
+    {
+      "title": "秘鲁当局确认藤森和桑切斯提前准备冲刺",
+      "link": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "候选人在6月7日的选举中,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09ee0314e0-1779035651.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 02:29",
+      "timestamp": 1779042569
+    },
+    {
+      "title": "有称特朗普与习近平谍对谍！",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260517-%E6%9C%89%E7%A7%B0-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%B0%8D%E5%AF%B9%E8%B0%8D",
+      "source": "法广中文",
+      "summary": "美国总统特朗普15日结束访中打道回府。随团记者爆料白宫官员在登上空军一号前收集中共官员分发的所有物品全数丢进垃圾桶，称这些东西“一律不准带上飞机”。还传川普在访中期间没有吃任何中方准备的食物，​据说，…",
+      "image": "https://s.rfi.fr/media/display/a972280c-521a-11f1-a823-005056bfb2b6/w:1024/p:16x9/CaptureTrump-Xi.png",
+      "published_at": "2026-05-18 01:58",
+      "timestamp": 1779040697
+    },
+    {
+      "title": "法国聆听10名爱泼斯坦疑似受害者:检察官",
+      "link": "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "法国法官调查可能涉及为杰弗提供便利的法国罪犯的罪行...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/02/epa_699ed56c1b28-1772017004.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 01:44",
+      "timestamp": 1779039847
+    },
+    {
+      "title": "苏丹军队在青尼罗州的进展加深了流离失所危机",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "苏丹军队在青尼罗州取得了进步,重新爆发战斗迫使家庭进入.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779039526.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-18 01:40",
+      "timestamp": 1779039604
+    },
+    {
+      "title": "意大利领导人访问摩德纳汽车撞伤和刺伤的受害者",
+      "link": "https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "31岁的Salim El Khoudri发动的袭击似乎与QQ039有关;",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09e2cd6550-1779032781.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 01:17",
+      "timestamp": 1779038252
+    },
+    {
+      "title": "蒋万安：中华民国本来就是主权独立国家",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260517-%E8%92%8B%E4%B8%87%E5%AE%89-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%9C%AC%E6%9D%A5%E5%B0%B1%E6%98%AF%E4%B8%BB%E6%9D%83%E7%8B%AC%E7%AB%8B%E5%9B%BD%E5%AE%B6",
+      "source": "法广中文",
+      "summary": "中央社台北17日电：台北市长蒋万安今天说，中华民国本来就是主权独立国家，应该要问民进党是否删除台独党纲。之前一天，民进党台北市长参选人沈伯洋表示，「台独就是台湾是主权独立的国家，这也是现状」。",
+      "image": "https://s.rfi.fr/media/display/4aca5f52-5212-11f1-bbb8-005056bfb2b6/w:1024/p:16x9/AP26022298579570.jpg",
+      "published_at": "2026-05-18 01:04",
+      "timestamp": 1779037473
+    },
+    {
+      "title": "在以色列在加沙杀害的8名社区厨房工人中,3名",
+      "link": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "自所谓的停火开始以来,以色列对加沙的袭击已造成至少871名巴勒斯坦人死亡.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-17T110610Z_1802121315_RC2XALAEVZTG_RTRMADP_3_ISRAEL-PALESTINIANS-GAZA-1779028484.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 00:31",
+      "timestamp": 1779035480
+    },
+    {
+      "title": "加拿大调频:美国还是可靠的盟友吗?.",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/5/17/canadian-fm-is-the-us-still-a-reliable-ally?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "安妮塔·阿南德讨论唐纳德·特朗普,北约,以色列,中国和加拿大的国际角色.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779032741.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-05-18 00:30",
+      "timestamp": 1779035400
+    },
+    {
+      "title": "在日益恶化的人道主义危机中,刚果民主共和国面临埃博拉的致命复苏",
+      "link": "https://www.aljazeera.com/features/2026/5/17/drc-faces-deadly-ebola-resurgence-amid-worsening-humanitarian-crisis?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "新埃博拉疫情在东北部的Rwampara、Mongwalu和Bunia等城镇都有报道.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/02/AP25034672987020-1739173935.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-18 00:09",
+      "timestamp": 1779034195
+    },
+    {
+      "title": "法广2026年5月17日第二次播音 北京时间19至20点",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3-19-00-20-00-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B4/20260517-%E6%B3%95%E5%B9%BF2026%E5%B9%B45%E6%9C%8817%E6%97%A5%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%92%AD%E9%9F%B3-%E5%8C%97%E4%BA%AC%E6%97%B6%E9%97%B419%E8%87%B320%E7%82%B9",
+      "source": "法广中文",
+      "summary": "",
+      "image": "https://s.rfi.fr/media/display/c1971a54-0e0b-11f0-9012-005056bf30b7/w:1024/p:16x9/MICRO%20RFI_PRW__K3B3661.JPG",
+      "published_at": "2026-05-18 00:09",
+      "timestamp": 1779034172
+    },
+    {
+      "title": "台湾总统：捍卫中华民国现状没有「台独」问题",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260517-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F-%E6%8D%8D%E5%8D%AB%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E7%8E%B0%E7%8A%B6%E6%B2%A1%E6%9C%89-%E5%8F%B0%E7%8B%AC-%E9%97%AE%E9%A2%98",
+      "source": "法广中文",
+      "summary": "中央社台北17日电：台湾总统赖清德今天听取国安团队就最新情势进行完整了解与讨论后，向国人说明，台湾是台海及区域和平稳定现状的维护者；中国才是区域不稳定及改变现状的根源；捍卫中华民国现状，没有「台独」问…",
+      "image": "https://s.rfi.fr/media/display/2ed71ca8-00f1-11f1-bd1d-005056a90284/w:1024/p:16x9/2026-02-03T041158Z-2059163861-RC21EJAP22JM-RTRMADP-3-TAIWAN-USA.jpg",
+      "published_at": "2026-05-18 00:09",
+      "timestamp": 1779034152
+    },
+    {
+      "title": "伊朗平民接受国防培训",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/17/iranian-civilians-get-defence-training?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在几座.的清真寺为伊朗男子和妇女举办了关于轻武器的国防培训班。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/image-1779034072.jpg?resize=1920%2C947&amp;quality=80",
+      "published_at": "2026-05-18 00:08",
+      "timestamp": 1779034126
+    },
+    {
+      "title": "美国大学毕业生面临经济不稳定的严峻就业市场",
+      "link": "https://www.aljazeera.com/economy/2026/5/17/us-college-graduates-face-harsh-job-market-amid-economic-uncertainty?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "政府削减经费、战争、关税和AI进步,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP25176534166780-1778876180.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 23:41",
+      "timestamp": 1779032487
+    },
+    {
+      "title": "台湾不放弃“在压力下的自由生活方式”: 庭长",
+      "link": "https://www.aljazeera.com/news/2026/5/17/taiwan-not-to-give-up-free-way-of-life-under-pressure-president?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "赖说台湾不会挑起与中国的冲突,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a09d27d5b1f0-1779028605.jpg?resize=1920%2C1364",
+      "published_at": "2026-05-17 23:37",
+      "timestamp": 1779032279
+    },
+    {
+      "title": "以色列击毙策划10.7袭击的哈马斯最后一名领导人",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260517-%E4%BB%A5%E8%89%B2%E5%88%97%E5%87%BB%E6%AF%99%E7%AD%96%E5%88%9210-7%E8%A2%AD%E5%87%BB%E7%9A%84%E5%93%88%E9%A9%AC%E6%96%AF%E6%9C%80%E5%90%8E%E4%B8%80%E5%90%8D%E9%A2%86%E5%AF%BC%E4%BA%BA",
+      "source": "法广中文",
+      "summary": "以色列周五空袭加沙城一栋居民楼后，以色列军方和哈马斯官员周六证实了埃兹丁·哈达德的死亡。以军一名官员称，此人被描述为最后一名“参与策划10.7屠杀并仍留在加沙地带的哈马斯领导人”。据哈马斯人士说，他曾…",
+      "image": "https://s.rfi.fr/media/display/addd5870-5202-11f1-bbaa-005056bf30b7/w:1024/p:16x9/AP26136413868556.jpg",
+      "published_at": "2026-05-17 23:18",
+      "timestamp": 1779031129
+    },
+    {
+      "title": "2026年国际足联世界杯巴拿马赛要了解什么.",
+      "link": "https://www.aljazeera.com/sports/2026/5/17/what-to-know-about-panama-at-the-fifa-world-cup-2026?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴拿马是世界杯八年中第二次入围,但在2026年,他们~~039;不在那里.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/AFP__20251119__84FT6G2__v1__HighRes__FblWc2026QualifierConcacafPanSlv-1773904945.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 23:10",
+      "timestamp": 1779030651
+    },
+    {
+      "title": "当共和党人把目光投向参议院时,",
+      "link": "https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "共和党人希望夺回奥索夫的QQ039;2020年后的参议院席位令人不快;民主党人会选择冠军. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP24268721643143-1-1778943199.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 22:42",
+      "timestamp": 1779028972
+    },
+    {
+      "title": "某巨鲸5小时内花费233万美元买入65.6万枚UNI",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482005",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Lookonchain 监测，过去 5 小时内，2 个钱包花费 233 万美元买入 65.6 万枚 UNI。",
+      "image": "",
+      "published_at": "2026-05-17 22:40",
+      "timestamp": 1779028827
+    },
+    {
+      "title": "美国的基督教犹太复国主义正在衰落吗?",
+      "link": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国年轻保守主义者对以色列的支持正在减弱。 这对Chr来说可能不是好兆头...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__19980120__SAWH980120189930__v1__MidRes__UsNetanyahuFalwell-1778865912.jpg?resize=1200%2C675",
+      "published_at": "2026-05-17 22:32",
+      "timestamp": 1779028346
+    },
+    {
+      "title": "法比奥·迪·吉安南托尼奥在马尔克斯坠机后赢得缩短的加泰罗尼亚MotoGP",
+      "link": "https://www.aljazeera.com/sports/2026/5/17/fabio-di-giannantonio-wins-shortened-catalan-motogp-after-marquez-crash?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "赛车被两面红旗和多起撞车撞伤,包括一起涉及Alex Marqu的严重事件. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AFP__20260517__B3424MD__v2__HighRes__MotoPrixEspCatalunyaMotoGp-1779025582.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 22:24",
+      "timestamp": 1779027882
+    },
+    {
+      "title": "SharpLink CEO：若《CLARITY法案》通过、风险偏好回升且代币化加速，ETH或将上涨",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482002",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 SharpLink CEO 表示，若《CLARITY 法案》通过、市场风险偏好回升且代币化进程加速，ETH 或将上涨。（Cointelegraph）",
+      "image": "",
+      "published_at": "2026-05-17 22:12",
+      "timestamp": 1779027159
+    },
+    {
+      "title": "阿联酋巴拉卡核电站周边发生无人驾驶飞机爆炸",
+      "link": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "当局称辐射水平保持正常,操作未受影响.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/afp_6a09bae5e706-1779022565.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 22:07",
+      "timestamp": 1779026827
+    },
+    {
+      "title": "做空30万枚HYPE大户加仓7.5万枚HYPE，持仓价值达1602万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482001",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据链上分析师 Ai 姨监测，该大户今晚再次加仓 7.5 万枚 HYPE，目前持仓增长至 375,033.14 枚，价值 1602 万美元，开仓均价 43.298 美元，浮盈 2…",
+      "image": "",
+      "published_at": "2026-05-17 22:06",
+      "timestamp": 1779026792
+    },
+    {
+      "title": "巴勒斯坦总统马哈茂德·阿巴斯之子当选法塔赫最高机构成员",
+      "link": "https://www.aljazeera.com/news/2026/5/17/son-of-palestinian-president-mahmoud-abbas-elected-to-top-fatah-body?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "商人亚西尔·阿巴斯(Yasser Abbas,64岁)虽然花掉了他大部分时间,却在中央委员会中占有一席之地. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-05T122117Z_895383237_RC2X2LA6ELVB_RTRMADP_3_PALESTINIANS-POLITICS-ABBAS-SON-1779019950.jpg?resize=1920%2C1440",
+      "published_at": "2026-05-17 22:03",
+      "timestamp": 1779026623
+    },
+    {
+      "title": "Greeks.live宏观研究员：下跌并没有让市场担忧，目前市场不支持追空",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482000",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Greeks.live 宏观研究员 Adam 在 X 平台发文表示，通过 Options Terminal 分析周末行情，发现大资金主要进行三类操作： 卖出近端 gamma 及…",
+      "image": "",
+      "published_at": "2026-05-17 21:55",
+      "timestamp": 1779026142
+    },
+    {
+      "title": "伊兹·丁·哈达德暗杀将如何影响哈马斯的加沙行动?",
+      "link": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列 ###039;杀害哈马斯###039;最高指挥官伊兹·丁·哈达德将加沙停火测试为...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/6546-1778865779-1779011032.webp?resize=1920%2C1280&amp;quality=80",
+      "published_at": "2026-05-17 21:41",
+      "timestamp": 1779025292
+    },
+    {
+      "title": "Michael Saylor再次发布比特币Tracker信息，或将下周披露增持数据",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481996",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 比特币财库公司 Strategy 创始人兼执行主席 Michael Saylor 再次发布比特币 Tracker 相关信息，配文：“₿ig Dot Energy.”根据此前规律…",
+      "image": "",
+      "published_at": "2026-05-17 20:48",
+      "timestamp": 1779022112
+    },
+    {
+      "title": "伊朗首席谈判代表加利巴夫被任命负责中国事务",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260517-%E4%BC%8A%E6%9C%97%E9%A6%96%E5%B8%AD%E8%B0%88%E5%88%A4%E4%BB%A3%E8%A1%A8%E5%8A%A0%E5%88%A9%E5%B7%B4%E5%A4%AB%E8%A2%AB%E4%BB%BB%E5%91%BD%E8%B4%9F%E8%B4%A3%E4%B8%AD%E5%9B%BD%E4%BA%8B%E5%8A%A1",
+      "source": "法广中文",
+      "summary": "伊朗媒体周日报道，伊朗议会议长兼该国与美国谈判的主要代表穆罕默德·加利巴夫被委任负责对华事务。",
+      "image": "https://s.rfi.fr/media/display/a2f68ee4-2855-11f1-9ed2-005056bf30b7/w:1024/p:16x9/000-94PX697.jpg",
+      "published_at": "2026-05-17 20:42",
+      "timestamp": 1779021755
+    },
+    {
+      "title": "特朗普发文抨击众议员汤姆·马西，呼吁用选票将他赶下台",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481995",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美国总统特朗普：肯塔基州联邦众议员汤姆·马西是个糟糕透顶的家伙。他投票反对减税、反对修建边境墙、反对支持我们的军队和执法部门。实际上，几乎所有好事他都投反对票。他堪称史上最差的…",
+      "image": "",
+      "published_at": "2026-05-17 20:32",
+      "timestamp": 1779021123
+    },
+    {
+      "title": "刚果（金）埃博拉疫情蔓延至邻国 世卫组织宣布“国际关注突发公共卫生事件”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260517-%E5%88%9A%E6%9E%9C-%E9%87%91-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%E8%94%93%E5%BB%B6%E8%87%B3%E9%82%BB%E5%9B%BD-%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E5%AE%A3%E5%B8%83%E6%9E%84%E6%88%90-%E5%9B%BD%E9%99%85%E5%85%B3%E6%B3%A8%E7%AA%81%E5%8F%91%E5%85%AC%E5%85%B1%E5%8D%AB%E7%94%9F%E4%BA%8B%E4%BB%B6",
+      "source": "法广中文",
+      "summary": "中非国家刚果民主共和国（ 简称刚果（金））新一波埃博拉疫情已蔓延至邻国，在乌干达发生一起感染死亡后，南苏丹进入警戒状态，肯尼亚正加紧国家级应对。世卫组织周日（5月17日）宣布，该疫情已构成“国际关注的…",
+      "image": "https://s.rfi.fr/media/display/1bbbbc0c-51e4-11f1-86e5-005056bfb2b6/w:1024/p:16x9/2026-05-16T190534Z-442527065-RC2IALAQ6AZR-RTRMADP-3-HEALTH-EBOLA-AFRICA-DRC.jpg",
+      "published_at": "2026-05-17 20:24",
+      "timestamp": 1779020663
+    },
+    {
+      "title": "台湾总统重申台湾独立于北京",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260517-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E9%87%8D%E7%94%B3%E5%8F%B0%E6%B9%BE%E7%8B%AC%E7%AB%8B%E4%BA%8E%E5%8C%97%E4%BA%AC",
+      "source": "法广中文",
+      "summary": "路透社17日台北消息，台湾总统赖清德周日重申了台湾的独立地位，他认为台湾不属于北京，也不从属于北京，只有台湾人民才能决定台湾的未来。",
+      "image": "https://s.rfi.fr/media/display/0c440c1c-51e8-11f1-b12a-005056bf30b7/w:1024/p:16x9/2026-05-17T080035Z-1566110811-RC2UALAN6MM1-RTRMADP-3-CHINA-USA-TAIWAN.jpg",
+      "published_at": "2026-05-17 20:02",
+      "timestamp": 1779019357
+    },
+    {
+      "title": "Gate将上线Warden Protocol (WARD) 现货及闪兑交易",
+      "link": "https://www.odaily.news/zh-CN/newsflash/481993",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据官方公告，Gate 将于 5 月 18 日 17:00 （UTC+8）上线 Warden Protocol (WARD) 现货交易，并将于 18:00 (UTC+8) 在闪兑…",
+      "image": "",
+      "published_at": "2026-05-17 19:53",
+      "timestamp": 1779018834
+    },
+    {
+      "title": "美加芬三国破冰船合作计划",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8C%97%E7%BE%8E%E6%9D%A5%E9%B8%BF/20260517-%E7%BE%8E%E5%8A%A0%E8%8A%AC%E4%B8%89%E5%9B%BD%E7%A0%B4%E5%86%B0%E8%88%B9%E5%90%88%E4%BD%9C%E8%AE%A1%E5%88%92",
+      "source": "法广中文",
+      "summary": "5月5日至7日，美加芬三国破冰船合作计划（ICE Pact）在赫尔辛基举办了工作组会议和国家协调员会议，讨论协议的实际进展，并参观了赫尔辛基造船厂和“北极星”号破冰船。2025年11月，加拿大、芬兰和…",
+      "image": "https://s.rfi.fr/media/display/f19af54a-5bd7-11ef-9a44-005056bfb2b6/w:1024/p:16x9/AP24192847957288.jpg",
+      "published_at": "2026-05-17 18:41",
+      "timestamp": 1779014499
+    },
+    {
+      "title": "“中国小包裹税”受害者：法国瓦特里机场",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260517-%E4%B8%AD%E5%9B%BD%E5%B0%8F%E5%8C%85%E8%A3%B9%E7%A8%8E-%E5%8F%97%E5%AE%B3%E8%80%85-%E6%B3%95%E5%9B%BD%E7%93%A6%E7%89%B9%E9%87%8C%E6%9C%BA%E5%9C%BA",
+      "source": "法广中文",
+      "summary": "各位好，今天是2026年5月17日星期日。由于本台订阅的法国主流日刊周末大多不出刊，我们在出刊的法国世界报当中为您提取与中国相关的文章做综述。本期出刊的世界报有关中国的报道有两则。第一则题为“特朗普在…",
+      "image": "https://s.rfi.fr/media/display/3a4ecb3e-4413-11f1-bc33-005056bf30b7/w:1024/p:16x9/2026-04-01T052739Z-1684789688-RC2FQHADK64Q-RTRMADP-3-CHINA-EUROPE.jpg",
+      "published_at": "2026-05-17 17:58",
+      "timestamp": 1779011900
+    },
+    {
+      "title": "当AI闯入戛纳：索德伯格“重现”列侬最后采访引争议",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260517-%E5%BD%93ai%E9%97%AF%E5%85%A5%E6%88%9B%E7%BA%B3-%E7%B4%A2%E5%BE%B7%E4%BC%AF%E6%A0%BC-%E9%87%8D%E7%8E%B0-%E5%88%97%E4%BE%AC%E6%9C%80%E5%90%8E%E9%87%87%E8%AE%BF%E5%BC%95%E4%BA%89%E8%AE%AE",
+      "source": "法广中文",
+      "summary": "2026年戛纳电影节期间，关于人工智能是否应该进入电影工业的争论，再次成为行业焦点。从编剧、演员到后期制作，人工智能技术正在快速渗透电影制作流程，但与此同时，关于版权、创作伦理与艺术真实性的担忧也在持…",
+      "image": "https://s.rfi.fr/media/display/0eb13e00-51d6-11f1-954e-005056a97e36/w:1024/p:16x9/AP26112568885212.jpg",
+      "published_at": "2026-05-17 17:52",
+      "timestamp": 1779011532
+    },
+    {
+      "title": "日本参加向霍尔木兹海峡派遣多国籍部队计划的联合声明",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260517-%E6%97%A5%E6%9C%AC%E5%8F%82%E5%8A%A0%E5%90%91%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%B4%BE%E9%81%A3%E5%A4%9A%E5%9B%BD%E7%B1%8D%E9%83%A8%E9%98%9F%E8%AE%A1%E5%88%92%E7%9A%84%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E",
+      "source": "法广中文",
+      "summary": "日本防卫大臣小泉进次郎在15日的记者会上表示，日本已参加英国公布的有关向霍尔木兹海峡派遣多国籍部队计划的联合声明，但他指出：这并不意味着日本预先决定参加多国籍军事任务。",
+      "image": "https://s.rfi.fr/media/display/1b118558-4ac7-11f1-b9ad-005056a90284/w:1024/p:16x9/2026-05-08T101245Z-165757702-RC2W4LAFV67I-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
+      "published_at": "2026-05-17 16:58",
+      "timestamp": 1779008300
+    },
+    {
+      "title": "民主剛果再爆發伊波拉疫情，WHO列國際公共衛生緊急事件",
+      "link": "https://www.bbc.com/zhongwen/articles/cjrp0l05y31o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "世衛組織表示，這波發生在剛果東部伊圖里省的疫情，目前已通報約246宗疑似病例及80宗死亡，但尚未達到「全球大流行」級別的緊急標準。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ef04/live/c57b0db0-51c1-11f1-89a3-d1f559421220.jpg",
+      "published_at": "2026-05-17 16:57",
+      "timestamp": 1779008265
+    },
+    {
+      "title": "朝韩关系紧张背景下 朝鲜女足俱乐部抵韩参赛 8年来首次",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260517-%E6%9C%9D%E9%9F%A9%E5%85%B3%E7%B3%BB%E7%B4%A7%E5%BC%A0%E8%83%8C%E6%99%AF%E4%B8%8B-%E6%9C%9D%E9%B2%9C%E5%A5%B3%E8%B6%B3%E4%BF%B1%E4%B9%90%E9%83%A8%E6%8A%B5%E9%9F%A9%E5%8F%82%E8%B5%9B",
+      "source": "法广中文",
+      "summary": "在朝韩关系紧张背景下，朝鲜职业女子足球俱乐部“我故乡FC”周日（5月17日）抵达韩国，参加亚足联女子冠军联赛半决赛。这是朝鲜运动员8年来首次访问韩国。",
+      "image": "https://s.rfi.fr/media/display/ae8908c0-51c9-11f1-92ba-005056bfb2b6/w:1024/p:16x9/2026-05-17T063213Z-1756012892-RC2TALALVBPR-RTRMADP-3-SOCCER-AFCCHAMPIONS-NAE-SUW-ARRIVAL.jpg",
+      "published_at": "2026-05-17 16:26",
+      "timestamp": 1779006390
+    },
+    {
+      "title": "俄罗斯遭大规模无人机袭击至少四人死亡",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260517-%E4%BF%84%E7%BD%97%E6%96%AF%E9%81%AD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E8%87%B3%E5%B0%91%E5%9B%9B%E4%BA%BA%E6%AD%BB%E4%BA%A1",
+      "source": "法广中文",
+      "summary": "俄罗斯当局周日表示，乌克兰对俄罗斯发动的大规模无人机袭击造成至少四人死亡。一家炼油厂附近建筑工地多名工人受伤。",
+      "image": "https://s.rfi.fr/media/display/20f274bc-51b8-11f1-b84d-005056bf30b7/w:1024/p:16x9/2026-05-17T060927Z-1453956728-RC2TALA4O5O5-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-DRONES-MOSCOW.jpg",
+      "published_at": "2026-05-17 16:00",
+      "timestamp": 1779004823
+    },
+    {
+      "title": "特朗普結束訪華後，中俄即宣佈普京下週二起對中國進行國事訪問",
+      "link": "https://www.bbc.com/zhongwen/articles/cr5pevzv76yo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "普京訪華的消息，是在特朗普結束訪華行程後不足24小時公佈，普京的訪華行程亦緊接在特朗普到訪之後的一星期舉行。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be06/live/8e64c820-51c6-11f1-a719-87164179ee6c.jpg",
+      "published_at": "2026-05-17 15:59",
+      "timestamp": 1779004743
+    },
+    {
+      "title": "2026歐洲歌唱大賽：保加利亞奪冠，英國墊底",
+      "link": "https://www.bbc.com/zhongwen/articles/cdjprlej820o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "保加利亞歌手達拉爆冷奪冠，以色列和羅馬尼亞獲得第二和第三名，而英國歌手僅獲得1分墊底。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a4f/live/50e5f220-5195-11f1-8b8c-6d33e1d5abb6.jpg",
+      "published_at": "2026-05-17 13:43",
+      "timestamp": 1778996587
+    },
+    {
+      "title": "專訪台灣作家楊双子：從美食探尋台灣殖民歷史",
+      "link": "https://www.bbc.com/zhongwen/articles/cn7pxxm1n3ko/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "英國最具指標的文學獎之一「布克獎」將於5月19日公布得主，台灣作家楊双子以小說《臺灣漫遊錄》入圍決選名單。她是本屆唯一來自亞洲的作家、也刷新了台灣作家在此獎項的紀錄。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0621/live/c90e18b0-4ae0-11f1-b55d-0f258dce1735.jpg",
+      "published_at": "2026-05-17 12:24",
+      "timestamp": 1778991845
+    },
+    {
+      "title": "《臺灣漫遊錄》入圍布克獎：楊双子筆下的台灣美食與殖民記憶",
+      "link": "https://www.bbc.com/zhongwen/articles/cpdp9v8gl4no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "英國最具指標的文學獎之一「布克獎」將於5月19日公布得主，台灣作家楊双子以小說《臺灣漫遊錄》入圍決選名單。她是本屆唯一來自亞洲的作家、也刷新了台灣作家在此獎項的紀錄。在頒獎前夕，她接受BBC中文專訪分…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae9/live/3a2a5700-5038-11f1-b682-cf91850925ea.jpg",
+      "published_at": "2026-05-17 12:19",
+      "timestamp": 1778991564
+    },
+    {
+      "title": "特朗普發出警告後，台灣仍堅稱本身就是主權獨立的國家",
+      "link": "https://www.bbc.com/zhongwen/articles/c0l271rg2j0o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "美國總統在北京峰會結束後，警告台灣不要正式宣佈獨立。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b3f/live/fab5e450-513f-11f1-b682-cf91850925ea.jpg",
+      "published_at": "2026-05-17 12:00",
+      "timestamp": 1778990413
+    },
+    {
+      "title": "數萬億公里的數據：你知道你的汽車正在監視你嗎？",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgzn43xe2zo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "現代汽車透過感測器與網絡連接，大量收集駕駛者的行為與個人數據。相關數據可被企業與保險公司利用，帶來私隱風險及潛在財務影響，而這只是開始。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/502f/live/a79c8c50-4f3d-11f1-bd52-e755d604ece4.jpg",
+      "published_at": "2026-05-17 10:35",
+      "timestamp": 1778985313
+    }
+  ]
+}
