@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "generated_at": "2026-05-19 14:51:49",
+  "generated_at": "2026-05-19 15:11:01",
   "sources": [
     "36氪",
     "BBC 中文",
@@ -15,6 +15,60 @@
     "美国之音中文"
   ],
   "articles": [
+    {
+      "title": "伯克希尔·哈撒韦持股住友商事比例升至10.3%",
+      "link": "https://36kr.com/newsflashes/3815874145148677?f=rss",
+      "source": "36氪",
+      "summary": "伯克希尔·哈撒韦旗下的全资保险子公司国家赔偿公司5月19日递交持股变动文件显示，该机构对住友商事的持股比例提升至10.3%。（界面）",
+      "image": "",
+      "published_at": "2026-05-19 15:07",
+      "timestamp": 1779174474
+    },
+    {
+      "title": "A股三大指数收盘涨跌不一，半导体板块走强",
+      "link": "https://36kr.com/newsflashes/3815867580030467?f=rss",
+      "source": "36氪",
+      "summary": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.92%，深成指涨0.26%，创业板指跌0.16%；半导体、电力、教育板块领涨，沪硅产业、上海电力涨停，ST豆神涨超11%；石油化工、锂矿、稀土板块跌幅居…",
+      "image": "",
+      "published_at": "2026-05-19 15:01",
+      "timestamp": 1779174073
+    },
+    {
+      "title": "文革發動60週年：那十年，中國經歷了什麼？",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgzjje13jyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "60年前，中共領導人毛澤東發動文化大革命，中國自此陷入長達十年的動亂。一場追求「民主」、「平等」，要建立理想社會的革命，為何最終會將整個民族拖入災難的深淵？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3f36/live/a318b2f0-5350-11f1-8b8c-6d33e1d5abb6.jpg",
+      "published_at": "2026-05-19 15:00",
+      "timestamp": 1779174052
+    },
+    {
+      "title": "影石：重新定义性价比",
+      "link": "https://36kr.com/p/3815841756028425?f=rss",
+      "source": "36氪",
+      "summary": "作者 | 张帆 坚持做后来者 近日，影石创新发布了登陆资本市场后的首份年报。2025年，公司实现营业收入97.41亿元，同比大幅增长74.76%，创下成立以来的最高营收纪录。然而，同期由于研发、销售等…",
+      "image": "https://img.36krcdn.com/hsossms/20260519/v2_c12b0fccc8444d1ba03547b89f371b16@5426566_oswg39189oswg933oswg668_img_png?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
+      "published_at": "2026-05-19 14:58",
+      "timestamp": 1779173910
+    },
+    {
+      "title": "Echo Protocol：团队已成功重新控制管理员密钥，并销毁攻击者持有的剩余955枚eBTC",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482409",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Echo Protocol 在 X 平台发文表示，其发现 Monad 网络上涉及 eBTC 的未授权活动，导致未授权铸造及相关资金损失。调查表明，该事件源于影响 Monad 部…",
+      "image": "",
+      "published_at": "2026-05-19 14:55",
+      "timestamp": 1779173719
+    },
+    {
+      "title": "“SportVision”完成天使+轮融资",
+      "link": "https://36kr.com/newsflashes/3815858397617671?f=rss",
+      "source": "36氪",
+      "summary": "36氪获悉，AI体育科技公司“SportVision”近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展…",
+      "image": "",
+      "published_at": "2026-05-19 14:51",
+      "timestamp": 1779173513
+    },
     {
       "title": "格尔软件与海光信息签署战略合作协议",
       "link": "https://36kr.com/newsflashes/3815853199351304?f=rss",
@@ -104,6 +158,15 @@
       "image": "",
       "published_at": "2026-05-19 14:28",
       "timestamp": 1779172099
+    },
+    {
+      "title": "美联储报告：2025年美国加密货币使用率升至10%，创2022年以来新高",
+      "link": "https://www.odaily.news/zh-CN/newsflash/482410",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美联储最新报告显示，2025 年美国有 10%的人口使用或投资加密货币，为 2022 年以来最高水平。",
+      "image": "",
+      "published_at": "2026-05-19 14:27",
+      "timestamp": 1779172020
     },
     {
       "title": "Stellantis宣布启动“E-Car”项目：主打经济型定位，首批新车预计2028年下线",
@@ -232,15 +295,6 @@
       "timestamp": 1779170205
     },
     {
-      "title": "大华银行：美国10年期国债收益率可能进一步上涨",
-      "link": "https://www.odaily.news/zh-CN/newsflash/482392",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 大华银行全球经济与市场研究部策略师 Quek Ser Leang 表示，根据周线图，美国 10 年期国债收益率可能进一步走高。他指出，10 年期国债收益率上周收盘上涨 23.1…",
-      "image": "",
-      "published_at": "2026-05-19 13:52",
-      "timestamp": 1779169974
-    },
-    {
       "title": "西奥·贝克花了四年时间调查斯坦福. 在他离开之前,",
       "link": "https://techcrunch.com/2026/05/18/theo-baker-spent-four-years-investigating-stanford-before-he-leaves-heres-what-he-found/",
       "source": "TechCrunch",
@@ -248,15 +302,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-18-at-10.39.47-PM.png?w=1012",
       "published_at": "2026-05-19 13:50",
       "timestamp": 1779169849
-    },
-    {
-      "title": "Apple正为iOS 27及iPadOS 27开发AI写作工具、系统级快捷指令及自定义壁纸生成功能",
-      "link": "https://www.odaily.news/zh-CN/newsflash/482391",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 Bloomberg 报道，Apple 正为 iOS 27 及 iPadOS 27 准备 AI 写作工具、系统级快捷指令以及自定义壁纸生成功能。",
-      "image": "",
-      "published_at": "2026-05-19 13:45",
-      "timestamp": 1779169518
     },
     {
       "title": "吕天贵拟回归中信银行出任行长",
@@ -284,33 +329,6 @@
       "image": "",
       "published_at": "2026-05-19 13:21",
       "timestamp": 1779168081
-    },
-    {
-      "title": "日本航空与GE航空航天签署10年期航电维护协议",
-      "link": "https://36kr.com/newsflashes/3815754783776258?f=rss",
-      "source": "36氪",
-      "summary": "日本航空5月19日与GE航空航天签署了一份为期10年的维护和大修协议，涵盖其波音787机队的航空电子系统支持。根据该协议，GE航空航天位于布里斯班的工厂将为日本航空及其子公司运营的波音787机队的航空…",
-      "image": "",
-      "published_at": "2026-05-19 13:06",
-      "timestamp": 1779167189
-    },
-    {
-      "title": "北京上市公司总市值达33.4万亿元",
-      "link": "https://36kr.com/newsflashes/3815749288795653?f=rss",
-      "source": "36氪",
-      "summary": "18日举行的2026北京上市公司高质量发展大会暨投融资并购对接会披露，北京上市公司市场规模持续扩大，总数达481家，总市值实现了跨越式增长，达到33.4万亿元。（新华社）",
-      "image": "",
-      "published_at": "2026-05-19 13:00",
-      "timestamp": 1779166854
-    },
-    {
-      "title": "长龙航空完成IPO辅导验收",
-      "link": "https://36kr.com/newsflashes/3815747238403849?f=rss",
-      "source": "36氪",
-      "summary": "36氪获悉，中国证监会官网显示，浙江长龙航空股份有限公司辅导状态显示为“辅导验收”。",
-      "image": "",
-      "published_at": "2026-05-19 12:58",
-      "timestamp": 1779166728
     },
     {
       "title": "玻利维亚矿工与要求总统辞职的警察发生冲突",
@@ -380,7 +398,7 @@
       "link": "https://github.com/harmont-dev/hsrs",
       "source": "Hacker News",
       "summary": "嘿,大家来! 我一直在研究Hsrs, 一个安全型的Haskell装订发电机为Rust。 我无法...",
-      "image": "https://opengraph.githubassets.com/99ea6c36fe46597c183ca49e3148f3ae94392a6329f0d3842ec94723eea0ac99/harmont-dev/hsrs",
+      "image": "https://opengraph.githubassets.com/5fb822ac37484d1a8282f3148ca662f03cf5ba7629ae21343b7ac08ff89a4409/harmont-dev/hsrs",
       "published_at": "2026-05-19 12:06",
       "timestamp": 1779163569
     },
@@ -644,6 +662,15 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-18T211010Z_296900015_UP1EM5I1MSXIC_RTRMADP_3_SOCCER-WORLDCUP-BRA-1779143283.jpg?resize=1920%2C1440",
       "published_at": "2026-05-19 06:30",
       "timestamp": 1779143454
+    },
+    {
+      "title": "《峡湾》——一个家庭的悲剧 父母深陷卡夫卡式的困境",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260518-%E5%B3%A1%E6%B9%BE-%E4%B8%80%E4%B8%AA%E5%AE%B6%E5%BA%AD%E7%9A%84%E6%82%B2%E5%89%A7-%E7%88%B6%E6%AF%8D%E6%B7%B1%E9%99%B7%E5%8D%A1%E5%A4%AB%E5%8D%A1%E5%BC%8F%E7%9A%84%E5%9B%B0%E5%A2%83",
+      "source": "法广中文",
+      "summary": "戛纳影节的第六天，主竞赛单元放映了多国合拍影片《峡湾》，这是一部聚焦受虐儿童主题的影片。",
+      "image": "https://s.rfi.fr/media/display/9d308978-5308-11f1-b3f1-005056bfb2b6/w:1024/p:16x9/204424-2.jpg",
+      "published_at": "2026-05-19 06:26",
+      "timestamp": 1779143200
     },
     {
       "title": "特朗普与赖清德通话的可能性有多大",
@@ -974,7 +1001,7 @@
       "link": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge",
       "summary": "萨姆·阿尔特曼和伊隆·穆斯克正面临一场高额审判,可能会改变OpenAI的未来. .",
-      "image": "",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268474_musk_vs_altman_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.3048328880139%2C100%2C78.534031413613&amp;w=1200",
       "published_at": "2026-05-19 01:49",
       "timestamp": 1779126589
     },
@@ -1058,6 +1085,15 @@
       "image": "https://techcrunch.com/wp-content/uploads/2026/05/ambulances-2191226563.jpg?resize=1200,900",
       "published_at": "2026-05-19 00:32",
       "timestamp": 1779121953
+    },
+    {
+      "title": "显示 HN: 我建了一个主权OS, L1 块链, AI代理, 和语言",
+      "link": "https://github.com/Ionablokchain",
+      "source": "Hacker News",
+      "summary": "我建造IONA超过10年,独自工作. 这是一个完整的主权数字生态系统——OS(PC + Ph.",
+      "image": "https://avatars.githubusercontent.com/u/262372224?v=4?s=400",
+      "published_at": "2026-05-19 00:31",
+      "timestamp": 1779121905
     },
     {
       "title": "Google正在推出其重新设计的工作空间应用程序图标",
@@ -1163,7 +1199,7 @@
       "link": "https://github.com/2b2tplace/1m_release",
       "source": "Hacker News",
       "summary": "文章 URL:https://github.com/2b2tplace/1m 放行. 评论 URL: https://news.ycombinator.com/items.",
-      "image": "https://opengraph.githubassets.com/7064b50fc77f62008c1e811a567b8bcc58feda1577188936793f6b145d94e4db/2b2tplace/1m_release",
+      "image": "https://opengraph.githubassets.com/1d94ab0f16253491939fc743a6512cb727aae6b7cee8d09b44eb8b23afccdf2a/2b2tplace/1m_release",
       "published_at": "2026-05-18 22:13",
       "timestamp": 1779113587
     },
@@ -1193,15 +1229,6 @@
       "image": "https://techcrunch.com/wp-content/uploads/2024/03/cash-ransomware-ransom-payments-hackers-getty.jpg?resize=1200,675",
       "published_at": "2026-05-18 21:42",
       "timestamp": 1779111739
-    },
-    {
-      "title": "格拉斯温项目:神话告诉我们的",
-      "link": "https://blog.cloudflare.com/cyber-frontier-models/",
-      "source": "Hacker News",
-      "summary": "文章 URL: https://blog.cloudflare.com/cyber-frontier-models/ (中文(简体) ). 评论 URL: https://news.ycombinat...",
-      "image": "https://cf-assets.www.cloudflare.com/zkvhlag99gkb/4ILuGDGHs7n6fbasZ54VOx/0dbf7f7099880643bb53eafceb695281/OG_Share_2024-2025-2026__35_.png",
-      "published_at": "2026-05-18 21:37",
-      "timestamp": 1779111431
     },
     {
       "title": "秘密警察與政治宣傳：在美國監視僑民的中國特工",
@@ -1373,15 +1400,6 @@
       "image": "https://s.rfi.fr/media/display/5a395846-5292-11f1-b8bb-005056bf30b7/w:1024/p:16x9/301956020-483171440486409-4573740122914313176-n.jpg",
       "published_at": "2026-05-18 16:25",
       "timestamp": 1779092731
-    },
-    {
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "link": "https://36kr.com/p/3814408307711492?f=rss",
-      "source": "36氪",
-      "summary": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问： 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？ AI创业、AI融资如火如荼，属于我的机会又在…",
-      "image": "https://img.36krcdn.com/hsossms/20260518/v2_d3f7e6d336404c6db6eddce54966e3a1@6381723_oswg161420oswg1080oswg648_img_jpeg?x-oss-process=image/quality,q_100/format,jpg/interlace,1",
-      "published_at": "2026-05-18 15:03",
-      "timestamp": 1779087800
     }
   ]
 }
