@@ -37,7 +37,12 @@ FEEDS = [
     {"name": "美国之音中文",    "url": "https://www.voachinese.com/api/"},
     {"name": "法广中文",        "url": "https://www.rfi.fr/cn/rss"},
     {"name": "半岛电视台",      "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+    {"name": "FT 中文网",       "url": "https://www.ftchinese.com/rss/news"},
+    {"name": "36氪",            "url": "https://36kr.com/feed"},
     {"name": "Odaily 星球日报", "url": "https://rss.odaily.news/rss/newsflash"},
+    {"name": "TechCrunch",      "url": "https://techcrunch.com/feed/"},
+    {"name": "The Verge",       "url": "https://www.theverge.com/rss/index.xml"},
+    {"name": "Hacker News",     "url": "https://hnrss.org/frontpage"},
 ]
 
 TWENTY_FOUR_HOURS = timedelta(hours=24)
