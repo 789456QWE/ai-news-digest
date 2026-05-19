@@ -684,11 +684,20 @@ function hubPage(user) {
         background-color: #0a0a0a;
         border-bottom: 1px solid var(--line);
         position: relative;
+        overflow: hidden;
       }
-      .card-img.no-img {
-        background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
-        display: flex; align-items: center; justify-content: center;
-        color: var(--dim-2); font-size: 32px;
+      /* Real <img> overlay on cards + hero. Position:absolute so it covers
+         the wrapper's fallback background; on load error its onerror removes
+         it and the fallback shows through. */
+      .cover {
+        position: absolute; inset: 0;
+        width: 100%; height: 100%;
+        object-fit: cover;
+        display: block;
+        transition: transform .4s;
+      }
+      .card:hover .cover, .hero-main:hover .cover, .hero-side:hover .cover {
+        transform: scale(1.03);
       }
       .card-body { padding: 14px 16px 16px; }
       .card-src {
@@ -923,10 +932,9 @@ function hubPage(user) {
       }
 
       function renderCard(a, q) {
-        const img = a.image || genCover(a);
         return (
           '<a class="card" href="'+escAttr(a.link)+'" target="_blank" rel="noopener">'+
-            '<div class="card-img" style="background-image:url(\\''+escAttr(img)+'\\')"></div>'+
+            coverBox(a, 'card-img') +
             '<div class="card-body">'+
               '<div class="card-src">'+escHtml(a.source)+'</div>'+
               '<div class="card-title">'+hl(escHtml(a.title), q)+'</div>'+
@@ -937,10 +945,26 @@ function hubPage(user) {
         );
       }
 
+      // Render a cover wrapper. The procedural fallback ALWAYS paints the
+      // wrapper background — so if the real <img> 404s, is hotlink-blocked,
+      // or the URL field is empty, the user still sees a unique cover. The
+      // <img>'s onerror removes it, revealing the bg behind.
+      function coverBox(article, wrapperCls) {
+        const fb = genCover(article);
+        const bgStyle = ' style="background-image:url(\\''+escAttr(fb)+'\\')"';
+        if (!article.image) {
+          return '<div class="'+wrapperCls+'"'+bgStyle+'></div>';
+        }
+        return '<div class="'+wrapperCls+'"'+bgStyle+'>'+
+          '<img class="cover" src="'+escAttr(article.image)+'" alt="" '+
+               'loading="lazy" onerror="this.remove()">'+
+        '</div>';
+      }
+
       function imgBg(url, cls, placeholder, article) {
-        const finalUrl = url || (article ? genCover(article) : '');
-        if (finalUrl) return '<div class="'+cls+'" style="background-image:url(\\''+escAttr(finalUrl)+'\\')"></div>';
-        return '<div class="no-img">◆</div>';
+        // Hero callers go through coverBox via the shared `article` object.
+        return article ? coverBox(article, cls)
+                       : '<div class="'+cls+'"></div>';
       }
 
       // Build a unique procedural cover for an article that lacks one.

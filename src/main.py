@@ -167,43 +167,60 @@ def _extract_image(entry, raw_html: str) -> str:
     return ""
 
 
-# Matches <meta property="og:image" content="…"> (and twitter:image), tolerant to
-# attribute order and quoting. Only used as a network-fallback when the RSS entry
-# itself has no image.
-_OG_RE = re.compile(
-    r'<meta[^>]+(?:property|name)=["\'](?:og:image(?::url)?|twitter:image)["\']'
-    r'[^>]*content=["\']([^"\']+)["\']',
-    re.IGNORECASE,
-)
-_OG_RE_REV = re.compile(
-    r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*'
-    r'(?:property|name)=["\'](?:og:image(?::url)?|twitter:image)["\']',
-    re.IGNORECASE,
-)
+# Cover-image extraction patterns, tried in order of preference. The first two
+# cover og:image / og:image:url / og:image:secure_url / twitter:image /
+# twitter:image:src with attribute order tolerance. The third handles older
+# pages using <link rel="image_src">. The fourth scans the first JSON-LD block
+# for an "image" field (Schema.org).
+_META_PROPS = r'(?:og:image(?::(?:url|secure_url))?|twitter:image(?::src)?)'
+_IMAGE_META_PATTERNS = [
+    re.compile(
+        r'<meta[^>]+(?:property|name)=["\']' + _META_PROPS + r'["\']'
+        r'[^>]*content=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]*'
+        r'(?:property|name)=["\']' + _META_PROPS + r'["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<link[^>]+rel=["\']image_src["\'][^>]*href=["\']([^"\']+)["\']',
+        re.IGNORECASE,
+    ),
+    re.compile(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>'
+        r'[^<]*?"image"\s*:\s*(?:"([^"]+)"|\[\s*"([^"]+)")',
+        re.IGNORECASE | re.DOTALL,
+    ),
+]
 
 
 def fetch_og_image(page_url: str, timeout: float = FETCH_TIMEOUT) -> str:
-    """Download a page and return its og:image / twitter:image URL, or ''."""
+    """Download a page and return a cover image URL, or ''.
+
+    Tries og:image[:url|:secure_url] → twitter:image[:src] →
+    <link rel="image_src"> → JSON-LD `image`. Reads 256KB because modern
+    pages (Verge, NYT, FT) emit a lot of inline JSON before the meta tags.
+    """
     try:
         req = Request(page_url, headers={
             "User-Agent": "Mozilla/5.0 (compatible; ai-news-digest/1.0)",
             "Accept":     "text/html,application/xhtml+xml",
         })
         with urlopen(req, timeout=timeout) as resp:
-            # Only read the <head> portion — og tags are always near the top.
-            raw = resp.read(65536)
-        try:
-            html = raw.decode("utf-8", errors="ignore")
-        except Exception:
-            return ""
-        # Cut at </head> to avoid matching inline content further down
+            raw = resp.read(262144)
+        html = raw.decode("utf-8", errors="ignore")
         head_end = html.lower().find("</head>")
-        if head_end > 0:
-            html = html[:head_end]
-        m = _OG_RE.search(html) or _OG_RE_REV.search(html)
-        if not m:
-            return ""
-        return urljoin(page_url, m.group(1).strip())
+        scan = html[:head_end] if head_end > 0 else html
+        for pat in _IMAGE_META_PATTERNS:
+            m = pat.search(scan)
+            if m:
+                # JSON-LD pattern captures into either group 1 (single) or 2 (array)
+                url = next((g for g in m.groups() if g), "").strip()
+                if url:
+                    return urljoin(page_url, url)
+        return ""
     except Exception:
         return ""
 
