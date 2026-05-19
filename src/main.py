@@ -250,6 +250,58 @@ def backfill_images(articles: list[dict], max_workers: int = 10) -> None:
     print(f"✓ og:image 补齐 {filled}/{len(targets)} 篇")
 
 
+def _screenshot_url(page_url: str, w: int = 600, h: int = 338) -> str:
+    """WordPress mshots URL: free, no-auth page-screenshot service.
+
+    Returns a 16:9 JPEG of the rendered page. Cold capture is ~1-3s, then
+    cached on s.wordpress.com forever. Used as the third image-fallback
+    layer (after RSS-embedded and og:image) so even articles whose page
+    has no metadata still get a real image rather than a procedural cover.
+    """
+    from urllib.parse import quote
+    return f"https://s.wordpress.com/mshots/v1/{quote(page_url, safe='')}?w={w}&h={h}"
+
+
+def fill_screenshot_fallbacks(articles: list[dict]) -> None:
+    """For any article still without an image, assign a page-screenshot URL."""
+    for a in articles:
+        if not a.get("image"):
+            a["image"] = _screenshot_url(a["link"])
+
+
+def warmup_screenshots(articles: list[dict], max_workers: int = 8) -> None:
+    """Pre-trigger mshots captures from the CI runner so user-facing first
+    loads hit the cache. Mshots rejects direct API access (no Referer/UA)
+    with 403; we mimic a browser request to bypass that.
+    """
+    targets = [a for a in articles
+               if a.get("image", "").startswith("https://s.wordpress.com/mshots/")]
+    if not targets:
+        return
+    print(f"\n预热 {len(targets)} 张页面截图...")
+
+    def warm(url: str) -> bool:
+        try:
+            req = Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4_0) "
+                              "AppleWebKit/537.36 (KHTML, like Gecko) "
+                              "Chrome/124.0.0.0 Safari/537.36",
+                "Referer":    "https://ainews.fntymc.com/",
+                "Accept":     "image/*,*/*;q=0.8",
+            })
+            with urlopen(req, timeout=20) as r:
+                r.read(256)  # drain enough to confirm capture started
+            return True
+        except Exception:
+            return False
+
+    ok = 0
+    with ThreadPoolExecutor(max_workers=max_workers) as pool:
+        for done in pool.map(warm, [a["image"] for a in targets]):
+            ok += int(done)
+    print(f"✓ 截图预热 {ok}/{len(targets)}")
+
+
 def strip_duplicate_images(articles: list[dict], min_repeat: int = 3) -> None:
     """Clear `image` URLs that repeat across the same source — these are
     almost always the site's default share-card / logo banner (e.g. Odaily
@@ -459,6 +511,8 @@ def main() -> None:
 
     backfill_images(all_articles)
     strip_duplicate_images(all_articles)
+    fill_screenshot_fallbacks(all_articles)
+    warmup_screenshots(all_articles)
     translate_english_articles(all_articles)
 
     output_dir = Path(__file__).parent.parent / "output"
