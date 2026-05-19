@@ -961,8 +961,12 @@ function hubPage(user) {
         '</div>';
       }
 
+      // IMPORTANT: this whole script body sits inside hubPage's outer
+      // template literal, so NEVER use the backtick character anywhere in
+      // here (comments included) — esbuild would close the outer template
+      // and the build would fail.
       function imgBg(url, cls, placeholder, article) {
-        // Hero callers go through coverBox via the shared `article` object.
+        // Hero callers go through coverBox via the shared article object.
         return article ? coverBox(article, cls)
                        : '<div class="'+cls+'"></div>';
       }
