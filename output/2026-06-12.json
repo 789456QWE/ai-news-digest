@@ -1,0 +1,1504 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12 08:19:40",
+  "sources": [
+    "36氪",
+    "BBC 中文",
+    "FT 中文网",
+    "Hacker News",
+    "Odaily 星球日报",
+    "TechCrunch",
+    "The Verge",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "“对赌协议”即将迎来政策层面规范，机构竞争力将回归价值发现本身",
+      "link": "https://36kr.com/newsflashes/3849440819844099?f=rss",
+      "source": "36氪",
+      "summary": "6月5日，国务院办公厅公布《国务院办公厅关于加强监管防范风险促进私募投资基金高质量发展的指导意见》（以下简称《指导意见》），其中明确提到，出台规范私募基金“对赌协议”的制度安排。虽然具体细则尚未公布，…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849440819844099%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:13",
+      "timestamp": 1781223221
+    },
+    {
+      "title": "美联储到7月维持利率不变的概率为91.3%",
+      "link": "https://36kr.com/newsflashes/3849439555310848?f=rss",
+      "source": "36氪",
+      "summary": "据CME“美联储观察”，美联储到6月维持利率不变的概率为98.5%，累计降息25个基点的概率为1.5%。美联储到7月维持利率不变的概率为91.3%，累计加息25个基点的概率7.4%，累计降息25个基点…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849439555310848%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:12",
+      "timestamp": 1781223144
+    },
+    {
+      "title": "韩国交易所启动熔断机制，程序交易暂停5分钟",
+      "link": "https://36kr.com/newsflashes/3849439229383939?f=rss",
+      "source": "36氪",
+      "summary": "36氪获悉，KOSPI 200指数期货上涨5%后，韩国交易所启动熔断机制，程序交易暂停5分钟。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849439229383939%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:12",
+      "timestamp": 1781223124
+    },
+    {
+      "title": "AI重塑底层逻辑，数据库重新站上风口",
+      "link": "https://36kr.com/newsflashes/3849438848390144?f=rss",
+      "source": "36氪",
+      "summary": "“古老”的数据库行业，信创吹响的冲锋号角还未平息，又因为AI再次硝烟四起。“行业正以Agent（智能体）作为新用户，重构数据库的产品能力体系。”在5月底举办的腾讯云“数据库+AI”产品发布会上，腾讯云…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849438848390144%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:11",
+      "timestamp": 1781223101
+    },
+    {
+      "title": "韩交所向上熔断，KOSPI 200期货上涨5%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489635",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 行情数据，韩国交易所因 KOSPI 200 期货上涨 5% 而启动 KOSPI 的熔断机制，程序化交易暂停 5 分钟。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489635?w=600&h=338",
+      "published_at": "2026-06-12 08:11",
+      "timestamp": 1781223085
+    },
+    {
+      "title": "中金：美元流动性扩张的引擎正在经历一场“大切换”",
+      "link": "https://36kr.com/newsflashes/3849437411021827?f=rss",
+      "source": "36氪",
+      "summary": "36氪获悉，中金指出，美元流动性扩张的引擎正在经历一场“大切换”。随着通胀从潜伏转向显现、主张缩表的新任美联储主席沃什上任，疫情后由美联储扩表与财政赤字共同驱动的外生货币时代或将步入尾声。与此同时，由…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849437411021827%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:10",
+      "timestamp": 1781223013
+    },
+    {
+      "title": "日韩股市高开，韩国KOSPI指数开盘涨幅6.69%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489633",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 6 月 12 日，据 Gate 行情数据，日韩股市高开，韩国 KOSPI 指数开盘上涨 519.25 点，涨幅 6.69%，报 8283.2 点。日经 225 指数开盘上涨 8…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489633?w=600&h=338",
+      "published_at": "2026-06-12 08:09",
+      "timestamp": 1781222948
+    },
+    {
+      "title": "Polymarket：世界杯期间将提供100万美元流动性奖励",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489630",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Polymarket 在 X 平台发文宣布，将在世界杯期间提供 100 万美元流动性奖励。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489630?w=600&h=338",
+      "published_at": "2026-06-12 08:07",
+      "timestamp": 1781222830
+    },
+    {
+      "title": "某聪明钱购入36万美元世界杯小组赛韩国战胜捷克",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489629",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily Seer 先知频道 监测显示，在 Polymarket“2026 年世界杯小组赛 A 组第 1 轮韩国对战捷克”预测事件中，盈利超 120 万美元聪明钱（地址：0x2b3ff45c915…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489629?w=600&h=338",
+      "published_at": "2026-06-12 08:06",
+      "timestamp": 1781222806
+    },
+    {
+      "title": "科技股引领A股震荡，机构称市场调整的时间和空间均有限",
+      "link": "https://36kr.com/newsflashes/3849431777416456?f=rss",
+      "source": "36氪",
+      "summary": "6月11日，在外围事件的扰动下，A股市场出现调整，三大指数全线下跌，创业板指跌逾1%。工业气体、半导体材料、小金属等板块大涨，虚拟人、玻璃基板、多模态模型等板块领跌，整个A股市场超4000只股票下跌。…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849431777416456%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 08:04",
+      "timestamp": 1781222670
+    },
+    {
+      "title": "8点1氪丨SpaceX上市在即，马斯克或成全球首位万亿富翁；92年技术极客陈宇森接任钉钉CEO；比尔·盖茨就爱泼斯坦案出席国会听证",
+      "link": "https://36kr.com/p/3849431503869187?f=rss",
+      "source": "36氪",
+      "summary": "今日热点导览 OpenAI正考虑大幅下调产品价格，预判将与Anthropic展开用户之争 全球两大预测平台世界杯冠军合约成交额破20亿美元，有望刷新单项纪录 SK海力士设备供应商要求涨价 端午前机票价…",
+      "image": "https://img.36krcdn.com/hsossms/20260612/v2_8e2582614cd241ac8398a7cdc92b0b04@1200352198_oswg82800oswg1053oswg495_img_jpg?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "published_at": "2026-06-12 08:04",
+      "timestamp": 1781222669
+    },
+    {
+      "title": "特朗普：伊朗战争已经结束",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489628",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 特朗普今天（美东时间 11 日）声称美国已经“结束了”与伊朗的战争，此前他宣称双方已同意达成一项“非常强有力的谅解备忘录”以停止战斗。特朗普在一场支持佐治亚州副州长 Burt …",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489628?w=600&h=338",
+      "published_at": "2026-06-12 08:04",
+      "timestamp": 1781222646
+    },
+    {
+      "title": "某巨鲸向币安存入810枚BTC，亏损940万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489627",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Onchain Lens 监测，某巨鲸向币安存入 810 枚 BTC，价值 5082 万美元，亏损 940 万美元。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489627?w=600&h=338",
+      "published_at": "2026-06-12 08:02",
+      "timestamp": 1781222528
+    },
+    {
+      "title": "伊朗战争现场:特朗普声称德黑兰协议`批准',取消新的打击",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/12/iran-war-live-trump-claims-tehran-deal-approved-cancels-new-strikes?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "国际援救委员会警告,因以色列袭击黎巴嫩而流离失所的人正在.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/epa_6a2b2f5ee406-1781215070.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 08:00",
+      "timestamp": 1781222400
+    },
+    {
+      "title": "应用数字公司完成15.9亿美元AI债务融资",
+      "link": "https://36kr.com/newsflashes/3849425680143369?f=rss",
+      "source": "36氪",
+      "summary": "人工智能数据中心开发商应用数字公司本周通过其子公司APLD ComputeCo 3 LLC成功完成了一笔15.9亿美元优先担保票据的定价。该票据票面利率为7.000%，将于2031年到期，发行价格为面…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849425680143369%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:58",
+      "timestamp": 1781222297
+    },
+    {
+      "title": "超百家村镇银行“消失”，中小银行风险化解加速",
+      "link": "https://36kr.com/newsflashes/3849423111935237?f=rss",
+      "source": "36氪",
+      "summary": "6月10日，金融监管总局批复显示，云南罗平、师宗、陆良3家兴福系村镇银行因被曲靖沾益兴福村镇银行吸收合并而解散。同日，浙江地区也有两家村镇银行获批解散。今年以来，已有超百家村镇银行获批退出市场。业内人…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849423111935237%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:55",
+      "timestamp": 1781222141
+    },
+    {
+      "title": "墨西哥开赛得分者Julian Quinones和Raul Jimenez是谁?",
+      "link": "https://www.aljazeera.com/sports/2026/6/11/who-are-julian-quinones-and-raul-jimenez-mexicos-opening-match-scorers?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "墨西哥 QQ039;因为两个进球得分者在带领球队在Wo大战中取得胜利时被情感战胜. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a2b2dc8-1781214664.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 07:54",
+      "timestamp": 1781222059
+    },
+    {
+      "title": "Alphabet旗下自动驾驶公司Waymo将推出30美元月费会员计划",
+      "link": "https://36kr.com/newsflashes/3849421770658823?f=rss",
+      "source": "36氪",
+      "summary": "当地时间6月11日，Alphabet旗下自动驾驶公司Waymo宣布，将推出仅限受邀用户参与的Waymo Premier30美元月费会员计划，会员可享受优先接送、每次行程10%的乘车返现（以乘车积分形式…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849421770658823%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:54",
+      "timestamp": 1781222059
+    },
+    {
+      "title": "银行专项贷强力支持，上市公司频频回购股份",
+      "link": "https://36kr.com/newsflashes/3849409069208578?f=rss",
+      "source": "36氪",
+      "summary": "今年以来，多家上市公司回购股份以稳定投资者信心。在此过程中，银行发放的回购专项贷对上市公司助益颇多。事实上，回购专项贷对于上市公司和商业银行都具有显著的积极作用。在上市公司获取低成本资金、积极进行市值…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849409069208578%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:50",
+      "timestamp": 1781221817
+    },
+    {
+      "title": "中小银行资产配置逻辑新变化：金融市场业务成稳营收重要抓手",
+      "link": "https://36kr.com/newsflashes/3849405986378757?f=rss",
+      "source": "36氪",
+      "summary": "在净息差持续收窄、优质信贷资产获取难度上升的背景下，银行资产配置逻辑正悄然变化。记者梳理发现，部分区域性银行投资收益对营业收入的贡献度明显提升，金融市场业务正成为稳住营收和利润的重要抓手。多位受访人士…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849405986378757%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:48",
+      "timestamp": 1781221692
+    },
+    {
+      "title": "太空算力“星”途：在技术攻关与场景拓展中寻求落地节奏",
+      "link": "https://36kr.com/newsflashes/3849405103838470?f=rss",
+      "source": "36氪",
+      "summary": "随着国内多个太空算力行业组织与机构成立、算力星座规划陆续出炉，太空算力正从理论畅想、资本市场的热门概念，走向实际的产业布局。记者采访了解到，AI潜在的算力缺口、商业航天的发展以及全球新的竞争格局催生太…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849405103838470%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:44",
+      "timestamp": 1781221460
+    },
+    {
+      "title": "秘鲁央行将基准利率维持在4.25%",
+      "link": "https://36kr.com/newsflashes/3849407791617031?f=rss",
+      "source": "36氪",
+      "summary": "当地时间6月11日，秘鲁央行将基准利率维持在4.25%。（界面）",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849407791617031%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:40",
+      "timestamp": 1781221206
+    },
+    {
+      "title": "机构间REITs持续上新，机构提示三类项目有吸引力",
+      "link": "https://36kr.com/newsflashes/3849406959424521?f=rss",
+      "source": "36氪",
+      "summary": "近日，全国首单储能机构间REIT“财通资管-阿特斯持有型不动产资产支持专项计划（碳中和）”（以下简称“阿特斯机构间REIT”）在上海证券交易所举行挂牌仪式。记者梳理发现，除此之外，近期还有不少机构间R…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849406959424521%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:39",
+      "timestamp": 1781221155
+    },
+    {
+      "title": "「我感覺更輕鬆，更開放」：誰說老年人不宜做心理治療",
+      "link": "https://www.bbc.com/zhongwen/articles/c892v4lq32wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "精神分析學創始人佛洛伊德曾認為超過40或50歲後，心理治療效果會下降。但有學者指出，事實上「研究顯示情況正好相反」。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/240d/live/2d52c260-6555-11f1-b1db-af71d47507d6.jpg",
+      "published_at": "2026-06-12 07:37",
+      "timestamp": 1781221021
+    },
+    {
+      "title": "AI机器人企业Theker获路威酩轩等投资方8500万美元融资",
+      "link": "https://36kr.com/newsflashes/3849404234667016?f=rss",
+      "source": "36氪",
+      "summary": "总部位于巴塞罗那的人工智能机器人企业Theker于周四宣布完成一轮总额8500万美元的融资。Theker表示，公司研发搭载人工智能技术的机器人，可在工业场景中完成各类作业。 本轮融资由风投公司CRV领…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849404234667016%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:36",
+      "timestamp": 1781220988
+    },
+    {
+      "title": "2026世界杯：昂贵的旅行和门票",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260611-2026%E4%B8%96%E7%95%8C%E6%9D%AF-%E6%98%82%E8%B4%B5%E7%9A%84%E6%97%85%E8%A1%8C%E5%92%8C%E9%97%A8%E7%A5%A8",
+      "source": "法广中文",
+      "summary": "此届世界杯是史上首次由三个国家--美国、加拿大和墨西哥--联合主办的赛事，打破了以往由单一国家承办的惯例。另外，昂贵的门票价格和赛场之间的距离引发球迷的不满。",
+      "image": "https://s.rfi.fr/media/display/2c0fe630-65eb-11f1-a549-005056a97e36/w:1024/p:16x9/IMG-2468.png",
+      "published_at": "2026-06-12 07:33",
+      "timestamp": 1781220810
+    },
+    {
+      "title": "生物演变和信息获取",
+      "link": "https://www.construction-physics.com/p/biological-evolution-and-information",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.building-physics.com/p/biology-evolution-and-Information 评论 UR.",
+      "image": "https://substackcdn.com/image/fetch/$s_!v8fH!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46bf94ca-109b-4884-aaac-4e04fafb2dd2_989x446.png",
+      "published_at": "2026-06-12 07:33",
+      "timestamp": 1781220797
+    },
+    {
+      "title": "从“被投者”到“投资者”，硬科技企业密集设立产业基金",
+      "link": "https://36kr.com/newsflashes/3849400241018115?f=rss",
+      "source": "36氪",
+      "summary": "6月上旬，硬科技链主企业密集宣布一级市场最新布局：6月2日，国盾量子、兆易创新同日公告旗下产业基金设立、备案最新进度；6月3日，存储芯片龙头长鑫科技联合中微公司、阿里巴巴等，设立规模近40亿元的私募股…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849400241018115%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:32",
+      "timestamp": 1781220745
+    },
+    {
+      "title": "本田在美召回逾百万辆汽车，主要涵盖CR-V及雅阁混合动力版",
+      "link": "https://36kr.com/newsflashes/3849399110030337?f=rss",
+      "source": "36氪",
+      "summary": "本田汽车美国公司本周宣布，因部分车型随车附带的轮胎修补套件存在安全隐患，将在美国市场召回约105万辆汽车。美国国家公路交通安全管理局发布的文件显示，相关车型中的轮胎密封剂罐可能因压力积聚而导致瓶盖突然…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849399110030337%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:31",
+      "timestamp": 1781220676
+    },
+    {
+      "title": "沃尔玛与Wing无人机配送扩展至七个新都会区",
+      "link": "https://36kr.com/newsflashes/3849398085473542?f=rss",
+      "source": "36氪",
+      "summary": "沃尔玛与Alphabet旗下无人机配送公司Wing本周宣布，将其无人机配送服务扩展至全美七个新都会区，作为双方到2027年建成270多家门店配送网络计划的一部分。Wing已累计完成超过100万次商业配…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849398085473542%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:30",
+      "timestamp": 1781220613
+    },
+    {
+      "title": "当反腐者成为被反腐者：政治清洗已成中国政治制度的核心",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260611-%E5%BD%93%E5%8F%8D%E8%85%90%E8%80%85%E6%88%90%E4%B8%BA%E8%A2%AB%E5%8F%8D%E8%85%90%E8%80%85-%E6%94%BF%E6%B2%BB%E6%B8%85%E6%B4%97%E5%B7%B2%E6%88%90%E4%B8%AD%E5%9B%BD%E6%94%BF%E6%B2%BB%E5%88%B6%E5%BA%A6%E7%9A%84%E6%A0%B8%E5%BF%83",
+      "source": "法广中文",
+      "summary": "法国世界报周三刊出的一篇文章介绍中国曾经的反腐调查者如今成了接受反腐调查的对象。更有甚者，如今成为反腐对象的多名高官曾经是被誉为中国反腐“沙皇”、前国家副主席王岐山的亲信。 世界报文章通过多名反腐高级…",
+      "image": "https://s.rfi.fr/media/display/bddd2032-0bde-11ea-9862-005056bff430/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
+      "published_at": "2026-06-12 07:29",
+      "timestamp": 1781220598
+    },
+    {
+      "title": "特朗普说,美国和伊朗已经达成“伟大的解决方案”",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/trump-says-us-and-iran-have-reached-a-great?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国总统唐纳德·特朗普声称华盛顿和德黑兰已经达成‘大和解',",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781220389.jpg?resize=1615%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 07:29",
+      "timestamp": 1781220541
+    },
+    {
+      "title": "埃夫特：决定对旗下喷涂机器人全系列产品等实施价格调整，整体价格上调5%—8%",
+      "link": "https://36kr.com/newsflashes/3849396714099975?f=rss",
+      "source": "36氪",
+      "summary": "36氪获悉，埃夫特机器人发布产品调价通知函称，当前全球供应链持续紧张，核心元器件、原材料、能源及国际物流成本显著上升，叠加地缘政治带来的运输与交付不确定性，导致公司喷涂机器人产品的制造成本持续增加，成…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849396714099975%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:28",
+      "timestamp": 1781220529
+    },
+    {
+      "title": "SpaceX的IPO散户认购额据悉超1000亿美元",
+      "link": "https://36kr.com/newsflashes/3849385309295879?f=rss",
+      "source": "36氪",
+      "summary": "据报道，随着SpaceX的IPO进入最后冲刺阶段，散户认购已超1000亿美元，涵盖了美国国内和国际散户投资者。知情人士透露，预计散户将获得至少20%的IPO股份。知情人士称，包括主权财富基金在内的多家…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2F36kr.com%2Fnewsflashes%2F3849385309295879%3Ff%3Drss?w=600&h=338",
+      "published_at": "2026-06-12 07:25",
+      "timestamp": 1781220311
+    },
+    {
+      "title": "如果你要求人类的注意, 显示人类的努力",
+      "link": "https://tombedor.dev/human-attention-and-human-effort/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://tomberdor.dev/human-atenty-and-human-effort/ 评论 URL:https://news.ycomb...",
+      "image": "https://tombedor.dev/img/icon-1024.png",
+      "published_at": "2026-06-12 07:01",
+      "timestamp": 1781218915
+    },
+    {
+      "title": "Musk的1.8万亿美元空间X IPO对于一些人来说是\"极不可取的\".",
+      "link": "https://www.aljazeera.com/economy/2026/6/11/musks-1-8-trillion-spacex-ipo-could-be-highly-undesirable-for-some?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Space IPO可以挑战养老基金 因为它的估值和治理结构...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2b12ffad038-1781207807.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 07:00",
+      "timestamp": 1781218816
+    },
+    {
+      "title": "这件夹克从薄空气中抽出饮用水",
+      "link": "https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://news.utexas.edu/2026/06/11this-jacket-pulls-drinking-water- from-thin-air/ 互联网档案馆的存檔,存档日期2013-12-02. 通讯...",
+      "image": "https://news.utexas.edu/wp-content/uploads/2026/06/2026-ME-Jacket-9-1-scaled.jpg",
+      "published_at": "2026-06-12 06:59",
+      "timestamp": 1781218762
+    },
+    {
+      "title": "简单 HTML( 2021) 的不合理效果",
+      "link": "https://shkspr.mobi/blog/2021/01/the-unreasonable-effectiveness-of-simple-html/",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://shkspr.mobi/blog/2021/01/the-un合理有效-of-simple-html/ 注释...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fshkspr.mobi%2Fblog%2F2021%2F01%2Fthe-unreasonable-effectiveness-of-simple-html%2F?w=600&h=338",
+      "published_at": "2026-06-12 06:17",
+      "timestamp": 1781216228
+    },
+    {
+      "title": "Amazon QQ8217;s Echo Hub 获得自定义的新外观和 Ring QQ8217;s AI 特性",
+      "link": "https://www.theverge.com/tech/948814/amazon-echo-hub-homescreen-redesign",
+      "source": "The Verge",
+      "summary": "亚马逊推出Echo Hub设备免费软件更新 给家用屏幕带来很多...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/amazon-echo-hub-redesign-wide.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "published_at": "2026-06-12 06:06",
+      "timestamp": 1781215592
+    },
+    {
+      "title": "美国之音中文广播 (2026年6月12日)",
+      "link": "https://www.voachinese.com/a/8155203.html",
+      "source": "美国之音中文",
+      "summary": "今天的重点新闻内容包括：1)特朗普总统表示，在与伊朗进行“磋商”期间，已取消对伊朗的打击计划 2)美参院推进国防授权法案，称中国为“侵略者轴心”之一并授权建立台湾战时储备库 3)美国财政部“经济怒火”…",
+      "image": "https://gdb.voanews.com/580b77c2-403c-4fbd-e02a-08debaf557a0_w800_h450.jpg",
+      "published_at": "2026-06-12 06:00",
+      "timestamp": 1781215204
+    },
+    {
+      "title": "VOA今日焦点 (2026年6月12日)",
+      "link": "https://www.voachinese.com/a/voatoday-20260611/8159851.html",
+      "source": "美国之音中文",
+      "summary": "2026年6月12日《VOA今日焦点》重点新闻内容包括：特朗普总统宣布取消对伊朗军事打击计划，称协议细节将很快公布；美国财政部对涉嫌协助伊朗采购武器的中港实体实施新一轮制裁，加强经济施压；世界杯足球赛…",
+      "image": "https://gdb.voanews.com/cc71abdc-03ec-4768-a150-643ad4e28ad8_tv_b1_w800_h450.jpg",
+      "published_at": "2026-06-12 05:53",
+      "timestamp": 1781214820
+    },
+    {
+      "title": "美国立法者逼以色列让癌症患者离开加沙接受治疗",
+      "link": "https://www.aljazeera.com/news/2026/6/11/us-lawmakers-press-israel-to-let-cancer-patients-out-of-gaza-for-treatment?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "立法者集团呼吁特朗普政府协助医疗撤离加沙,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a2b016630-1781203302.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 05:49",
+      "timestamp": 1781214567
+    },
+    {
+      "title": "在明尼苏达州杀死民主党高层和丈夫的人认罪",
+      "link": "https://www.aljazeera.com/news/2026/6/11/man-pleads-guilty-to-slaying-top-democrat-and-her-husband-in-minnesota?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Melissa和Mark Hortman被伪装成警察的人谋杀,引起了对politi的担忧.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26161789504894-1781211556.jpg?resize=1200%2C675",
+      "published_at": "2026-06-12 05:37",
+      "timestamp": 1781213841
+    },
+    {
+      "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489600",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 当地时间 6 月 11 日，美国总统特朗普就伊朗问题表示“达成了极好的协议”，并称相关文件已进入最后定稿阶段，未来几天内有望最终敲定，并即将签署。他还表示，协议可能在欧洲签署，…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489600?w=600&h=338",
+      "published_at": "2026-06-12 05:34",
+      "timestamp": 1781213655
+    },
+    {
+      "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489599",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 以色列总理办公室：特朗普今晚与内塔尼亚胡就即将与伊朗达成的谅解备忘录进入谈判阶段进行了通话。虽然以色列不是该谅解备忘录的缔约方，但总理对特朗普的承诺表示赞赏，即谈判结束后的最终…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489599?w=600&h=338",
+      "published_at": "2026-06-12 05:33",
+      "timestamp": 1781213617
+    },
+    {
+      "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489598",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 美国总统特朗普当地时间周四召开新闻发布会，当被问及从现阶段到达成美伊最终协议，他的截止日期是什么时候时，特朗普表示：“我不想说一个截止日期，因为那样你们就会说我没能按期完成。但…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489598?w=600&h=338",
+      "published_at": "2026-06-12 05:29",
+      "timestamp": 1781213367
+    },
+    {
+      "title": "伊朗外交部：海峡目前仍然关闭",
+      "link": "https://www.odaily.news/zh-CN/newsflash/489597",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 伊朗外交部发言人：由于美国的非法行动，目前霍尔木兹海峡仍然关闭。船只应保持谨慎，因为不存在安全通行的条件。（金十）",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F489597?w=600&h=338",
+      "published_at": "2026-06-12 05:24",
+      "timestamp": 1781213067
+    },
+    {
+      "title": "Jimenez和Quinones网 墨西哥在世界杯开赛时击败南非",
+      "link": "https://www.aljazeera.com/sports/2026/6/11/jimenez-and-quinones-net-as-mexico-beat-south-africa-in-world-cup-opener?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "2026年世界杯联赛东道主墨西哥开启联赛 以2比0战胜被降级的南非. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-11T204729Z_507189056_UP1EM6B1LR3UH_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF-1781211510.jpg?resize=1639%2C1080",
+      "published_at": "2026-06-12 05:22",
+      "timestamp": 1781212969
+    },
+    {
+      "title": "展示HN:寓言Pool – 在提示后集中资金,",
+      "link": "https://fablepool.com",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://fablepool.com 评论 URL:https://news.ycombinator.com/robject?id=48496539 (中文(简体) ). 点...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Ffablepool.com?w=600&h=338",
+      "published_at": "2026-06-12 05:17",
+      "timestamp": 1781212650
+    },
+    {
+      "title": "为什么我被迫说再见:谷歌管理失去了它的道德指南",
+      "link": "https://www.mayrhofer.eu.org/post/leaving-google/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.mayrhofer.eu.org/post/leaving-google/ 评论 URL:https://news.ycombinato...",
+      "image": "https://www.mayrhofer.eu.org/post/leaving-google/featured.jpg",
+      "published_at": "2026-06-12 05:04",
+      "timestamp": 1781211887
+    },
+    {
+      "title": "墨西哥佐卡洛广场的世界杯狂欢",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/world-cup-mania-at-mexicos-zocalo-square?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "墨西哥城佐卡洛广场的欢庆足球迷们准备参加该市的世界杯公开赛. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781211816.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 05:04",
+      "timestamp": 1781211881
+    },
+    {
+      "title": "世界杯：欧洲拒美国对非洲三国关闭边境要求",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E5%9F%83%E5%8D%9A%E6%8B%89-%E6%AC%A7%E6%B4%B2%E6%8B%92%E7%BE%8E%E5%9B%BD%E5%85%B3%E9%97%AD%E8%BE%B9%E5%A2%83%E8%A6%81%E6%B1%82",
+      "source": "法广中文",
+      "summary": "2026年世界杯足球赛之际，欧洲国家拒绝美国要求，因埃博拉疫情（Ebola）为由，对刚果民主共和国（RD Congo）、南苏丹(Soudan du Sud)和乌干达(Ouganda)非洲三国关闭边境。",
+      "image": "https://s.rfi.fr/media/display/4440885e-65d7-11f1-b7dc-005056bf30b7/w:1024/p:16x9/2026-06-11-j-FMM-archive-Coupe-du-Monde-2026-AP-Image-RFI.jpg",
+      "published_at": "2026-06-12 05:03",
+      "timestamp": 1781211832
+    },
+    {
+      "title": "发生了什么事,是谁在2026年世界杯开幕式上表演的?",
+      "link": "https://www.aljazeera.com/sports/2026/6/11/what-happened-and-who-performed-at-the-world-cup-2026-opening-ceremony?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "音乐表演,色彩,和粉丝的兴奋 在世界杯前 \\\\ 039;在墨西哥的开幕比赛...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/2026-06-11T181507Z_748658919_UP1EM6B1EP6FM_RTRMADP_3_SOCCER-WORLDCUP-MEX-ZAF-1781210136.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 05:02",
+      "timestamp": 1781211774
+    },
+    {
+      "title": "美国两党议员会晤台湾反对党国民党主席郑丽文，谈台湾的国防、能源以及对美军事采购等议题",
+      "link": "https://www.voachinese.com/a/members-of-u-s-congress-met-with-taiwan-opposition-party-chair-cheng-li-wen-to-discuss-defense-issues-20260611/8159834.html",
+      "source": "美国之音中文",
+      "summary": "多位美国国会共和党及民主党联邦参、众议员这个星期在国会山会见了来访的台湾主要在野党国民党主席郑丽文，讨论包括台湾的国防、能源以及对美军事采购等议题，她强调，国民党“并不是反对美国的军购。事实上，我们正…",
+      "image": "https://gdb.voanews.com/68fcc422-333e-42fe-06aa-08debb2b874c_cx0_cy7_cw0_w800_h450.jpg",
+      "published_at": "2026-06-12 05:01",
+      "timestamp": 1781211713
+    },
+    {
+      "title": "《VOA今日焦点》音频",
+      "link": "https://www.voachinese.com/a/8155210.html",
+      "source": "美国之音中文",
+      "summary": "2026年6月12日《VOA今日焦点》重点新闻内容包括：特朗普总统宣布取消对伊朗军事打击计划，称协议细节将很快公布；美国财政部对涉嫌协助伊朗采购武器的中港实体实施新一轮制裁，加强经济施压；世界杯足球赛…",
+      "image": "https://gdb.voanews.com/5dc710e9-80be-4094-e3ae-08debaff0be8_w800_h450.jpg",
+      "published_at": "2026-06-12 05:00",
+      "timestamp": 1781211600
+    },
+    {
+      "title": "显示 HN: Boo – 在 libghostty 上构建的屏幕式终端多功能程序",
+      "link": "https://github.com/coder/boo",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://github.com/coder/boo 评论 URL:https://news.ycombinator.com/items?id=4849625...",
+      "image": "https://opengraph.githubassets.com/efb20792cbb5568dfdb8b456e52159ced85a87edd55b566eb5b9075209557b72/coder/boo",
+      "published_at": "2026-06-12 04:52",
+      "timestamp": 1781211146
+    },
+    {
+      "title": "第23届世界杯足球赛开幕",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E7%AC%AC23%E5%B1%8A%E4%B8%96%E7%95%8C%E6%9D%AF%E8%B6%B3%E7%90%83%E8%B5%9B%E5%BC%80%E5%B9%95",
+      "source": "法广中文",
+      "summary": "墨西哥承办本届世界杯的揭幕战于巴黎时间11日19点20分正式开始。墨西哥vs南非的比赛将在墨西哥城阿兹特克体育场上演，该体育场是拉丁美洲最大的体育场，可容纳近8.75万人。",
+      "image": "https://s.rfi.fr/media/display/5b2a7bac-65d6-11f1-a2c8-005056a97e36/w:1024/p:16x9/1444X9-1-2.jpg",
+      "published_at": "2026-06-12 04:45",
+      "timestamp": 1781210715
+    },
+    {
+      "title": "美国总统特朗普宣布取消当晚对伊朗空袭 暗示美伊协议要点已获批准",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260611-%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E5%BD%93%E6%99%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%A9%BA%E8%A2%AD-%E6%9A%97%E7%A4%BA%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E8%A6%81%E7%82%B9%E5%B7%B2%E8%8E%B7%E6%89%B9%E5%87%86",
+      "source": "法广中文",
+      "summary": "最新消息显示：美国总统特朗普周四（6月11日）宣布，取消原定当晚对伊朗的空袭和轰炸计划。这是因为美伊协议的“最终要点”已获批准。特朗普并暗示可能将很快与伊朗签署协议。",
+      "image": "https://s.rfi.fr/media/display/e59fccb2-65d4-11f1-a340-005056a90284/w:1024/p:16x9/donald-trump-assure-qu-un-accord-avec-l-iran-pourrait-etre-signe-ce-week-end-1781208755.jpg",
+      "published_at": "2026-06-12 04:44",
+      "timestamp": 1781210652
+    },
+    {
+      "title": "木偶如何帮助加沙妇女和儿童应对创伤",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-puppets-are-helping-women-and-children-in-gaza-cope-with-trauma?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在加沙的一个木偶表演项目正在利用讲故事和创造性的研讨会来帮助妇女和儿童......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781210399.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 04:40",
+      "timestamp": 1781210409
+    },
+    {
+      "title": "特朗普：或最早在本周末于欧洲和伊朗签署协议",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%88%96%E6%9C%80%E6%97%A9%E5%9C%A8%E6%9C%AC%E5%91%A8%E6%9C%AB%E4%BA%8E%E6%AC%A7%E6%B4%B2%E5%92%8C%E4%BC%8A%E6%9C%97%E7%AD%BE%E7%BD%B2%E5%8D%8F%E8%AE%AE",
+      "source": "法广中文",
+      "summary": "6月11日，美国特朗普表示，已与伊朗达成“非常好的协议”，并暗示一旦文件最终敲定，可能在未来几天在欧洲签署该协议。这位美国总统还表示，他不会出席签字仪式，并称最早可能在“本周末”举行，届时副总统JD·…",
+      "image": "https://s.rfi.fr/media/display/e59fccb2-65d4-11f1-a340-005056a90284/w:1024/p:16x9/donald-trump-assure-qu-un-accord-avec-l-iran-pourrait-etre-signe-ce-week-end-1781208755.jpg",
+      "published_at": "2026-06-12 04:34",
+      "timestamp": 1781210053
+    },
+    {
+      "title": "政府谴责「种族主义暴徒」,",
+      "link": "https://www.aljazeera.com/news/2026/6/11/minister-condemns-racist-thuggery-as-violence-returns-to-northern-ireland?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "数十年宗派暴力肆虐的省内动乱复发,激怒了德行. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260611__B6R22V9__v1__HighRes__BritainNirelandPoliceInvestigationImmigration-1781202752.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 04:33",
+      "timestamp": 1781210019
+    },
+    {
+      "title": "SpaceX官方价格为135美元,是有史以来最大的IPO",
+      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
+      "source": "TechCrunch",
+      "summary": "微信其官方股票定价公告,SpaceX的IPO开始.",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/07/spacex-falcon-9.jpeg?resize=1200,675",
+      "published_at": "2026-06-12 04:33",
+      "timestamp": 1781209990
+    },
+    {
+      "title": "显示 HN: TunnelMind – IP, ASN 和 ad-tech 供应链的API声誉",
+      "link": "https://tunnelmind.ai/",
+      "source": "Hacker News",
+      "summary": "我是一个网络工程师,喜欢思考 互联网的未来,这是我的bu...",
+      "image": "https://tunnelmind.ai/og.png",
+      "published_at": "2026-06-12 04:27",
+      "timestamp": 1781209679
+    },
+    {
+      "title": "美国对古巴国有石油公司实施制裁",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%9B%BD%E6%9C%89%E7%9F%B3%E6%B2%B9%E5%85%AC%E5%8F%B8%E5%AE%9E%E6%96%BD%E5%88%B6%E8%A3%81",
+      "source": "法广中文",
+      "summary": "美国周四将古巴国有石油公司古巴石油联合公司（Cupet）列入制裁名单，指责古巴政府挪用岛上能源资源“中饱私囊”。国务卿马可·卢比奥发表声明宣布了这一消息。",
+      "image": "https://s.rfi.fr/media/display/00404d22-65d4-11f1-8ecd-005056a97e36/w:1024/p:16x9/thumbs-b-c-047dcb4608ef60cfd8b2e83b6d52487f.jpg",
+      "published_at": "2026-06-12 04:27",
+      "timestamp": 1781209668
+    },
+    {
+      "title": "甲骨文警告安全漏洞 黑客滥用 突破100+公司",
+      "link": "https://techcrunch.com/2026/06/11/oracle-warns-of-security-bug-that-hackers-abused-to-breach-100-companies/",
+      "source": "TechCrunch",
+      "summary": "科技巨头警告安全漏洞 一个网上犯罪团伙说它正在利用...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/oracle-logo-nyse.jpg?resize=1200,800",
+      "published_at": "2026-06-12 04:27",
+      "timestamp": 1781209645
+    },
+    {
+      "title": "以色列在被拘留两年后释放哈马斯共同创始人",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/israel-releases-hamas-co-founder-after-two-years-in-detention?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列当局在执政两年多后释放了哈马斯联合创始人哈桑·优素福. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781209512.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 04:25",
+      "timestamp": 1781209552
+    },
+    {
+      "title": "埃博拉疫情有如“坐在火山口”",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260611-rfi%E6%B3%95%E5%B9%BF-%E9%9D%9E%E6%B4%B2-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%E6%9C%89%E5%A6%82-%E5%9D%90%E5%9C%A8%E7%81%AB%E5%B1%B1%E5%8F%A3",
+      "source": "法广中文",
+      "summary": "面对埃博拉（Ebola）疫情的影响扩大至非洲大湖区（la région des Grands Lacs），刚刚从刚果（金）东部疫区中心结束访问返回的欧盟危机管理女专员拉比卜夫人（Mme Hadja L…",
+      "image": "https://s.rfi.fr/media/display/02eebf96-65d3-11f1-bb73-005056bfb2b6/w:1024/p:16x9/2026-06-11-j-FMM-archive-Afrique-RD-Congo-Ebola-UE-commissaire-Lahbib-Image-RFI.jpg",
+      "published_at": "2026-06-12 04:23",
+      "timestamp": 1781209436
+    },
+    {
+      "title": "英国防大臣不满国防预算愤然辞职",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260611-%E8%8B%B1%E5%9B%BD%E9%98%B2%E5%A4%A7%E8%87%A3%E4%B8%8D%E6%BB%A1%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E6%84%A4%E7%84%B6%E8%BE%9E%E8%81%8C",
+      "source": "法广中文",
+      "summary": "英国国防大臣约翰·希利（John Healey）6月11日突然请辞，原因是他不满英国首相斯塔默和英国财政部未能让未来10年国家的“国防投资计划”获得足够资金、让国军能有充分资源。",
+      "image": "https://s.rfi.fr/media/display/b24f3882-659f-11f1-abfa-005056a97e36/w:1024/p:16x9/AP26132318319206.jpg",
+      "published_at": "2026-06-12 04:23",
+      "timestamp": 1781209429
+    },
+    {
+      "title": "特朗普政府制裁古巴国家石油公司,",
+      "link": "https://www.aljazeera.com/news/2026/6/11/trump-administration-sanctions-cubas-national-oil-company-blasts-castros?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "国务卿马可·鲁比奥(Marco Rubio)谴责古巴-佩特罗列奥联盟(Union Cuba-Petroleo),",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2b0f5fbef2-1781206879.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 04:21",
+      "timestamp": 1781209315
+    },
+    {
+      "title": "北爱尔兰暴力骚乱后   一些移民躲藏起来",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260611-%E5%8C%97%E7%88%B1%E5%B0%94%E5%85%B0%E6%9A%B4%E5%8A%9B%E9%AA%9A%E4%B9%B1%E5%90%8E-%E4%B8%80%E4%BA%9B%E7%A7%BB%E6%B0%91%E8%BA%B2%E8%97%8F%E8%B5%B7%E6%9D%A5",
+      "source": "法广中文",
+      "summary": "在一起残忍的持刀袭击事件导致贝尔法斯特爆发暴力骚乱后，北爱尔兰陷入紧张局势。很多人不敢上街。北爱尔兰事务大臣希拉里·本恩（Hilary Benn）周四告诉天空新闻：“我们收到报告称，有人在上班途中被拦…",
+      "image": "https://s.rfi.fr/media/display/e735bc60-64e6-11f1-92f3-005056bf30b7/w:1024/p:16x9/capture-10071713896a298c7693a2f0-39649247.jpg",
+      "published_at": "2026-06-12 04:20",
+      "timestamp": 1781209222
+    },
+    {
+      "title": "北爱尔兰：政界谴责煽动仇恨   歧视移民",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260611-%E5%8C%97%E7%88%B1%E5%B0%94%E5%85%B0-%E6%94%BF%E7%95%8C%E8%B0%B4%E8%B4%A3%E7%85%BD%E5%8A%A8%E4%BB%87%E6%81%A8-%E6%AD%A7%E8%A7%86%E7%A7%BB%E6%B0%91",
+      "source": "法广中文",
+      "summary": "在连续第二个晚上发生暴力事件后，北爱尔兰警方于周四进一步加强了警力部署。当局称这些事件带有“种族主义”色彩。此前，一名苏丹难民因持刀袭击他人而被起诉。",
+      "image": "https://s.rfi.fr/media/display/2be038d2-658b-11f1-8336-005056bfb2b6/w:1024/p:16x9/AP26161744874544.jpg",
+      "published_at": "2026-06-12 04:16",
+      "timestamp": 1781209015
+    },
+    {
+      "title": "美联邦法官批准撤销针对土国有银行的指控",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E7%BE%8E%E8%81%94%E9%82%A6%E6%B3%95%E5%AE%98%E6%89%B9%E5%87%86%E6%92%A4%E9%94%80%E9%92%88%E5%AF%B9%E5%9C%9F%E5%9B%BD%E6%9C%89%E9%93%B6%E8%A1%8C%E7%9A%84%E6%8C%87%E6%8E%A7",
+      "source": "法广中文",
+      "summary": "纽约联邦检察官已要求撤销对土耳其国有银行人民银行（Halkbank）的指控。该银行被指控参与规避对伊朗的制裁。检察官援引安卡拉在加沙战争期间的外交贡献以及该银行的合规努力作为其请求的理由。",
+      "image": "https://s.rfi.fr/media/display/e32a4050-65d1-11f1-a1ea-005056bfb2b6/w:1024/p:16x9/2025-10-06T134106Z-1-LYNXNPEL950M3-RTROPTP-4-USA-COURT-HALKBANK.jpg",
+      "published_at": "2026-06-12 04:13",
+      "timestamp": 1781208833
+    },
+    {
+      "title": "墨西哥城闪耀着2026年世界杯足球赛",
+      "link": "https://www.aljazeera.com/gallery/2026/6/11/mexico-city-dazzles-as-2026-world-cup-kicks-off-in-style?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "烟火和全球明星点燃了墨西哥城的QQ039;2026年世界杯足球赛在经过改造的A. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26162647546944-1781207285.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 04:12",
+      "timestamp": 1781208746
+    },
+    {
+      "title": "当地旅行,你在哪里",
+      "link": "https://www.ssp.sh/brain/travel-where-you-are/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.ssp.sh/brain/travel-where-you-are/ 评论 URL:https://news.ycombinator.c.",
+      "image": "https://www.ssp.sh/brain/img_Travel where You Are_1781207349625.webp",
+      "published_at": "2026-06-12 04:08",
+      "timestamp": 1781208506
+    },
+    {
+      "title": "Logitech 令人惊叹的 MX 主 3S 鼠标降到100美元以下",
+      "link": "https://www.theverge.com/gadgets/948204/logitech-mx-master-3s-mouse-sale-deal",
+      "source": "The Verge",
+      "summary": "平台-不可知的Logitech MX Master 3S无线鼠标在亚马逊折扣为89.99美元(30美元 of.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23578031/jporter_220516_5225_0008.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 04:00",
+      "timestamp": 1781208000
+    },
+    {
+      "title": "SpaceX SPV 投资者不会知道他们的真实持有量,",
+      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
+      "source": "TechCrunch",
+      "summary": "SpaceX公开首映后,低级SPV投资者面临隐性收费,长期支付延迟. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+      "published_at": "2026-06-12 03:58",
+      "timestamp": 1781207881
+    },
+    {
+      "title": "特朗普挑选美国律师杰伊·克莱顿担任国家情报总监",
+      "link": "https://www.aljazeera.com/news/2026/6/11/trump-to-pick-us-attorney-jay-clayton-for-director-of-national-intelligence?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "提名是在背弃唐纳德·特朗普(Donald Trump)###039; 比尔·普尔特(Bill Pulte)被选为代理导演o.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/afp_6a2b084bdd3f-1781205067.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 03:56",
+      "timestamp": 1781207774
+    },
+    {
+      "title": "我们要不要玩个游戏? 我的AI核模拟",
+      "link": "https://www.kennethpayne.uk/p/shall-we-play-a-game",
+      "source": "Hacker News",
+      "summary": "https://arxiv.org/pdf/2602.14740 评论 URL:https://news.ycombinator.com/items?id=48495575 网易新闻. 点:...",
+      "image": "https://substackcdn.com/image/fetch/$s_!3TAh!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24302f16-6ee6-4b02-b46e-bfeb0d56efbf_1024x608.png",
+      "published_at": "2026-06-12 03:54",
+      "timestamp": 1781207694
+    },
+    {
+      "title": "以色列驱逐被控支持哈马斯的法国记者",
+      "link": "https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "真实地压制了对加沙战争的报道 禁止国际新闻 并杀死数百人...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/AA-20250825-38920567-38920556-FAREWELL_CEREMONY_HELD_FOR_FOUR_JOURNALISTS_KILLED_IN_ISRAELI_ATTACK_IN_KHAN_YUNIS-1756124227_dbd7bd-1756167353.jpg?resize=1200%2C630&amp;quality=80",
+      "published_at": "2026-06-12 03:52",
+      "timestamp": 1781207541
+    },
+    {
+      "title": "作为南海的帆船",
+      "link": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "中国个人和组织也被禁止与吉尔贝托·特奥多罗和.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26149434988701-1781195243.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 03:46",
+      "timestamp": 1781207182
+    },
+    {
+      "title": "Bluesky推出集体聊天,因为公司将焦点转向社区特色",
+      "link": "https://techcrunch.com/2026/06/11/bluesky-launches-group-chats-as-company-shifts-focus-to-community-features/",
+      "source": "TechCrunch",
+      "summary": "Bluesky最新的特点是分组聊天,在关注Sma的建设特征的转变中到达. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/01/bluesky-GettyImages-2185144073.jpg?w=1024",
+      "published_at": "2026-06-12 03:41",
+      "timestamp": 1781206865
+    },
+    {
+      "title": "华盛顿球迷观赛区6月11日开放",
+      "link": "https://www.voachinese.com/a/fifa-world-cup-fan-zone-20260611/8159833.html",
+      "source": "美国之音中文",
+      "summary": "世界杯足球开幕式6月11日在墨西哥举行，在华盛顿国家大草坪的球迷观赛区聚集了大批热情的球迷，其中有许多是首场比赛的联合东道主墨西哥和南非队的支持者。",
+      "image": "https://gdb.voanews.com/9f060d9a-d2c8-4de9-74d1-08debaf5e870_tv_b1_w800_h450.jpg",
+      "published_at": "2026-06-12 03:34",
+      "timestamp": 1781206480
+    },
+    {
+      "title": "一个与库什纳有关的度假村如何在阿尔巴尼亚各地引发抗议活动?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/how-a-kushner-linked-resort-sparked-protests-across-albania?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一个与唐纳德·特朗普女婿贾里德·库什纳有关的豪华度假胜地引发了部分阿尔巴尼亚&#039;s.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781206355.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 03:33",
+      "timestamp": 1781206387
+    },
+    {
+      "title": "药明康德控告美国防部 要求撤销“中国军工企业”认定",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260611-%E8%8D%AF%E6%98%8E%E5%BA%B7%E5%BE%B7%E6%8E%A7%E5%91%8A%E7%BE%8E%E5%9B%BD%E9%98%B2%E9%83%A8-%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80-%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%B7%A5%E4%BC%81%E4%B8%9A-%E8%AE%A4%E5%AE%9A",
+      "source": "法广中文",
+      "summary": "中国药物研发与制造服务龙头药明康德（WuXi AppTec）11日宣布，已正式向美国哥伦比亚特区联邦地区法院提起诉讼，要求撤销美国国防部将其列入“中国军工企业”名单的决定。",
+      "image": "https://s.rfi.fr/media/display/1fa10f0e-62b3-11f1-b23b-005056a97e36/w:1024/p:16x9/2026-05-27T123426Z-539053199-RC27VS9VOZNP-RTRMADP-3-MINING-LISTING-USA.jpg",
+      "published_at": "2026-06-12 03:24",
+      "timestamp": 1781205897
+    },
+    {
+      "title": "谁在经营Ransomware集团\"先生们\"?",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/commen. [永久失效連結] 互联网档案馆的存檔,存档日期2013-07-02.",
+      "image": "https://krebsonsecurity.com/wp-content/uploads/2026/06/thegentlemen.png",
+      "published_at": "2026-06-12 03:23",
+      "timestamp": 1781205832
+    },
+    {
+      "title": "黎巴嫩其他什叶派政党阿迈勒运动是什么?",
+      "link": "https://www.aljazeera.com/features/2026/6/11/what-is-the-amal-movement-lebanons-other-shia-party?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "作为真主党的QQ039;未来还不清楚,阿迈勒,黎巴嫩&#039可以扮演什么角色;其他主要的什叶派政党,pl.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2024/12/2024-12-02T141238Z_826381084_RC20HBA3R5Q4_RTRMADP_3_ISRAEL-PALESTINIANS-LEBANON-1733156799.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 03:20",
+      "timestamp": 1781205639
+    },
+    {
+      "title": "Jose Mourinho在三年协议中为皇家马德里教练取名",
+      "link": "https://www.aljazeera.com/sports/2026/6/11/jose-mourinho-named-real-madrid-coach-on-three-year-deal?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "穆里尼奥在费罗伦蒂诺·佩雷斯·佩雷斯·佩里兹(Florentino Perez &#039)之后13年重返拉里加巨头队;后以c.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26136400977917-1781203981.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 03:09",
+      "timestamp": 1781204977
+    },
+    {
+      "title": "若伊朗不要协议 特朗普将以第三次空袭伺候",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260611-%E8%8B%A5%E4%BC%8A%E6%9C%97%E4%B8%8D%E8%A6%81%E5%8D%8F%E8%AE%AE-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BB%A5%E7%AC%AC%E4%B8%89%E6%AC%A1%E7%A9%BA%E8%A2%AD%E4%BC%BA%E5%80%99",
+      "source": "法广中文",
+      "summary": "美伊连续二天展开空袭后，若伊朗真不想要协议, 特朗普将以第三次空袭伺候，时间将在周四夜间，据悉其强度和范围比前一天更大、更广。",
+      "image": "https://s.rfi.fr/media/display/f800a028-64e6-11f1-bf7d-005056bf30b7/w:1024/p:16x9/2026-06-10T152151Z-1882616195-RC23RLAHLFZ5-RTRMADP-3-USA-TRUMP.jpg",
+      "published_at": "2026-06-12 03:08",
+      "timestamp": 1781204892
+    },
+    {
+      "title": "Musk 的 Grok 指控违反加拿大隐私法,",
+      "link": "https://www.aljazeera.com/economy/2026/6/11/musks-grok-accused-of-violating-canadian-privacy-laws-on-deepfakes?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "隐私监视器找到 xAI&#039;s Grok缺乏性化深层假象分享的保障,在中间. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/getty_6a2ae7f2ad-1781196786.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 02:53",
+      "timestamp": 1781204006
+    },
+    {
+      "title": "以色列政府为扩大西岸定居点筹集大量资金:非政府组织",
+      "link": "https://www.aljazeera.com/news/2026/6/11/israeli-government-mulling-huge-funding-to-expand-west-bank-settlement-ngo?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "该提案如获通过,将标志着以色列非法定居点在......的最大扩张之一。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/reuters_6a106392-1779458962.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 02:45",
+      "timestamp": 1781203523
+    },
+    {
+      "title": "墨西哥城“宪法广场”球迷区入口一片混乱",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260611-%E5%A2%A8%E8%A5%BF%E5%93%A5%E5%9F%8E-%E5%AE%AA%E6%B3%95%E5%B9%BF%E5%9C%BA-%E7%90%83%E8%BF%B7%E5%8C%BA%E5%85%A5%E5%8F%A3%E4%B8%80%E7%89%87%E6%B7%B7%E4%B9%B1",
+      "source": "法广中文",
+      "summary": "2026美加墨世界杯开幕式表演在墨西哥城体育场开始，但在墨西哥对阵南非比赛之前，数千名球迷试图涌入墨西哥城宪法广场（Zocalo 亦称索卡洛广场）设立的球迷区入口，导致人群拥挤。",
+      "image": "https://s.rfi.fr/media/display/e10631ba-65c4-11f1-8cf7-005056bfb2b6/w:1024/p:16x9/84910187.jpeg",
+      "published_at": "2026-06-12 02:39",
+      "timestamp": 1781203178
+    },
+    {
+      "title": "多伦多警察在调查袭击美国领事馆时开枪",
+      "link": "https://www.aljazeera.com/news/2026/6/11/toronto-police-officer-shot-while-investigating-attack-on-us-consulate?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "警方说,一名嫌疑人仍然在逃 警官在搜查令中被致命枪击...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AFP__20260310__A2P94U8__v1__HighRes__ShotsFiredAtUsConsulateInToronto-1781193640.jpg?resize=1920%2C1440",
+      "published_at": "2026-06-12 02:35",
+      "timestamp": 1781202922
+    },
+    {
+      "title": "曼谷爆炸案2人被判死刑",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/two-sentenced-to-death-in-bangkok-bombing?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "2015年泰国伊拉旺神社爆炸案有两人被判死刑,造成20人死亡,wou...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781202271.jpg?resize=1533%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 02:24",
+      "timestamp": 1781202288
+    },
+    {
+      "title": "Pope Leo告诉移民:`我向你们的尊严鞠躬'",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/11/pope-leo-tells-migrants-i-bow-before-your?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "教宗利奥在西班牙加那利群岛的一个港口会见了移民和非政府组织,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/image-1781201605.jpg?resize=1620%2C1080&amp;quality=80",
+      "published_at": "2026-06-12 02:14",
+      "timestamp": 1781201699
+    },
+    {
+      "title": "Brink的六件户外摄像头设备在200美元以下",
+      "link": "https://www.theverge.com/gadgets/948459/blink-camera-bundle-aeropress-deal-sale",
+      "source": "The Verge",
+      "summary": "可以在总理节前用大套室外安全摄像头省钱. 亚马逊有五包...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/blink-outdoor-camera-bundle-deal-image.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 02:04",
+      "timestamp": 1781201083
+    },
+    {
+      "title": "美参院推进国防授权法案，称中国为“侵略者轴心”之一并授权建立台湾战时储备库",
+      "link": "https://www.voachinese.com/a/senate-panel-advances-ndaa-authorizing-taiwan-war-reserve-stockpile-20260611/8159790.html",
+      "source": "美国之音中文",
+      "summary": "美国国会参议院军事委员会推进一项重要国防授权法案，法案目标在于提升第一岛链整体防御战备水平，从而加强美国对中国的威慑力。法案还授权向台湾提供安全援助、为台湾建立战时储备物资库，以及审查对台及其他地区伙…",
+      "image": "https://gdb.voanews.com/88b17df9-9823-43aa-dfee-08debaf557a0_cx0_cy2_cw0_w800_h450.jpg",
+      "published_at": "2026-06-12 02:02",
+      "timestamp": 1781200976
+    },
+    {
+      "title": "Roborock QQ8217;s Q10 S5 Plus robovac 已经超过一半了,符合迄今为止的最佳价格",
+      "link": "https://www.theverge.com/gadgets/948529/roborock-q10-s5-plus-robot-vacuum-mop-deal-sale",
+      "source": "The Verge",
+      "summary": "即使是全价,Roborock Q10 S5 Plus也提供了令人印象深刻的价值,夸耀的特征一般是...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/Roborock-Q10-S5-Plus.jpg?quality=90&amp;strip=all&amp;crop=0,10.704714303484,100,78.590571393032",
+      "published_at": "2026-06-12 01:42",
+      "timestamp": 1781199749
+    },
+    {
+      "title": "苹果没有革命性地改造供电;新晶体管有(2012)",
+      "link": "https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://www.righto.com/2012/02/apple-dint-revolutionize-power.html 互联网档案馆的存檔,存档日期2013-07-02. 注释 URL: https...",
+      "image": "https://lh3.googleusercontent.com/blogger_img_proxy/AEn0k_tMbX4tIakCRB4nSKvrQeXmBKSslfsOXU4pXULvWpce6moH7EpbmCK3utR1lTEJozdaWtD3DAWS96g23B_C8VNtGzdwKZA6sc_Y8S3CL9hPvNA=w1200-h630-p-k-no-nu",
+      "published_at": "2026-06-12 01:35",
+      "timestamp": 1781199319
+    },
+    {
+      "title": "Meta 的 Edits 应用程序正在获得 AI 助手和桌面版本",
+      "link": "https://techcrunch.com/2026/06/11/metas-edits-app-is-getting-an-ai-assistant-and-a-desktop-version/",
+      "source": "TechCrunch",
+      "summary": "通过将AI助手直接整合到Edits中,Meta旨在让创作者在Insta上保持接触......",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/05/meta-edits.png?resize=1200,704",
+      "published_at": "2026-06-12 01:30",
+      "timestamp": 1781199000
+    },
+    {
+      "title": "亚马逊-8217; 数据中心去年用了25亿加仑的水",
+      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+      "source": "The Verge",
+      "summary": "就在西雅图颁布一年制数据中心 暂停亚马逊的一些员工...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 01:26",
+      "timestamp": 1781198817
+    },
+    {
+      "title": "让Jimmy Kimmel起诉Brendan Carr的法案在这里",
+      "link": "https://www.theverge.com/policy/948525/cruz-wyden-jawbone-act-censorship",
+      "source": "The Verge",
+      "summary": "根据一项新的两党法案,如果政府官员非法进行诉讼,美国人可以起诉损害. .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25840497/STKP211_BRENDAN_CARR_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 01:23",
+      "timestamp": 1781198582
+    },
+    {
+      "title": "以下是Best Buy、GameStop等的价比政策。",
+      "link": "https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft",
+      "source": "The Verge",
+      "summary": "没有什么比买一双新耳机、一台OLED电视机或一台笔记本电脑更令人沮丧了...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23952330/HT017_money_00010.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 01:14",
+      "timestamp": 1781198068
+    },
+    {
+      "title": "Coinbase的新工具可以帮助代理商进行交易并支付溢价研究的费用。",
+      "link": "https://techcrunch.com/2026/06/11/coinbase-debuts-mcp-for-agent-trading/",
+      "source": "TechCrunch",
+      "summary": "Coinbase的代理可以使用x402协议获取数据和API.",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/coinbase-phone.jpg?resize=1200,678",
+      "published_at": "2026-06-12 01:00",
+      "timestamp": 1781197200
+    },
+    {
+      "title": "量子空间的军方SPAC试图抓住太空的IPO波",
+      "link": "https://techcrunch.com/2026/06/11/quantum-spaces-military-spac-is-trying-to-catch-spacexs-ipo-wave/",
+      "source": "TechCrunch",
+      "summary": "量子空间称SPAC没有死,因为它寻求12亿美元的交易来建造军用飞船.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Bridenstine-Quantum-Spcae.jpeg?w=1080",
+      "published_at": "2026-06-12 00:59",
+      "timestamp": 1781197168
+    },
+    {
+      "title": "Deezer的新工具可以识别来自Spotify,苹果音乐等的AI音乐",
+      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+      "source": "TechCrunch",
+      "summary": "Deezer引入了一个从Spotify,Apple Music等平台扫描播放列表的工具,用于识别. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2180853826.jpg?resize=1200,800",
+      "published_at": "2026-06-12 00:36",
+      "timestamp": 1781195780
+    },
+    {
+      "title": "软件是在承诺之间制作的",
+      "link": "https://zed.dev/blog/introducing-deltadb",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://zed.dev/blog/introductioning-deltadb 评论 URL:https://news.ycombinator.com/ite...",
+      "image": "https://images.zed.dev/blog/deltadb-early-access/thumbnail.webp",
+      "published_at": "2026-06-12 00:28",
+      "timestamp": 1781195304
+    },
+    {
+      "title": "国际邮报：中国“灵活就业”人数激增 突破3亿说明了什么",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260611-%E5%9B%BD%E9%99%85%E9%82%AE%E6%8A%A5-%E4%B8%AD%E5%9B%BD-%E7%81%B5%E6%B4%BB%E5%B0%B1%E4%B8%9A-%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E-%E7%AA%81%E7%A0%B43%E4%BA%BF%E8%AF%B4%E6%98%8E%E4%BA%86%E4%BB%80%E4%B9%88",
+      "source": "法广中文",
+      "summary": "据《国际邮报》周四（6月11日）报道，2026年，中国“灵活就业”人员数量已达3.2亿，占全国劳动力总数的44%。这些“灵活就业”人员通常签订短期合同或通过劳务派遣形式就业。",
+      "image": "https://s.rfi.fr/media/display/96d88822-4a1d-11eb-ae6f-005056bf18d4/w:1024/p:16x9/160927361768357_P10300097.png",
+      "published_at": "2026-06-12 00:17",
+      "timestamp": 1781194671
+    },
+    {
+      "title": "这些是那些禁止社交媒体的国家",
+      "link": "https://techcrunch.com/2026/06/11/social-media-ban-children-countries-list/",
+      "source": "TechCrunch",
+      "summary": "澳大利亚是第一个在2025年末发布禁令的国家,旨在减少压力和风险. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2243719467.jpg?resize=1200,800",
+      "published_at": "2026-06-12 00:17",
+      "timestamp": 1781194670
+    },
+    {
+      "title": "太阳能在美国产生的能量比煤炭还多",
+      "link": "https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.theguardian.com/us-news/2026/jun/11/solar-energy-us-coal 互联网档案馆的存檔,存档日期2013-12-20. 注释 URL: http...",
+      "image": "https://i.guim.co.uk/img/media/6896f10f7c27f4e6f179c666f072c6bdd627772a/548_0_5821_4658/master/5821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5b460ece2e3b1f906962e06dbad7b3c3",
+      "published_at": "2026-06-12 00:10",
+      "timestamp": 1781194205
+    },
+    {
+      "title": "韦莫总理",
+      "link": "https://waymo.com/blog/2026/06/waymo-premier/",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://waymo.com/blog/2026/06/waymo-premier/ 互联网档案馆的存檔,存档日期2013-12-20. 评论 URL:https://news.ycombinator.co...",
+      "image": "https://lh3.googleusercontent.com/O2q3bqw8VNHREWK0cERCElNJAlJ8TlTjC8R851702A_mvfGKQ_hHmn9P03Ntv7kMBEY8JWcZNqfSeUtO4opkaywHajG51KpBO7c",
+      "published_at": "2026-06-12 00:10",
+      "timestamp": 1781194202
+    },
+    {
+      "title": "2026年国际足联世界杯在墨西哥开幕",
+      "link": "https://www.voachinese.com/a/fifa-world-cup-2026-opens-in-mexico-20260611/8159753.html",
+      "source": "美国之音中文",
+      "summary": "备受期待的2026年FIFA世界杯于星期四(6月11日)开幕，并举行盛大的开幕式，随后是联合东道主墨西哥队与南非队之间的揭幕战。",
+      "image": "https://gdb.voanews.com/1edeb09d-11e1-4a8b-b8fd-f3af1e88d760_cx3_cy6_cw91_w800_h450.jpg",
+      "published_at": "2026-06-12 00:08",
+      "timestamp": 1781194109
+    },
+    {
+      "title": "AMD不会修好的RCE",
+      "link": "https://mrbruh.com/amd2/",
+      "source": "Hacker News",
+      "summary": "另见https://www.youtube.com/watch?v=4HjWHNLRMB0 页面存档备份,存于互联网档案馆. 关联:AMD不会修复的RCE - https://n.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmrbruh.com%2Famd2%2F?w=600&h=338",
+      "published_at": "2026-06-12 00:03",
+      "timestamp": 1781193820
+    },
+    {
+      "title": "无证窃听法即将到期,",
+      "link": "https://www.theverge.com/tech/948451/fisa-702-reauthorization-vote-fails-congress-wiretapping-lapse",
+      "source": "The Verge",
+      "summary": "国会未能通过延长\"外国情报调查\"第702节的三周. .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280779303.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200",
+      "published_at": "2026-06-12 00:03",
+      "timestamp": 1781193818
+    },
+    {
+      "title": "Claude Fable 5: 编码任务的中级结果",
+      "link": "https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.endorlabs.com/learn/claude-fable-5-mythos-level-hype 评论 URL:https://.",
+      "image": "https://cdn.prod.website-files.com/6574c9e538a34feac8cec013/6a2a386899570e6f8d646e19_new%20model%20claude.png",
+      "published_at": "2026-06-12 00:03",
+      "timestamp": 1781193801
+    },
+    {
+      "title": "Waymo 推出一个忠心计划, 现金回收10%, 免费取消",
+      "link": "https://techcrunch.com/2026/06/11/waymo-launches-a-loyalty-program-with-10-cash-back-and-free-cancellations/",
+      "source": "TechCrunch",
+      "summary": "节目成员称为\"Waymo Primier\",每月需增加29.99美元.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/waymo-premier.png?resize=1200,675",
+      "published_at": "2026-06-12 00:00",
+      "timestamp": 1781193623
+    },
+    {
+      "title": "2026世界杯在不和谐气氛中拉开帷幕",
+      "link": "https://www.ftchinese.com/story/001110012",
+      "source": "FT 中文网",
+      "summary": "世界杯将于未来五周在墨西哥、美国和加拿大的16个城市展开角逐，但三个东道国却正因贸易和安全问题互相龃龉，而球迷对天价门票和美国移民限制也怨声载道。",
+      "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/https://d1e00ek4ebabms.cloudfront.net/production/1ede1eac-d235-4cf4-9ae1-a1b1e67ad460.jpg",
+      "published_at": "2026-06-12 00:00",
+      "timestamp": 1781193600
+    },
+    {
+      "title": "欧洲央行加息至2.25%",
+      "link": "https://www.ftchinese.com/story/001110011",
+      "source": "FT 中文网",
+      "summary": "欧洲央行成为首家因中东能源冲击而加息的G7央行，该行坦承中东战争正在造成通胀压力，“通胀面临上行风险，而经济增长面临下行风险”。",
+      "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/1/000327741_piclink.jpg",
+      "published_at": "2026-06-12 00:00",
+      "timestamp": 1781193600
+    },
+    {
+      "title": "Waymo对想要更快接车的骑手实行每月30美元的保费等级",
+      "link": "https://www.theverge.com/transportation/947974/waymo-premier-monthly-membership-perks-priority-cash-back",
+      "source": "The Verge",
+      "summary": "尤伯一号,见韦莫总理 机器人轴操作员宣布了一个新的每月29.99美元的保费等级.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/image_b9dbd0.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "published_at": "2026-06-12 00:00",
+      "timestamp": 1781193600
+    },
+    {
+      "title": "IQQQ8217; 已找到便携式 MIDI 控制器的 Goldilocks",
+      "link": "https://www.theverge.com/tech/948024/arturia-minilab-37-midi-controller-review",
+      "source": "The Verge",
+      "summary": "我已经测试了更多的便携式MIDI控制器 比我能够跟踪, 我会告诉你现在...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268579_Arturia_MiniLab_37_TOBrien_0004.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-06-12 00:00",
+      "timestamp": 1781193600
+    },
+    {
+      "title": "所罗门群岛新总理称因保密条款不能公布与中国的安全协议",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260611-%E6%89%80%E7%BD%97%E9%97%A8%E7%BE%A4%E5%B2%9B%E6%96%B0%E6%80%BB%E7%90%86%E7%A7%B0%E5%9B%A0%E4%BF%9D%E5%AF%86%E6%9D%A1%E6%AC%BE%E4%B8%8D%E8%83%BD%E5%85%AC%E5%B8%83%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%AE%89%E5%85%A8%E5%8D%8F%E8%AE%AE",
+      "source": "法广中文",
+      "summary": "所罗门群岛新任总理威尔（Matthew Wale）宣布，他不会公布与中国签署的备受瞩目的中所安全合作框架协议，因为他无法合法地违反协议中隐藏的保密条款。",
+      "image": "https://s.rfi.fr/media/display/af603e4c-65ad-11f1-aad1-005056a97e36/w:1024/p:16x9/2026-06-03T012037Z-1116071673-RC20MLAEVTP7-RTRMADP-3-AUSTRALIA-SOLOMON-ISLANDS-1.jpg",
+      "published_at": "2026-06-11 23:55",
+      "timestamp": 1781193312
+    },
+    {
+      "title": "关于撤回加拿大C-22法案的申诉",
+      "link": "https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.ourcommons.ca/petitions/en/Petition/Sign/e7416 评论 URL:https://news.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.ourcommons.ca%2Fpetitions%2Fen%2FPetition%2FSign%2Fe-7416?w=600&h=338",
+      "published_at": "2026-06-11 23:37",
+      "timestamp": 1781192243
+    },
+    {
+      "title": "Pool的新应用将您的截图变成有用的东西",
+      "link": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+      "source": "TechCrunch",
+      "summary": "Pool的新应用自动将截图排序为个性化收藏,追踪来源. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/hero.jpg?resize=1200,704",
+      "published_at": "2026-06-11 23:30",
+      "timestamp": 1781191800
+    },
+    {
+      "title": "曼谷四面佛爆炸案：两名中国维吾尔男子被判死刑",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260611-%E6%9B%BC%E8%B0%B7%E5%9B%9B%E9%9D%A2%E4%BD%9B%E7%88%86%E7%82%B8%E6%A1%88-%E4%B8%A4%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%BB%B4%E5%90%BE%E5%B0%94%E7%94%B7%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91",
+      "source": "法广中文",
+      "summary": "泰国的一家法院就2015年曼谷四面佛爆炸案作出判决，两名来自中国的维吾尔男子——玉素甫·米拉伊利和比拉尔·穆罕默德，被认定参与策划和实施袭击，双双被判处死刑。",
+      "image": "https://s.rfi.fr/media/display/1d43e2f8-657f-11f1-be8e-005056bf30b7/w:1024/p:16x9/000-B6PG99E.jpg",
+      "published_at": "2026-06-11 23:15",
+      "timestamp": 1781190910
+    },
+    {
+      "title": "FPS.cob:COBOL第一人称射击手",
+      "link": "https://github.com/icitry/FPS.cob",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://github.com/icitry/FPS.cob 评论 URL:https://news.ycombinator.com/items?id=48...",
+      "image": "https://opengraph.githubassets.com/868afa2d636f2463a52b3c69faad9338dbc75201eec783d21c7f00306959c739/icitry/FPS.cob",
+      "published_at": "2026-06-11 23:13",
+      "timestamp": 1781190837
+    },
+    {
+      "title": "中国日本商会发布《中国经济与日本企业2026年白皮书》提三点希望",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260611-%E4%B8%AD%E5%9B%BD%E6%97%A5%E6%9C%AC%E5%95%86%E4%BC%9A%E5%8F%91%E5%B8%83-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E4%B8%8E%E6%97%A5%E6%9C%AC%E4%BC%81%E4%B8%9A2026%E5%B9%B4%E7%99%BD%E7%9A%AE%E4%B9%A6-%E6%8F%90%E4%B8%89%E7%82%B9%E5%B8%8C%E6%9C%9B",
+      "source": "法广中文",
+      "summary": "由在华日企组成的“中国日本商会”周四发布《中国经济与日本企业2026年白皮书》（以下简称白皮书），并提出三点希望：即中日关系涵盖政治、经济、文化等多个层面，希望国家间的政治与外交问题不会波及企业活动与…",
+      "image": "https://s.rfi.fr/media/display/e9b5881c-65a4-11f1-9e92-005056a97e36/w:1024/p:16x9/Capture-3542.jpg",
+      "published_at": "2026-06-11 23:10",
+      "timestamp": 1781190608
+    },
+    {
+      "title": "微软敲打碳酸盐,以示印度在碳清除方面日益重要的作用",
+      "link": "https://techcrunch.com/2026/06/11/microsoft-taps-alt-carbon-in-sign-of-indias-growing-rile-in-carbon-removal/",
+      "source": "TechCrunch",
+      "summary": "Alt Carbon说,协议是经过一年多科学审查和尽职调查后达成的,与.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/07/microsoft-store-1185699758.jpg?resize=1200,800",
+      "published_at": "2026-06-11 23:00",
+      "timestamp": 1781190000
+    },
+    {
+      "title": "MiMo 代码现已发布并开源",
+      "link": "https://mimo.xiaomi.com/mimocode",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://mimo.xiaomi.com/mimocode 评论 URL:https://news.ycombinator.com/item?id=484...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmimo.xiaomi.com%2Fmimocode?w=600&h=338",
+      "published_at": "2026-06-11 22:27",
+      "timestamp": 1781188039
+    },
+    {
+      "title": "DoorDash 的新 AI 聊天程序允许您使用提示和照片订购",
+      "link": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+      "source": "TechCrunch",
+      "summary": "名为Ask DoorDash的新聊天员允许用户搜索该应用程序所寻求的内容. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1232015093.jpg?resize=1200,800",
+      "published_at": "2026-06-11 22:23",
+      "timestamp": 1781187823
+    },
+    {
+      "title": "感受酷暑：极端气温将如何影响2026世界杯",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260611-%E6%84%9F%E5%8F%97%E9%85%B7%E6%9A%91-%E6%9E%81%E7%AB%AF%E6%B0%94%E6%B8%A9%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D2026%E4%B8%96%E7%95%8C%E6%9D%AF",
+      "source": "法广中文",
+      "summary": "足球界规模最大的赛事即将登陆美国、加拿大和墨西哥的多个城市。尽管球迷的兴奋之情逐渐高涨，但科学家们警告说，高温高湿的天气可能会在整个赛事期间造成严重的健康和安全挑战。",
+      "image": "https://s.rfi.fr/media/display/cde8fab2-6589-11f1-af78-005056a97e36/w:1024/p:16x9/AP26161626037137.jpg",
+      "published_at": "2026-06-11 22:06",
+      "timestamp": 1781186776
+    },
+    {
+      "title": "能源筹集5 400美元,用于利用大量未开发的能源",
+      "link": "https://techcrunch.com/2026/06/11/endurance-energy-raises-54m-to-harness-a-massive-untapped-energy-source/",
+      "source": "TechCrunch",
+      "summary": "SpaceX校友安德鲁·雷德(Andrew Redd)打赌海洋拥有大量未开发的地热能.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-592668294.jpg?resize=1200,731",
+      "published_at": "2026-06-11 22:00",
+      "timestamp": 1781186412
+    },
+    {
+      "title": "习近平外，法国记者说不出三个当前中国人的名字：超尴尬沉默的背后是...",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E4%B8%AD%E5%8D%8E%E4%B8%96%E7%95%8C/20260611-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%96%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%AE%B0%E8%80%85%E8%AF%B4%E4%B8%8D%E5%87%BA%E4%B8%89%E4%B8%AA%E5%BD%93%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E5%90%8D%E5%AD%97-%E5%B0%B4%E5%B0%AC%E6%B2%89%E9%BB%98%E7%9A%84%E8%83%8C%E5%90%8E%E6%98%AF%E4%BB%80%E4%B9%88",
+      "source": "法广中文",
+      "summary": "5月28日，法国LCI电视台的一档国际时事座谈节目中，主持人戴维·普雅达斯（David Pujadas）向在座几位资深媒体人抛出了一个看似简单的问题：“今天谁能说出三个中国在世名人的名字？” 不料现场…",
+      "image": "https://s.rfi.fr/media/display/25b4edbe-641d-11f1-937f-005056a97e36/w:1024/p:16x9/t%C3%A9l%C3%A9chargement-1-10.jpg",
+      "published_at": "2026-06-11 21:51",
+      "timestamp": 1781185900
+    },
+    {
+      "title": "菲总统府称小马科斯立场仍很明确 北京制裁菲防长特奥多罗及其亲属",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260611-%E8%8F%B2%E6%80%BB%E7%BB%9F%E5%BA%9C%E7%A7%B0%E5%B0%8F%E9%A9%AC%E7%A7%91%E6%96%AF%E7%AB%8B%E5%9C%BA%E4%BB%8D%E5%BE%88%E6%98%8E%E7%A1%AE-%E5%8C%97%E4%BA%AC%E5%88%B6%E8%A3%81%E8%8F%B2%E9%98%B2%E9%95%BF%E7%89%B9%E5%A5%A5%E5%A4%9A%E7%BD%97%E5%8F%8A%E5%85%B6%E4%BA%B2%E5%B1%9E",
+      "source": "法广中文",
+      "summary": "菲律宾总统府周四表示，小马科斯总统已注意到有关在马辛洛克浅滩（中方称黄岩岛、西方文献称斯卡伯勒浅滩）潟湖内发现中方新设施的报道，并将继续致力于通过外交和法律手段维护菲律宾在西菲律宾海（菲方对其专属经济…",
+      "image": "https://s.rfi.fr/media/display/79c51aa4-659a-11f1-af00-005056a97e36/w:1024/p:16x9/Capture-3541.jpg",
+      "published_at": "2026-06-11 21:43",
+      "timestamp": 1781185429
+    },
+    {
+      "title": "拥核国互动 凸显地缘政治紧张",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20260611-%E6%8B%A5%E6%A0%B8%E5%9B%BD%E4%BA%92%E5%8A%A8-%E5%87%B8%E6%98%BE%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E7%B4%A7%E5%BC%A0",
+      "source": "法广中文",
+      "summary": "当今世界正处在全球地缘政治、经济高度紧张的国际环境下，大国领导人之间的频繁互动，无一不牵动着全球安全环境与经济版图的变化。继中美俄领导人在北京先后上演大国外交秀后，中国领导人习近平时隔7年再次走访外交…",
+      "image": "https://s.rfi.fr/media/display/f9ad9e0a-6403-11f1-a8ca-005056a90284/w:1024/p:16x9/2026-06-09T113817Z-1289867527-RC2AQLAH4RJW-RTRMADP-3-NORTHKOREA-CHINA.jpg",
+      "published_at": "2026-06-11 21:20",
+      "timestamp": 1781184020
+    },
+    {
+      "title": "南韩以400M+罚款袭击库邦,",
+      "link": "https://techcrunch.com/2026/06/11/south-korea-hits-coupang-with-400m-fine-for-data-breach-that-affected-millions/",
+      "source": "TechCrunch",
+      "summary": "韩国当局在数据被违反,影响过大后发布了破纪录罚款.",
+      "image": "https://techcrunch.com/wp-content/uploads/2020/10/Coupang_dawn_delivery.jpg?resize=1200,800",
+      "published_at": "2026-06-11 21:18",
+      "timestamp": 1781183931
+    },
+    {
+      "title": "德总理默茨誓言：我们不能也不会袖手旁观，会保护自身利益和经济",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260611-%E5%BE%B7%E6%80%BB%E7%90%86%E9%BB%98%E8%8C%A8%E8%AA%93%E8%A8%80-%E6%88%91%E4%BB%AC%E4%B8%8D%E8%83%BD%E4%B9%9F%E4%B8%8D%E4%BC%9A%E8%A2%96%E6%89%8B%E6%97%81%E8%A7%82%EF%BC%8C%E4%BC%9A%E4%BF%9D%E6%8A%A4%E8%87%AA%E8%BA%AB%E5%88%A9%E7%9B%8A%E5%92%8C%E7%BB%8F%E6%B5%8E",
+      "source": "法广中文",
+      "summary": "德国总理默茨（Friedrich Merz）周四表示，欧盟必须捍卫自身权益，抵制不公平贸易行为。这表明，他对欧盟委员会近期提出的对华强硬措施的提议持更加开放的态度。",
+      "image": "https://s.rfi.fr/media/display/1bfefd10-fcfc-11f0-acca-005056a97e36/w:1024/p:16x9/2026-01-29T081534Z-1472599119-RC2WAJAODWEA-RTRMADP-3-GERMANY-POLITICS-MERZ.jpg",
+      "published_at": "2026-06-11 20:58",
+      "timestamp": 1781182703
+    },
+    {
+      "title": "OpenAI称与中国有关联的影响力行动正试图左右美国AI辩论",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260611-openai%E7%A7%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E8%81%94%E7%9A%84%E5%BD%B1%E5%93%8D%E5%8A%9B%E8%A1%8C%E5%8A%A8%E6%AD%A3%E8%AF%95%E5%9B%BE%E5%B7%A6%E5%8F%B3%E7%BE%8E%E5%9B%BDai%E8%BE%A9%E8%AE%BA",
+      "source": "法广中文",
+      "summary": "美国开放人工智能研究中心（OpenAI）周三发布的研究显示，中国很可能在幕后策划了一场网络影响力行动，旨在左右美国对人工智能技术的看法，并重塑华盛顿围绕人工智能基础设施建设的讨论。OpenAI表示，其…",
+      "image": "https://s.rfi.fr/media/display/30bf8e36-85a2-11ef-a7af-005056bf30b7/w:1024/p:16x9/2024-09-25T202743Z_102272607_RC2R3Z99CNCI_RTRMADP_3_OPENAI-MANAGEMENT.JPG",
+      "published_at": "2026-06-11 20:07",
+      "timestamp": 1781179676
+    },
+    {
+      "title": "Anthropic 水龙头 TCS 以扩大企业AI的部署范围",
+      "link": "https://techcrunch.com/2026/06/11/anthropic-taps-tcs-to-scale-its-enterprise-ai-deployments/",
+      "source": "TechCrunch",
+      "summary": "该伙伴关系将看到TCS建立一个业务单位,专注于部署Anthropic的AI模型,以便.",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/12/Screenshot-2025-12-09-at-12.11.34-PM.png?resize=1200,673",
+      "published_at": "2026-06-11 19:48",
+      "timestamp": 1781178535
+    },
+    {
+      "title": "FIFA世界盃2026：賽程、分組、開賽時間與場館一覽",
+      "link": "https://www.bbc.com/zhongwen/articles/cx211w7zkkeo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "由美國、加拿大和墨西哥共同主辦的2026年國際足聯（FIFA）世界杯決賽週將於6月11日至7月19日舉行，BBC預備了互動模組，供查閲賽事安排、跟蹤比賽結果。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0e60/live/2d8f5a40-5830-11f1-b682-cf91850925ea.jpg",
+      "published_at": "2026-06-11 19:20",
+      "timestamp": 1781176844
+    },
+    {
+      "title": "氪星晚报｜百万Token只要几块钱，算力价格还在往下降；OpenAI正考虑大幅下调产品价格；今起儿童旅客可购买铁路旅游计次票，票价为成人旅客的5折",
+      "link": "https://36kr.com/p/3848516305605892?f=rss",
+      "source": "36氪",
+      "summary": "大公司： 克里斯蒂安·斯坦出任雷诺集团西班牙首席执行官 7月1日起，克里斯蒂安·斯坦（Christian Stein）将接替何塞·马雷亚·里卡森（Josep María Recasens）, 出任雷诺…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_7e5fc3d73a124028b963a55559efd512@16521230@ai_oswg1039848oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "published_at": "2026-06-11 19:00",
+      "timestamp": 1781175600
+    },
+    {
+      "title": "法媒点评2026世界杯：“高卢雄鸡”能跑多远、伊战蔓延球场、美国收益远低预期",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260611-%E5%8F%B2%E4%B8%8A%E5%9C%BA%E6%AC%A1%E6%9C%80%E5%A4%9A%E6%9C%80%E8%B5%9A%E9%92%B1-%E5%8F%82%E8%B5%9B%E5%9B%BD%E4%B8%8E%E4%B8%9C%E9%81%93%E5%9B%BD%E9%99%B7%E6%88%98%E4%BA%89%E7%8A%B6%E6%80%81-%E6%8B%92%E5%A4%96%E5%9B%BD%E7%90%83%E8%BF%B7%E7%9A%84%E4%B8%96%E7%95%8C%E6%9D%AF%E7%99%BB%E5%9C%BA",
+      "source": "法广中文",
+      "summary": "大家好，欢迎收听法国报纸摘要，6月11号是2026世界杯拉开帷幕的日子成为法国各大日报的头版头条。《解放报》报道的重心摆在“法国队能走多远？”表示虽然很难想象“高卢雄鸡”无法晋级16强，但热身赛的表现…",
+      "image": "https://s.rfi.fr/media/display/a4691310-6445-11f1-8d0b-005056a97e36/w:1024/p:16x9/Des-manifestations-a-Mexico-avant-la-Coupe-du-monde-le-8-juin-2026-2300745.jpg",
+      "published_at": "2026-06-11 18:36",
+      "timestamp": 1781174174
+    },
+    {
+      "title": "G7欧盟峰会将至对华贸易为重点 马克龙欲接触 中方派张国清出席视频会",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260611-g7%E6%AC%A7%E7%9B%9F%E5%B3%B0%E4%BC%9A%E5%B0%86%E8%87%B3%E5%AF%B9%E5%8D%8E%E8%B4%B8%E6%98%93%E4%B8%BA%E9%87%8D%E7%82%B9-%E9%A9%AC%E5%85%8B%E9%BE%99%E6%AC%B2%E6%8E%A5%E8%A7%A6-%E4%B8%AD%E6%96%B9%E6%B4%BE%E5%BC%A0%E5%9B%BD%E6%B8%85%E5%87%BA%E5%B8%AD%E8%A7%86%E9%A2%91%E4%BC%9A",
+      "source": "法广中文",
+      "summary": "中国外交部发言人宣布，应法国政府邀请，中共中央政治局委员、国务院副总理张国清将于周四以视频方式出席法方主办的“全球趋同促增长峰会”。此前，法方官员表示，下周将在埃维昂莱班主持七国集团（G7）峰会的马克…",
+      "image": "https://s.rfi.fr/media/display/bb564eb4-657e-11f1-a67d-005056a90284/w:1024/p:16x9/Capture-3538.jpg",
+      "published_at": "2026-06-11 18:22",
+      "timestamp": 1781173368
+    },
+    {
+      "title": "香港籃球教練體罰爭議 前學員打破沉默",
+      "link": "https://www.bbc.com/zhongwen/articles/cj9gnmkk28ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "一條香港中學籃球教練在操場掌摑學生的網絡影片，揭開了本地體育界仍然存在的體罰與高壓文化。涉事教練翁金驊已被停職並因涉嫌「普通襲擊」被警方拘捕。多位曾接受其執教的香港大學及中學前球員打破沉默，公開講述自…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cfac/live/c6d520a0-6563-11f1-8e1d-bbbb1017d210.jpg",
+      "published_at": "2026-06-11 17:58",
+      "timestamp": 1781171912
+    },
+    {
+      "title": "48支球队、104场比赛、空前规模、巨大争议：2026世界杯终于来了",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260611-48%E6%94%AF%E7%90%83%E9%98%9F-104%E5%9C%BA%E6%AF%94%E8%B5%9B-%E7%A9%BA%E5%89%8D%E8%A7%84%E6%A8%A1-%E5%B7%A8%E5%A4%A7%E4%BA%89%E8%AE%AE-2026%E4%B8%96%E7%95%8C%E6%9D%AF%E7%BB%88%E4%BA%8E%E6%9D%A5%E4%BA%86",
+      "source": "法广中文",
+      "summary": "2026年世界杯正式拉开帷幕。当地时间6月11日星期四，揭幕战将在墨西哥城打响。这不仅是世界杯历史上规模最大的一届赛事，也是国际足联首次由三个国家联合举办的世界杯。未来近六周时间里，48支球队将在美国…",
+      "image": "https://s.rfi.fr/media/display/da29db24-657b-11f1-af36-005056a97e36/w:1024/p:16x9/2026-06-10T231202Z-2112413402-RC2UQLAJQ93N-RTRMADP-3-SOCCER-WORLDCUP-MEXICO.jpg",
+      "published_at": "2026-06-11 17:57",
+      "timestamp": 1781171841
+    },
+    {
+      "title": "美制裁涉伊朗武器采购的陆港个人和实体 包括单兵便携式防空导弹采购",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260611-%E7%BE%8E%E5%88%B6%E8%A3%81%E6%B6%89%E4%BC%8A%E6%9C%97%E6%AD%A6%E5%99%A8%E9%87%87%E8%B4%AD%E7%9A%84%E9%99%86%E6%B8%AF%E4%B8%AA%E4%BA%BA%E5%92%8C%E5%AE%9E%E4%BD%93-%E5%8C%85%E6%8B%AC%E5%8D%95%E5%85%B5%E4%BE%BF%E6%90%BA%E5%BC%8F%E9%98%B2%E7%A9%BA%E5%AF%BC%E5%BC%B9%E9%87%87%E8%B4%AD",
+      "source": "法广中文",
+      "summary": "美国国务院周三宣布，对13个基于伊朗、白俄罗斯和中国大陆和香港的个人和实体实施制裁，这些个人和实体被指曾试图代表伊朗伊斯兰革命卫队采购武器，包括单兵便携式防空导弹（MANPADS）。美国国务院称，此次…",
+      "image": "https://s.rfi.fr/media/display/44f82b82-253e-11f1-8c25-005056a90284/w:1024/p:16x9/2026-03-19T200728Z-1642920911-RC2P5KAWG2T0-RTRMADP-3-IRAN-CRISIS-OIL-SANCTIONS.jpg",
+      "published_at": "2026-06-11 17:49",
+      "timestamp": 1781171388
+    },
+    {
+      "title": "ChinaJoy最硬核的区域，36氪与你共同探索 | Vision Future前沿科技展区 × 36氪直播间开启预约",
+      "link": "https://36kr.com/p/3848564910036229?f=rss",
+      "source": "36氪",
+      "summary": "两个月后， ChinaJoy即将在上海浦东举办，这里又会挤满全国最爱玩、最关注前沿科技的年轻人。 作为国内延续二十年的数字娱乐展会，ChinaJoy早已不只是玩家试玩新游戏的狂欢，它已经变成整个科技+…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_6423823d96fa4b769f925beeeb209c8a@16519798_oswg100259oswg818oswg1215_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "published_at": "2026-06-11 17:24",
+      "timestamp": 1781169851
+    },
+    {
+      "title": "贸易局势紧张 中方临时取消两场本月欧中官员在京对话",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260611-%E8%B4%B8%E6%98%93%E5%B1%80%E5%8A%BF%E7%B4%A7%E5%BC%A0-%E4%B8%AD%E6%96%B9%E4%B8%B4%E6%97%B6%E5%8F%96%E6%B6%88%E4%B8%A4%E5%9C%BA%E6%9C%AC%E6%9C%88%E6%AC%A7%E4%B8%AD%E5%AE%98%E5%91%98%E5%9C%A8%E4%BA%AC%E5%AF%B9%E8%AF%9D",
+      "source": "法广中文",
+      "summary": "中国对欧盟出口飙升，中欧之间的贸易紧张关系日益加剧，中方本月突然取消了与欧盟的两场重要外交会晤。英国《金融时报》援引知情人士报导称，中国官员取消了在北京举行的两场对话——一场是关于数字问题的部长级会谈…",
+      "image": "https://s.rfi.fr/media/display/e74645da-61fb-11ee-b8df-005056bf30b7/w:1024/p:16x9/AP23268223768333.jpg",
+      "published_at": "2026-06-11 17:20",
+      "timestamp": 1781169641
+    },
+    {
+      "title": "香港籃球教練體罰親歷者：「全部人都覺得不妥，但你又可以怎麼樣？」",
+      "link": "https://www.bbc.com/zhongwen/articles/c621r56739no/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "日前有網絡影片顯示，一名籃球教練抓着學生的手掌摑其面部，圍觀學生和助教均無阻止，引發討論。事實上，香港早已立法禁止老師體罰學生。但在競技運動上，是怎樣的權力架構和空間，仍然默許體罰存在？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0abe/live/e3cb05c0-63c0-11f1-9ff9-5d58eb5d116f.jpg",
+      "published_at": "2026-06-11 16:45",
+      "timestamp": 1781167504
+    },
+    {
+      "title": "最前线｜坦途科技全球首款消费级水上飞行器首飞，拓展水陆空场景出行生态",
+      "link": "https://36kr.com/p/3848476414792709?f=rss",
+      "source": "36氪",
+      "summary": "文｜张子怡 编辑｜袁斯来 近期，智能户外出行品牌坦途科技在苏州发布了全球首款消费级载人水上飞行器WaveFly 5X，并完成首次公开飞行。随着该产品的亮相，坦途科技的硬件布局正式从陆地短交通延伸至水域…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_cb1df809f37444549fd582f4a2262773@5836910_oswg1161560oswg1053oswg495_img_png?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "published_at": "2026-06-11 15:53",
+      "timestamp": 1781164432
+    },
+    {
+      "title": "伊朗與美國難以維持停火的四大原因",
+      "link": "https://www.bbc.com/zhongwen/articles/c5yzxn14z3wo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "美國與伊朗4月初達成的停火協議，在新一波地區攻擊後嚴重動搖。特朗普與伊朗互放狠話，衝突升級。專家指出四大原因：伊朗認為停火未解決核心問題、以色列持續軍事行動、升級已成談判策略，以及美國影響力有限。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5920/live/b04ea7c0-64e1-11f1-bac9-d90357f227c3.jpg",
+      "published_at": "2026-06-11 14:51",
+      "timestamp": 1781160687
+    },
+    {
+      "title": "48元的良心日游，揭露了国产单机的最大困境 | 游戏风向标",
+      "link": "https://36kr.com/p/3848383082222849?f=rss",
+      "source": "36氪",
+      "summary": "文丨贝果树 编辑丨果脯 5月9日，日本独立游戏发行商MAGI发帖，表示《梦幻魔法公主》“受到了远远超出想象的热烈支持”。 彼时，这款游戏刚发售12天，销量超过了20万份。 或许对于销量动辄百万的大作来…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_3b8d6483b3a7498ca984e98c2032a2e0@6255070_oswg378633oswg1080oswg1526_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "published_at": "2026-06-11 14:51",
+      "timestamp": 1781160676
+    },
+    {
+      "title": "美加墨世界盃規模空前，卻因政治因素而代價高昂",
+      "link": "https://www.bbc.com/zhongwen/articles/cj3gm6884eyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "有一點似乎肯定：在賽場的精彩以外，這場規模空前的世界盃，可能會成為史上最具爭議的賽事之一。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ff85/live/b9e236b0-63d5-11f1-b1db-af71d47507d6.jpg",
+      "published_at": "2026-06-11 14:30",
+      "timestamp": 1781159444
+    },
+    {
+      "title": "印度洋海底發現大面積鯨墓地，可追溯至500多萬年前",
+      "link": "https://www.bbc.com/zhongwen/articles/c07y93jm020o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "印度洋東南部深約7公里處發現了一個長約1200公里的巨大鯨墓地。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a3e7/live/559dbf90-64f6-11f1-96e1-83394d865b23.jpg",
+      "published_at": "2026-06-11 13:29",
+      "timestamp": 1781155764
+    },
+    {
+      "title": "《火影忍者》：美國總統特朗普使用動漫角色引發日本輿論反彈",
+      "link": "https://www.bbc.com/zhongwen/articles/crelzy140yno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "特朗普（川普）用《火影忍者》鳴人、《寶可夢》等日本動漫角色宣傳，引發日本網友反彈。近兩萬人連署請願，批評違背角色精神與創作者價值。寶可夢公司已正式發聲。有人批評「別拿我們的英雄搞政治」，但同時也有聲音…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d9b/live/262a2000-6550-11f1-8546-8f19e4fe30f4.jpg",
+      "published_at": "2026-06-11 13:18",
+      "timestamp": 1781155098
+    },
+    {
+      "title": "球員大腦揭秘：「心流狀態」現代足球的致勝關鍵？",
+      "link": "https://www.bbc.com/zhongwen/articles/cx23nrx02jzo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "四年一度的全球足球盛事又來了，各國頂級球星在美加墨賽場上競逐世界盃。足球在球員腳邊電光火石來回的瞬間，你有想過他們的大腦怎麼運作嗎？在現代足球運動中，勝負差距愈來愈窄，頂尖球隊正轉向神經科學尋求贏球之…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac60/live/1edf23a0-64be-11f1-8e1d-bbbb1017d210.jpg",
+      "published_at": "2026-06-11 13:01",
+      "timestamp": 1781154070
+    },
+    {
+      "title": "Opendoor的印度出口,",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "source": "TechCrunch",
+      "summary": "印度成为全球最大的海湾合作委员会市场,",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/opendoor.jpg?resize=1200,800",
+      "published_at": "2026-06-11 12:02",
+      "timestamp": 1781150539
+    },
+    {
+      "title": "Anthropic的Dario Amodei只有一份直接报告,",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "source": "TechCrunch",
+      "summary": "如果创始人和其他商界领袖 还没有羡慕达里奥·阿莫代 他坐在...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
+      "published_at": "2026-06-11 11:53",
+      "timestamp": 1781149986
+    },
+    {
+      "title": "人人走路都“左倾”？",
+      "link": "https://cn.nytimes.com/science/20260611/humans-walking-veer-left-counterclockwise/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "你在走路时会不自觉向左偏转吗？一项新研究发现，不同人口群体、不同文化背景、不同实验条件下，无论惯用手是左还是右，人们都有一种逆时针方向移动的倾向。 Echeverría-Huarte et al.",
+      "image": "https://static01.nyt.com/images/2026/06/10/10SCI-WALKING-LEFT-02-tjzp-cover/10SCI-WALKING-LEFT-02-tjzp-cover-articleLarge.jpg",
+      "published_at": "2026-06-11 11:26",
+      "timestamp": 1781148378
+    },
+    {
+      "title": "爱泼斯坦档案如何令白宫陷入瘫痪",
+      "link": "https://cn.nytimes.com/usa/20260611/epstein-files-trump-white-house-takeaways/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "特朗普拒绝公布文件引发了一场危机，总统的高级顾问在白宫战情室进行了一系列会议，并引发了诸多冲突。时报调查发现，政府的最高决策层时常因爱泼斯坦档案陷入瘫痪。 Alex Wroblewski/Agence…",
+      "image": "https://static01.nyt.com/images/2026/06/21/magazine/21mag-adaptation1-08/21mag-adaptation1-08-articleLarge.jpg",
+      "published_at": "2026-06-11 11:18",
+      "timestamp": 1781147912
+    },
+    {
+      "title": "北爱尔兰爆发反移民暴力骚乱，一文详解事件原委",
+      "link": "https://cn.nytimes.com/world/20260611/belfast-attack-riots-what-happened/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "骚乱由一起残忍的持刀袭击事件引发。袭击嫌疑人的难民身份点燃了当地人长期酝酿的反移民情绪。极右翼人士呼吁民众走上街头，并声称英国应该驱逐数百万外国出生的人。 Peter Morrison/Associa…",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10nireland-wtk-01-ktgz/10nireland-wtk-01-ktgz-articleLarge.jpg",
+      "published_at": "2026-06-11 11:01",
+      "timestamp": 1781146885
+    },
+    {
+      "title": "浪往南走：今年盛夏，WAVES来到番禺",
+      "link": "https://36kr.com/p/3848188076381187?f=rss",
+      "source": "36氪",
+      "summary": "浪来了，你到不到？ WAVES是36氪每年夏天最重要的一场会。 但它不仅仅是一个“会”。 从2023年北京金海湖碧波岛的草坪，到2024年郎园Station的市集，到2025年良渚五千年的夜空下——W…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_0e103d4a145e4eeeb2f68b9ef803d7c5@6381723_oswg553734oswg900oswg480_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "published_at": "2026-06-11 10:59",
+      "timestamp": 1781146794
+    },
+    {
+      "title": "香港宏福苑大火追责：检方对七人和两家公司提出指控",
+      "link": "https://cn.nytimes.com/china/20260611/hong-kong-apartment-fire-charges/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "港府表示，警方与廉政公署经联合调查后，指控相关个人和公司涉嫌误杀、串谋诈骗、洗钱和逃税等25项罪名。警方已逮捕了数十名与这场火灾指控相关的人员。 Lam Yik Fei for The New Yor…",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/10hongkong-charges-lztw/10hongkong-charges-lztw-articleLarge.jpg",
+      "published_at": "2026-06-11 09:51",
+      "timestamp": 1781142700
+    },
+    {
+      "title": "特朗普称谈判“拖得太久”，美国对伊朗发动新一轮空袭",
+      "link": "https://cn.nytimes.com/world/20260611/heres-the-latest/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "在美国对伊朗发动新一轮空袭之前，特朗普抱怨伊朗领导层“谈判拖得太久”，威胁将继续对德黑兰施加军事压力。伊朗誓言回击，并宣布霍尔木兹海峡对所有船只关闭。 Doug Mills/The New York …",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/live-blog-20260610-iran-war-trump-us-header-fjmv/live-blog-20260610-iran-war-trump-us-header-fjmv-articleLarge.jpg",
+      "published_at": "2026-06-11 09:30",
+      "timestamp": 1781141451
+    },
+    {
+      "title": "36氪首发 | 创维独家投资数千万，这家企业将碳化硅切割损耗降至40微米内",
+      "link": "https://36kr.com/p/3848094835217666?f=rss",
+      "source": "36氪",
+      "summary": "作者丨欧雪 编辑丨袁斯来 硬氪获悉，高端工业激光装备制造商——中微精仪科技（深圳）有限公司（下称“中微精仪”）近期已完成数千万元天使+轮融资，由创维投资独家投资。资金将主要用于市场拓展、产能提升及新产…",
+      "image": "https://img.36krcdn.com/hsossms/20260611/v2_7e868e926c124d119ee28af4cb97a1dd@6221844_oswg48325oswg667oswg500_img_000?x-oss-process=image/format,jpg/interlace,1",
+      "published_at": "2026-06-11 09:24",
+      "timestamp": 1781141081
+    },
+    {
+      "title": "亿万富翁的财富正以史上最快速度增长",
+      "link": "https://cn.nytimes.com/business/20260611/billionaires-musk-gabriel-zucman/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "亿万富翁财富迅猛增长的一个重要原因是人工智能热潮。而与此同时，工人从国家经济创造的财富中获得的份额却越来越小。美国近年来的税法修改也使有钱人受益更多。 Nicolas Ortega",
+      "image": "https://static01.nyt.com/images/2026/06/10/business/00global-billionaires/00global-billionaires-videoLarge.jpg",
+      "published_at": "2026-06-11 08:32",
+      "timestamp": 1781137934
+    },
+    {
+      "title": "一部描繪潮汕華僑的中國電影《給阿嬤的情書》為何大賣",
+      "link": "https://www.bbc.com/zhongwen/articles/cpv3zj4lepvo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "一部投資僅1400萬人民幣的中國潮汕方言電影《給阿嬤的情書》，以素人演員與樸實敘事成為今年大陸票房黑馬，累計已突破16億。故事聚焦潮汕阿嬤半生守候在海外的丈夫，孫子因債務遠赴泰國尋親，意外揭開跨越70…",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5115/live/db707b90-6496-11f1-b1db-af71d47507d6.jpg",
+      "published_at": "2026-06-11 08:20",
+      "timestamp": 1781137222
+    }
+  ]
+}
