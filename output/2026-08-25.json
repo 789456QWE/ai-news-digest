@@ -1,0 +1,1116 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25 07:19:53",
+  "sources": [
+    "BBC 中文",
+    "FT 中文网",
+    "Hacker News",
+    "Odaily 星球日报",
+    "TechCrunch",
+    "The Verge",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "Oura正在看着9月的IPO,",
+      "link": "https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/",
+      "source": "TechCrunch",
+      "summary": "我们都知道会来的 不过,预期的估值可能会出乎意料。",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/Oura_Ring_5_Product-1_Collection.png?resize=1200,800",
+      "published_at": "2026-08-25 07:05",
+      "timestamp": 1787612744
+    },
+    {
+      "title": "美国对伊朗的制裁是如何通过全球市场和消费者而波及的",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "新制裁袭击了伊朗; 航空、科技和航运部门,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ca0bf-1787601087.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 06:46",
+      "timestamp": 1787611562
+    },
+    {
+      "title": "美国最高法院与特朗普政府的邮件投票",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "邮件投票长期以来一直是美国总统唐纳德·特朗普最喜欢的目标.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a43ed6e-1782836590.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 06:40",
+      "timestamp": 1787611204
+    },
+    {
+      "title": "美国将叙利亚从恐怖主义国家赞助者名单上删除",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "华盛顿还撤销了原先由总统艾哈迈德·沙雷阿领导的HTS的称号,成为 039;.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/getty_6a4eb0a820-1783541928.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 06:32",
+      "timestamp": 1787610746
+    },
+    {
+      "title": "单笔盈利394万美元，某交易员持有2783万美元BTC多单60天",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512456",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Onchain Lens 监测，某交易员在 HyperliquidX 持有价值 2783 万美元的比特币多单 60 天，开仓价为 59253 美元，平仓价为 79883 美…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512456?w=600&h=338",
+      "published_at": "2026-08-25 06:30",
+      "timestamp": 1787610648
+    },
+    {
+      "title": "Jeffries-Kushner会议引发了美国中期争议中的猜测。",
+      "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Jeffries和Kushner之间的私人会谈为美国有争议的中期战役的讨论提供了动力。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c930d4358a-1787597581.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 06:19",
+      "timestamp": 1787609948
+    },
+    {
+      "title": "iCloud+ 图像 隐藏我的电子邮件地址将保留在 icloud.com 上",
+      "link": "https://developer.apple.com/news/?id=1ptvdtcm",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://developer.apple.com/news/?id=1ptvdtcm 评论 URL:https://news.ycombinator.co...",
+      "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
+      "published_at": "2026-08-25 06:13",
+      "timestamp": 1787609620
+    },
+    {
+      "title": "月亮",
+      "link": "https://ciechanow.ski/moon/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://ciechanow.ski/moon/ 互联网档案馆的存檔,存档日期2013-12-22. 评论 URL:https://news.ycombinator.com/robject?id=49426466.......",
+      "image": "https://ciechanow.ski/images/og/moon.png",
+      "published_at": "2026-08-25 06:06",
+      "timestamp": 1787609162
+    },
+    {
+      "title": "美国之音中文广播 (2026年8月25日)",
+      "link": "https://www.voachinese.com/a/8185047.html",
+      "source": "美国之音中文",
+      "summary": "今天的重点新闻内容包括：1)美对伊朗发动“经济D日” 财长贝森特警告支持德黑兰国家 2)中国国家主席习近平即将访美之际，特朗普总统在白宫玫瑰园谈到美中元首峰会的筹备工作 3)台湾总统赖清德吁秉持823…",
+      "image": "https://gdb.voanews.com/34394dd8-c79d-482d-820c-08decae8682a_w800_h450.jpg",
+      "published_at": "2026-08-25 06:00",
+      "timestamp": 1787608804
+    },
+    {
+      "title": "VOA今日焦点 (2026年8月25日) 美对伊发动“经济D日” 瞄准德黑兰五大经济命脉",
+      "link": "https://www.voachinese.com/a/voatoday-20260824/8189906.html",
+      "source": "美国之音中文",
+      "summary": "2026年8月25日《VOA今日焦点》重点新闻内容包括：美对伊朗发动“经济D日” 财长贝森特警告支持德黑兰国家；中国国家主席习近平即将访美之际，特朗普总统在白宫玫瑰园谈美中元首峰会筹备工作；传美方拟在…",
+      "image": "https://gdb.voanews.com/8bca2525-c0ad-4e25-9c63-acaacbd55f25_tv_b1_w800_h450.jpg",
+      "published_at": "2026-08-25 05:49",
+      "timestamp": 1787608188
+    },
+    {
+      "title": "美国士兵被指利用非公开信息在Polymarket获利超40万美元，CFTC介入刑事案遭反对",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512452",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Gannon Ken Van Dyke 是一名美国士兵，被指利用非公开信息在预测市场平台 Polymarket 交易与委内瑞拉总统 Nicolás Maduro 1 月被罢免相…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512452?w=600&h=338",
+      "published_at": "2026-08-25 05:43",
+      "timestamp": 1787607799
+    },
+    {
+      "title": "英国新首相到访乌克兰 英法合力在乌境内打造“暴风阴影”",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260824-%E8%8B%B1%E5%9B%BD%E6%96%B0%E9%A6%96%E7%9B%B8%E5%88%B0%E8%AE%BF%E4%B9%8C%E5%85%8B%E5%85%B0-%E8%8B%B1%E6%B3%95%E5%90%88%E5%8A%9B%E5%9C%A8%E4%B9%8C%E5%A2%83%E5%86%85%E6%89%93%E9%80%A0-%E6%9A%B4%E9%A3%8E%E9%98%B4%E5%BD%B1",
+      "source": "法广中文",
+      "summary": "英国首相安迪·伯纳姆（Andy Burnham）周一抵达乌克兰首都基辅，展开就任首相后的首次海外访问。伯纳姆与乌克兰总统泽连斯基会面，并宣布英国支持乌克兰扩大远程导弹国产化生产。",
+      "image": "https://s.rfi.fr/media/display/14a1434e-9fd0-11f1-9969-005056bfb2b6/w:1024/p:16x9/2026-08-24T150551Z-239487765-RC235NAR98A4-RTRMADP-3-UKRAINE-CRISIS-COALITION-BURNHAM.jpg",
+      "published_at": "2026-08-25 05:40",
+      "timestamp": 1787607649
+    },
+    {
+      "title": "美国公众对伊朗战争的支持以创纪录的低水平下降为特朗普的批准:Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "共和党支持的下降,气价的上涨,以及对长期冲突的担心,促使后卫的下降......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8cac1f388a-1787603999.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 05:35",
+      "timestamp": 1787607310
+    },
+    {
+      "title": "巴勒斯坦偶像艺术家斯利曼·曼苏尔逝世 享年79岁",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "巴勒斯坦艺术家斯利曼·曼苏尔(Sliman Mansour)的作品成为了斗争和反抗的象征,他去世了...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787607130.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 05:32",
+      "timestamp": 1787607144
+    },
+    {
+      "title": "特朗普在Blockbuster IPO的两周后买下了SpaceX股份",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "source": "TechCrunch",
+      "summary": "总统买的股票在150美元左右 SpaceX星期一完成交易...",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217852528.jpg?resize=1200,800",
+      "published_at": "2026-08-25 05:24",
+      "timestamp": 1787606657
+    },
+    {
+      "title": "喀麦隆总统为女足非洲夺冠授勋",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260824-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%96%80%E9%BA%A6%E9%9A%86%E6%80%BB%E7%BB%9F%E4%B8%BA%E5%A5%B3%E8%B6%B3%E9%9D%9E%E6%B4%B2%E5%A4%BA%E5%86%A0%E6%8E%88%E5%8B%8B",
+      "source": "法广中文",
+      "summary": "非洲国家喀麦隆总统保罗·比亚（président camerounais Paul Biya）在离境近两个半月后于2026年08月20日上星期四从日内瓦（Genève）飞回雅温得（Yaoundé）。现…",
+      "image": "https://s.rfi.fr/media/display/aed84340-9ffd-11f1-9e07-005056bfb2b6/w:1024/p:16x9/2026-08-24-l-FMM-archive-Afrique-Cameroun-les-lionnes-indomptables-14e-CAN-f%C3%A9minine-archive-RFI.jpg",
+      "published_at": "2026-08-25 05:12",
+      "timestamp": 1787605972
+    },
+    {
+      "title": "加沙流离失所的巴勒斯坦人面临以色列加紧打击",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinians-in-gaza-face-intensifying-israeli-strikes?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列袭击了在Deir al-Balah收容流离失所的巴勒斯坦人的临时帐篷,打死一人。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787605914.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 05:12",
+      "timestamp": 1787605926
+    },
+    {
+      "title": "中国互联网的一个角落是坚持唐朝永远不存在",
+      "link": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-hexted-hoax-intl-hnk 互联网档案馆的存檔,存档日期2013-12-21. 来...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.cnn.com%2F2026%2F08%2F19%2Fstyle%2Fchina-tang-dynasty-never-existed-hoax-intl-hnk?w=600&h=338",
+      "published_at": "2026-08-25 05:03",
+      "timestamp": 1787605386
+    },
+    {
+      "title": "Vintage 人工智能:在它获得尴尬之前",
+      "link": "https://blog.archive.org/2026/08/16/vintage-artificial-intelligence-before-it-got-awkward/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://blog.archive.org/2026/08/16/vintage-artifical-intelligence- prefore-it-got-awkwa. [永久失效連結] 互联网档案馆的存檔,存档日期2013-12-02.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fblog.archive.org%2F2026%2F08%2F16%2Fvintage-artificial-intelligence-before-it-got-awkward%2F?w=600&h=338",
+      "published_at": "2026-08-25 05:01",
+      "timestamp": 1787605298
+    },
+    {
+      "title": "《VOA今日焦点》音频",
+      "link": "https://www.voachinese.com/a/8185053.html",
+      "source": "美国之音中文",
+      "summary": "2026年8月25日《VOA今日焦点》重点新闻内容包括：美对伊朗发动“经济D日” 财长贝森特警告支持德黑兰国家；中国国家主席习近平即将访美之际，特朗普总统在白宫玫瑰园谈美中元首峰会筹备工作；传美方拟在…",
+      "image": "https://gdb.voanews.com/32464b9a-e6c8-4a59-a279-08def2b10d93_w800_h450.jpg",
+      "published_at": "2026-08-25 05:00",
+      "timestamp": 1787605200
+    },
+    {
+      "title": "贝森特：美对伊朗正发动全面经济攻势",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E8%B4%9D%E6%A3%AE%E7%89%B9-%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%8F%91%E5%8A%A8%E5%85%A8%E9%9D%A2%E7%BB%8F%E6%B5%8E%E6%94%BB%E5%8A%BF",
+      "source": "法广中文",
+      "summary": "伊朗在美国宣布了经济攻势后表示，该国制定了应对美国制裁的“两年计划”；伊朗回应说，制裁之后美国将“再次失败”。伊朗对外界表示，美国将对黄金、技术、航空和海运实施新的制裁。",
+      "image": "https://s.rfi.fr/media/display/2990f8a2-5a5d-11f1-8cb4-005056a97e36/w:1024/p:16x9/trump-iran.jpg",
+      "published_at": "2026-08-25 04:55",
+      "timestamp": 1787604924
+    },
+    {
+      "title": "乌克兰总统受到国内政治压力背后,",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Zelenskyy拒绝因战时选举而被解雇的部长的电话。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787603059.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 04:54",
+      "timestamp": 1787604878
+    },
+    {
+      "title": "台湾检方起诉9名涉及违法出口高端AI服务器到中国的嫌疑人",
+      "link": "https://www.voachinese.com/a/nine-indicted-by-taiwan-for-illegally-export-of-nvidia-ai-servers-to-china-20260824/8189881.html",
+      "source": "美国之音中文",
+      "summary": "台湾检察机关经过多个月调查后，星期一(8月24日)对9名涉及违法将高端人工智能服务器销往中国的犯罪嫌疑人提起诉讼，其中包括美国英伟达(Nvidia)及超微电脑(Super Micro Computer…",
+      "image": "https://gdb.voanews.com/52b10505-2949-4c32-ca49-08decaecd3b3_w800_h450.jpg",
+      "published_at": "2026-08-25 04:50",
+      "timestamp": 1787604615
+    },
+    {
+      "title": "伊朗：美国威胁德黑兰的盟友",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260824-%E4%BC%8A%E6%9C%97-%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E5%BE%B7%E9%BB%91%E5%85%B0%E7%9A%84%E7%9B%9F%E5%8F%8B",
+      "source": "法广中文",
+      "summary": "8月24日，美国财政部长贝森特召开新闻发布会。贝森特表示，美国总统特朗普正致电各国领导人，明确要求其停止与伊朗的往来。美国财政部长贝森特23日晚在社交媒体上说，美国同伊朗的战事正进入“终局”，扬言要切…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.rfi.fr%2Fcn%2F%25E7%25BE%258E%25E6%25B4%25B2%2F20260824-%25E4%25BC%258A%25E6%259C%2597-%25E7%25BE%258E%25E5%259B%25BD%25E5%25A8%2581%25E8%2583%2581%25E5%25BE%25B7%25E9%25BB%2591%25E5%2585%25B0%25E7%259A%2584%25E7%259B%259F%25E5%258F%258B?w=600&h=338",
+      "published_at": "2026-08-25 04:49",
+      "timestamp": 1787604553
+    },
+    {
+      "title": "影片:伊朗对美国经济D日制裁的反应",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "伊朗经济部长Ali Madani-Zadeh回应美国宣布新经济p.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787604495.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 04:48",
+      "timestamp": 1787604501
+    },
+    {
+      "title": "停火监测团抵达刚果民主共和国",
+      "link": "https://www.aljazeera.com/news/2026/8/24/ceasefire-monitoring-mission-arrives-in-democratic-republic-of-congo?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "尽管达成了停火协定,但矿藏丰富的地区战斗仍在继续。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-05-13T143803Z_1807338249_RC2O7LA8KFVJ_RTRMADP_3_CONGO-SECURITY-1787462671.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 04:48",
+      "timestamp": 1787604489
+    },
+    {
+      "title": "在南苏丹的埋伏使维持和平部队丧生",
+      "link": "https://www.aljazeera.com/news/2026/8/24/ambush-in-south-sudan-kills-peacekeeping-troops?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "武装人员又打伤了三名维和人员,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c941bcc3a1-1787597851.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 04:47",
+      "timestamp": 1787604444
+    },
+    {
+      "title": "流离失所的巴勒斯坦人建造泥地,因为帐篷几乎没有救济",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一名流离失所的巴勒斯坦人建造了一座传统的泥砖房屋,作为帐篷的替代。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-21.42.02-1787604259.png?resize=1200%2C675",
+      "published_at": "2026-08-25 04:45",
+      "timestamp": 1787604351
+    },
+    {
+      "title": "Zillow和Redfin解决了公平贸易委员会反托拉斯案",
+      "link": "https://techcrunch.com/2026/08/24/zillow-and-redfin-settle-ftc-antitrust-case/",
+      "source": "TechCrunch",
+      "summary": "Zillow和Redfin与FTC达成和解,要求Redfin重新进入出租代理. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Zillow-website-1.jpg?w=1200",
+      "published_at": "2026-08-25 04:45",
+      "timestamp": 1787604333
+    },
+    {
+      "title": "沙特60亿投资   搞活地区经济",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E6%B2%99%E7%89%B960%E4%BA%BF%E6%8A%95%E8%B5%84-%E6%90%9E%E6%B4%BB%E5%9C%B0%E5%8C%BA%E7%BB%8F%E6%B5%8E",
+      "source": "法广中文",
+      "summary": "巴黎以北的瓦勒德瓦兹（Val d'Oise）成为24日新闻的焦点。沙特在这个地区投了巨资将法国曾经规模最大的老牌废弃主题乐园改造为日系漫画 IP龙珠主题游乐园区。",
+      "image": "https://s.rfi.fr/media/display/527c94e4-9ffc-11f1-b8f3-005056a90284/w:1024/p:16x9/n240322001-1.jpg",
+      "published_at": "2026-08-25 04:42",
+      "timestamp": 1787604156
+    },
+    {
+      "title": "达飞集团和阿尔斯通与沙特签署重大基础设施合作协议",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E8%BE%BE%E9%A3%9E%E9%9B%86%E5%9B%A2%E5%92%8C%E9%98%BF%E5%B0%94%E6%96%AF%E9%80%9A%E4%B8%8E%E6%B2%99%E7%89%B9%E7%AD%BE%E7%BD%B2%E9%87%8D%E5%A4%A7%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD%E5%90%88%E4%BD%9C%E5%8D%8F%E8%AE%AE",
+      "source": "法广中文",
+      "summary": "沙特阿拉伯王储穆罕默德·本·萨勒曼周一访问巴黎期间，沙特阿拉伯与法国阿尔斯通和达飞集团签署了公共交通和海运领域的合同，总金额近10亿欧元。爱丽舍宫宣布了这一消息。",
+      "image": "https://s.rfi.fr/media/display/7567f2f6-9ffb-11f1-82a8-005056bf30b7/w:1024/p:16x9/field-media-image-3048886-06c4915a255ac5c79b039b1c49682814f5c0fa43.jpg",
+      "published_at": "2026-08-25 04:36",
+      "timestamp": 1787603783
+    },
+    {
+      "title": "周一为制裁伊朗的“诺曼底登陆日” 美国财长宣布“经济弃儿行动”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260824-%E5%91%A8%E4%B8%80%E4%B8%BA%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E7%9A%84-%E8%AF%BA%E6%9B%BC%E5%BA%95%E7%99%BB%E9%99%86%E6%97%A5-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%AE%A3%E5%B8%83-%E7%BB%8F%E6%B5%8E%E5%BC%83%E5%84%BF%E8%A1%8C%E5%8A%A8",
+      "source": "法广中文",
+      "summary": "周一（8月24日）是美国宣称经济制裁伊朗的“诺曼底登陆日”，美国财政部长斯科特‧贝森特（Scott Bessent）在新闻发布会上宣布：扩大对伊朗的经济制裁，包括部分二级制裁。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.rfi.fr%2Fcn%2F%25E4%25B8%2593%25E6%25A0%258F%25E6%25A3%2580%25E7%25B4%25A2%2F%25E8%25A6%2581%25E9%2597%25BB%25E5%2588%2586%25E6%259E%2590%2F20260824-%25E5%2591%25A8%25E4%25B8%2580%25E4%25B8%25BA%25E5%2588%25B6%25E8%25A3%2581%25E4%25BC%258A%25E6%259C%2597%25E7%259A%2584-%25E8%25AF%25BA%25E6%259B%25BC%25E5%25BA%2595%25E7%2599%25BB%25E9%2599%2586%25E6%2597%25A5-%25E7%25BE%258E%25E5%259B%25BD%25E8%25B4%25A2%25E9%2595%25BF%25E5%25AE%25A3%25E5%25B8%2583-%25E7%25BB%258F%25E6%25B5%258E%25E5%25BC%2583%25E5%2584%25BF%25E8%25A1%258C%25E5%258A%25A8?w=600&h=338",
+      "published_at": "2026-08-25 04:34",
+      "timestamp": 1787603640
+    },
+    {
+      "title": "哥伦比亚遣返非法移民",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260824-%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E9%81%A3%E8%BF%94%E9%9D%9E%E6%B3%95%E7%A7%BB%E6%B0%91",
+      "source": "法广中文",
+      "summary": "哥伦比亚总统阿韦拉多·德拉埃斯普里利亚（Abelardo de la Espriella）已下令移民局和警方本周开展联合行动，遣返非法移民。",
+      "image": "https://s.rfi.fr/media/display/bc5e64d4-9ffa-11f1-b5a3-005056a97e36/w:1024/p:16x9/images-271.jpg",
+      "published_at": "2026-08-25 04:31",
+      "timestamp": 1787603500
+    },
+    {
+      "title": "美国财长周一宣布扩大对伊朗经济制裁的措施",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-%E7%BE%8E%E5%9B%BD%E8%B4%A2%E9%95%BF%E5%91%A8%E4%B8%80%E5%AE%A3%E5%B8%83%E6%89%A9%E5%A4%A7%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%BB%8F%E6%B5%8E%E5%88%B6%E8%A3%81%E7%9A%84%E6%8E%AA%E6%96%BD",
+      "source": "法广中文",
+      "summary": "周一（8月24日）是美国宣称经济制裁伊朗的“诺曼底登陆日”，美国财政部长斯科特‧贝森特（Scott Bessent）在新闻发布会上宣布：扩大对伊朗的经济制裁，包括部分二级制裁。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.rfi.fr%2Fcn%2F%25E4%25B8%25AD%25E4%25B8%259C%2F20260824-%25E7%25BE%258E%25E5%259B%25BD%25E8%25B4%25A2%25E9%2595%25BF%25E5%2591%25A8%25E4%25B8%2580%25E5%25AE%25A3%25E5%25B8%2583%25E6%2589%25A9%25E5%25A4%25A7%25E5%25AF%25B9%25E4%25BC%258A%25E6%259C%2597%25E7%25BB%258F%25E6%25B5%258E%25E5%2588%25B6%25E8%25A3%2581%25E7%259A%2584%25E6%258E%25AA%25E6%2596%25BD?w=600&h=338",
+      "published_at": "2026-08-25 04:24",
+      "timestamp": 1787603043
+    },
+    {
+      "title": "海地的暴力爆发,帮派袭击造成30人死亡",
+      "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "岛国在努力在十多年内举行第一次选举时,正面临着暴力。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26132758850540-1778655803.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 04:23",
+      "timestamp": 1787603019
+    },
+    {
+      "title": "60 亿投资    数千个工作岗位   沙特在巴黎近郊打造《龙珠》主题乐园",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260824-60-%E4%BA%BF%E6%8A%95%E8%B5%84-%E6%95%B0%E5%8D%83%E4%B8%AA%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D-%E6%B2%99%E7%89%B9%E5%9C%A8%E5%B7%B4%E9%BB%8E%E8%BF%91%E9%83%8A%E6%89%93%E9%80%A0-%E9%BE%99%E7%8F%A0-%E4%B8%BB%E9%A2%98%E4%B9%90%E5%9B%AD",
+      "source": "法广中文",
+      "summary": "法国总统马克龙与沙特王储达成共识，将在巴黎周边投资 60 亿欧元建设三个漫画主题公园项目，其中有《龙珠》主题乐园；另外两个还没有确认主题。法国总统马克龙表示：：沙特阿拉伯将投资60亿欧元在瓦勒德瓦兹省…",
+      "image": "https://s.rfi.fr/media/display/f1e21de0-9fe0-11f1-867d-005056bfb2b6/w:1024/p:16x9/000-C6E96JE.jpg",
+      "published_at": "2026-08-25 04:21",
+      "timestamp": 1787602918
+    },
+    {
+      "title": "在TechCrunch Disrupt 2026 上显示您的启动, 并预订一个展台, 此时还有空间",
+      "link": "https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/",
+      "source": "TechCrunch",
+      "summary": "尽量让Disrupt的人群 潜在投资者和合作伙伴 通过展示你的启动fro...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/54890573133_6dd8482235_o.jpg?resize=1200,800",
+      "published_at": "2026-08-25 04:16",
+      "timestamp": 1787602594
+    },
+    {
+      "title": "Bitwise明日将推出专注链上原生用户的全新产品类型",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512445",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Bitwise CEO 在 X 平台发文表示，Bitwise 将于明日推出一种首创的全新产品类型，专注服务链上原生用户。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512445?w=600&h=338",
+      "published_at": "2026-08-25 04:14",
+      "timestamp": 1787602451
+    },
+    {
+      "title": "前利弗普尔明星法宾霍在特拉布宗斯波与穆罕默德·萨拉赫团聚",
+      "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "法宾霍于2023年加盟沙特阿拉伯 {039};s Al-Ittihad,他在五年后在那里获得联赛冠军. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a8c96a722-1787598503.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 04:03",
+      "timestamp": 1787601828
+    },
+    {
+      "title": "华盛顿邮报下令在查理·柯克之后 重新雇用凯伦·阿提亚",
+      "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Karen Attiah因关于Charlie Kirk被暗杀的帖子而被开除,《邮报》说这违反了《邮报》......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/ap_6a8c8b87004f4-1787595655.jpg?resize=1200%2C630",
+      "published_at": "2026-08-25 04:00",
+      "timestamp": 1787601618
+    },
+    {
+      "title": "阿拉巴马州启动调查OpenAI对哈鬼脸的入侵",
+      "link": "https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/",
+      "source": "TechCrunch",
+      "summary": "在OpenAI发布数周后,",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273246979.jpg?resize=1200,800",
+      "published_at": "2026-08-25 03:58",
+      "timestamp": 1787601497
+    },
+    {
+      "title": "Sui上线Squid Mode，AI代理可在无需私钥情况下使用钱包",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512443",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Sui 在 X 平台发文表示，可在无需向 AI 代理提供私钥的情况下为其提供钱包。Squid Mode 在代理之外执行策略，并将每次签名拆分至相互独立的验证者，不存在单点故障。…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512443?w=600&h=338",
+      "published_at": "2026-08-25 03:55",
+      "timestamp": 1787601310
+    },
+    {
+      "title": "亚马逊将硬件价格上涨60%,",
+      "link": "https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/",
+      "source": "TechCrunch",
+      "summary": "亚马逊表示,",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/09/echo-family-1.png?resize=1200,675",
+      "published_at": "2026-08-25 03:54",
+      "timestamp": 1787601290
+    },
+    {
+      "title": "Replit的首席执行官兼共同创始人Amjad Masad 加入了TechCrunch Disrupt 2026的Disrupt阶段.",
+      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "summary": "在TechCrunch Disrupt 2026中,雷普利特CEO阿姆贾德·马萨德将分享他对Progr未来的看法. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
+      "published_at": "2026-08-25 03:54",
+      "timestamp": 1787601259
+    },
+    {
+      "title": "3D打印枪的猫鸣游戏已经开始了",
+      "link": "https://www.theverge.com/tech/983244/3d-printed-guns-hashes-hochul",
+      "source": "The Verge",
+      "summary": "世界上第一支3D打印枪的创造者声称他开发了一种挫败政府人的方法. .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268706_3D-printed_gun_scanning_CVirginia20.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-25 03:50",
+      "timestamp": 1787601000
+    },
+    {
+      "title": "墨西哥的Sheinbaum谴责州长在美国毒品指控下回国。",
+      "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "谢因鲍姆总统批评罗沙总督,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8c7ba5e6e0-1787591589.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 03:46",
+      "timestamp": 1787600802
+    },
+    {
+      "title": "也门Houthis报告袭击红海沙特油轮",
+      "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "沙特航运公司Bahri确认其船只被击中,所有船员都安全。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8c88b2-1787594930.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 03:44",
+      "timestamp": 1787600663
+    },
+    {
+      "title": "现在申请在 TechCrunch Disrupt 2026 主办会外活动",
+      "link": "https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "summary": "在9月4日之前申请成为TechCrunch Disrupt社区的一部分,通过托管自己的Side E...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/55351251811_689b675dfe_k.jpg?resize=1200,800",
+      "published_at": "2026-08-25 03:44",
+      "timestamp": 1787600653
+    },
+    {
+      "title": "bowen1476累计亏损456万美元，再开40倍杠杆2300万美元比特币空单",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512441",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 链上分析师追踪的钱包 bowen1476 于 8 月 24 日在 5 天内第 15 次开立比特币空单，本次以 40 倍杠杆做空 300 枚比特币，名义价值约 2300 万美元。…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512441?w=600&h=338",
+      "published_at": "2026-08-25 03:34",
+      "timestamp": 1787600056
+    },
+    {
+      "title": "Bitari Inc.拟以每股7美元出售430万股，筹资3000万美元并计划IPO登陆纳斯达克",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512439",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Bitcoin News 在 X 平台发文表示，Bitcoin 矿企 Bitari Inc.拟以每股 7 美元出售 430 万股，筹资 3000 万美元，并计划进行 IPO 及…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512439?w=600&h=338",
+      "published_at": "2026-08-25 03:32",
+      "timestamp": 1787599920
+    },
+    {
+      "title": "视频:以色列袭击加沙的海水淡化厂和清真寺",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列袭击了加沙一个关键的海水淡化厂和一座清真寺,因为它加强了Attac...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787599205.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 03:21",
+      "timestamp": 1787599261
+    },
+    {
+      "title": "海洋最高温度记录",
+      "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.bbc.com/news/articles/c62m4gpnp78o 评论 URL:https://news.ycombinator.c.",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "published_at": "2026-08-25 03:19",
+      "timestamp": 1787599148
+    },
+    {
+      "title": "以色列的限制造成被占领西岸燃料短缺",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列的限制正在干扰整个被占领西岸的燃料供应。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-20.12.03-1787598970.png?resize=1200%2C630",
+      "published_at": "2026-08-25 03:18",
+      "timestamp": 1787599080
+    },
+    {
+      "title": "Coinbase团队在Slack接入x402，代理可自动购买微支付服务并返回答案",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512438",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Brian Armstrong 在 X 平台发文表示，其团队与 x402 及@CoinbaseDev 在 Slack 中构建了一项功能：用户可在 Slack 中向代理提问；如果…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512438?w=600&h=338",
+      "published_at": "2026-08-25 03:13",
+      "timestamp": 1787598799
+    },
+    {
+      "title": "为何「波格拉姆」最好地描述被占领西岸的情况?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列定居者在被占领的西岸发动攻击,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787598614.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 03:09",
+      "timestamp": 1787598585
+    },
+    {
+      "title": "LLMS可以通过利用推论引擎控制主机",
+      "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://boydkane.com/essays/llms-could-control-他们的宿主-机器-by-exploiting-infere.",
+      "image": "https://boydkane.com/static/og-image.png",
+      "published_at": "2026-08-25 03:03",
+      "timestamp": 1787598186
+    },
+    {
+      "title": "以色列威胁要攻击加沙的儿童风筝",
+      "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列威胁要加紧攻击,迫使加沙儿童因风筝而流离失所。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/image-1787598046.jpg?resize=1560%2C1080&amp;quality=80",
+      "published_at": "2026-08-25 03:00",
+      "timestamp": 1787598055
+    },
+    {
+      "title": "特朗普政府提议对H-1B签证申请收取10.3万美元费用",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260824-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%8F%90%E8%AE%AE%E5%AF%B9h-1b%E7%AD%BE%E8%AF%81%E7%94%B3%E8%AF%B7%E6%94%B6%E5%8F%9610-3%E4%B8%87%E7%BE%8E%E5%85%83%E8%B4%B9%E7%94%A8",
+      "source": "法广中文",
+      "summary": "美国国土安全部（DHS）周一提出新规，计划把所有受年度名额限制的H-1B工作签证申请费，提高至每件10万3265美元，且这笔费用将在提交申请时缴交，并加在现有各项H-1B费用之上。",
+      "image": "https://s.rfi.fr/media/display/f3dab75c-1ba1-11f0-99e4-005056a90284/w:1024/p:16x9/AP19079731069754.jpg",
+      "published_at": "2026-08-25 02:49",
+      "timestamp": 1787597357
+    },
+    {
+      "title": "SATA预计今日筹资足以购买超130枚比特币，距交易结束还剩90分钟",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512436",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 BitcoinTreasuries.NET 发文称，Strive 旗下 SATA 预计今日筹资金额足以购买超过 130 枚比特币，距离交易结束还剩 90 分钟。SATA 自回归…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512436?w=600&h=338",
+      "published_at": "2026-08-25 02:46",
+      "timestamp": 1787597190
+    },
+    {
+      "title": "特朗普政府试图将超过10万美元的H-1B收费正规化.",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "新的提案将收取103 265美元的USQQQ039;s H-1B签证,并成为永久的临时规则......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8c6d008b28-1787587840.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 02:46",
+      "timestamp": 1787597169
+    },
+    {
+      "title": "从文本日志中删除了所有计数器、答复、后续/后续、时间戳",
+      "link": "https://textlog.cc/post/2059",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://textlog.cc/post/2059 评论 URL:https://news.ycombinator.com/items?id=4942416.",
+      "image": "https://textlog.cc/post/2059/og.png?v=8",
+      "published_at": "2026-08-25 02:45",
+      "timestamp": 1787597143
+    },
+    {
+      "title": "愤怒、焦虑和焦虑",
+      "link": "https://lucumr.pocoo.org/2026/8/24/anger-anxiety-agency/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://lucumr.poco.org/2026/8/24/anger-anxiety-gency/ 评论 URL:https://news.yco.",
+      "image": "https://lucumr.pocoo.org/social/2026-08-24-anger-anxiety-agency-social.png",
+      "published_at": "2026-08-25 02:37",
+      "timestamp": 1787596644
+    },
+    {
+      "title": "在1.5 MB 二进制中显示 HN: Kern – 容器和资源运行时间, 无守护进程",
+      "link": "https://github.com/getkern/kern",
+      "source": "Hacker News",
+      "summary": "我建立kern是因为我需要一个快速,零守护工具来设定CPU/RAM限制和运行孤立的任务. .",
+      "image": "https://opengraph.githubassets.com/09ad5e628dd1b117688d3762153f28259063183dbd8ff1566f12387c824a6ba4/getkern/kern",
+      "published_at": "2026-08-25 02:24",
+      "timestamp": 1787595899
+    },
+    {
+      "title": "挪威计划在欧盟能源关切中进一步发展北极钻井",
+      "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "欧盟审查对禁止在北极进行新钻探的支持,因为战争影响能源安全。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/epa_6a8c6a966fee-1787587222.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 02:22",
+      "timestamp": 1787595738
+    },
+    {
+      "title": "什么是 Syslog 服务器?",
+      "link": "https://blog.greencloudvps.com/what-is-a-syslog-server.php",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://blog.greencloudvps.com/ What-is-a-syslog-server.php (中文(简体) ). 评论 URL:https://news.y...",
+      "image": "https://blog.greencloudvps.com/wp-content/uploads/2026/07/syslog-server-1.jpg",
+      "published_at": "2026-08-25 02:15",
+      "timestamp": 1787595350
+    },
+    {
+      "title": "美国财政部长：协助伊朗洗钱的实体将被切断美元体系联系，五大领域遭新制裁",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512432",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Bitcoin News 在 X 平台发文表示，“时钟已经开始计时”，美国财政部长 Scott Bessent 将针对与伊朗进行比特币交易者采取措施。Scott Bessent…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512432?w=600&h=338",
+      "published_at": "2026-08-25 02:14",
+      "timestamp": 1787595250
+    },
+    {
+      "title": "Instinct强大的AI助手正在提出隐私和安全问题。",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "source": "TechCrunch",
+      "summary": "早期的测试者在胡言乱语,",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+      "published_at": "2026-08-25 02:03",
+      "timestamp": 1787594635
+    },
+    {
+      "title": "绑架者发布视频,显示数百人从尼日利亚清真寺被绑架",
+      "link": "https://www.aljazeera.com/news/2026/8/24/kidnappers-release-video-showing-hundreds-abducted-from-nigerian-mosque?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "大规模绑架事件凸显了尼日利亚的QQ039;随着选举的临近,北部的安全危机.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/2026-08-04T193540Z_1306600256_RC2I7LA8H5U7_RTRMADP_3_NIGERIA-MILITARY-1785968014.jpg?resize=1920%2C1440",
+      "published_at": "2026-08-25 02:02",
+      "timestamp": 1787594570
+    },
+    {
+      "title": "Hyperliquid新增ONE现货交易代码，买入金额593.99枚HYPE",
+      "link": "https://www.odaily.news/zh-CN/newsflash/512428",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 HyperliquidNews 监测，Hyperliquid 新增 ONE 现货交易代码，ONE 以 593.99 枚 HYPE 买入，价值 4.69 万美元。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F512428?w=600&h=338",
+      "published_at": "2026-08-25 01:59",
+      "timestamp": 1787594352
+    },
+    {
+      "title": "八角星智能可能与从未出现过的突变有关",
+      "link": "https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-might-lie-in-a-never-before-seen-mutation-that-helps-them-accurately-build-proteins-180989319/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.smithsonianmag.com/smart-news/why-are-some-octopuses-so-smart-the-answer-mi. 互联网档案馆的存檔,存档日期2014-03-02.",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/TAzzXwXxffw4sWVMAFCeJTRcYIU=/fit-in/1200x0/filters:focal(980x541:981x542)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/41/6e/416e4112-c164-43fb-bfb2-aee28f44da1f/octopus_2.jpg",
+      "published_at": "2026-08-25 01:57",
+      "timestamp": 1787594233
+    },
+    {
+      "title": "Autostep (YC P26) 是雇用AI/Fullstack工程师和一名办公室主任",
+      "link": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4 评论 UR...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fapp.dover.com%2FAutostep%2Fcareers%2Fe9510e3b-a854-4e48-9e5d-c89796acaed4?w=600&h=338",
+      "published_at": "2026-08-25 01:53",
+      "timestamp": 1787593994
+    },
+    {
+      "title": "川普政府宣布对伊朗进行全球经济战争.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "美国说,它的目标是伊朗的所有收入来源,包括石油。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Screenshot-2026-08-24-at-18.48.34-1787593857.png?resize=1200%2C675",
+      "published_at": "2026-08-25 01:53",
+      "timestamp": 1787593980
+    },
+    {
+      "title": "栅栏,不是沙盒",
+      "link": "https://yegge.ai/essays/fences-not-sandboxes/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://yegge.ai/essays/fences-non-sandboxes/ 互联网档案馆的存檔,存档日期2013-12-22. 评论 URL:https://news.ycombinator.co...",
+      "image": "https://yegge.ai/images/essays/fences-not-sandboxes/hero.jpg",
+      "published_at": "2026-08-25 01:28",
+      "timestamp": 1787592523
+    },
+    {
+      "title": "代理闪电v1.0",
+      "link": "https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://github.com/microsoft/agent-lightning/releases/tag/v1.0.1 评论 URL:https://.",
+      "image": "https://opengraph.githubassets.com/91668bd36e305667e6178013f160d27f7c7602a7fe2810c364ba2645b0e91ed0/microsoft/agent-lightning/releases/tag/v1.0.1",
+      "published_at": "2026-08-25 01:23",
+      "timestamp": 1787592202
+    },
+    {
+      "title": "公共厕所都跑哪去了?",
+      "link": "https://daily.jstor.org/where-did-all-the-public-bathrooms-go/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://daily.jstor.org/where-did-all-the-public-bathrooms-go/ 评论 URL:https://ne.",
+      "image": "https://daily.jstor.org/wp-content/uploads/2026/08/where_did_all_the_public_bathrooms_go_1050x700.jpg",
+      "published_at": "2026-08-25 01:07",
+      "timestamp": 1787591221
+    },
+    {
+      "title": "作为电子游戏的旧金山全市",
+      "link": "https://sf.thijs.gg/",
+      "source": "Hacker News",
+      "summary": "https://twitter.com/cdngdev/status/2091909073038082139, https://xcancel.com/cdngdev/status/20919090...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsf.thijs.gg%2F?w=600&h=338",
+      "published_at": "2026-08-25 01:05",
+      "timestamp": 1787591138
+    },
+    {
+      "title": "乌克兰庆祝独立35周年，美国和欧洲官员齐聚基辅",
+      "link": "https://www.voachinese.com/a/ukraine-marks-35-years-of-independence-with-us-european-officials-in-kyiv-20260824/8189827.html",
+      "source": "美国之音中文",
+      "summary": "乌克兰星期一(8月24日)庆祝独立35周年，现任和前任美国及欧洲官员访问基辅。",
+      "image": "https://gdb.voanews.com/66fdb7ea-5ecd-4019-8301-6d6b4a546c1f_w800_h450.jpg",
+      "published_at": "2026-08-25 01:05",
+      "timestamp": 1787591113
+    },
+    {
+      "title": "Zillow和Redfin解决了FTC的反托拉斯案,因为他们的租房上市伙伴关系",
+      "link": "https://www.theverge.com/policy/983864/zillow-redfin-ftc-settlement",
+      "source": "The Verge",
+      "summary": "FTC和Zillow宣布了和解 结束了指控2025年\"伙伴关系\"的案件...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS500_FTC_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-25 01:01",
+      "timestamp": 1787590865
+    },
+    {
+      "title": "Hot Chips 2026: CUDA目标 RISC-V — 由切斯特·拉姆(Chester Lam)主演",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://chipsandcheese.com/p/hot-chips-2026-cuda-targets-risc 评论 URL:https://new...",
+      "image": "https://substackcdn.com/image/fetch/$s_!BKke!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64737827-904c-4a0a-884f-6a3b0adf14ab_1548x867.png",
+      "published_at": "2026-08-25 00:52",
+      "timestamp": 1787590321
+    },
+    {
+      "title": "机器人轴是真实的,反推也是真实的",
+      "link": "https://www.theverge.com/transportation/983765/robotaxi-waymo-zoox-tesla-rules-pushback-nhtsa",
+      "source": "The Verge",
+      "summary": "机器人轴在扩张 有关他们的规则的争吵也是一样。 在纽约,凯西·霍赫政府...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25415564/STK418_Autonomous_Vehicles_Cvirginia_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-25 00:42",
+      "timestamp": 1787589757
+    },
+    {
+      "title": "显示 HN: GlassBox – 浏览器显示的内容, 以及您的身份识别度",
+      "link": "https://glassbox.codecanary.org",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://glassbox.codecanary.org 评论 URL:https://news.ycombinator.com/robject?id=4942...",
+      "image": "https://glassbox.codecanary.org/og.png",
+      "published_at": "2026-08-25 00:15",
+      "timestamp": 1787588110
+    },
+    {
+      "title": "显示 HN: PicoMQ – 持久流过 HTTP, 在对象存储上",
+      "link": "https://picomq.com/",
+      "source": "Hacker News",
+      "summary": "PicoMQ是用于持久流的Rust服务器,建立在对象存储器上. 便宜 URL地址 颗粒...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fpicomq.com%2F?w=600&h=338",
+      "published_at": "2026-08-25 00:08",
+      "timestamp": 1787587697
+    },
+    {
+      "title": "从人工智能的依赖性来看,编码专业知识将崩溃",
+      "link": "https://larsfaye.com/articles/ai-coding-will-prevent-expertise",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://larsfaye.com/articles/ai-coding-will-prevention-Experience URL:https://ne...",
+      "image": "https://larsfaye.com/opengraph-expertise.jpg",
+      "published_at": "2026-08-24 23:52",
+      "timestamp": 1787586753
+    },
+    {
+      "title": "\"女巫4\"开发者的目标是2028年发行",
+      "link": "https://www.theverge.com/games/983822/the-witcher-4-release-window-gamescom",
+      "source": "The Verge",
+      "summary": "CD Projekt Red的目标是在2028年的某个时候推出\"女巫4\",联合CEOMcha&#322;Nowakowski...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/The_Witcher_4_UE5_tech_demo_PS5_Ciri_2_EN.jpeg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+      "published_at": "2026-08-24 23:48",
+      "timestamp": 1787586533
+    },
+    {
+      "title": "国内竞争激烈国外监管压力加剧影响 拼多多二季度利润下滑",
+      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20260824-%E5%9B%BD%E5%86%85%E7%AB%9E%E4%BA%89%E5%9B%BD%E5%A4%96%E7%9B%91%E7%AE%A1%E5%8E%8B%E5%8A%9B%E5%8A%A0%E5%89%A7%E5%BD%B1%E5%93%8D-%E6%8B%BC%E5%A4%9A%E5%A4%9A%E4%BA%8C%E5%AD%A3%E5%BA%A6%E5%88%A9%E6%B6%A6%E4%B8%8B%E6%BB%91",
+      "source": "法广中文",
+      "summary": "中国电商折扣平台拼多多周一（8月24日）公布财报，受国内激烈竞争及海外监管压力加剧影响，其第二季度利润下滑12%，营收低于市场预期。",
+      "image": "https://s.rfi.fr/media/display/f249f3e6-5642-11ef-8c50-005056a90284/w:1024/p:16x9/2024-07-31T083522Z_2050579891_RC25M0A6RUQO_RTRMADP_3_CHINA-TEMU-PROTEST.JPG",
+      "published_at": "2026-08-24 23:43",
+      "timestamp": 1787586182
+    },
+    {
+      "title": "Valor, Point72 back General Intuition 以 6B 的价钱作为人工智能启动推进机器人",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "source": "TechCrunch",
+      "summary": "通识通论(General Intuition),即建立基础模型,训练通用AI代理如何......",
+      "image": "https://techcrunch.com/wp-content/uploads/2019/03/robocash.jpg?resize=1200,849",
+      "published_at": "2026-08-24 23:24",
+      "timestamp": 1787585058
+    },
+    {
+      "title": "ESPN的流量计划越来越贵了",
+      "link": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+      "source": "The Verge",
+      "summary": "ESPN在9月17日的订阅价格上徒步旅行,这一变化也将影响其b.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-24 23:06",
+      "timestamp": 1787583984
+    },
+    {
+      "title": "OpenAI正在为一切建造AI代理. 大家都会用吗?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "source": "TechCrunch",
+      "summary": "在前沿实验室的推动下,",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-23-at-8.41.55-PM.png?w=729",
+      "published_at": "2026-08-24 23:00",
+      "timestamp": 1787583600
+    },
+    {
+      "title": "Raspberry Pi分享了制作网络棋盘的官方教程",
+      "link": "https://www.theverge.com/tech/983786/raspberry-pi-cyberdeck-tutorial-price-increases",
+      "source": "The Verge",
+      "summary": "Raspberry Pi的社长阿什利·惠特克(Ashley Whittaker)承认了今天的网络网点趋势,称\"我们......",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/raspberry-pi-cyberdeck-main-Large.jpeg?quality=90&amp;strip=all&amp;crop=0%2C2.3683120818036%2C100%2C69.51836805631&amp;w=1200",
+      "published_at": "2026-08-24 22:49",
+      "timestamp": 1787582984
+    },
+    {
+      "title": "乌克兰在外患内忧中迎来独立35周年纪念，志愿者联盟重申支持",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260824-%E4%B9%8C%E5%85%8B%E5%85%B0%E5%9C%A8%E5%A4%96%E6%82%A3%E5%86%85%E5%BF%A7%E4%B8%AD%E8%BF%8E%E6%9D%A5%E7%8B%AC%E7%AB%8B35%E5%91%A8%E5%B9%B4%E7%BA%AA%E5%BF%B5%EF%BC%8C%E5%BF%97%E6%84%BF%E8%80%85%E8%81%94%E7%9B%9F%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81",
+      "source": "法广中文",
+      "summary": "8月24日，乌克兰在战争中迎来独立35周年。英、法、德三国在这一天主持支持乌克兰的志愿者联盟线上和线下会议。法国总统府21日强调，这次会议象征性地选择在乌克兰独立日召开，意在再次向乌克兰人民表达坚定支…",
+      "image": "https://s.rfi.fr/media/display/71afd38c-9fa5-11f1-af79-005056a90284/w:1024/p:16x9/AP26236363361580.jpg",
+      "published_at": "2026-08-24 22:27",
+      "timestamp": 1787581647
+    },
+    {
+      "title": "GM EV的刹车问题引起联邦更大的监督",
+      "link": "https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/",
+      "source": "TechCrunch",
+      "summary": "在一次空难中,一辆2024年的Blazer EV的司机说,他们必须\"故意将车辆引向...",
+      "image": "https://techcrunch.com/wp-content/uploads/2022/09/MY24-Chevrolet-Equinox-EV-3LT.jpg?resize=1200,632",
+      "published_at": "2026-08-24 22:18",
+      "timestamp": 1787581127
+    },
+    {
+      "title": "路透：消息人士透露，习近平9月或将率大规模代表团访印，时隔七年再赴印度",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2-%E4%B9%A0%E8%BF%91%E5%B9%B39%E6%9C%88%E6%88%96%E5%B0%86%E7%8E%87%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E5%8D%B0%EF%BC%8C%E6%97%B6%E9%9A%94%E4%B8%83%E5%B9%B4%E5%86%8D%E8%B5%B4%E5%8D%B0%E5%BA%A6",
+      "source": "法广中文",
+      "summary": "路透社报道称，三名消息人士周一（8月24日）表示，中国国家主席习近平可能出席下个月在新德里举行的金砖国家峰会，并率领一个规模庞大的代表团。这将是习近平七年来首次访问印度，也将是中印这两个竞争对手关系出…",
+      "image": "https://s.rfi.fr/media/display/c44a93ea-8c66-11f1-9365-005056a90284/w:1024/p:16x9/2026-07-01T024246Z-704518603-RC2Q4MACD9KM-RTRMADP-3-CHINA-POLITICS-ANNIVERSARY.jpg",
+      "published_at": "2026-08-24 22:10",
+      "timestamp": 1787580624
+    },
+    {
+      "title": "苹果的四包第二代气味是20美元",
+      "link": "https://www.theverge.com/gadgets/983726/apple-airtags-second-gen-four-pack-elgato-stream-deck-switch-2-deal-sale",
+      "source": "The Verge",
+      "summary": "苹果公司的四包第二代AirTags在亚马逊和塔尔格的票价降到79美元(原为99美元). .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/airtags.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-24 22:04",
+      "timestamp": 1787580244
+    },
+    {
+      "title": "GoFundMe如何成为美国的后备计划",
+      "link": "https://www.theverge.com/podcast/982901/gofundme-ceo-tim-cadogan-fundraising-healthcare-medical-expenses",
+      "source": "The Verge",
+      "summary": "我和GoFundMe的首席执行官Tim Cadogan交谈。 你知道GoFund me——这是一个majo...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/DCD_20260824_TimCadogan.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.711631919237%2C100%2C78.576736161526&amp;w=1200",
+      "published_at": "2026-08-24 22:00",
+      "timestamp": 1787580000
+    },
+    {
+      "title": "伊朗货币跌至历史新低，特朗普称“伊朗正在彻底崩溃”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E4%BC%8A%E6%9C%97%E8%B4%A7%E5%B8%81%E8%B7%8C%E8%87%B3%E5%8E%86%E5%8F%B2%E6%96%B0%E4%BD%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0-%E4%BC%8A%E6%9C%97%E6%AD%A3%E5%9C%A8%E5%BD%BB%E5%BA%95%E5%B4%A9%E6%BA%83",
+      "source": "法广中文",
+      "summary": "周一(8月24日)，伊朗货币里亚尔跌至历史新低。与此同时，美国政府准备宣布新一轮制裁，并表示这些措施将进一步加大对伊朗的压力。",
+      "image": "https://s.rfi.fr/media/display/ddac199e-9c6a-11f1-89ea-005056a90284/w:1024/p:16x9/AP24175668495260.jpg",
+      "published_at": "2026-08-24 21:51",
+      "timestamp": 1787579462
+    },
+    {
+      "title": "中俄如何松解美国对伊朗的经济绞刑？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260824-%E4%B8%AD%E4%BF%84%E5%A6%82%E4%BD%95%E6%9D%BE%E8%A7%A3%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E7%BB%8F%E6%B5%8E%E7%BB%9E%E5%88%91",
+      "source": "法广中文",
+      "summary": "8月24日出刊的法国主流日刊当中，有多则和中国相关的报道，涉及地缘政治、人工智能经济和民航领域。",
+      "image": "https://s.rfi.fr/media/display/a8fc36d2-9fb4-11f1-943f-005056bf30b7/w:1024/p:16x9/AP26233841310745.jpg",
+      "published_at": "2026-08-24 21:50",
+      "timestamp": 1787579415
+    },
+    {
+      "title": "据报道,在会谈中,要以13B美元收购",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "source": "TechCrunch",
+      "summary": "据报道,Hugging Face 一直在外派 收购报价 将价值公司左右...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-logo-smartphone.jpg?resize=1200,800",
+      "published_at": "2026-08-24 21:47",
+      "timestamp": 1787579246
+    },
+    {
+      "title": "Netflix计划向其他流媒体开放其应用",
+      "link": "https://www.theverge.com/streaming/983741/netflix-open-app-peacock-fox-one",
+      "source": "The Verge",
+      "summary": "Netflix高管考虑在其应用软件中提供第三方流线服务,a.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951360/STK072_VRG_Illo_N_Barclay_8_netflix.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-08-24 21:47",
+      "timestamp": 1787579234
+    },
+    {
+      "title": "随着GLP-1向上发展,",
+      "link": "https://techcrunch.com/2026/08/24/us-nutrition-startup-berry-street-merges-with-indias-healthify-as-glp-1-trends-upwards/",
+      "source": "TechCrunch",
+      "summary": "Berry街创始人Noah Kotlove和Healthify创始人Tushar Vashisht将担任n...",
+      "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1203768533.jpg?resize=1200,801",
+      "published_at": "2026-08-24 21:45",
+      "timestamp": 1787579115
+    },
+    {
+      "title": "台湾基隆地检署以涉嫌非法向中国出售高阶芯片伺服器罪名起诉九人",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260824-%E5%8F%B0%E6%B9%BE%E5%9F%BA%E9%9A%86%E5%9C%B0%E6%A3%80%E7%BD%B2%E4%BB%A5%E6%B6%89%E5%AB%8C%E9%9D%9E%E6%B3%95%E5%90%91%E4%B8%AD%E5%9B%BD%E5%87%BA%E5%94%AE%E9%AB%98%E9%98%B6%E8%8A%AF%E7%89%87%E4%BC%BA%E6%9C%8D%E5%99%A8%E7%BD%AA%E5%90%8D%E8%B5%B7%E8%AF%89%E4%B9%9D%E4%BA%BA",
+      "source": "法广中文",
+      "summary": "台湾基隆地检署24日宣布对包括英伟达（Nvidia)和超微电脑(Super Micro SMCI)在台湾合作企业员工在内的九人提起诉讼，理由是他们涉嫌参与向中国非法出售英伟达高级人工智能芯片伺服器。",
+      "image": "https://s.rfi.fr/media/display/cca9aeaa-f2e1-11f0-9d95-005056a97e36/w:1024/p:16x9/2026-01-15T212137Z-1200763805-RC2XQS9HTV05-RTRMADP-3-USA-TAIWAN-TRADE.jpg",
+      "published_at": "2026-08-24 20:02",
+      "timestamp": 1787572963
+    },
+    {
+      "title": "明年摩托罗拉的可折叠物",
+      "link": "https://www.theverge.com/tech/983714/grapheneos-motorola-razr-fold-ultra-support-pixel-11",
+      "source": "The Verge",
+      "summary": "GrapheneOS是Android的开源版本,它优先考虑安全和隐私,它已经详细. .",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268559_Motorola_Razr_Ultra_2026_review_AJohnson_0006.jpg?quality=90&amp;strip=all&amp;crop=0.2%2C23.644654619152%2C89%2C69.912766149653&amp;w=1200",
+      "published_at": "2026-08-24 19:37",
+      "timestamp": 1787571473
+    },
+    {
+      "title": "应对伊朗威胁：“爱国者”导弹系统被重新部署至克里特岛",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E5%BA%94%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%A8%81%E8%83%81-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E7%B3%BB%E7%BB%9F%E8%A2%AB%E9%87%8D%E6%96%B0%E9%83%A8%E7%BD%B2%E8%87%B3%E5%85%8B%E9%87%8C%E7%89%B9%E5%B2%9B",
+      "source": "法广中文",
+      "summary": "由于伊朗威胁针对欧洲境内的美军基地，一套“爱国者”导弹系统从希腊最东端的卡尔帕索斯岛（Karpathos）转移至克里特岛。",
+      "image": "https://s.rfi.fr/media/display/6331e548-9e60-11f1-9c98-005056bfb2b6/w:1024/p:16x9/000-B68B7UY.jpg",
+      "published_at": "2026-08-24 19:32",
+      "timestamp": 1787571177
+    },
+    {
+      "title": "日本超党派议员代表团前往北京  在复交以来关系最坏之际访华",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E6%97%A5%E6%9C%AC%E8%B6%85%E5%85%9A%E6%B4%BE%E8%AE%AE%E5%91%98%E4%BB%A3%E8%A1%A8%E5%9B%A2%E5%89%8D%E5%BE%80%E5%8C%97%E4%BA%AC-%E5%9C%A8%E5%A4%8D%E4%BA%A4%E4%BB%A5%E6%9D%A5%E5%85%B3%E7%B3%BB%E6%9C%80%E5%9D%8F%E4%B9%8B%E9%99%85%E8%AE%BF%E5%8D%8E",
+      "source": "法广中文",
+      "summary": "在日中关系日趋紧张之际，由日本跨党派国会议员组成的代表团24日早晨从羽田机场启程前往背景，将与中国共产党干部举行会谈。",
+      "image": "https://s.rfi.fr/media/display/e50fde5c-73be-11f1-9e57-005056a90284/w:1024/p:16x9/AP26180182642830.jpg",
+      "published_at": "2026-08-24 18:23",
+      "timestamp": 1787566983
+    },
+    {
+      "title": "韩国军方：伊朗战争导致美军兵力调配受限，美韩下月联合军演被迫取消",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E9%9F%A9%E5%9B%BD%E5%86%9B%E6%96%B9-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E5%AF%BC%E8%87%B4%E7%BE%8E%E5%86%9B%E5%85%B5%E5%8A%9B%E8%B0%83%E9%85%8D%E5%8F%97%E9%99%90%EF%BC%8C%E4%B8%8B%E6%9C%88%E7%BE%8E%E9%9F%A9%E8%81%94%E5%90%88%E5%86%9B%E6%BC%94%E8%A2%AB%E8%BF%AB%E5%8F%96%E6%B6%88",
+      "source": "法广中文",
+      "summary": "韩国军方周一（8月24日）宣布，由于伊朗战争导致美军兵力调配受到限制，美国取消了原定于下月举行的一项重要美韩联合两栖登陆演习。",
+      "image": "https://s.rfi.fr/media/display/cad136f2-9647-11f1-824b-005056a97e36/w:1024/p:16x9/000-C4FC8EH.jpg",
+      "published_at": "2026-08-24 17:58",
+      "timestamp": 1787565530
+    },
+    {
+      "title": "小米发布新一代自研手机芯片，消息人士透露：将由台积电进行生产",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20260824-%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E8%87%AA%E7%A0%94%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%EF%BC%8C%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E9%80%8F%E9%9C%B2-%E5%B0%86%E7%94%B1%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%BF%9B%E8%A1%8C%E7%94%9F%E4%BA%A7",
+      "source": "法广中文",
+      "summary": "中国智能手机制造商小米周一（8月24日）发布新一代自研手机处理器 Xring O3，希望通过进一步掌控关键零部件，加强供应链韧性，并降低对外部芯片供应商的依赖。",
+      "image": "https://s.rfi.fr/media/display/49c19cf2-8f79-11f1-8275-005056bf30b7/w:1024/p:16x9/images-255.jpg",
+      "published_at": "2026-08-24 17:35",
+      "timestamp": 1787564149
+    },
+    {
+      "title": "中国外交部对“支联会案”作出回应：个别国家“恶意诋毁香港法治”，呼吁停止“干涉中国内政”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E4%B8%AD%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%AF%B9-%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88-%E4%BD%9C%E5%87%BA%E5%9B%9E%E5%BA%94-%E4%B8%AA%E5%88%AB%E5%9B%BD%E5%AE%B6-%E6%81%B6%E6%84%8F%E8%AF%8B%E6%AF%81%E9%A6%99%E6%B8%AF%E6%B3%95%E6%B2%BB-%EF%BC%8C%E5%91%BC%E5%90%81%E5%81%9C%E6%AD%A2-%E5%B9%B2%E6%B6%89%E4%B8%AD%E5%9B%BD%E5%86%85%E6%94%BF",
+      "source": "法广中文",
+      "summary": "8月24日，外交部发言人林剑对上周香港法庭判决的支联会案作出表态，该案一度成为国际社会关注的焦点。",
+      "image": "https://s.rfi.fr/media/display/5d0f5188-9d56-11f1-8df1-005056a97e36/w:1024/p:16x9/AP26231390619852.jpg",
+      "published_at": "2026-08-24 17:26",
+      "timestamp": 1787563614
+    },
+    {
+      "title": "台湾南部和东部遭遇暴雨，洪水中已有4人失踪，预计周五还有台风过境北部",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20260824-%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%E5%92%8C%E4%B8%9C%E9%83%A8%E9%81%AD%E9%81%87%E6%9A%B4%E9%9B%A8%EF%BC%8C%E6%B4%AA%E6%B0%B4%E4%B8%AD%E5%B7%B2%E6%9C%894%E4%BA%BA%E5%A4%B1%E8%B8%AA%EF%BC%8C%E9%A2%84%E8%AE%A1%E5%91%A8%E4%BA%94%E8%BF%98%E6%9C%89%E5%8F%B0%E9%A3%8E%E8%BF%87%E5%A2%83%E5%8C%97%E9%83%A8",
+      "source": "法广中文",
+      "summary": "周一（8月24日），台湾南部和东部地区遭遇暴雨，导致多地办公室和学校停课停班，目前已有4人失踪。与此同时，当局正为本周晚些时候台风可能袭击台湾做准备。",
+      "image": "https://s.rfi.fr/media/display/ac815350-9f9b-11f1-9b7b-005056a97e36/w:1024/p:16x9/AP26192248247794.jpg",
+      "published_at": "2026-08-24 17:11",
+      "timestamp": 1787562685
+    },
+    {
+      "title": "美国公布制裁伊朗方案前，中国警告将“采取必要措施维护自身合法权益”",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E5%88%B6%E8%A3%81%E4%BC%8A%E6%9C%97%E6%96%B9%E6%A1%88%E5%89%8D%EF%BC%8C%E4%B8%AD%E5%9B%BD%E8%AD%A6%E5%91%8A%E5%B0%86-%E9%87%87%E5%8F%96%E5%BF%85%E8%A6%81%E6%8E%AA%E6%96%BD%E7%BB%B4%E6%8A%A4%E8%87%AA%E8%BA%AB%E5%90%88%E6%B3%95%E6%9D%83%E7%9B%8A",
+      "source": "法广中文",
+      "summary": "中国外交部周一（8月24日）表示，在美国准备公布新一轮对伊朗制裁措施之际，北京将密切关注事态发展，并采取必要措施维护自身合法权益。因为预计此次美国制裁将针对与伊朗开展贸易的合作伙伴，而中国购买了伊朗海…",
+      "image": "https://s.rfi.fr/media/display/927d17f8-84c7-11f1-b8cd-005056a97e36/w:1024/p:16x9/751371501-1049900540836583-1486703367983996382-n.jpg",
+      "published_at": "2026-08-24 16:53",
+      "timestamp": 1787561585
+    },
+    {
+      "title": "台湾总统宣布全民普发一万元遭在野批政治意味浓厚，究竟是「钱坑」还是「AI红利」？",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260824-%E5%8F%B0%E6%B9%BE%E6%80%BB%E7%BB%9F%E5%AE%A3%E5%B8%83%E5%85%A8%E6%B0%91%E6%99%AE%E5%8F%91%E4%B8%80%E4%B8%87%E5%85%83%E9%81%AD%E5%9C%A8%E9%87%8E%E6%89%B9%E6%94%BF%E6%B2%BB%E6%84%8F%E5%91%B3%E6%B5%93%E5%8E%9A%EF%BC%8C%E7%A9%B6%E7%AB%9F%E6%98%AF-%E9%92%B1%E5%9D%91-%E8%BF%98%E6%98%AF-ai%E7%BA%A2%E5%88%A9",
+      "source": "法广中文",
+      "summary": "台湾总统赖清德17日宣布「AI红利，全民共享」，将编列预算全民普发一万元。此声明一出，引来在野党的质疑双重标准，且此举是否为选举绑桩。经济学家则担忧，台湾经济热潮下的K型经济，无法靠普发现金来解决。",
+      "image": "https://s.rfi.fr/media/display/ea7efa94-9f97-11f1-b30c-005056a97e36/w:1024/p:16x9/AP26235183451997.jpg",
+      "published_at": "2026-08-24 16:43",
+      "timestamp": 1787561031
+    },
+    {
+      "title": "烏克蘭遭革職防長告訴BBC，該質問澤連斯基對貪腐所知多少",
+      "link": "https://www.bbc.com/zhongwen/articles/c98053p64d5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "民意支持度頗高的前防長費多羅夫呼籲烏克蘭舉行戰時選舉，總統澤連斯基警告這將引發滅國級政治「海嘯」。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8a69/live/0f47b590-9f94-11f1-aed2-8d6da8d75094.jpg",
+      "published_at": "2026-08-24 16:40",
+      "timestamp": 1787560831
+    },
+    {
+      "title": "離婚、智能手機與管控——BBC觀察塔利班如何治理阿富汗",
+      "link": "https://www.bbc.com/zhongwen/articles/clyq33wy142o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "塔利班重返執政五年後，BBC跟隨其高層人物，觀察這個組織如何重塑阿富汗。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ba8/live/e39b75b0-9d65-11f1-b109-879e35c24276.jpg",
+      "published_at": "2026-08-24 16:27",
+      "timestamp": 1787560063
+    },
+    {
+      "title": "欧盟再援乌61亿欧元，多国领导人周一会盟商讨援乌方案",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260824-%E6%AC%A7%E7%9B%9F%E5%86%8D%E6%8F%B4%E4%B9%8C61%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%91%A8%E4%B8%80%E4%BC%9A%E7%9B%9F%E5%95%86%E8%AE%A8%E6%8F%B4%E4%B9%8C%E6%96%B9%E6%A1%88",
+      "source": "法广中文",
+      "summary": "周一（8月24日），乌克兰的欧洲支持者们以线上或线下的方式齐聚一堂，共同商讨对乌援助。此次“志愿者联盟”成员国会议恰逢乌克兰独立35周年，会议将由英国、法国和德国共同主持。",
+      "image": "https://s.rfi.fr/media/display/63d39dee-6958-11f1-a319-005056bf30b7/w:1024/p:16x9/000-B78Q689.jpg",
+      "published_at": "2026-08-24 16:08",
+      "timestamp": 1787558881
+    },
+    {
+      "title": "阿里巴巴在港以IPO集资800亿 港股史上最大宗 评论料科网巨头会仿效",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260824-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%9C%A8%E6%B8%AF%E4%BB%A5ipo%E9%9B%86%E8%B5%84800%E4%BA%BF-%E6%B8%AF%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E5%AE%97-%E8%AF%84%E8%AE%BA%E6%96%99%E7%A7%91%E7%BD%91%E5%B7%A8%E5%A4%B4%E4%BC%9A%E4%BB%BF%E6%95%88",
+      "source": "法广中文",
+      "summary": "人工智能（AI）热潮席卷全球，科技巨头纷纷跟投，阿里巴巴更率先公布，拟向美国境外的非美国人士配售新股，筹资总额800亿港元(下同，折算约87.4亿欧元)，全部投资AI。这是阿里自2019年港股上市以来…",
+      "image": "https://s.rfi.fr/media/display/49273b46-9f85-11f1-9213-005056a90284/w:1024/p:16x9/1000048556.jpg",
+      "published_at": "2026-08-24 14:30",
+      "timestamp": 1787553029
+    },
+    {
+      "title": "美法四国要求释放支联会案被告 国际社会对香港人权案件回响减弱",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260824-%E7%BE%8E%E6%B3%95%E5%9B%9B%E5%9B%BD%E8%A6%81%E6%B1%82%E9%87%8A%E6%94%BE%E6%94%AF%E8%81%94%E4%BC%9A%E6%A1%88%E8%A2%AB%E5%91%8A-%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E5%AF%B9%E9%A6%99%E6%B8%AF%E4%BA%BA%E6%9D%83%E6%A1%88%E4%BB%B6%E5%9B%9E%E5%93%8D%E5%87%8F%E5%BC%B1",
+      "source": "法广中文",
+      "summary": "在香港举办逾三十年「六四(事件)」烛光晚会的香港市民支援爱国民主运动联合会(支联会)及其正副主席李卓人和邹幸彤被裁定煽动颠覆国家政权罪名成立後，至今有七个国家表态关注或谴责，当中四个要求立即释放被告；…",
+      "image": "https://s.rfi.fr/media/display/b40adaf4-9f84-11f1-9909-005056bfb2b6/w:1024/p:16x9/1000048555.jpg",
+      "published_at": "2026-08-24 14:26",
+      "timestamp": 1787552803
+    },
+    {
+      "title": "在西南英格蘭的角落，編織手工給移英港人女士們另一個家",
+      "link": "https://www.bbc.com/zhongwen/articles/cvgyewnred2o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "位於布里斯托爾的「編織微笑」小組旨在促進移英港人的交流互動。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9af7/live/7c162070-9c8e-11f1-8d19-93d7082c5662.jpg",
+      "published_at": "2026-08-24 14:15",
+      "timestamp": 1787552127
+    },
+    {
+      "title": "快時尚品牌Shein赴港上市 估值大減至270億美元",
+      "link": "https://www.bbc.com/zhongwen/articles/cgqd22pp13lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "據Shein提交港交所文件，該公司股份擬於9月1日正式掛牌。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e462/live/c906d120-9f60-11f1-8564-6b99aa01bb8b.jpg",
+      "published_at": "2026-08-24 13:16",
+      "timestamp": 1787548593
+    },
+    {
+      "title": "日本“副首都”争夺战：防范灾害还是政治“淘金”？",
+      "link": "https://cn.nytimes.com/asia-pacific/20260824/japan-capital-osaka/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "日本立法机构通过法案，拟设立副首都，在东京遭遇自然灾害或其他紧急情况下维持政府运作。大阪、福冈和北海道等纷纷加入角逐。但“副首都”的必要性和成本也受到质疑。 Hiroko Masuike/The Ne…",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-articleLarge.jpg",
+      "published_at": "2026-08-24 11:40",
+      "timestamp": 1787542815
+    },
+    {
+      "title": "详解美加贸易战：北美传统盟友关系因何破裂",
+      "link": "https://cn.nytimes.com/world/20260824/canada-us-trade-war-trump-carney/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "加拿大总理卡尼表示，他暂停了谈判，因为美方在最后时刻提出了“不公平、有违经济常理且令人对任何协议的可靠性产生怀疑”的条件。他表示加拿大将对美国新关税进行报复。 Chris Tanouye/Reuter…",
+      "image": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-wwk-1-ztkm/22int-canada-trade-wwk-1-ztkm-articleLarge.jpg",
+      "published_at": "2026-08-24 11:00",
+      "timestamp": 1787540442
+    },
+    {
+      "title": "中国宣布规模最大汽车召回行动，涉及特斯拉等九家车企",
+      "link": "https://cn.nytimes.com/business/20260824/china-car-recall-doors/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "政府要求九家汽车制造商解决隐藏式门把手带来的安全隐患。此次召回涉及430万辆汽车，其中特斯拉将召回近300万辆。中国此前曾宣布将禁止新车使用全隐藏式门把手。 Qilai Shen for The Ne…",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-articleLarge.jpg",
+      "published_at": "2026-08-24 09:54",
+      "timestamp": 1787536451
+    },
+    {
+      "title": "特朗普威胁制裁伊朗盟友，中国为何不为所动",
+      "link": "https://cn.nytimes.com/world/20260824/china-iran-trump-economic-threats/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "summary": "中国是伊朗最大的贸易伙伴。虽然特朗普警告将对与伊朗有业务往来的国家施加“巨大经济后果”，但北京有理由相信，即使这一警告付诸实施，中国也能顶住压力。 Go Nakamura/Reuters 上海的石油储…",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-china-iran-analysis-01-pthw/21int-china-iran-analysis-01-pthw-articleLarge.jpg",
+      "published_at": "2026-08-24 08:58",
+      "timestamp": 1787533116
+    },
+    {
+      "title": "老乾媽陶華碧教會我們的七件事",
+      "link": "https://www.bbc.com/zhongwen/articles/cwyey059q72o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "陶華碧憑藉其老乾媽辣椒醬帝國脫貧，蛻變成「中國最火辣的女人」，並成為風靡全球的網絡熱話。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/baa5/live/745841f0-9f05-11f1-8ab2-7700e58d1417.jpg",
+      "published_at": "2026-08-24 08:02",
+      "timestamp": 1787529732
+    },
+    {
+      "title": "為什麼我們會對未必會傷害自己的事物恐懼萬分？",
+      "link": "https://www.bbc.com/zhongwen/articles/cy5d5qp19gyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "我們很多人都會對一些不構成嚴重風險的事物感到恐懼。科學家認為恐懼並非與生俱來。那麼，這些恐懼究竟是從何而來？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c808/live/97a1f140-8c24-11f1-bdac-871e920411eb.jpg",
+      "published_at": "2026-08-24 08:01",
+      "timestamp": 1787529693
+    }
+  ]
+}
