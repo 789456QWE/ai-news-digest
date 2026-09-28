@@ -1,0 +1,909 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28 09:23:22",
+  "sources": [
+    "BBC 中文",
+    "FT 中文网",
+    "Hacker News",
+    "Odaily 星球日报",
+    "TechCrunch",
+    "The Verge",
+    "半岛电视台",
+    "法广中文",
+    "纽约时报中文",
+    "美国之音中文"
+  ],
+  "articles": [
+    {
+      "title": "商务部：中美双方约定在今年11月底前举行下一次中美人工智能对话",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520772",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 商务部美大司负责人解读第八轮中美经贸磋商成果。在本轮磋商中，双方同意，在中美经贸磋商机制下，何立峰副总理与贝森特财长作为中美各自牵头人建立人工智能对话，并进行了首次对话，交流人…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520772?w=600&h=338",
+      "published_at": "2026-09-28 09:06",
+      "timestamp": 1790557564
+    },
+    {
+      "title": "价值3.79亿美元，某巨鲸沉寂超4年后转出4500枚BTC",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520771",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Lookonchain 监测，某巨鲸在沉寂超过 4 年后转出 4500 枚 BTC，价值 3.79 亿美元。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520771?w=600&h=338",
+      "published_at": "2026-09-28 09:06",
+      "timestamp": 1790557562
+    },
+    {
+      "title": "BTC跌破84000 USDT，24H跌幅0.35%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520769",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情数据显示，BTC 跌破 84000 USDT，现报 83999 USDT，24H 跌幅 0.35%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520769?w=600&h=338",
+      "published_at": "2026-09-28 09:01",
+      "timestamp": 1790557285
+    },
+    {
+      "title": "黄金、白银同步走低，日内分别下跌1.11%和1.6%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520768",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 最新数据，黄金价格下跌至 4230.92 美元/盎司，日内跌幅达 1.11%。白银价格跌至 62.927 美元/盎司，日内跌幅达 1.6%。 外汇方面，美元兑离岸…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520768?w=600&h=338",
+      "published_at": "2026-09-28 09:01",
+      "timestamp": 1790557260
+    },
+    {
+      "title": "白银下跌至63美元/盎司，较上一交易时段收盘下跌2.1%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520767",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 数据，白银（XAGUSD）下跌至 63 美元/盎司，现报 62.946 美元/盎司，较上一交易时段收盘下跌 2.1%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520767?w=600&h=338",
+      "published_at": "2026-09-28 08:59",
+      "timestamp": 1790557143
+    },
+    {
+      "title": "USDT过去7天新增持有者超84万，为USDC两倍以上",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520766",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 过去 7 天，USDT 新增 84.59 万名持有者，USDC 新增 39.08 万名持有者，EURC 新增 6.98 万名持有者，USDG 新增 2.33 万名持有者，CAS…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520766?w=600&h=338",
+      "published_at": "2026-09-28 08:56",
+      "timestamp": 1790556977
+    },
+    {
+      "title": "韩国KOSPI指数日内跌超1%，SK海力士跌超2%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520765",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 数据，韩国 KOSPI 指数日内跌超 1%，SK 海力士跌超 2%，三星电子跌 1.23%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520765?w=600&h=338",
+      "published_at": "2026-09-28 08:42",
+      "timestamp": 1790556161
+    },
+    {
+      "title": "黄金下跌至4250美元/盎司，较上一交易时段收盘下跌0.8%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520764",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 数据，黄金（XAUUSD）下跌至 4250 美元/盎司，现报 4249.62 美元/盎司，较上一交易时段收盘下跌 0.8%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520764?w=600&h=338",
+      "published_at": "2026-09-28 08:30",
+      "timestamp": 1790555402
+    },
+    {
+      "title": "由于9月30日的最后期限即将到来,南非难民害怕新的袭击",
+      "link": "https://www.aljazeera.com/news/2026/9/28/refugees-in-south-africa-fear-new-attacks-as-september-30-deadline-looms?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "德班的难民说,在被迫离开临时营地之后,他们无从安全返回。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/WIDE-THUMB-Anti-immigration-deadline-1782847767.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 08:29",
+      "timestamp": 1790555365
+    },
+    {
+      "title": "南非警方在约翰内斯堡附近发现了第11名女性的尸体",
+      "link": "https://www.aljazeera.com/news/2026/9/28/south-african-police-discover-body-of-10th-woman-near-johannesburg?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "警方正在调查这个国家的杀人案 杀害率是最高的...",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6aae7928c3bb-1789819176.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 08:25",
+      "timestamp": 1790555112
+    },
+    {
+      "title": "PUMP上涨突破0.0051 USDT，24H涨幅超16%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520763",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情数据显示，PUMP 上涨突破 0.0051 USDT，最高触及 0.005215 USDT，24H 涨幅 16.52%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520763?w=600&h=338",
+      "published_at": "2026-09-28 08:23",
+      "timestamp": 1790555008
+    },
+    {
+      "title": "ETH突破2700 USDT，24H涨幅0.35%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/520762",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 OKX 行情显示，ETH 突破 2700 USDT，现报 2700.29 USDT，24H 涨幅 0.35%。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F520762?w=600&h=338",
+      "published_at": "2026-09-28 08:21",
+      "timestamp": 1790554880
+    },
+    {
+      "title": "裸甲風潮為何跟「白人至上」發生關聯？",
+      "link": "https://www.bbc.com/zhongwen/articles/cj5ydnw3pxr9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "裸甲——或者看起來像裸甲的指甲——正成為越來越流行的趨勢。但這真的像看起來那麼無害嗎？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/942b/live/73fb0ed0-8cd2-11f1-a7ab-8b30adf0800a.jpg",
+      "published_at": "2026-09-28 08:11",
+      "timestamp": 1790554307
+    },
+    {
+      "title": "中美峰會後 伊朗提出七天達成協議 被特朗普拒絕",
+      "link": "https://www.bbc.com/zhongwen/articles/cx5yln334jq5o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "「我拒絕他們的協議，」特朗普週六表示，並補充美國已對該海峽擁有「完全控制權」，「大量石油」經此通行，導致全球油價大幅上漲，消費者燃料成本急升。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
+      "published_at": "2026-09-28 08:10",
+      "timestamp": 1790554238
+    },
+    {
+      "title": "伊朗战争现场:德黑兰表示,",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Abbas Araghchi QQ039;华盛顿拒绝了结束战争的七天路线图后发出警告,......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T171103Z_777393107_RC2ORNADPDDR_RTRMADP_3_IRAN-CRISIS-1790552079.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 08:00",
+      "timestamp": 1790553600
+    },
+    {
+      "title": "教宗保证在与法国幸存者会面时采取行动,解决神职人员虐待儿童的问题。",
+      "link": "https://www.aljazeera.com/news/2026/9/27/pope-pledges-action-on-clergy-child-abuse-in-meeting-with-french-survivors?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "罗马天主教会会长举行###039;emotional###039;与7名生还者举行两小时会. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T193446Z_1795176521_RC2VRNA0ELTO_RTRMADP_3_POPE-FRANCE-LOURDES-ABUSE-1790544821.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 07:14",
+      "timestamp": 1790550855
+    },
+    {
+      "title": "德国联邦参议院就中国对德出口不断增长警惕：“必须防止社会灾难”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E5%BE%B7%E5%9B%BD%E8%81%94%E9%82%A6%E5%8F%82%E8%AE%AE%E9%99%A2%E5%B0%B1%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%BE%B7%E5%87%BA%E5%8F%A3%E4%B8%8D%E6%96%AD%E5%A2%9E%E9%95%BF%E8%AD%A6%E6%83%95-%E5%BF%85%E9%A1%BB%E9%98%B2%E6%AD%A2%E7%A4%BE%E4%BC%9A%E7%81%BE%E9%9A%BE",
+      "source": "法广中文",
+      "summary": "据《汉堡晚报》报道：不断增加的从中国进口引发德国联邦参议院的警惕：“必须防止社会灾难”。",
+      "image": "https://s.rfi.fr/media/display/b126b538-bac8-11f1-a894-555a0aff87a4/w:1024/p:16x9/15-gebaeude-aussen.jpg",
+      "published_at": "2026-09-28 07:11",
+      "timestamp": 1790550669
+    },
+    {
+      "title": "芒市115项指控 -- -- 扫描、逃跑和佩普的过去",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/man-citys-115-charges-the-scandal-the-escape-and-peps-own?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "Man City刚刚在115项金融指控的114项罪名中被判有罪——但背后的故事却十分\"晨\"......",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790550578.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 07:09",
+      "timestamp": 1790550588
+    },
+    {
+      "title": "潘石屹谈为何留在美国  一段几十秒的视频炸网",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E6%BD%98%E7%9F%B3%E5%B1%B9%E8%B0%88%E4%B8%BA%E4%BD%95%E7%95%99%E5%9C%A8%E7%BE%8E%E5%9B%BD-%E4%B8%80%E6%AE%B5%E5%87%A0%E5%8D%81%E7%A7%92%E7%9A%84%E8%A7%86%E9%A2%91%E7%82%B8%E7%BD%91",
+      "source": "法广中文",
+      "summary": "中国房地产危机全面爆发前，地产大亨潘石屹已举家移居美国，从前常在微博发言，现在很少公开发声，周日社交网络X却流出一段被指是其私人饭局的视频，视频很短暂，信息量却不小。潘石屹不仅透露出自己为何长期留在美…",
+      "image": "https://s.rfi.fr/media/display/b93be74a-1654-11ea-8331-005056a99247/w:1024/p:16x9/NUFfUF.jpg",
+      "published_at": "2026-09-28 06:54",
+      "timestamp": 1790549662
+    },
+    {
+      "title": "美国东北强地暴雨,造成停电",
+      "link": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "新泽西州和纽约州C区的地势低洼地区 又发生一轮洪灾",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP26270661022259-1790545254.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 06:51",
+      "timestamp": 1790549489
+    },
+    {
+      "title": "即使大都会队烂透了 我也能享受棒球",
+      "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+      "source": "The Verge",
+      "summary": "如果你问我玩过什么游戏 或游戏系列 我玩过最多的游戏 答案是...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/capsule_616x353.jpg?quality=90&amp;strip=all&amp;crop=0,4.3182593477003,100,91.363481304599",
+      "published_at": "2026-09-28 05:59",
+      "timestamp": 1790546397
+    },
+    {
+      "title": "60年首次日本男乒打败中国夺冠 法国足球新主帅齐达内开门红",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-60%E5%B9%B4%E9%A6%96%E6%AC%A1%E6%97%A5%E6%9C%AC%E7%94%B7%E4%B9%92%E6%89%93%E8%B4%A5%E4%B8%AD%E5%9B%BD%E5%A4%BA%E5%86%A0-%E6%B3%95%E5%9B%BD%E8%B6%B3%E7%90%83%E6%96%B0%E4%B8%BB%E5%B8%85%E9%BD%90%E8%BE%BE%E5%86%85%E5%BC%80%E9%97%A8%E7%BA%A2",
+      "source": "法广中文",
+      "summary": "四年一度的亚运会正在日本名古屋举行，日本名将张本智和周五3比0击败“世界球王”王楚钦，助力日本男乒60年来首次实现夺冠，同时终结了中国男团长达32年的统治地位。",
+      "image": "https://s.rfi.fr/media/display/79f91b6e-babe-11f1-94e6-11fa9f8a3b4f/w:1024/p:16x9/2026-09-24T135410Z-137367297-UP1EM9O12M9QZ-RTRMADP-3-GAMES-ASIA.jpg",
+      "published_at": "2026-09-28 05:58",
+      "timestamp": 1790546295
+    },
+    {
+      "title": "美驻联合国大使沃尔兹表示 美国曾与中国就伊朗战争进行对话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%BE%8E%E9%A9%BB%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BD%BF%E6%B2%83%E5%B0%94%E5%85%B9%E8%A1%A8%E7%A4%BA-%E7%BE%8E%E5%9B%BD%E6%9B%BE%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%B0%B1%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E8%BF%9B%E8%A1%8C%E5%AF%B9%E8%AF%9D",
+      "source": "法广中文",
+      "summary": "美国总统特朗普（Donald Trump）拒绝伊朗提出的停火与重新开放霍尔木兹海峡方案后，美伊双方周日持续释放外交与军事讯号。",
+      "image": "https://s.rfi.fr/media/display/987e315a-bab9-11f1-9aee-555a0aff87a4/w:1024/p:16x9/2026-09-27T164755Z-2121596939-RC2RRNAU5DVU-RTRMADP-3-USA-TRUMP.jpg",
+      "published_at": "2026-09-28 05:48",
+      "timestamp": 1790545686
+    },
+    {
+      "title": "爱尔兰在有争议的欧足联国际联盟赛中击败了以色列",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/ireland-defeats-israel-in-controversial-uefa-nations-league-match?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "爱尔兰&#039;s玩家为支援巴勒斯坦而佩戴黑色臂章,低头出击,并拒绝p.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab97e986851-1790541464.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 05:41",
+      "timestamp": 1790545319
+    },
+    {
+      "title": "英国驻有美军的空军基地附近 五人涉嫌筹备恐袭被捕",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E8%8B%B1%E5%9B%BD%E4%B8%80%E5%A4%84%E9%A9%BB%E6%9C%89%E7%BE%8E%E5%86%9B%E7%9A%84%E7%A9%BA%E5%86%9B%E5%9F%BA%E5%9C%B0%E9%99%84%E8%BF%91-%E4%BA%94%E4%BA%BA%E6%B6%89%E5%AB%8C%E7%AD%B9%E5%A4%87%E6%81%90%E8%A2%AD%E8%A2%AB%E6%8D%95",
+      "source": "法广中文",
+      "summary": "英国警方周六（9月26日）深夜至周日（9月27日）凌晨在英格兰西部费尔福德空军基地附近逮捕五名男子，怀疑他们正在筹备“恐怖主义行动”。该基地驻有美国空军部队。美国总统特朗普表示，这些人企图对基地造成“…",
+      "image": "https://s.rfi.fr/media/display/0873eb1a-babc-11f1-b69b-8f3418d01115/w:1024/p:16x9/2026-09-27T174728Z-738054267-RC2TRNAYPVPO-RTRMADP-3-NIRELAND-PARADE.jpg",
+      "published_at": "2026-09-28 05:40",
+      "timestamp": 1790545225
+    },
+    {
+      "title": "瑞士公投：70%选民否决收紧中立政策提案",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%91%9E%E5%A3%AB%E5%85%AC%E6%8A%95-70-%E9%80%89%E6%B0%91%E5%90%A6%E5%86%B3%E6%94%B6%E7%B4%A7%E4%B8%AD%E7%AB%8B%E6%94%BF%E7%AD%96%E6%8F%90%E6%A1%88",
+      "source": "法广中文",
+      "summary": "瑞士选民周日（9月27日）在全民公投中，以70.1%的反对票否决了一项旨在收紧中立政策的提案。这项提案由民族主义右翼推动，反对者指责其立场亲俄罗斯。",
+      "image": "https://s.rfi.fr/media/display/6948c0d8-babb-11f1-a6d8-11fa9f8a3b4f/w:1024/p:16x9/2026-09-27T060011Z-1208989888-RC207NAB9KL8-RTRMADP-3-SWISS-VOTE-NEUTRALITY.jpg",
+      "published_at": "2026-09-28 05:35",
+      "timestamp": 1790544958
+    },
+    {
+      "title": "美媒称中国考虑允许字节跳动、阿里巴巴采购英伟达新芯片",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%BE%8E%E5%AA%92%E7%A7%B0%E4%B8%AD%E5%9B%BD%E8%80%83%E8%99%91%E5%85%81%E8%AE%B8%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8-%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%96%B0%E8%8A%AF%E7%89%87",
+      "source": "法广中文",
+      "summary": "美国科技媒体《信息》周日（9月27日）援引两名知情人士报道，中国政府已释放信号，可能允许字节跳动、阿里巴巴等部分国内企业购买英伟达面向高端专业电脑推出的RTX PRO 5500芯片。",
+      "image": "https://s.rfi.fr/media/display/d2bdac50-baba-11f1-ac78-177f79e345bf/w:1024/p:16x9/2026-09-25T003051Z-2012580645-RC20QNAO5EX7-RTRMADP-3-USA-CHINA.jpg",
+      "published_at": "2026-09-28 05:31",
+      "timestamp": 1790544708
+    },
+    {
+      "title": "中国大熊猫“平平”“福双”抵美　开启十年旅居生活",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%86%8A%E7%8C%AB-%E5%B9%B3%E5%B9%B3-%E7%A6%8F%E5%8F%8C-%E6%8A%B5%E7%BE%8E-%E5%BC%80%E5%90%AF%E5%8D%81%E5%B9%B4%E6%97%85%E5%B1%85%E7%94%9F%E6%B4%BB",
+      "source": "法广中文",
+      "summary": "中国送往美国的两只大熊猫“平平”和“福双”周日（9月27日）抵达美国。此前，中美领导人在华盛顿举行峰会。分析指中美再次开启“熊猫外交”。",
+      "image": "https://s.rfi.fr/media/display/17564cba-baba-11f1-aaf8-91cf9f3cd539/w:1024/p:16x9/2026-09-19T132334Z-352714775-RC2AMNAN2HZ7-RTRMADP-3-SPAIN-ANIMALS-PANDA.jpg",
+      "published_at": "2026-09-28 05:26",
+      "timestamp": 1790544391
+    },
+    {
+      "title": "特朗普预计本周恢复与伊朗谈判：霍尔木兹海峡双方僵持不下",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A1%E6%9C%AC%E5%91%A8%E6%81%A2%E5%A4%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E8%B0%88%E5%88%A4-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%8F%8C%E6%96%B9%E5%83%B5%E6%8C%81%E4%B8%8D%E4%B8%8B",
+      "source": "法广中文",
+      "summary": "美国总统特朗普周日（9月27日）表示，预计美伊谈判本周恢复，但仍拒绝德黑兰提出的协议条件。伊朗则强调，只有伊方要求得到满足，霍尔木兹海峡才可能重新开放，伊朗不会在这些要求上退让。",
+      "image": "https://s.rfi.fr/media/display/987e315a-bab9-11f1-9aee-555a0aff87a4/w:1024/p:16x9/2026-09-27T164755Z-2121596939-RC2RRNAU5DVU-RTRMADP-3-USA-TRUMP.jpg",
+      "published_at": "2026-09-28 05:22",
+      "timestamp": 1790544179
+    },
+    {
+      "title": "法国极右翼参议院席位增至15席 总统选举前取得突破",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E6%B3%95%E5%9B%BD%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%8F%82%E8%AE%AE%E9%99%A2%E5%B8%AD%E4%BD%8D%E5%A2%9E%E8%87%B315%E5%B8%AD-%E6%80%BB%E7%BB%9F%E9%80%89%E4%B8%BE%E5%89%8D%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4",
+      "source": "法广中文",
+      "summary": "法国极右翼在周日（9月27日）举行的参议院选举中取得重大突破，参议员人数增至15人，为此前的四倍。距离总统选举已不足七个月，这一结果具有重要政治意义。",
+      "image": "https://s.rfi.fr/media/display/f209ed46-bab8-11f1-8055-91cf9f3cd539/w:1024/p:16x9/2026-09-13T142153Z-2119942814-RC2EINAR1VFA-RTRMADP-3-FRANCE-POLITICS-RN.jpg",
+      "published_at": "2026-09-28 05:18",
+      "timestamp": 1790543899
+    },
+    {
+      "title": "校园被强奸的指控在印度大学引发了暴力抗议",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/alleged-rape-on-campus-sparks-violent-protest-at-indian-university?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "印度一所大学的学生抗议活动,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/wide-thumb-college-violence-1790543776.png?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 05:17",
+      "timestamp": 1790543825
+    },
+    {
+      "title": "月球终结者 Paradox",
+      "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://notes.secretsauce.net/notes/2026/09/27 lunar-terminator-paradox.html 页面存档备份,存于互联网档案馆. 评论 U...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnotes.secretsauce.net%2Fnotes%2F2026%2F09%2F27_lunar-terminator-paradox.html?w=600&h=338",
+      "published_at": "2026-09-28 05:06",
+      "timestamp": 1790543177
+    },
+    {
+      "title": "阿尔及利亚东南部的洪水淹没道",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/floods-inundate-roads-in-southeastern-algeria?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在阿尔及利亚东南部暴雨后,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542954.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 05:03",
+      "timestamp": 1790543027
+    },
+    {
+      "title": "Ramos Fire hasers Portugal to 2-1 国际联盟在挪威取胜",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/ramos-fires-holders-portugal-to-2-1-nations-league-win-in-norway?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "贡卡罗·拉莫斯以克里斯蒂亚诺·罗纳尔多为起跑者取而代之,并获得奥斯陆葡萄牙的得分.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab982a7784e-1790542503_36e0be-1790542954.jpg?resize=1200%2C630&amp;quality=80",
+      "published_at": "2026-09-28 05:02",
+      "timestamp": 1790542968
+    },
+    {
+      "title": "致命打击在也门的塔伊兹市场",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/deadly-strike-hits-market-in-yemens-taiz?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "也门城市塔伊兹的一个市场遭到袭击,造成至少7人死亡,40人受伤.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542745.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 05:00",
+      "timestamp": 1790542855
+    },
+    {
+      "title": "尽管停火,以色列在黎巴嫩南部的打击仍在继续",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/israeli-strikes-continue-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "一架以色列阿帕奇直升机袭击了黎巴嫩南部Mayfadoun附近的一个商业中心。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790542582.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 04:57",
+      "timestamp": 1790542658
+    },
+    {
+      "title": "在英国皇家空军基地附近逮捕了5人,罪名是可疑的 \" 恐怖 \" 阴谋",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/five-arrested-near-uk-raf-base-over-suspected-explosives-terror-plot?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "在英国的RAF Fairford附近,有5人因涉嫌爆炸和恐怖主义而被捕. .",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T064542Z_1242454410_RC2IRNAX7BHD_RTRMADP_3_BRITAIN-USA-FAIRFORD-1790542296.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 04:52",
+      "timestamp": 1790542327
+    },
+    {
+      "title": "Engram是一个将破碎的AI幻觉转化为音乐的采样器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "source": "The Verge",
+      "summary": "音乐的启动 思绪的事物 刚刚启动了 Kickstarter 运动 为它的第一个乐器,",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-27-at-4.42.53-PM.png?quality=90&amp;strip=all&amp;crop=3.0945578231293%2C0%2C93.810884353741%2C100&amp;w=1200",
+      "published_at": "2026-09-28 04:46",
+      "timestamp": 1790541996
+    },
+    {
+      "title": "据报埃塞俄比亚军队在战斗蔓延时夺回了战略要地",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/09-27-ethiopia-tigray-escalation-sv-mp4?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "据报埃塞俄比亚军队从提格雷扬部队手中夺回了战略要地塞克塔,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790541790.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 04:44",
+      "timestamp": 1790541890
+    },
+    {
+      "title": "在密歇根州底特律脱衣舞俱乐部的枪击中 三人死亡 四人受伤",
+      "link": "https://www.aljazeera.com/news/2026/9/27/three-killed-four-injured-in-shooting-at-detroit-michigan-strip-club?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "警方称,美国枪击案是在一小时后地点发生争吵后发生的,有4个人在H.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-07-13T161632Z_120661481_RC23DMARWCBK_RTRMADP_3_USA-MIGRATION-MAINE-SHOOTING-1790537697.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 04:44",
+      "timestamp": 1790541880
+    },
+    {
+      "title": "Anthropic的CEO即将与特朗普总统共进晚餐",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "source": "TechCrunch",
+      "summary": "这将是达里奥·阿莫代和唐纳德·特朗普第一次一对一会面.",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+      "published_at": "2026-09-28 04:34",
+      "timestamp": 1790541268
+    },
+    {
+      "title": "\" 暴行 \" 罪行:古巴官方谴责美国军事行动的可能性",
+      "link": "https://www.aljazeera.com/news/2026/9/27/atrocious-crime-cuban-official-decries-possibility-of-us-military-action?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "古巴 ###039; 副外长抨击美国制裁,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab96fc3043e-1790537667.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 04:34",
+      "timestamp": 1790541249
+    },
+    {
+      "title": "我最近的木工项目",
+      "link": "https://notoriousbfg.com/recent-woodworking-projects/",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://notoriousbfg.com/recent-woodworking-projects/ 页面存档备份,存于互联网档案馆. 评论 URL: https://news.ycombi.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fnotoriousbfg.com%2Frecent-woodworking-projects%2F?w=600&h=338",
+      "published_at": "2026-09-28 04:33",
+      "timestamp": 1790541235
+    },
+    {
+      "title": "塞尔维亚总统阿列克桑达尔·武契克在长期抗议中辞职",
+      "link": "https://www.aljazeera.com/news/2026/9/27/serbian-president-aleksandar-vucic-resigns-amid-prolonged-protests?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "尽管学生领导的抗议和政治动乱挑战了他的统治,但Vucic打算在.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab96a58-1790536280.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 04:29",
+      "timestamp": 1790540974
+    },
+    {
+      "title": "以色列取消荷兰外交官对定居点制裁的地位",
+      "link": "https://www.aljazeera.com/news/2026/9/27/israel-revokes-dutch-diplomats-status-over-sanctions-on-settlements?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列将报复措施升级,因为西方制裁针对的是西岸的非法定居点。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab9654fdfa0-1790534991.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 04:21",
+      "timestamp": 1790540490
+    },
+    {
+      "title": "显示 HN: Cartopolis, 互动全球大小的 三维世界",
+      "link": "https://code.garage44.eu/jeroen/cartopolis",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://code.garage44.eu/jeroen/cartopolis 评论 URL:https://news.ycombinator.com/i.",
+      "image": "https://code.garage44.eu/jeroen/cartopolis/-/summary-card",
+      "published_at": "2026-09-28 04:14",
+      "timestamp": 1790540093
+    },
+    {
+      "title": "谷歌什么时候变得这么奇怪了?",
+      "link": "https://sancho.bearblog.dev/google-weird/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://sancho.bearblog.dev/google-weird/ 页面存档备份,存于互联网档案馆. 评论 URL:https://news.ycombinator.com/it.",
+      "image": "https://sancho.bearblog.dev/static/og-image.png",
+      "published_at": "2026-09-28 04:12",
+      "timestamp": 1790539974
+    },
+    {
+      "title": "有个专卖局长",
+      "link": "https://zachholman.com/posts/you-should-have-an-llc",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://zachholman.com/posts/you-should-have-an-llc 评论 URL:https://news.ycombina.",
+      "image": "https://zachholman.com/images/unfurl.jpg",
+      "published_at": "2026-09-28 04:04",
+      "timestamp": 1790539477
+    },
+    {
+      "title": "黑暗网上的自居",
+      "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://david.alvarezrosa.com/posts/自宿-on-the-dark-web/评论 URL:https:/.",
+      "image": "https://david.alvarezrosa.com/images/home-illustration.png",
+      "published_at": "2026-09-28 04:03",
+      "timestamp": 1790539416
+    },
+    {
+      "title": "为什么特朗普拒绝了伊朗的和平提议?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "据报道,美国总统威胁要恢复对伊朗的打击.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790538665.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 04:03",
+      "timestamp": 1790539384
+    },
+    {
+      "title": "Muse能克服Meta的信任问题吗?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "source": "TechCrunch",
+      "summary": "关于公平,我们讨论了Meta的AI公告是如何从OpenAI和An偷走了聚光灯的......",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+      "published_at": "2026-09-28 03:57",
+      "timestamp": 1790539050
+    },
+    {
+      "title": "Alan Kay回答“ENIAC有BIOS吗?",
+      "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11 评论 URL:https:.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.quora.com%2FDid-the-ENIAC-have-a-BIOS%2Fanswer%2FAlan-Kay-11?w=600&h=338",
+      "published_at": "2026-09-28 03:37",
+      "timestamp": 1790537825
+    },
+    {
+      "title": "爱尔兰的Pubs拒绝检查以色列比赛,",
+      "link": "https://www.aljazeera.com/sports/2026/9/27/pubs-in-ireland-refuse-to-screen-israel-match-in-protest-over-gaza-genocide?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "爱尔兰受到全球关注,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab9600a74-1790533642_89b327-1790534283.jpg?resize=1200%2C630&amp;quality=80",
+      "published_at": "2026-09-28 03:35",
+      "timestamp": 1790537730
+    },
+    {
+      "title": "比尔·盖茨(Bill Gates)表示,没有监管的AI是\"完全不负责任的\".",
+      "link": "https://www.aljazeera.com/news/2026/9/27/bill-gates-says-ai-without-regulation-is-completely-irresponsible?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "微软的亿万富翁联合创始人称,没有限制,AI可以~~039;因为一亿德.",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6ab9600e-1790533646.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 03:34",
+      "timestamp": 1790537682
+    },
+    {
+      "title": "Imp是DSPY到BEAM的完整港口",
+      "link": "https://github.com/deepfates/imp",
+      "source": "Hacker News",
+      "summary": "https://hex.pm/packages/imp (英语). https://dspy.ai/current/评论 URL:https://news.ycombinator.com/items.",
+      "image": "https://opengraph.githubassets.com/6e9a2f7581326cf3abaf53ede11a069305d12865e05863684f3e65a0ebc0ed3c/deepfates/imp",
+      "published_at": "2026-09-28 03:28",
+      "timestamp": 1790537303
+    },
+    {
+      "title": "困在以色列军事检查站之间",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/stuck-between-israeli-military-checkpoints?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "以色列关闭道路已成为被占领西岸巴勒斯坦人日常生活的一部分。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790555562.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 03:04",
+      "timestamp": 1790535861
+    },
+    {
+      "title": "我在Recurse中心做的事",
+      "link": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://thill.me/2026/09/11What-i-did-at-rc.html 评论 URL:https://news.ycombinato...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fthill.me%2F2026%2F09%2F11%2Fwhat-i-did-at-rc.html?w=600&h=338",
+      "published_at": "2026-09-28 03:04",
+      "timestamp": 1790535859
+    },
+    {
+      "title": "巴勒斯坦行动组织在利物浦被捕的抗议者",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/aje-onl-nf_palestine-action-protesters-arrested-in-liverpool-270926?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "警方在利物浦的一场巴勒斯坦行动示威中逮捕了抗议者,",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/image-1790535377.jpg?resize=1920%2C1080&amp;quality=80",
+      "published_at": "2026-09-28 02:56",
+      "timestamp": 1790535387
+    },
+    {
+      "title": "在刚果民主共和国,一艘船只翻船后,至少有12人死亡,数十人失踪。",
+      "link": "https://www.aljazeera.com/news/2026/9/27/at-least-12-dead-and-dozens-missing-after-a-vessel-capsizes-in-drc?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "这起事件发生在刚果民主共和国至少41人在另一艘船上丧生两天后。",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6ab9561df4-1790531102.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 02:47",
+      "timestamp": 1790534872
+    },
+    {
+      "title": "显示 HN: Lofi Citys – 有浏览器生成的lofi的像素艺术城市之夜",
+      "link": "https://loficities.com/",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://loficities.com/ (中文(简体) ). 评论 URL: https://news.ycombinator.com/robject?id=49869574 页面存档备份,存于互联网档案馆. 宝...",
+      "image": "https://loficities.com/img/og/home.png",
+      "published_at": "2026-09-28 02:44",
+      "timestamp": 1790534670
+    },
+    {
+      "title": "S. 韩国要求乌克兰为公布N. Korea的战俘转让而道歉",
+      "link": "https://www.aljazeera.com/news/2026/9/27/south-korea-ukraine-relations-sour-over-north-korean-pow-transfer?traffic_source=rss",
+      "source": "半岛电视台",
+      "summary": "南韩总统府 @##039; 对乌克兰表示强烈遗憾;",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/afp_6ab940808bf7-1790525568.jpg?resize=1920%2C1440",
+      "published_at": "2026-09-28 02:30",
+      "timestamp": 1790533853
+    },
+    {
+      "title": "FM合成发明者约翰·周宁的口述历史[视频]",
+      "link": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "source": "Hacker News",
+      "summary": "https://en.wikipedia.org/wiki/John Chowning 评论 URL:https://news.ycombinator.com/item?id=49869.......",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3De1Xn3030IvM?w=600&h=338",
+      "published_at": "2026-09-28 02:02",
+      "timestamp": 1790532163
+    },
+    {
+      "title": "八旬妇被逐出公寓引发大规模抗议浪潮 马德里太阳广场被帐篷占领",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260927-%E5%85%AB%E6%97%AC%E5%A6%87%E8%A2%AB%E9%80%90%E5%87%BA%E5%85%AC%E5%AF%93%E5%BC%95%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%97%E8%AE%AE%E6%B5%AA%E6%BD%AE-%E9%A9%AC%E5%BE%B7%E9%87%8C%E5%A4%AA%E9%98%B3%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%B8%90%E7%AF%B7%E5%8D%A0%E9%A2%86",
+      "source": "法广中文",
+      "summary": "据法新社27日马德里消息，西班牙的住房危机出现了戏剧性转折：周三，一名八旬妇人被强行逐出住房事件在全国引发轩然大波，随后自周六晚上起，抗议者占领了马德里中心的一处广场，要求为租户提供更好的保障。",
+      "image": "https://s.rfi.fr/media/display/1f8f0c66-ba9a-11f1-a531-91cf9f3cd539/w:1024/p:16x9/2026-09-26T180247Z-2145429135-RC26RNA5W77F-RTRMADP-3-SPAIN-HOUSING-PROTEST.jpg",
+      "published_at": "2026-09-28 01:39",
+      "timestamp": 1790530753
+    },
+    {
+      "title": "安柏一号",
+      "link": "https://fireworks.ai/blog/ember-1",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://fireworks.ai/blog/ember-1 评论 URL:https://news.ycombinator.com/item?id=49.",
+      "image": "https://fireworks.ai/images/OpenGraph.png",
+      "published_at": "2026-09-28 01:31",
+      "timestamp": 1790530313
+    },
+    {
+      "title": "蒙古国总理尼·乌其日勒启程访日本",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260927-%E8%92%99%E5%8F%A4%E5%9B%BD%E6%80%BB%E7%90%86%E5%B0%BC%C2%B7%E4%B9%8C%E5%85%B6%E6%97%A5%E5%8B%92%E5%90%AF%E7%A8%8B%E8%AE%BF%E6%97%A5%E6%9C%AC",
+      "source": "法广中文",
+      "summary": "蒙通社乌兰巴托9月27日电，应日本首相高市早苗邀请，蒙古国总理尼·乌其日勒今天上午启程对日本进行正式访问。",
+      "image": "https://s.rfi.fr/media/display/7676b83c-ba98-11f1-9507-91cf9f3cd539/w:1024/p:16x9/Screenshot-2026-09-27-190503.png",
+      "published_at": "2026-09-28 01:28",
+      "timestamp": 1790530115
+    },
+    {
+      "title": "OpenAI 代理试图“加强力量”一个联合国网站",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "source": "The Verge",
+      "summary": "安全研究员罗文·霍华德-琼斯(Rowan Howard-Jones)表示,OpenAI特工扫描了联合国贸易会议的一个.",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2236154957.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736911387474%2C100%2C78.526177225052&amp;w=1200",
+      "published_at": "2026-09-28 01:21",
+      "timestamp": 1790529667
+    },
+    {
+      "title": "别把密码对着GitHub",
+      "link": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://iain.rocks/blog/dont-couple-your-go-code-to-github 评论 URL:https://news.y.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fiain.rocks%2Fblog%2Fdont-couple-your-go-code-to-github?w=600&h=338",
+      "published_at": "2026-09-28 00:50",
+      "timestamp": 1790527858
+    },
+    {
+      "title": "特朗普总统证实特习会简短谈及台湾，美台双方都强调美对台政策不变",
+      "link": "https://www.voachinese.com/a/us-taiwan-policy-remains-unchanged-in-the-aftermath-of-the-trump-xi-summit-20260927/8204978.html",
+      "source": "美国之音中文",
+      "summary": "美国和台湾官员在美中元首峰会结束后分别强调，美国的对台政策没有改变。唐纳德·特朗普(Donald Trump)总统星期六(9月26日)证实，他与中国国家主席习近平在白宫会谈时曾谈及台湾，但双方并未在这…",
+      "image": "https://gdb.voanews.com/b3772554-9730-429b-d4c8-08df13de69b6_cx0_cy2_cw0_w800_h450.jpg",
+      "published_at": "2026-09-28 00:43",
+      "timestamp": 1790527439
+    },
+    {
+      "title": "2026亚运会再爆兴奋剂案：乌兹别克斯坦格斗选手检测米屈肼阳性",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260927-2026%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%86%8D%E7%88%86%E5%85%B4%E5%A5%8B%E5%89%82%E6%A1%88-%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E6%A0%BC%E6%96%97%E9%80%89%E6%89%8B%E6%A3%80%E6%B5%8B%E7%B1%B3%E5%B1%88%E8%82%BC%E9%98%B3%E6%80%A7",
+      "source": "法广中文",
+      "summary": "国际反兴奋剂机构（ITA）表示，周日在日本名古屋-爱知举行的2026年亚洲运动会上又曝出一例兴奋剂案件，乌兹别克斯坦选手诺迪尔贝克·沙夫卡托夫被检测出米屈肼（meldonium）阳性。",
+      "image": "https://s.rfi.fr/media/display/4be7fcd8-eeb3-11ee-b931-005056a90284/w:1024/p:16x9/figura-masculina-em-3d-com-fundo-medico-abstrato_1048-7590.jpg",
+      "published_at": "2026-09-28 00:36",
+      "timestamp": 1790526997
+    },
+    {
+      "title": "Anthropic的Dario Amodei得到SNL治疗",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "source": "TechCrunch",
+      "summary": "\"艾尔是恶魔,我也是恶魔的创造者\"",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/saturday-night-live.jpg?resize=1200,603",
+      "published_at": "2026-09-28 00:30",
+      "timestamp": 1790526600
+    },
+    {
+      "title": "TechCrunch 机动性:AV公司选择自己的车道",
+      "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "source": "TechCrunch",
+      "summary": "欢迎回到TechCrunch Mobile 你的交通中心 现在...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/wayve-getty.jpg?resize=1200,801",
+      "published_at": "2026-09-28 00:02",
+      "timestamp": 1790524920
+    },
+    {
+      "title": "巴西总统在大选前夕宣布网络赌博禁令",
+      "link": "https://www.ftchinese.com/story/001110998",
+      "source": "FT 中文网",
+      "summary": "巴西将于10月4日选出下一届总统。现任总统卢拉签署的这一禁令，被视为意在提升自己相对于右翼挑战者弗拉维奥•博索纳罗的胜算。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.ftchinese.com%2Fstory%2F001110998?w=600&h=338",
+      "published_at": "2026-09-28 00:00",
+      "timestamp": 1790524800
+    },
+    {
+      "title": "德俄外长自2022年以来首次会晤",
+      "link": "https://www.ftchinese.com/story/001110997",
+      "source": "FT 中文网",
+      "summary": "德国外长瓦德富尔称其在纽约与俄罗斯外长拉夫罗夫进行了“严肃而紧张的交谈”，借此警告莫斯科方面不要进一步升级局势。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.ftchinese.com%2Fstory%2F001110997?w=600&h=338",
+      "published_at": "2026-09-28 00:00",
+      "timestamp": 1790524800
+    },
+    {
+      "title": "胡塞武装承诺不袭击欧洲船舶",
+      "link": "https://www.ftchinese.com/story/001110996",
+      "source": "FT 中文网",
+      "summary": "据悉该组织在9月早些时候致信欧盟，称其在也门南部沿海发起的攻势并非意在扰乱国际航运。该组织也向美国保证不会袭击美国船舶。",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.ftchinese.com%2Fstory%2F001110996?w=600&h=338",
+      "published_at": "2026-09-28 00:00",
+      "timestamp": 1790524800
+    },
+    {
+      "title": "显示HN:TinyAIArena看AI特工出手",
+      "link": "https://tinyaiarena.com/",
+      "source": "Hacker News",
+      "summary": "你有没有点击“AI Arena” 期待光荣的战斗, 狦...",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Ftinyaiarena.com%2F?w=600&h=338",
+      "published_at": "2026-09-27 23:51",
+      "timestamp": 1790524288
+    },
+    {
+      "title": "冲突加剧：沙特首都关闭学校通知家长远程授课一周",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260927-%E5%86%B2%E7%AA%81%E5%8A%A0%E5%89%A7-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%85%B3%E9%97%AD%E5%AD%A6%E6%A0%A1%E9%80%9A%E7%9F%A5%E5%AE%B6%E9%95%BF%E8%BF%9C%E7%A8%8B%E6%8E%88%E8%AF%BE%E4%B8%80%E5%91%A8",
+      "source": "法广中文",
+      "summary": "在也门胡塞武装对沙特阿拉伯袭击加剧之际，沙特首都的学生家长们周日收到一封电子邮件显示，利雅得各学校将实施为期一周的远程教学。",
+      "image": "https://s.rfi.fr/media/display/aa2b5f28-b45a-11f1-b97b-9ff5c3f464d4/w:1024/p:16x9/2026-09-19T114800Z-1100229945-RC28MNAOL58F-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
+      "published_at": "2026-09-27 23:34",
+      "timestamp": 1790523280
+    },
+    {
+      "title": "无法解释的失败的正常化",
+      "link": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.ihatethefuture.com/2026/09/the-ormalization-of-inexplicable.html 页面存档备份,存于互联网档案馆. 评论.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.ihatethefuture.com%2F2026%2F09%2Fthe-normalization-of-inexplicable.html?w=600&h=338",
+      "published_at": "2026-09-27 23:26",
+      "timestamp": 1790522800
+    },
+    {
+      "title": "日本前外相岩屋毅率“国贸促”代表团抵北京 寻求改善双边关系",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E6%97%A5%E6%9C%AC%E5%89%8D%E5%A4%96%E7%9B%B8%E5%B2%A9%E5%B1%8B%E6%AF%85%E7%8E%87-%E5%9B%BD%E8%B4%B8%E4%BF%83-%E4%BB%A3%E8%A1%A8%E5%9B%A2%E6%8A%B5%E5%8C%97%E4%BA%AC-%E5%AF%BB%E6%B1%82%E6%94%B9%E5%96%84%E5%8F%8C%E8%BE%B9%E5%85%B3%E7%B3%BB",
+      "source": "法广中文",
+      "summary": "共同社消息，日本前外相岩屋毅担任会长的日本国际贸易促进协会代表团9月27日抵达北京。岩屋等人希望与中国领导层会面。在首相高市早苗去年11月作出关于台湾有事的国会答辩后，日中经济界交流陷入停滞，此行将摸…",
+      "image": "https://s.rfi.fr/media/display/d1cab520-ba85-11f1-b4bc-8f3418d01115/w:1024/p:16x9/AP25081210231330.jpg",
+      "published_at": "2026-09-27 23:14",
+      "timestamp": 1790522091
+    },
+    {
+      "title": "Sennheiser Momentum 5评论:好声音,难以置信的电池寿命,以及很少妥协",
+      "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "source": "TechCrunch",
+      "summary": "过去几周我和Senheiser 时刻5一起 确定这对是否真的存在...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/Senn_Black_M5_Product_KV_Full_Format_HighRes.jpeg?resize=1200,675",
+      "published_at": "2026-09-27 23:00",
+      "timestamp": 1790521200
+    },
+    {
+      "title": "在土耳其发现最古老的已知和平条约不成体系",
+      "link": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-.",
+      "image": "https://cdn.mos.cms.futurecdn.net/4do6hQ6xfWKfiYNMLtPppC-1129-80.png",
+      "published_at": "2026-09-27 22:35",
+      "timestamp": 1790519710
+    },
+    {
+      "title": "在一个80元的汽车旅馆房间, 一个揭示生命起源的发现",
+      "link": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "source": "Hacker News",
+      "summary": "文章 URL:https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html 互联网档案馆的存檔,存档日期2013-12-22. 评论 URL: h.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.nytimes.com%2F2026%2F09%2F26%2Fscience%2Fmotel-science-discovery.html?w=600&h=338",
+      "published_at": "2026-09-27 22:30",
+      "timestamp": 1790519455
+    },
+    {
+      "title": "更换可充电自行车灯的旧电池",
+      "link": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "source": "Hacker News",
+      "summary": "条款 URL:https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-recourable-bike-lights/.",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fjvns.ca%2Fblog%2F2026%2F09%2F27%2Freplacing-the-old-battery-on-rechargeable-bike-lights%2F?w=600&h=338",
+      "published_at": "2026-09-27 21:30",
+      "timestamp": 1790515811
+    },
+    {
+      "title": "法国参议院选举，极右翼国民联盟寻求首次在参院组建党团",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260927-%E6%B3%95%E5%9B%BD%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%EF%BC%8C%E6%9E%81%E5%8F%B3%E7%BF%BC%E5%9B%BD%E6%B0%91%E8%81%94%E7%9B%9F%E5%AF%BB%E6%B1%82%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%8F%82%E9%99%A2%E7%BB%84%E5%BB%BA%E5%85%9A%E5%9B%A2",
+      "source": "法广中文",
+      "summary": "法国约60个省份的选举人团成员今天周日开始参加参议院选举投票。被称为极右翼的法国第一大党“国民联盟”（Rassemblement national）正寻求打破传统右翼阵营对参议院的长期把持，争取在参院…",
+      "image": "https://s.rfi.fr/media/display/beaf2d3a-b8eb-11ed-8e72-005056a90284/w:1024/p:16x9/000_Par7383519.jpg",
+      "published_at": "2026-09-27 21:01",
+      "timestamp": 1790514108
+    },
+    {
+      "title": "在特朗普拒绝后 伊朗坚持其重开霍尔木兹海峡条件",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260927-%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%92%E7%BB%9D%E5%90%8E-%E4%BC%8A%E6%9C%97%E5%9D%9A%E6%8C%81%E5%85%B6%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%9D%A1%E4%BB%B6",
+      "source": "法广中文",
+      "summary": "伊朗周日表示仍坚持其重开战略要地霍尔木兹海峡的条件，尽管美国总统·特朗普拒绝了伊朗的相关计划。",
+      "image": "https://s.rfi.fr/media/display/c8a0a2d6-b989-11f1-aa55-c959b9d22ec6/w:1024/p:16x9/capture-2782214166ab78b74ec3be6-10497829.jpg",
+      "published_at": "2026-09-27 20:45",
+      "timestamp": 1790513151
+    },
+    {
+      "title": "教皇良十四世在朝圣地卢尔德举行大弥撒并会见教会性暴力受害者",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260927-%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%9C%A8%E6%9C%9D%E5%9C%A3%E5%9C%B0%E5%8D%A2%E5%B0%94%E5%BE%B7%E4%B8%BE%E8%A1%8C%E5%A4%A7%E5%BC%A5%E6%92%92%E5%B9%B6%E4%BC%9A%E8%A7%81%E6%95%99%E4%BC%9A%E6%80%A7%E6%9A%B4%E5%8A%9B%E5%8F%97%E5%AE%B3%E8%80%85",
+      "source": "法广中文",
+      "summary": "教皇良十四世在巴黎停留两天吸引超过百万民众后，今天周日前往法国西南部接纳病患的朝圣地卢尔德。他鼓励法国主教们“继续”采取行动，应对教会内针对未成年人性犯罪这一“令人痛心的祸患”。",
+      "image": "https://s.rfi.fr/media/display/c6ed164c-ba68-11f1-b3a7-11fa9f8a3b4f/w:1024/p:16x9/AP26270368854848.jpg",
+      "published_at": "2026-09-27 20:29",
+      "timestamp": 1790512144
+    },
+    {
+      "title": "为何OLPC的100美元笔记本电脑没有机会?",
+      "link": "https://www.theverge.com/podcast/1000517/why-olpcs-100-laptop-never-stood-a-chance",
+      "source": "The Verge",
+      "summary": "这个想法很大,令人兴奋,而且鼓舞人心: 如果我们能让世界上每个孩子都得到一个C...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/VRG_VRH_Site_2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-09-27 20:25",
+      "timestamp": 1790511900
+    },
+    {
+      "title": "台湾问题：特朗普冷处理，习近平亦搁置？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260927-%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98-%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%B7%E5%A4%84%E7%90%86%EF%BC%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BA%A6%E6%90%81%E7%BD%AE",
+      "source": "法广中文",
+      "summary": "特习会结束后，据路透社报道，台湾外交部次长陈明祺星期天（9月27日）在中华亚太菁英交流协会举办的「習近平訪美後的美中台新局」座谈会上称，美国对台的政策一直不变，并强调美国已了解台湾所面临的情势以及对于…",
+      "image": "https://s.rfi.fr/media/display/c0d65172-b91b-11f1-bf98-91cf9f3cd539/w:1024/p:16x9/capture-14679281126ab6d2db3d04e6-24581937.jpg",
+      "published_at": "2026-09-27 20:12",
+      "timestamp": 1790511163
+    },
+    {
+      "title": "《世界报》: 亚洲疑美论抬头，日本成地缘政治重组核心",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260927-%E4%B8%96%E7%95%8C%E6%8A%A5-%E4%BA%9A%E6%B4%B2%E7%96%91%E7%BE%8E%E8%AE%BA%E6%8A%AC%E5%A4%B4%EF%BC%8C%E6%97%A5%E6%9C%AC%E6%88%90%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E9%87%8D%E7%BB%84%E6%A0%B8%E5%BF%83",
+      "source": "法广中文",
+      "summary": "周末版法国《世界报》头版两大凸出主题分别是法国宣布向沙特阿拉伯派出军队和军备的决定，以及天主教教皇良十四世在万众簇拥下在法国各地的访问。该报关注的其它主题有：即将举行总统大选的巴西两位主要候选人伯仲难…",
+      "image": "https://s.rfi.fr/media/display/78520942-1160-11ea-ba64-005056a99247/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
+      "published_at": "2026-09-27 20:05",
+      "timestamp": 1790510750
+    },
+    {
+      "title": "谷歌书可能是真正的交易",
+      "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
+      "source": "The Verge",
+      "summary": "嗨,朋友们! 欢迎来到145号安装器 你的指南 世界上最优秀和最伟大的东西...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/installer_2eede2.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4168590960013%2C100%2C93.166281807997&amp;w=1200",
+      "published_at": "2026-09-27 20:00",
+      "timestamp": 1790510400
+    },
+    {
+      "title": "聪明的墓地越来越挤了",
+      "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+      "source": "The Verge",
+      "summary": "这是《后退》,每周的通讯 打破了一个技术世界的基本故事。 因为...",
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_190131_3100_0022.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "published_at": "2026-09-27 20:00",
+      "timestamp": 1790510400
+    },
+    {
+      "title": "特習峰會成果盤點：關稅休戰、AI對話、未提台灣、暗指日本",
+      "link": "https://www.bbc.com/zhongwen/articles/cqdr78l1x1mjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "BBC中文梳理兩國展現了什麼成果，以及外界如何解讀二人的舉措。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d0ec/live/fbea8a60-ba53-11f1-9a84-01517feb24bf.jpg",
+      "published_at": "2026-09-27 19:35",
+      "timestamp": 1790508941
+    },
+    {
+      "title": "旅法藏人27日巴黎集会游行，呼吁保护藏文化，抵制强制汉化",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260927-%E6%97%85%E6%B3%95%E8%97%8F%E4%BA%BA27%E6%97%A5%E5%B7%B4%E9%BB%8E%E9%9B%86%E4%BC%9A%E6%B8%B8%E8%A1%8C%EF%BC%8C%E5%91%BC%E5%90%81%E4%BF%9D%E6%8A%A4%E8%97%8F%E6%96%87%E5%8C%96%EF%BC%8C%E6%8A%B5%E5%88%B6%E5%BC%BA%E5%88%B6%E6%B1%89%E5%8C%96",
+      "source": "法广中文",
+      "summary": "旅居法国的藏人团体27日下午在巴黎市中心举行游行活动，呼吁保护藏文化，抵制《民族团结进步法》强行推动的汉化进程。",
+      "image": "https://s.rfi.fr/media/display/a5e58f32-ba50-11f1-aa45-555a0aff87a4/w:1024/p:16x9/affiche-pour-la-parade-tibetaine.jpg",
+      "published_at": "2026-09-27 16:54",
+      "timestamp": 1790499270
+    },
+    {
+      "title": "TikTok與阿拉巴馬州和解：支付一億美元，限兒童使用時長、禁用美妝濾鏡",
+      "link": "https://www.bbc.com/zhongwen/articles/c8zxzl6vr3zno/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "阿拉巴馬州原計劃就TikTok涉嫌故意讓年輕用戶上癮一事對其提起訴訟。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0514/live/9c315500-b935-11f1-9f63-299d77d07e85.jpg",
+      "published_at": "2026-09-27 16:05",
+      "timestamp": 1790496339
+    },
+    {
+      "title": "两只大熊猫启程前往亚特兰大动物园 中国与美恢复“熊猫外交”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260927-%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%90%AF%E7%A8%8B%E5%89%8D%E5%BE%80%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7%E5%8A%A8%E7%89%A9%E5%9B%AD-%E4%B8%AD%E5%9B%BD%E4%B8%8E%E7%BE%8E%E6%81%A2%E5%A4%8D-%E7%86%8A%E7%8C%AB%E5%A4%96%E4%BA%A4",
+      "source": "法广中文",
+      "summary": "法新社北京消息，据中国官媒报道，在华盛顿举行了一场充满象征意义但缺乏重大突破的美中元首峰会后，中国于周日（9月27日）向美国送去了两只大熊猫。",
+      "image": "https://s.rfi.fr/media/display/24f59cda-ba48-11f1-b3ad-177f79e345bf/w:1024/p:16x9/2026-09-19T132159Z-2130691988-RC2AMNAGSOEM-RTRMADP-3-SPAIN-ANIMALS-PANDA.jpg",
+      "published_at": "2026-09-27 16:01",
+      "timestamp": 1790496089
+    },
+    {
+      "title": "日美首脑举行电话会谈",
+      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260927-%E6%97%A5%E7%BE%8E%E9%A6%96%E8%84%91%E4%B8%BE%E8%A1%8C%E7%94%B5%E8%AF%9D%E4%BC%9A%E8%B0%88",
+      "source": "法广中文",
+      "summary": "9月26日，从日本时间晚上9时开始，日本首相高市早苗与美国总统特朗普举行了约20分钟的电话会谈。会谈开始时，特朗普总统详细介绍了此次中美首脑会谈的情况。双方围绕包括经济安全保障在内的中国相关问题交换了…",
+      "image": "https://s.rfi.fr/media/display/46b46fe0-b72d-11f1-a1c9-1d61c7110e09/w:1024/p:16x9/2026-09-22T171925Z-1889325559-RC2HONA17V5A-RTRMADP-3-USA-JAPAN.jpg",
+      "published_at": "2026-09-27 15:43",
+      "timestamp": 1790495022
+    },
+    {
+      "title": "為何成年後才突然過敏？新冠、抗生素甚至蜱蟲都可能是誘因",
+      "link": "https://www.bbc.com/zhongwen/articles/ck05rqdz4zy3o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "我們往往以為，過敏是童年時期，甚至出生前就已埋下的「倒霉伏線」。但其實，「任何人在人生任何階段，都可能突然出現新的過敏」。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7423/live/3998e9e0-b8da-11f1-a430-4d16ee157c41.jpg",
+      "published_at": "2026-09-27 12:39",
+      "timestamp": 1790483999
+    },
+    {
+      "title": "PNOE的新面罩想让实验室级的呼吸测试成为自我服务的事情",
+      "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
+      "source": "TechCrunch",
+      "summary": "PNOQ, Malden, Mass. 的启动器,他的呼吸分析口罩 曾经带有一个不幸的类似物...",
+      "image": "https://techcrunch.com/wp-content/uploads/2026/09/PNOE-2.0.png?resize=1200,675",
+      "published_at": "2026-09-27 09:40",
+      "timestamp": 1790473230
+    },
+    {
+      "title": "中國年輕人的「學術偶像」項飆：他讀懂了一代人的焦慮",
+      "link": "https://www.bbc.com/zhongwen/articles/crd6888x916go/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC 中文",
+      "summary": "中國的經濟和科技發展迅猛，但也有很多令Z世代擔憂的事情。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9ee7/live/4e7a9f40-ba13-11f1-ab99-758cf41ba3f5.jpg",
+      "published_at": "2026-09-27 09:35",
+      "timestamp": 1790472932
+    },
+    {
+      "title": "Google测试通过印度双子座和AI Mode从沃尔玛拥有的Flipkart购买",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "source": "TechCrunch",
+      "summary": "有限测试覆盖了部分产品和用户,计划稍后在Octob进行更广泛的推广. .",
+      "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1235830811-1.jpg?resize=1200,800",
+      "published_at": "2026-09-27 09:30",
+      "timestamp": 1790472600
+    }
+  ]
+}
