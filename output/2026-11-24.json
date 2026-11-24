@@ -1,6 +1,6 @@
 {
   "date": "2026-11-24",
-  "generated_at": "2026-11-24 14:23:20",
+  "generated_at": "2026-11-24 14:43:43",
   "sources": [
     "BBC 中文",
     "FT 中文网",
@@ -14,6 +14,51 @@
     "美国之音中文"
   ],
   "articles": [
+    {
+      "title": "Bitmart披露3.195亿美元资金缺口，可用流动资产仅190万美元",
+      "link": "https://www.odaily.news/zh-CN/newsflash/538193",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Bitmart 披露 3.195 亿美元资金缺口，可用流动资产仅 190 万美元。（Bitcoin.com News）",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538193?w=600&h=338",
+      "published_at": "2026-11-24 14:40",
+      "timestamp": 1795502458
+    },
+    {
+      "title": "黄仁勋回归提振日韩股市，KOSPI收涨6.3%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/538192",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 据 Gate 数据，日韩股市周二双双走高，科技股反弹。韩国 KOSPI 指数收复 5000 点关口，收涨 6.32%。存储芯片、电池和汽车龙头股涨幅较大。三星电子收涨 6.7%…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538192?w=600&h=338",
+      "published_at": "2026-11-24 14:32",
+      "timestamp": 1795501975
+    },
+    {
+      "title": "Strategy股票成交量超越摩根士丹利，升至美股成交量排名第46位",
+      "link": "https://www.odaily.news/zh-CN/newsflash/538191",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Strategy（MSTR）交易量超过 Morgan Stanley（MS），成为美国交易量排名第 46 位的股票。（Bitcoin Treasuries）",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538191?w=600&h=338",
+      "published_at": "2026-11-24 14:31",
+      "timestamp": 1795501900
+    },
+    {
+      "title": "Jito提议新收入先归基金会，年收入达2000万美元后再与DAO分享",
+      "link": "https://www.odaily.news/zh-CN/newsflash/538190",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Solana 质押与区块构建网络 Jito 于 11 月 23 日发布 JIP-40 提案，拟将新收入流先用于基金会增长，待年度总收入达到 2000 万美元后再与 DAO 分享…",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538190?w=600&h=338",
+      "published_at": "2026-11-24 14:31",
+      "timestamp": 1795501861
+    },
+    {
+      "title": "过去一个月USCC抵押品下降约74%，Aave Horizon未偿稳定币借款下降23.9%",
+      "link": "https://www.odaily.news/zh-CN/newsflash/538188",
+      "source": "Odaily 星球日报",
+      "summary": "Odaily星球日报讯 Aave 旗下机构级 RWA 借贷平台 Horizon 的 USCC 抵押品余额在过去一个月下降约 74%，由 10 月 22 日的 446 万枚（约 5260 万美元）降至 …",
+      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538188?w=600&h=338",
+      "published_at": "2026-11-24 14:26",
+      "timestamp": 1795501594
+    },
     {
       "title": "Upbit与Bithumb将0G列为投资警示对象",
       "link": "https://www.odaily.news/zh-CN/newsflash/538183",
@@ -33,10 +78,10 @@
       "timestamp": 1795500077
     },
     {
-      "title": "阿森纳对多尔特蒙德:冠军联盟-预测,如何观看,排行",
+      "title": "阿森纳对多尔特蒙德:冠军联盟-预言,如何观看,排队",
       "link": "https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "欧洲&#039;首届俱乐部比赛坑入了英国冠军阿森纳与德国联赛领导人. .",
+      "summary": "欧洲&#039;首届俱乐部比赛让英国冠军阿森纳对阵德国联赛领导人. .",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D89A9BK__v1__HighRes__FblEngPrNewcastleArsenal-1795420051_344fbb-1795420233.jpg?resize=1200%2C630&amp;quality=80",
       "published_at": "2026-11-24 13:56",
       "timestamp": 1795499801
@@ -69,52 +114,7 @@
       "timestamp": 1795498397
     },
     {
-      "title": "美元兑人民币下跌至6.660，24小时下跌0.2%",
-      "link": "https://www.odaily.news/zh-CN/newsflash/538175",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 Gate 数据，美元兑人民币（USDCNH）下跌至 6.660，现报 6.65999，24 小时跌幅 0.2%。",
-      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538175?w=600&h=338",
-      "published_at": "2026-11-24 13:32",
-      "timestamp": 1795498323
-    },
-    {
-      "title": "CoinDesk最新交易所评级：OKX升至第三，获最高AA评级",
-      "link": "https://www.odaily.news/zh-CN/newsflash/538174",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据 CoinDesk Research 发布的 2026 年 11 月《交易所基准报告》，OKX 以 88.47 分位列全球受评中心化现货交易所第三，较上一期上升 5 位，评级…",
-      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538174?w=600&h=338",
-      "published_at": "2026-11-24 13:29",
-      "timestamp": 1795498177
-    },
-    {
-      "title": "星球午讯",
-      "link": "https://www.odaily.news/zh-CN/newsflash/538172",
-      "source": "Odaily 星球日报",
-      "summary": "1. 用时 12 天，黄仁勋或为第二快重返 CEO 职位创始人：OpenAI 创始人仅用不到 5 天，乔布斯耗时 12 年； 2. Serenity：黄仁勋回归后将重新上调 AI 资本支出预期，云厂商…",
-      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538172?w=600&h=338",
-      "published_at": "2026-11-24 13:29",
-      "timestamp": 1795498140
-    },
-    {
-      "title": "SpaceX和特斯拉委派五名董事负责合并谈判",
-      "link": "https://www.odaily.news/zh-CN/newsflash/538171",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 据英国金融时报援引知情人士的话报道，马斯克旗下的两家上市公司已任命五名董事（其中三人来自特斯拉，两人来自 SpaceX）以指导负责合并谈判的两个特别委员会。这些董事包括来自 S…",
-      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538171?w=600&h=338",
-      "published_at": "2026-11-24 13:23",
-      "timestamp": 1795497783
-    },
-    {
-      "title": "比特币现货ETF昨日净流出5.70亿美元，连续5日净流出",
-      "link": "https://www.odaily.news/zh-CN/newsflash/538169",
-      "source": "Odaily 星球日报",
-      "summary": "Odaily星球日报讯 根据 SoSoValue 数据，美东时间 11 月 23 日，比特币现货 ETF 总净流出 5.70 亿美元，已连续 5 日净流出。单日净流入最多的是富达 FBTC，净流入 1…",
-      "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fwww.odaily.news%2Fzh-CN%2Fnewsflash%2F538169?w=600&h=338",
-      "published_at": "2026-11-24 13:13",
-      "timestamp": 1795497180
-    },
-    {
-      "title": "宾夕法尼亚州报告第九起麻疹在持续发作中死亡",
+      "title": "宾夕法尼亚州报告第九起麻疹在持续爆发中死亡",
       "link": "https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss",
       "source": "半岛电视台",
       "summary": "由于宾夕法尼亚州面临不断升级的健康危机,疾控中心和各州的麻疹死亡人数各不相同.",
@@ -132,10 +132,10 @@
       "timestamp": 1795496242
     },
     {
-      "title": "丹麦法院支持用来驱逐 \" 非西方 \" 居民的 \" ghetto法 \" 。",
+      "title": "丹麦法院支持 \" ghetto法律 \" ,",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "丹麦最高法院对被逐出Mjolnerparken Housi的 \" 非西方 \" 租户作出了裁决。",
+      "summary": "丹麦最高法院对被逐出Mjolnerparken Housi的`非西方 ' 租户作出了裁决。",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795495915.jpg?resize=1920%2C1080&amp;quality=80",
       "published_at": "2026-11-24 12:52",
       "timestamp": 1795495926
@@ -150,7 +150,7 @@
       "timestamp": 1795495771
     },
     {
-      "title": "印度最出名的瓶装水正在接受审查",
+      "title": "印度最有名的瓶装水正在接受审查",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/indias-best-known-bottled-water-under-scrutiny?traffic_source=rss",
       "source": "半岛电视台",
       "summary": "印度正在测试每个瓶装水公司的样本 之后的一批比斯莱里瓶装水w...",
@@ -162,16 +162,16 @@
       "title": "在线后室",
       "link": "https://onlinebackrooms.com/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://onlinebackrooms.com/ 页面存档备份,存于互联网档案馆. 评论 URL:https://news.ycombinator.com/roble?id=5062381.......",
+      "summary": "文章 URL: https://onlinebackrooms.com/ (中文(简体) ). 评论 URL:https://news.ycombinator.com/item?id=5062381.......",
       "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/HYib2agqeJXfHR57Gx5tfKK4HHt1/social-images/social-1775147605744-Screenshot_2026-04-02_123235.webp",
       "published_at": "2026-11-24 12:42",
       "timestamp": 1795495322
     },
     {
-      "title": "随着保健系统的恶化,卫生组织负责人访问了古巴。",
+      "title": "卫生组织负责人在保健系统恶化时访问古巴",
       "link": "https://www.aljazeera.com/news/2026/11/24/who-chief-visits-cuba-as-healthcare-system-deteriorates?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "分析家说,被归咎于美国制裁的燃料短缺正在使危机恶化.",
+      "summary": "分析家说,被指责为美国制裁的燃料短缺正在恶化危机。",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04facc29cb3-1795488460.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 12:35",
       "timestamp": 1795494937
@@ -180,7 +180,7 @@
       "title": "救援场无人驾驶地图",
       "link": "https://salvageyarddrone.wordpress.com/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://salvageyardrone.wordpress.com/ (中文(简体) ). 评论 URL: https://news.ycombinator.com/items.",
+      "summary": "文章 URL:https://salvageyardrone.wordpress.com/ 互联网档案馆的存檔,存档日期2013-03-02. 评论 URL:https://news.ycombinator.com/items...",
       "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Fsalvageyarddrone.wordpress.com%2F?w=600&h=338",
       "published_at": "2026-11-24 12:00",
       "timestamp": 1795492828
@@ -204,15 +204,6 @@
       "timestamp": 1795490455
     },
     {
-      "title": "显示 HN: Juncts, Claude 和 ChatGPT 可以在其中工作的五个应用程序的一个DM收件箱",
-      "link": "https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26",
-      "source": "Hacker News",
-      "summary": "文章 URL:https://juncts.com/app?demo=1&utm source=hackernews&utm medinal=laun&tm campaign=laun.",
-      "image": "https://juncts.com/og-image.png",
-      "published_at": "2026-11-24 11:16",
-      "timestamp": 1795490218
-    },
-    {
       "title": "美国将Megaspeed列入贸易黑名单",
       "link": "https://cn.nytimes.com/business/20261124/trump-administration-megaspeed-trade-blacklist-nvidia/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -231,10 +222,10 @@
       "timestamp": 1795489073
     },
     {
-      "title": "黑客散热器",
+      "title": "装入散热器",
       "link": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://qsantos.fr/2026/11/20/hacking-radiators- for-fun-和-no-friend/评论 URL:ht.",
+      "summary": "文章 URL:https://qsantos.fr/2026/11/20/hacking-raditors- for-fun-and-no-friend/评论 URL:ht.",
       "image": "https://qsantos.fr/2026/11/20/hacking-radiators-for-fun-and-no-profit/pxl_20261117_185516926-edited-2-1017x1024.jpg?w=1290",
       "published_at": "2026-11-24 10:56",
       "timestamp": 1795489001
@@ -261,16 +252,16 @@
       "title": "对你们来说,申报是一种UI语言",
       "link": "https://davidtemkin.github.io/declarelang/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://davidtemkin.github.io/declarelang/ 评论 URL:https://news.ycombinator.com/i.",
+      "summary": "文章 URL:https://davidtemkin.github.io/declarelang/评论 URL:https://news.ycombinator.com/i.",
       "image": "https://davidtemkin.github.io/declarelang/assets/og-image.png",
       "published_at": "2026-11-24 10:36",
       "timestamp": 1795487816
     },
     {
-      "title": "挖掘者威胁着喜马拉雅山脉的神圣高山湖",
+      "title": "挖掘者威胁喜马拉雅山的神圣高山湖",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "印度管理的克什米尔的谢什纳克湖附近出土的一具出土物的足迹引发了愤怒.",
+      "summary": "印度管理的克什米尔的谢什纳格湖附近的挖掘工的脚印引起了愤怒。",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795487905.jpg?resize=1313%2C1080&amp;quality=80",
       "published_at": "2026-11-24 10:35",
       "timestamp": 1795487727
@@ -285,11 +276,11 @@
       "timestamp": 1795487652
     },
     {
-      "title": "Rune: 为 Emacs 提供 Rust VM",
+      "title": "Rune: Emacs 的 Rust VM 软件",
       "link": "https://github.com/CeleritasCelery/rune",
       "source": "Hacker News",
-      "summary": "文章 URL:https://github.com/CeleritasCelery/rune 评论 URL:https://news.ycombinator.com/items.",
-      "image": "https://opengraph.githubassets.com/b4ce56c205d46320f4f72acbcae7616447d70a20a2e8d35be62801c85e372953/CeleritasCelery/rune",
+      "summary": "文章 URL:https://github.com/CeleritasCelery/rune 评论 URL:https://news.ycombinator.com/items...",
+      "image": "https://opengraph.githubassets.com/a5c0768493e5f05039fac8c461b12f37d9b268e001d908e7b5b050bf1472f79e/CeleritasCelery/rune",
       "published_at": "2026-11-24 10:30",
       "timestamp": 1795487447
     },
@@ -297,16 +288,16 @@
       "title": "联合国首长呼吁世界在一年内就大赦国际的监督问题达成协议。",
       "link": "https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "秘书长安东尼奥·古特雷斯(Antonio Guterres)在任期快结束时对AI的呼声越来越高.",
+      "summary": "Antonio Guterres秘书长对AI的呼声越来越高,",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04d55ed5b3-1795478878.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 10:27",
       "timestamp": 1795487239
     },
     {
-      "title": "纽约禁止车辆订阅和购买后收费",
+      "title": "纽约禁止购买和购买汽车后收费",
       "link": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
       "source": "Hacker News",
-      "summary": "文章 URL:https://www.governor.ny.gov/news/money-your-popers-governor-hochul-signs-bill-restrict.[永久失效連結] 页面存档备份,存于互联网档案馆.",
+      "summary": "文章 URL:https://www.governor.ny.gov/news/money-your-popers-governor-hochul-signs-bill-restrict.[永久失效連結] 页面存档备份,存于互联网档案馆 页面存档备份,存于互联网档案馆 互联网档案馆 互联网档案馆的存檔,存档日期2014-03-02.",
       "image": "https://www.governor.ny.gov/sites/default/files/styles/cover_image_660x400_/public/thumbnails/image/cars.cr_.jpg?h=b5f6a62e&amp;itok=FV7N-hBe",
       "published_at": "2026-11-24 10:27",
       "timestamp": 1795487222
@@ -339,10 +330,10 @@
       "timestamp": 1795483932
     },
     {
-      "title": "上诉法院对特朗普的联邦司法管辖权进行了重新招标,",
+      "title": "上诉法院对特朗普的联邦司法管辖权进行了延期招标。",
       "link": "https://www.aljazeera.com/news/2026/11/24/appeals-court-renews-trump-bid-for-federal-jurisdiction-in-hush-money-case?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "裁决可以让特朗普为公诉人争辩,依靠受案前人保护的证据. .",
+      "summary": "裁决可以让特朗普为公诉人争辩依赖于受案前保护的证据扫清道路. .",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b04cf1d0634b-1795477277.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 09:17",
       "timestamp": 1795483068
@@ -351,34 +342,34 @@
       "title": "以色列部长批准Flydubai飞往特拉维夫的航班返回",
       "link": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "最终恢复航母QQ039;迪拜和特拉维夫之间的航道取决于以色列的安全认证......",
+      "summary": "最终恢复航母QQ039;迪拜和特拉维夫之间的航线取决于以色列的安全认证......",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 09:09",
       "timestamp": 1795482591
     },
     {
-      "title": "Bukelle分享了萨尔瓦多在海地部队死亡的详情。",
+      "title": "布基勒分享了萨尔瓦多军队在海地死亡的详情。",
       "link": "https://www.aljazeera.com/news/2026/11/24/bukele-shares-details-on-deaths-of-salvadoran-troops-in-haiti-intervention?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "Bukele-##039; 4名萨尔瓦多技术人员被绑架后, 对海地的军事干预.",
+      "summary": "Bukele {039}; 4名萨尔瓦多技术人员被绑架后,",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04e2a1-1795482273.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 09:06",
       "timestamp": 1795482360
     },
     {
-      "title": "随着Nvidia的\"黄\"回归CEO,",
+      "title": "随着Nvidia的黄复生担任CEO,",
       "link": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "工业和安全局将参与恩维迪亚间谍丑闻的新加坡公司加为出口c. .",
+      "summary": "工业和安全局将参与恩维迪亚间谍丑闻的新加坡公司加为出口c...",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261110__D6ZC99E__v2__MidRes__SingaporeUsNvidiaProbeEspionage-1795478283.jpg?resize=1200%2C630",
       "published_at": "2026-11-24 08:52",
       "timestamp": 1795481567
     },
     {
-      "title": "民主党在国会的多数席位扩大后能做什么?",
+      "title": "民主党人对国会的 日益扩大的多数能做什么?",
       "link": "https://www.aljazeera.com/news/2026/11/24/what-could-democrats-do-with-their-expanding-congressional-majority?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "民主党正在辩论如何最好地利用其在美国中期选举中的巨大胜利幅度......",
+      "summary": "民主党正在辩论如何最好地运用其在美国中期选举中的巨大胜利余地.",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 08:39",
       "timestamp": 1795480762
@@ -387,7 +378,7 @@
       "title": "结果不是狮子",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/turns-out-it-wasnt-a-lion-afterall?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "星期天在伊斯坦布尔引起恐慌的动物 因为人们认为这是一头狮子,不是...",
+      "summary": "星期天在伊斯坦布尔引起恐慌的动物 因为人们认为这是狮子,不是...",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795480473.jpg?resize=1200%2C675",
       "published_at": "2026-11-24 08:35",
       "timestamp": 1795480558
@@ -432,16 +423,16 @@
       "title": "特朗普呼吁“加速”美国联邦处决,",
       "link": "https://www.aljazeera.com/news/2026/11/24/trump-calls-to-expedite-us-federal-executions-blasts-gavin-newsom?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "美国总统利用讲台攻击加州州长,决定通勤548名执事......",
+      "summary": "美国总统利用主席台攻击加利福尼亚州长 决定通勤548 dea...",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04ccd1-1795476689.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 08:04",
       "timestamp": 1795478655
     },
     {
-      "title": "图QL的力量, 不含图QL",
+      "title": "图QL的力量, 没有图QL",
       "link": "https://cobalt27.dev/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://cobalt27.dev/. 评论 URL:https://news.ycombinator.com/robject?id=50621466 点...",
+      "summary": "文章 URL: https://cobalt27.dev/. 评论 URL: https://news.ycombinator.com/item?id=50621466 点...",
       "image": "https://cobalt27.dev/og-image.png",
       "published_at": "2026-11-24 08:03",
       "timestamp": 1795478639
@@ -450,13 +441,13 @@
       "title": "Google 替代 Kagi 启动电子邮件服务",
       "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
       "source": "The Verge",
-      "summary": "Kagi,它已经为Google Search和它自己的猎户座浏览器提供了付费的替代方案作为竞争对手. .",
+      "summary": "Kagi,它已经作为竞争对手为Google Search和它自己的猎户座浏览器提供了付费的替代品. .",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/mail-inbox-overview.RlzZ8Gtt.png?quality=90&amp;strip=all&amp;crop=0%2C8.1151832460733%2C100%2C83.769633507853&amp;w=1200",
       "published_at": "2026-11-24 08:02",
       "timestamp": 1795478572
     },
     {
-      "title": "多年冲突之后,博尔诺的入学率几乎翻了一番",
+      "title": "多年冲突之后,博尔诺学校的入学率几乎翻了一番",
       "link": "https://www.aljazeera.com/news/2026/11/24/borno-school-enrolment-nearly-doubles-after-years-of-conflict?traffic_source=rss",
       "source": "半岛电视台",
       "summary": "尽管入学率上升,暴力,流离失所和贫困使北部的儿童无法上学......",
@@ -465,10 +456,10 @@
       "timestamp": 1795478536
     },
     {
-      "title": "伊朗战争现场:伊朗说有三艘船在击中霍尔木兹矿后起火",
+      "title": "伊朗战争现场:伊朗说三艘船在击中霍尔木兹地雷后着火",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/iran-war-live-iran-says-three-ships-catch-fire-after-hitting-hormuz-mines?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "伊朗&#039;\"\"革命卫队\"说有三艘油轮在打入海军水雷后起火. .",
+      "summary": "伊朗###039;\"革命卫队说,三艘油轮在击中海军水雷后着火了......",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261123__D8BZ7G9__v2__HighRes__IranUsIsraelWar-1795471267.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 08:00",
       "timestamp": 1795478400
@@ -477,16 +468,16 @@
       "title": "Mamdani在Jensen Huang回归后,",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/mamdani-blasts-ai-reliant-stock-market-after-jensen-huangs-return?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "纽约市市长Zohran Mamdani批评人工智能关联的波动性...",
+      "summary": "纽约市市长佐赫兰·马姆达尼(Zohran Mamdani)批评人工智能关联的波动性S.",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795478056.jpg?resize=1920%2C1080&amp;quality=80",
       "published_at": "2026-11-24 07:54",
       "timestamp": 1795478067
     },
     {
-      "title": "对哥伦比亚警察基地的无人驾驶飞机袭击造成3人受伤,其中包括婴儿",
+      "title": "对哥伦比亚警察基地的无人驾驶攻击造成3人受伤,其中包括婴儿",
       "link": "https://www.aljazeera.com/news/2026/11/23/drone-attack-on-colombia-police-base-injures-civilians-including-infant?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "极右翼总统德·拉·埃斯普里埃拉发动了攻势,因为反叛团体用无人机打击反击.",
+      "summary": "极右翼总统德·拉·埃斯普里埃拉发动攻势,因为叛乱集团以无人机袭击反击.",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b04bf9609ed-1795473302.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 07:49",
       "timestamp": 1795477777
@@ -504,16 +495,16 @@
       "title": "欧盟计划禁止体育运动,以扫荡新的俄罗斯制裁提案",
       "link": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "拟议的制裁旨在遏制俄罗斯的秘密融资和(###039;宣传###039;在体育方面。",
+      "summary": "提议的制裁旨在遏制俄罗斯的秘密融资和(###039;宣传##039;体育。",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04b62a0b8f-1795470890_f46624-1795476355.jpg?resize=1200%2C630&amp;quality=80",
       "published_at": "2026-11-24 07:26",
       "timestamp": 1795476376
     },
     {
-      "title": "早前GTA VI泄露的黑客已经被判刑——并被释放.",
+      "title": "早期GTA VI泄密背后的黑客已经被判刑——并被释放.",
       "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
       "source": "The Verge",
-      "summary": "Arion Kurtaj,上周认罪 入侵大盗汽车VI开发商 Rockstar Games a...",
+      "summary": "Arion Kurtaj上周认罪 入侵大盗汽车VI开发商 Rockstar Games a...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Jason_and_Lucia_03.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
       "published_at": "2026-11-24 07:25",
       "timestamp": 1795476301
@@ -531,7 +522,7 @@
       "title": "Verge的2026年节日礼物指南",
       "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
       "source": "The Verge",
-      "summary": "送礼物不仅仅是在固定的支出限额下 抓住坚实的东西 这是一个exp...",
+      "summary": "送礼物不仅仅是在固定开支限额下 抓住坚固的东西 这是一个exp...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268757_2026_gift_guides_UNDER_25_CVirginia_MAIN_STILL0_09b4c3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
       "published_at": "2026-11-24 07:14",
       "timestamp": 1795475650
@@ -549,16 +540,16 @@
       "title": "寻找顶级暗物质候选人",
       "link": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidat.[永久失效連結] 互联网档案馆的存檔,存档日期2014-12-21.",
+      "summary": "文章 URL:https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidat...",
       "image": "https://th-thumbnailer.cdn-si-edu.com/K1ek3FiPxnyFMv0GiTZYjkzskC4=/fit-in/1200x0/filters:focal(1368x912:1369x913)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/b9/fb/b9fbbcf1-9c5a-4a52-9688-1a24f8954445/laboratori_nazionali_del_gran_sasso_infn_tqb1_2014-02.jpg",
       "published_at": "2026-11-24 07:12",
       "timestamp": 1795475560
     },
     {
-      "title": "Figma员工起诉,声称公司强迫她面对骚扰者",
+      "title": "Figma员工起诉,声称公司强迫她面对骚扰者.",
       "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
       "source": "TechCrunch",
-      "summary": "Figma及其CEO正被现任员工以涉嫌性骚扰和歧视行为起诉. .",
+      "summary": "菲格玛及其CEO被现任员工以涉嫌性骚扰和歧视行为起诉. .",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1222551151.jpg?resize=1200,877",
       "published_at": "2026-11-24 07:07",
       "timestamp": 1795475269
@@ -576,13 +567,13 @@
       "title": "Nvidia Jensen Huang的回归意味着华盛顿和华尔街",
       "link": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "特朗普声称对黄××039的功劳; 这回,引起人们对联邦政府介入共事的关注.",
+      "summary": "特朗普声称对Huang QQ039的信贷; 返回,引起人们对联邦政府介入合作的担忧. .",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b049efd4a19f-1795464957.jpg?resize=1920%2C1440",
       "published_at": "2026-11-24 07:06",
       "timestamp": 1795475163
     },
     {
-      "title": "释放 IPod Nano 5G",
+      "title": "释放iPod Nano 5G",
       "link": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
       "source": "Hacker News",
       "summary": "文章 URL:https://viktorkrapivin.com/blog/nano5g-priv-prvd 评论 URL:https://news.ycombinator...",
@@ -600,10 +591,10 @@
       "timestamp": 1795474804
     },
     {
-      "title": "特朗普推迟美国陆军在爱荷华州引爆有毒炸药的计划",
+      "title": "特朗普推迟了美军在爱荷华州引爆有毒炸药的计划.",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/23/trump-postpones-us-army-plan-to-detonate-toxic-explosives-in-iowa?traffic_source=rss",
       "source": "半岛电视台",
-      "summary": "特朗普总统进一步推迟了美军计划引爆近5吨铅. .",
+      "summary": "特朗普总统进一步推迟美国陆军计划引爆近5吨铅......",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795474436.jpg?resize=1620%2C1080&amp;quality=80",
       "published_at": "2026-11-24 06:54",
       "timestamp": 1795474487
@@ -627,10 +618,10 @@
       "timestamp": 1795473907
     },
     {
-      "title": "Ladybird是多年来第一个新的浏览器引擎,现在可供测试",
+      "title": "Ladybird是多年来第一个新的浏览器引擎,现在可以测试",
       "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
       "source": "The Verge",
-      "summary": "Ladybird)是一个独立的网页浏览器,带有自建自出自scratch引擎,最终可供测试. .",
+      "summary": "Ladybird是一个独立的网页浏览器,带有内置自刷引擎,最终可供测试. .",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/ladybird-screenshot.webp?quality=90&amp;strip=all&amp;crop=0%2C14.66120255046%2C100%2C70.67759489908&amp;w=1200",
       "published_at": "2026-11-24 06:38",
       "timestamp": 1795473489
@@ -639,7 +630,7 @@
       "title": "Stalwart现在是微软交易所的倒置替代",
       "link": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "source": "Hacker News",
-      "summary": "文章 URL:https://stalw.art/blog/microsoft-sechange-取而代之/评论 URL:https://news.ycomb.",
+      "summary": "文章 URL:https://stalw.art/blog/microsoft-exchange-replacement/ 评论 URL:https://news.ycomb...",
       "image": "https://stalw.art/og/blog/microsoft-exchange-replacement.png",
       "published_at": "2026-11-24 06:32",
       "timestamp": 1795473149
@@ -648,22 +639,22 @@
       "title": "后期回顾: LLMS 能够检测前期概念注射",
       "link": "https://arxiv.org/abs/2602.20031",
       "source": "Hacker News",
-      "summary": "文章 URL:https://arxiv.org/abs/2602.20031 评论 URL:https://news.ycombinator.com/item?id=506.",
+      "summary": "文章 URL:https://arxiv.org/abs/2602.20031 评论 URL:https://news.ycombinator.com/item?id=506...",
       "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "published_at": "2026-11-24 06:29",
       "timestamp": 1795472988
     },
     {
-      "title": "特朗普为黄延生策划了一场冒险的复出",
+      "title": "特朗普为黄詹森策划了一场冒险的复出",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
       "source": "The Verge",
-      "summary": "在Nvidia董事会接受Jensen Huang辞去CEO后,继有报道称Huang有...",
+      "summary": "恩维迪亚董事会接受詹森·黄先生辞去CEO职务后,在报道黄先生有...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2297774940.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.22929670334%2C100%2C75.541406593319&amp;w=1200",
       "published_at": "2026-11-24 06:25",
       "timestamp": 1795472712
     },
     {
-      "title": "恩维迪亚首席执行官詹森 黄已回. 接下来会发生什么?",
+      "title": "恩维迪亚首席执行官詹森 黄 is归. 接下来会发生什么?",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge",
       "summary": "皮夹CEO,总裁,恩维迪亚联合创始人黄杰森承认一个...",
@@ -672,10 +663,10 @@
       "timestamp": 1795471832
     },
     {
-      "title": "黄詹森,欢迎加入精英逍遥法外",
+      "title": "黄詹森,欢迎加入精英的有罪不罚",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "source": "The Verge",
-      "summary": "我想我必须衷心祝贺黄詹森 黄是恩维迪亚的首席执行官",
+      "summary": "我想我必须衷心祝贺黄延生 黄是Nvidia的首席执行官了",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Nvidia_Jensen_huang_06.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.339110464558%2C100%2C75.321779070884&amp;w=1200",
       "published_at": "2026-11-24 06:09",
       "timestamp": 1795471766
@@ -684,13 +675,13 @@
       "title": "Claude Ship,让AI代理审查、修复和批准代码更改",
       "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
       "source": "TechCrunch",
-      "summary": "随着AI生成的代码堆起,Anthropic的新开发者工具旨在消除另一个瓶颈b. .",
+      "summary": "随着AI生成的代码堆积起来,Anthropic的新开发者工具旨在消除另一个瓶颈b...",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
       "published_at": "2026-11-24 06:05",
       "timestamp": 1795471550
     },
     {
-      "title": "超额收购能赚出2万美金 让人工智能代理将你的市场预测变成股票投资组合",
+      "title": "超额收购能赚到两万元 让人工智能将你的市场预测转化为股票投资",
       "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
       "source": "TechCrunch",
       "summary": "你知道市场走向吗? 一个叫做Supertake的启动器 让你把钱放在你的...",
@@ -726,22 +717,31 @@
       "timestamp": 1795470789
     },
     {
-      "title": "伊隆·穆斯克和其他人欢欣鼓舞 因为黄詹森在丑闻中恢复了名誉",
+      "title": "Elon Musk等人欢欣鼓舞 因为黄詹森在Nvidia的丑闻中复职",
       "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
       "source": "TechCrunch",
-      "summary": "\"错误已经纠正了\",\"伊隆·穆斯克(英语:Eron Musk (film))一心冲入.",
+      "summary": "\"错误已经纠正了\",伊隆·穆斯克(Eron Musk)一口气冲进来.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2227140868.jpg?w=1024",
       "published_at": "2026-11-24 05:47",
       "timestamp": 1795470461
     },
     {
-      "title": "苹果卫视第12集比黑周五要便宜",
+      "title": "苹果卫视第12集比黑周五更便宜",
       "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
       "source": "The Verge",
       "summary": "如果你还在运动一个苹果观察,",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268738_Apple_Watch_Series_12_AKrales_0280.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
       "published_at": "2026-11-24 05:36",
       "timestamp": 1795469808
+    },
+    {
+      "title": "Shirudo: OpenAI 和 Cisco 用于屏蔽未标的 Linux 的开源运行时间",
+      "link": "https://openai.com/index/introducing-shirudo/",
+      "source": "Hacker News",
+      "summary": "文章 URL: https://openai.com/index/introductioning-shirudo/ 互联网档案馆的存檔,存档日期2013-03-02. 评论 URL:https://news.ycombinator.co...",
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/5K7gFDr3r8vgjdIcsW6RVY/aba5325ce7902e5d1499b907f8e78f0b/shirudo-partner-logos-landscape-2x.png?w=1600&amp;h=900&amp;fit=fill",
+      "published_at": "2026-11-24 05:30",
+      "timestamp": 1795469441
     },
     {
       "title": "美国加紧制裁伊朗,",
@@ -753,16 +753,16 @@
       "timestamp": 1795469440
     },
     {
-      "title": "在Jensen Huang丑闻中心的那个公司 Megaspy 似乎正向美国黑名单走去",
+      "title": "巨速公司是詹森黄发丑闻的中心公司 似乎是美国黑名单",
       "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
       "source": "TechCrunch",
-      "summary": "之前由黄爱丽领导的巨快公司将被禁止与美国公司做生意. .",
+      "summary": "之前由黄爱丽领导的巨速公司 将被禁止与美国合作...",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2303986898.jpg?resize=1200,800",
       "published_at": "2026-11-24 05:25",
       "timestamp": 1795469142
     },
     {
-      "title": "AI数据中心又给混乱的联合国气候会谈投出一把扳手",
+      "title": "AI数据中心又给混乱的联合国气候会谈投下扳手",
       "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
       "source": "The Verge",
       "summary": "清洁能源革命 取决于整个全球经济的电气化 就像渴望电力一样...",
@@ -780,37 +780,37 @@
       "timestamp": 1795467995
     },
     {
-      "title": "Bored.com:无聊时探索的有趣又酷的网站",
+      "title": "Bored.com:无聊时探索的有趣,有趣和酷的网站",
       "link": "https://www.bored.com/",
       "source": "Hacker News",
-      "summary": "文章 URL: https://www.bored.com/ 页面存档备份,存于互联网档案馆. 评论 URL:https://news.ycombinator.com/robject?id=50619207 页面存档备份,存于互联网档案馆. 庞...",
+      "summary": "文章 URL: https://www.bored.com/ (中文(简体) ). 评论 URL: https://news.ycombinator.com/item?id=50619207 诗...",
       "image": "https://www.bored.com/logo.png?v=2",
       "published_at": "2026-11-24 05:01",
       "timestamp": 1795467676
     },
     {
-      "title": "苹果续订特德·拉索第五季",
+      "title": "苹果续订泰德拉索第五季",
       "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
       "source": "The Verge",
-      "summary": "苹果公司最大的节目之一 是在至少再停留一个赛季。 流星报宣布...",
+      "summary": "苹果公司最大的节目之一 是在至少再呆一个赛季。 流星报宣布...",
       "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Ted_Lasso_Photo_041001.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.2137247569185%2C100%2C81.572550486163&amp;w=1200",
       "published_at": "2026-11-24 04:56",
       "timestamp": 1795467360
     },
     {
-      "title": "GPUI 正在获得自己的仓库",
+      "title": "GPUI 正在获得自己的寄存器",
       "link": "https://github.com/zed-industries/gpui",
       "source": "Hacker News",
-      "summary": "文章 URL:https://github.com/zed-industry/gpui 评论 URL:https://news.ycombinator.com/items?.",
-      "image": "https://opengraph.githubassets.com/279c4645fff744498fad96df8ed9322d340100199953fded33c5babd1c81f3aa/zed-industries/gpui",
+      "summary": "文章 URL:https://github.com/zed-lic/gpui 评论 URL:https://news.ycombinator.com/items?.",
+      "image": "https://opengraph.githubassets.com/1b654b40d8839a7d8d90e4e3fd604ac1f3a684e5f7cb45c278130fe8803cbce1/zed-industries/gpui",
       "published_at": "2026-11-24 04:52",
       "timestamp": 1795467174
     },
     {
-      "title": "Nvidia员工回到公司总部时像英雄一样迎接黄詹森",
+      "title": "Nvidia员工回公司总部像英雄一样迎接黄詹森",
       "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
       "source": "TechCrunch",
-      "summary": "\"我要成为一个更好的CEO 第二次绕来绕去\",黄向员工说.",
+      "summary": "\"我要成为一个更好的CEO 第二次围绕,\"黄 告诉员工.",
       "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
       "published_at": "2026-11-24 04:38",
       "timestamp": 1795466333
@@ -825,10 +825,10 @@
       "timestamp": 1795466021
     },
     {
-      "title": "‘过分',‘鲁莽',‘呜! 政治人物对Jensen Huang返回恩维迪亚的看法如下:",
+      "title": "‘过分的,'‘鲁莽的,'‘呜! 政治人物对黄詹森回归恩维迪亚的看法如下:",
       "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
       "source": "TechCrunch",
-      "summary": "过道两侧的政治家们似乎很愤怒,很激动,没有因为詹森的归来而感到愤怒. .",
+      "summary": "过道两侧的政治家们似乎很愤怒,激动,没有因为詹森的归来而感到愤怒. .",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
       "published_at": "2026-11-24 03:31",
       "timestamp": 1795462301
@@ -843,10 +843,10 @@
       "timestamp": 1795461595
     },
     {
-      "title": "Per Arm的要求,此站点将于2026年12月4日停用: (.",
+      "title": "Per Arm的要求,此网站将于2026年12月4日停办: (.",
       "link": "https://arm.jonpalmisc.com/",
       "source": "Hacker News",
-      "summary": "文章 URL: https://arm.jonpalmisc.com/ (中文(简体) ). 评论 URL:https://news.ycombinator.com/roble?id=50617499. .",
+      "summary": "文章 URL:https://arm.jonpalmisc.com/ 页面存档备份,存于互联网档案馆. 评论 URL:https://news.ycombinator.com/robject?id=50617499......",
       "image": "https://s.wordpress.com/mshots/v1/https%3A%2F%2Farm.jonpalmisc.com%2F?w=600&h=338",
       "published_at": "2026-11-24 03:17",
       "timestamp": 1795461475
@@ -861,10 +861,10 @@
       "timestamp": 1795461405
     },
     {
-      "title": "Google 搜索的 AI 模式现在可以使用 Drive 和 钱包来获取更个性化的响应",
+      "title": "Google 搜索的 AI 模式现在可以调用 Drive 和 钱包来获取更个性化的响应",
       "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
       "source": "TechCrunch",
-      "summary": "通过将个人情报带入AI Mode来驱动,钱包,和双子座应用,Google是杠杆. .",
+      "summary": "Google通过将个人情报带入AI Mode驱动器、钱包和双子座应用程序,",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
       "published_at": "2026-11-24 03:14",
       "timestamp": 1795461286
@@ -888,10 +888,10 @@
       "timestamp": 1795457746
     },
     {
-      "title": "Jensen Huang 下星期在参议院作证 在恢复Nvidia首席执行官后",
+      "title": "Jensen Huang在恢复Nvidia首席执行官职务后 计划下周在参议院作证",
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
       "source": "TechCrunch",
-      "summary": "公听会遵循两党的号召,要求黄某某就与被怀疑人的外遇作证. .",
+      "summary": "公开听证会遵循两党号召,要求黄某某就涉嫌的外遇作证. .",
       "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
       "published_at": "2026-11-24 02:12",
       "timestamp": 1795457542
@@ -924,10 +924,10 @@
       "timestamp": 1795454831
     },
     {
-      "title": "卡吉邮件( 公用β)",
+      "title": "卡吉邮件( 公共β)",
       "link": "https://blog.kagi.com/kagi-mail-public-beta",
       "source": "Hacker News",
-      "summary": "文章 URL:https://blog.kagi.com/kagi-mail-public-beta 页面存档备份,存于互联网档案馆. 评论 URL:https://news.ycombinator.com/.",
+      "summary": "文章 URL:https://blog.kagi.com/kagi-mail-public-beta 互联网档案馆的存檔,存档日期2013-12-22. 评论 URL:https://news.ycombinator.com/.",
       "image": "https://blog.kagi.com/og-image.png",
       "published_at": "2026-11-24 01:17",
       "timestamp": 1795454221
@@ -936,34 +936,34 @@
       "title": "Amazon在准备出售Trainium芯片时,",
       "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
       "source": "TechCrunch",
-      "summary": "Amazon正以75亿美元收购Decart的AI优化技术和研究团队.",
+      "summary": "亚马逊正以75亿美元收购Decart的AI优化技术和研究团队.",
       "image": "https://techcrunch.com/wp-content/uploads/2024/12/Decart-Founders-Dean-Leitersdorf-CEO-and-Moshe-Shalev-CPO.jpg?resize=1200,800",
       "published_at": "2026-11-24 01:14",
       "timestamp": 1795454063
     },
     {
-      "title": "Meta抛出净零目标,",
+      "title": "梅塔抛出净零目标——其竞争对手应该愤怒",
       "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
       "source": "TechCrunch",
-      "summary": "Meta在2026年可持续性报告中回溯了2030年净-零目标,这一决定可能...",
+      "summary": "Meta在其2026年可持续性报告中回溯了2030年净零目标,这个决定可能...",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2161943637.jpeg?resize=1200,800",
       "published_at": "2026-11-24 01:13",
       "timestamp": 1795454025
     },
     {
-      "title": "达里奥在呼喊危险 所以OSS模型是非法的 他继续控制",
+      "title": "\"Dario在呼喊危险 所以OSS模型是非法的,他继续控制\"",
       "link": "https://twitter.com/ylecun/status/2124550037912920090",
       "source": "Hacker News",
-      "summary": "文章 URL:https://twitter.com/ylecun/status/212455030379129-20090 互联网档案馆的存檔,存档日期2014-12-02. 评论 URL: https://news.ycombi.",
+      "summary": "文章 URL:https://twitter.com/ylecun/status/21245503037912920090 互联网档案馆的存檔,存档日期2013-12-02. 评论 URL: https://news.ycombi...",
       "image": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
       "published_at": "2026-11-24 01:07",
       "timestamp": 1795453646
     },
     {
-      "title": "简森 阿黄还没走出森林",
+      "title": "简森 阿黄还没走出树林",
       "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
       "source": "TechCrunch",
-      "summary": "科技领导应明确关注黄复生可能带来的所有问题.",
+      "summary": "科技领导应清醒地看待黄复生可能带来的所有问题.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/09/Jensen-Huang.jpg?resize=1200,800",
       "published_at": "2026-11-24 00:57",
       "timestamp": 1795453060
@@ -978,19 +978,19 @@
       "timestamp": 1795452407
     },
     {
-      "title": "据说特朗普召集了Nvidia董事会会议,为黄先生的归来辩护。",
+      "title": "据报道,特朗普召集Nvidia董事会会议,为黄先生的归来辩护。",
       "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
       "source": "TechCrunch",
-      "summary": "\"我告诉他们,让我这么说... 我说服了他们,“总统告诉CNBC。",
+      "summary": "\"我和他们谈过,让我这么说... 我说服了他们,“总统告诉CNBC。",
       "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2277839095.jpg?w=1024",
       "published_at": "2026-11-24 00:39",
       "timestamp": 1795451950
     },
     {
-      "title": "用440亿美元收购Zscale的人群",
+      "title": "暴徒以440亿美元收购Zscale",
       "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
       "source": "TechCrunch",
-      "summary": "网络安全巨头说,收购Zscale的交易,提供零信托产品给lar...",
+      "summary": "网络安全巨头说,收购Zscale的交易, 提供零信托产品给lar...",
       "image": "https://techcrunch.com/wp-content/uploads/2026/11/crowdstrike-2162041873.jpg?resize=1200,800",
       "published_at": "2026-11-24 00:20",
       "timestamp": 1795450811
@@ -1005,7 +1005,7 @@
       "timestamp": 1795450628
     },
     {
-      "title": "女鸟在阿尔法",
+      "title": "丽鸟在阿尔法",
       "link": "https://ladybird.org/posts/alpha/",
       "source": "Hacker News",
       "summary": "文章 URL:https://ladybird.org/posts/alpha/ 评论 URL:https://news.ycombinator.com/item?id=50.",
@@ -1026,7 +1026,7 @@
       "title": "荷兰隐私当局敦促消费者不要购买“变态眼镜”",
       "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
       "source": "TechCrunch",
-      "summary": "荷兰的数据保护机构表示智能可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿可穿",
+      "summary": "荷兰的数据保护机构表示,智能可穿性侵犯了人们的隐私,获得信息. .",
       "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
       "published_at": "2026-11-23 23:29",
       "timestamp": 1795447789
@@ -1044,7 +1044,7 @@
       "title": "特朗普支持Jensen Huang回到Nvidia,",
       "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
       "source": "TechCrunch",
-      "summary": "总统援引了美国总检察长为黄复生辩护,同时敦促恩维迪亚合作. .",
+      "summary": "总统援引美国总检察长为黄复生辩护,同时敦促恩维迪亚合作. .",
       "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297572109.jpg?w=1024",
       "published_at": "2026-11-23 23:04",
       "timestamp": 1795446241
@@ -1062,7 +1062,7 @@
       "title": "Sierra在6个月内将估值增加一倍至30B,",
       "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
       "source": "TechCrunch",
-      "summary": "企业客户体验公司Sierra,由前销售部队联合CEOBret Taylor共同创办,S.",
+      "summary": "企业客户体验公司Sierra,由前销售部队联合CEO布雷特·泰勒共同创立,S.",
       "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
       "published_at": "2026-11-23 22:43",
       "timestamp": 1795444983
@@ -1077,7 +1077,7 @@
       "timestamp": 1795444359
     },
     {
-      "title": "Nvidia倒转航道 让Jensen Huang回来当CEO",
+      "title": "Nvidia倒转航线,让黄詹森回来当CEO",
       "link": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
       "source": "TechCrunch",
       "summary": "这一惊人的逆转得到了美国政府高级官员的支持.",
@@ -1104,10 +1104,10 @@
       "timestamp": 1795442418
     },
     {
-      "title": "乌伯现在让你的书车 默认记录驱动器",
+      "title": "乌伯现在让你去书房 默认录制驱动器",
       "link": "https://techcrunch.com/2026/11/23/uber-now-lets-you-book-rides-that-record-the-drive-by-default/",
       "source": "TechCrunch",
-      "summary": "这个选项使用Uber驱动器手机的前相机来记录整个驱动器,将会.",
+      "summary": "这个选项,使用Uber驱动器手机的前置相机来记录整个驱动器,将会.",
       "image": "https://techcrunch.com/wp-content/uploads/2026/07/uber-getty.jpg?resize=1200,800",
       "published_at": "2026-11-23 22:00",
       "timestamp": 1795442400
